@@ -1,0 +1,128 @@
+[
+  {
+    "business_id": "MSME-001",
+    "name": "Rekha Fashions",
+    "sector": "Apparel & Tailoring Services",
+    "archetype": "thin_file_strong_cashflow",
+    "registration_type": "sole_proprietor"
+  },
+  {
+    "business_id": "MSME-002",
+    "name": "Sunrise Tiffin Services",
+    "sector": "Home-Based Food & Catering",
+    "archetype": "thin_file_strong_cashflow",
+    "registration_type": "sole_proprietor"
+  },
+  {
+    "business_id": "MSME-003",
+    "name": "QuickFix Mobile Repair",
+    "sector": "Electronics Repair Services",
+    "archetype": "thin_file_strong_cashflow",
+    "registration_type": "sole_proprietor"
+  },
+  {
+    "business_id": "MSME-004",
+    "name": "Om Sai Kirana Store",
+    "sector": "Retail & Grocery",
+    "archetype": "thin_file_strong_cashflow",
+    "registration_type": "sole_proprietor"
+  },
+  {
+    "business_id": "MSME-005",
+    "name": "Vishal Garments Manufacturing Pvt Ltd",
+    "sector": "Apparel Manufacturing",
+    "archetype": "declining_on_paper",
+    "registration_type": "pvt_ltd"
+  },
+  {
+    "business_id": "MSME-006",
+    "name": "Prime Auto Components",
+    "sector": "Auto Parts Trading",
+    "archetype": "declining_on_paper",
+    "registration_type": "partnership"
+  },
+  {
+    "business_id": "MSME-007",
+    "name": "Balaji Print & Packaging",
+    "sector": "Printing & Packaging",
+    "archetype": "declining_on_paper",
+    "registration_type": "partnership"
+  },
+  {
+    "business_id": "MSME-008",
+    "name": "Coastal Traders Pvt Ltd",
+    "sector": "Wholesale Trading",
+    "archetype": "declining_on_paper",
+    "registration_type": "pvt_ltd"
+  },
+  {
+    "business_id": "MSME-009",
+    "name": "Ganga Textile Traders",
+    "sector": "Textile Trading",
+    "archetype": "growing",
+    "registration_type": "partnership"
+  },
+  {
+    "business_id": "MSME-010",
+    "name": "Spice Route Multicuisine Restaurant",
+    "sector": "Restaurant & Food Service",
+    "archetype": "volatile_seasonal",
+    "registration_type": "partnership"
+  },
+  {
+    "business_id": "MSME-011",
+    "name": "FixIt Electronics Repair Hub",
+    "sector": "Electronics Repair Services",
+    "archetype": "stable",
+    "registration_type": "sole_proprietor"
+  },
+  {
+    "business_id": "MSME-012",
+    "name": "Shree Logistics & Carriers",
+    "sector": "Logistics & Transport",
+    "archetype": "volatile_seasonal",
+    "registration_type": "partnership"
+  },
+  {
+    "business_id": "MSME-013",
+    "name": "Himalayan Furniture Works",
+    "sector": "Furniture Manufacturing",
+    "archetype": "growing",
+    "registration_type": "partnership"
+  },
+  {
+    "business_id": "MSME-014",
+    "name": "Nova Beauty & Salon Chain",
+    "sector": "Personal Care Services",
+    "archetype": "growing",
+    "registration_type": "pvt_ltd"
+  },
+  {
+    "business_id": "MSME-015",
+    "name": "Annapurna Grocery Mart",
+    "sector": "Retail & Grocery",
+    "archetype": "stable",
+    "registration_type": "sole_proprietor"
+  },
+  {
+    "business_id": "MSME-016",
+    "name": "Metro Family Pharmacy",
+    "sector": "Pharmacy & Retail",
+    "archetype": "stable",
+    "registration_type": "partnership"
+  },
+  {
+    "business_id": "MSME-017",
+    "name": "Vraj Stationery Wholesalers",
+    "sector": "Wholesale Stationery",
+    "archetype": "stable",
+    "registration_type": "partnership"
+  },
+  {
+    "business_id": "MSME-018",
+    "name": "Bright Spark Electricals",
+    "sector": "Electrical Goods Retail",
+    "archetype": "volatile_seasonal",
+    "registration_type": "partnership"
+  }
+]

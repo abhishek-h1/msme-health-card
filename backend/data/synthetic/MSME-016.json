@@ -1,0 +1,4396 @@
+{
+  "business_id": "MSME-016",
+  "name": "Metro Family Pharmacy",
+  "sector": "Pharmacy & Retail",
+  "archetype": "stable",
+  "registration_type": "partnership",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 985767.5,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 891531.32,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 924606.98,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 935276.21,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 973769.23,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 947755.37,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 988704.23,
+        "due_date": "2026-03-20",
+        "filing_date": null,
+        "status": "missed",
+        "days_late": null
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 962319.85,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 1002113.58,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 1030513.56,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-06-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 867536.82,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 982640.4,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Pharmacy & Healthcare",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 58,
+        "inflow_amount": 14962.35,
+        "outflow_amount": 7860.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 81,
+        "inflow_amount": 20808.91,
+        "outflow_amount": 13260.95,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 75,
+        "inflow_amount": 18670.24,
+        "outflow_amount": 9591.17,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 51,
+        "inflow_amount": 13588.9,
+        "outflow_amount": 9212.31,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 56,
+        "inflow_amount": 11873.62,
+        "outflow_amount": 8105.14,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 46,
+        "inflow_amount": 11270.6,
+        "outflow_amount": 6179.12,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 53,
+        "inflow_amount": 12330.66,
+        "outflow_amount": 7174.45,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 54,
+        "inflow_amount": 15657.96,
+        "outflow_amount": 10554.66,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 63,
+        "inflow_amount": 18389.61,
+        "outflow_amount": 12511.06,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 70,
+        "inflow_amount": 17895.65,
+        "outflow_amount": 9354.1,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 58,
+        "inflow_amount": 13001.43,
+        "outflow_amount": 7264.82,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 52,
+        "inflow_amount": 13327.28,
+        "outflow_amount": 8167.37,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 50,
+        "inflow_amount": 12996.64,
+        "outflow_amount": 6943.0,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 60,
+        "inflow_amount": 13165.18,
+        "outflow_amount": 7594.98,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 55,
+        "inflow_amount": 15157.87,
+        "outflow_amount": 10160.15,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 83,
+        "inflow_amount": 17439.61,
+        "outflow_amount": 10585.31,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 72,
+        "inflow_amount": 17784.45,
+        "outflow_amount": 12104.39,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 45,
+        "inflow_amount": 11978.16,
+        "outflow_amount": 7211.86,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 53,
+        "inflow_amount": 12862.21,
+        "outflow_amount": 6976.67,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 39,
+        "inflow_amount": 11144.42,
+        "outflow_amount": 7169.66,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 60,
+        "inflow_amount": 13166.67,
+        "outflow_amount": 7167.03,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 66,
+        "inflow_amount": 14059.72,
+        "outflow_amount": 8225.13,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 101,
+        "inflow_amount": 20164.46,
+        "outflow_amount": 13416.12,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 73,
+        "inflow_amount": 17779.98,
+        "outflow_amount": 10743.7,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 56,
+        "inflow_amount": 13497.65,
+        "outflow_amount": 8452.47,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 50,
+        "inflow_amount": 11884.98,
+        "outflow_amount": 6395.57,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 49,
+        "inflow_amount": 11060.3,
+        "outflow_amount": 6121.45,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 39,
+        "inflow_amount": 11197.84,
+        "outflow_amount": 7596.5,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 63,
+        "inflow_amount": 15335.05,
+        "outflow_amount": 8843.88,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 97,
+        "inflow_amount": 20734.07,
+        "outflow_amount": 11617.82,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 70,
+        "inflow_amount": 18038.57,
+        "outflow_amount": 10760.68,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 39,
+        "inflow_amount": 12057.27,
+        "outflow_amount": 6840.63,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 47,
+        "inflow_amount": 12159.42,
+        "outflow_amount": 7737.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 45,
+        "inflow_amount": 10253.28,
+        "outflow_amount": 6275.45,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 36,
+        "inflow_amount": 10933.64,
+        "outflow_amount": 6240.44,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 49,
+        "inflow_amount": 11791.5,
+        "outflow_amount": 7818.29,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 67,
+        "inflow_amount": 19091.76,
+        "outflow_amount": 12229.77,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 56,
+        "inflow_amount": 18023.53,
+        "outflow_amount": 9214.47,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 53,
+        "inflow_amount": 12518.55,
+        "outflow_amount": 8595.07,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 52,
+        "inflow_amount": 11115.65,
+        "outflow_amount": 7215.59,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 39,
+        "inflow_amount": 10412.64,
+        "outflow_amount": 6803.38,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 46,
+        "inflow_amount": 11561.01,
+        "outflow_amount": 7201.62,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 44,
+        "inflow_amount": 13132.19,
+        "outflow_amount": 8627.06,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 64,
+        "inflow_amount": 16111.44,
+        "outflow_amount": 11079.19,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 67,
+        "inflow_amount": 14748.56,
+        "outflow_amount": 7811.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 51,
+        "inflow_amount": 10553.65,
+        "outflow_amount": 6753.68,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 36,
+        "inflow_amount": 11759.36,
+        "outflow_amount": 6003.54,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 53,
+        "inflow_amount": 10850.64,
+        "outflow_amount": 7256.11,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 48,
+        "inflow_amount": 10539.37,
+        "outflow_amount": 6004.28,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 62,
+        "inflow_amount": 14314.37,
+        "outflow_amount": 7724.0,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 83,
+        "inflow_amount": 19848.56,
+        "outflow_amount": 12208.32,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 47,
+        "inflow_amount": 14489.85,
+        "outflow_amount": 8353.71,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 38,
+        "inflow_amount": 10057.41,
+        "outflow_amount": 5256.93,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 37,
+        "inflow_amount": 9941.65,
+        "outflow_amount": 6518.29,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 50,
+        "inflow_amount": 10421.78,
+        "outflow_amount": 6941.97,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 42,
+        "inflow_amount": 12124.26,
+        "outflow_amount": 7165.73,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 42,
+        "inflow_amount": 12013.81,
+        "outflow_amount": 6981.38,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 63,
+        "inflow_amount": 18209.17,
+        "outflow_amount": 9699.23,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 57,
+        "inflow_amount": 16337.18,
+        "outflow_amount": 9544.87,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 33,
+        "inflow_amount": 10076.51,
+        "outflow_amount": 5316.58,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 35,
+        "inflow_amount": 10143.32,
+        "outflow_amount": 6981.84,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 45,
+        "inflow_amount": 10167.06,
+        "outflow_amount": 5724.87,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 49,
+        "inflow_amount": 10308.6,
+        "outflow_amount": 7035.08,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 59,
+        "inflow_amount": 13200.38,
+        "outflow_amount": 7276.92,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 77,
+        "inflow_amount": 17995.72,
+        "outflow_amount": 10513.89,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 62,
+        "inflow_amount": 16523.06,
+        "outflow_amount": 11314.93,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 57,
+        "inflow_amount": 11570.32,
+        "outflow_amount": 7740.57,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 43,
+        "inflow_amount": 10244.88,
+        "outflow_amount": 6154.24,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 54,
+        "inflow_amount": 12773.31,
+        "outflow_amount": 7897.57,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 45,
+        "inflow_amount": 12216.32,
+        "outflow_amount": 6605.76,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 42,
+        "inflow_amount": 13161.81,
+        "outflow_amount": 7039.28,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 58,
+        "inflow_amount": 15276.63,
+        "outflow_amount": 8406.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 85,
+        "inflow_amount": 17161.66,
+        "outflow_amount": 11713.59,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 33,
+        "inflow_amount": 9586.36,
+        "outflow_amount": 5818.27,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 48,
+        "inflow_amount": 10629.2,
+        "outflow_amount": 5889.12,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 56,
+        "inflow_amount": 12909.8,
+        "outflow_amount": 6830.27,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 56,
+        "inflow_amount": 11534.08,
+        "outflow_amount": 7572.73,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 67,
+        "inflow_amount": 13981.52,
+        "outflow_amount": 9514.89,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 60,
+        "inflow_amount": 18245.39,
+        "outflow_amount": 11822.18,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 70,
+        "inflow_amount": 14522.59,
+        "outflow_amount": 9876.24,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 59,
+        "inflow_amount": 12720.88,
+        "outflow_amount": 7212.69,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 42,
+        "inflow_amount": 10927.72,
+        "outflow_amount": 6043.09,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 50,
+        "inflow_amount": 10482.32,
+        "outflow_amount": 7063.63,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 53,
+        "inflow_amount": 10787.03,
+        "outflow_amount": 7397.87,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 70,
+        "inflow_amount": 14299.15,
+        "outflow_amount": 9426.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 92,
+        "inflow_amount": 19396.9,
+        "outflow_amount": 11729.63,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 74,
+        "inflow_amount": 17732.41,
+        "outflow_amount": 10958.83,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 45,
+        "inflow_amount": 10690.15,
+        "outflow_amount": 6593.84,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 47,
+        "inflow_amount": 11733.11,
+        "outflow_amount": 5997.61,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 46,
+        "inflow_amount": 11400.87,
+        "outflow_amount": 7198.05,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 49,
+        "inflow_amount": 12775.1,
+        "outflow_amount": 7478.96,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 56,
+        "inflow_amount": 12420.71,
+        "outflow_amount": 7817.34,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 68,
+        "inflow_amount": 17668.59,
+        "outflow_amount": 9696.54,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 64,
+        "inflow_amount": 18098.88,
+        "outflow_amount": 10389.11,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 42,
+        "inflow_amount": 11745.33,
+        "outflow_amount": 6725.15,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 47,
+        "inflow_amount": 12316.21,
+        "outflow_amount": 7827.41,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 40,
+        "inflow_amount": 10764.5,
+        "outflow_amount": 6366.06,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 39,
+        "inflow_amount": 11437.52,
+        "outflow_amount": 6125.5,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 49,
+        "inflow_amount": 12866.18,
+        "outflow_amount": 8153.4,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 83,
+        "inflow_amount": 17826.92,
+        "outflow_amount": 11477.73,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 53,
+        "inflow_amount": 16449.29,
+        "outflow_amount": 9115.58,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 49,
+        "inflow_amount": 12305.54,
+        "outflow_amount": 6724.99,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 34,
+        "inflow_amount": 10995.58,
+        "outflow_amount": 6179.62,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 32,
+        "inflow_amount": 10272.04,
+        "outflow_amount": 5688.04,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 35,
+        "inflow_amount": 10837.95,
+        "outflow_amount": 6585.51,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 57,
+        "inflow_amount": 15646.17,
+        "outflow_amount": 9525.75,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 76,
+        "inflow_amount": 19807.72,
+        "outflow_amount": 11797.48,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 60,
+        "inflow_amount": 14817.72,
+        "outflow_amount": 8646.37,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 54,
+        "inflow_amount": 12544.35,
+        "outflow_amount": 7120.02,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 40,
+        "inflow_amount": 11643.04,
+        "outflow_amount": 7080.28,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 45,
+        "inflow_amount": 13005.96,
+        "outflow_amount": 7267.5,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 48,
+        "inflow_amount": 11669.13,
+        "outflow_amount": 6887.58,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 50,
+        "inflow_amount": 15271.42,
+        "outflow_amount": 9379.66,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 84,
+        "inflow_amount": 20221.57,
+        "outflow_amount": 13129.35,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 63,
+        "inflow_amount": 15301.04,
+        "outflow_amount": 10239.38,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 54,
+        "inflow_amount": 13227.94,
+        "outflow_amount": 7237.88,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 48,
+        "inflow_amount": 13195.56,
+        "outflow_amount": 6955.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 52,
+        "inflow_amount": 11888.82,
+        "outflow_amount": 6366.08,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 51,
+        "inflow_amount": 10590.92,
+        "outflow_amount": 7178.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 42,
+        "inflow_amount": 12747.59,
+        "outflow_amount": 8222.43,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 70,
+        "inflow_amount": 18339.39,
+        "outflow_amount": 9442.25,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 62,
+        "inflow_amount": 16059.88,
+        "outflow_amount": 10050.5,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 41,
+        "inflow_amount": 10689.8,
+        "outflow_amount": 6168.41,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 56,
+        "inflow_amount": 12368.52,
+        "outflow_amount": 7445.67,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 52,
+        "inflow_amount": 13426.09,
+        "outflow_amount": 7793.96,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 49,
+        "inflow_amount": 10940.67,
+        "outflow_amount": 6952.17,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 49,
+        "inflow_amount": 13857.91,
+        "outflow_amount": 8135.99,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 60,
+        "inflow_amount": 18640.9,
+        "outflow_amount": 9939.53,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 74,
+        "inflow_amount": 15697.62,
+        "outflow_amount": 9012.77,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 44,
+        "inflow_amount": 13150.94,
+        "outflow_amount": 8702.11,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 48,
+        "inflow_amount": 11648.84,
+        "outflow_amount": 6467.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 42,
+        "inflow_amount": 13557.5,
+        "outflow_amount": 7399.58,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 62,
+        "inflow_amount": 13675.66,
+        "outflow_amount": 9411.63,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 55,
+        "inflow_amount": 15909.2,
+        "outflow_amount": 8745.5,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 73,
+        "inflow_amount": 16882.05,
+        "outflow_amount": 10750.66,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 72,
+        "inflow_amount": 17744.8,
+        "outflow_amount": 10121.35,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 60,
+        "inflow_amount": 12265.61,
+        "outflow_amount": 7987.32,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 51,
+        "inflow_amount": 11545.74,
+        "outflow_amount": 6072.58,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 44,
+        "inflow_amount": 13086.39,
+        "outflow_amount": 8033.15,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 58,
+        "inflow_amount": 12964.59,
+        "outflow_amount": 8417.4,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 71,
+        "inflow_amount": 14321.3,
+        "outflow_amount": 9787.72,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 58,
+        "inflow_amount": 17274.93,
+        "outflow_amount": 9887.05,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 61,
+        "inflow_amount": 16553.1,
+        "outflow_amount": 10600.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 50,
+        "inflow_amount": 12076.51,
+        "outflow_amount": 8151.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 36,
+        "inflow_amount": 11063.03,
+        "outflow_amount": 7069.74,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 55,
+        "inflow_amount": 12765.21,
+        "outflow_amount": 8416.07,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 45,
+        "inflow_amount": 10843.97,
+        "outflow_amount": 6809.02,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 50,
+        "inflow_amount": 13627.52,
+        "outflow_amount": 8556.72,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 87,
+        "inflow_amount": 18783.36,
+        "outflow_amount": 12661.98,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 87,
+        "inflow_amount": 18739.63,
+        "outflow_amount": 10254.29,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 63,
+        "inflow_amount": 13169.64,
+        "outflow_amount": 8835.39,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 52,
+        "inflow_amount": 13466.07,
+        "outflow_amount": 7181.64,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 60,
+        "inflow_amount": 13147.91,
+        "outflow_amount": 7113.27,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 46,
+        "inflow_amount": 11035.82,
+        "outflow_amount": 6445.25,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 64,
+        "inflow_amount": 16206.21,
+        "outflow_amount": 10745.24,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 71,
+        "inflow_amount": 17130.95,
+        "outflow_amount": 8951.42,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 64,
+        "inflow_amount": 18820.59,
+        "outflow_amount": 11399.96,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 39,
+        "inflow_amount": 10660.03,
+        "outflow_amount": 6729.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 53,
+        "inflow_amount": 11991.52,
+        "outflow_amount": 7503.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 52,
+        "inflow_amount": 11653.7,
+        "outflow_amount": 7470.7,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 43,
+        "inflow_amount": 11355.83,
+        "outflow_amount": 7823.23,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 53,
+        "inflow_amount": 15471.07,
+        "outflow_amount": 9370.03,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 74,
+        "inflow_amount": 17590.93,
+        "outflow_amount": 9003.96,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 53,
+        "inflow_amount": 14742.21,
+        "outflow_amount": 9093.06,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 47,
+        "inflow_amount": 12958.42,
+        "outflow_amount": 6977.96,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 44,
+        "inflow_amount": 11432.23,
+        "outflow_amount": 6944.01,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 56,
+        "inflow_amount": 11493.74,
+        "outflow_amount": 7591.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 55,
+        "inflow_amount": 13170.1,
+        "outflow_amount": 6783.85,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 67,
+        "inflow_amount": 14724.61,
+        "outflow_amount": 9824.96,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 67,
+        "inflow_amount": 18278.99,
+        "outflow_amount": 9396.01,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 80,
+        "inflow_amount": 18069.91,
+        "outflow_amount": 11047.35,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 47,
+        "inflow_amount": 12173.97,
+        "outflow_amount": 7191.94,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 46,
+        "inflow_amount": 12055.9,
+        "outflow_amount": 6377.76,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 48,
+        "inflow_amount": 12866.34,
+        "outflow_amount": 6847.22,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 53,
+        "inflow_amount": 12581.07,
+        "outflow_amount": 7906.02,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 43,
+        "inflow_amount": 13294.73,
+        "outflow_amount": 7033.84,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 75,
+        "inflow_amount": 19903.86,
+        "outflow_amount": 11126.47,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 75,
+        "inflow_amount": 15682.42,
+        "outflow_amount": 10062.11,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 40,
+        "inflow_amount": 11308.02,
+        "outflow_amount": 6101.91,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 48,
+        "inflow_amount": 12838.59,
+        "outflow_amount": 8020.1,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 53,
+        "inflow_amount": 13083.43,
+        "outflow_amount": 7292.32,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 47,
+        "inflow_amount": 10504.11,
+        "outflow_amount": 6990.15,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 63,
+        "inflow_amount": 13581.55,
+        "outflow_amount": 8419.02,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 56,
+        "inflow_amount": 17369.29,
+        "outflow_amount": 10018.15,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 82,
+        "inflow_amount": 20340.69,
+        "outflow_amount": 11155.31,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 56,
+        "inflow_amount": 14090.76,
+        "outflow_amount": 7433.65,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 57,
+        "inflow_amount": 13871.09,
+        "outflow_amount": 8774.62,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 60,
+        "inflow_amount": 14277.76,
+        "outflow_amount": 7544.25,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 69,
+        "inflow_amount": 14176.0,
+        "outflow_amount": 9313.47,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 60,
+        "inflow_amount": 15488.13,
+        "outflow_amount": 8151.2,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 86,
+        "inflow_amount": 20743.85,
+        "outflow_amount": 13817.7,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 74,
+        "inflow_amount": 20698.72,
+        "outflow_amount": 11667.36,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 63,
+        "inflow_amount": 14464.63,
+        "outflow_amount": 9773.39,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 38,
+        "inflow_amount": 12168.34,
+        "outflow_amount": 6874.24,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 66,
+        "inflow_amount": 14641.41,
+        "outflow_amount": 8828.15,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 52,
+        "inflow_amount": 13899.49,
+        "outflow_amount": 8581.56,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 58,
+        "inflow_amount": 18057.85,
+        "outflow_amount": 11165.86,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 62,
+        "inflow_amount": 19250.22,
+        "outflow_amount": 9882.17,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 70,
+        "inflow_amount": 20707.4,
+        "outflow_amount": 10961.39,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 49,
+        "inflow_amount": 14844.42,
+        "outflow_amount": 8979.98,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 67,
+        "inflow_amount": 14926.27,
+        "outflow_amount": 8021.88,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 42,
+        "inflow_amount": 11559.81,
+        "outflow_amount": 6950.72,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 64,
+        "inflow_amount": 14477.13,
+        "outflow_amount": 9375.39,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 53,
+        "inflow_amount": 15358.25,
+        "outflow_amount": 10108.96,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 104,
+        "inflow_amount": 23626.86,
+        "outflow_amount": 15441.71,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 74,
+        "inflow_amount": 19410.78,
+        "outflow_amount": 11627.22,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 64,
+        "inflow_amount": 14081.98,
+        "outflow_amount": 8645.48,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 66,
+        "inflow_amount": 15298.26,
+        "outflow_amount": 8643.44,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 62,
+        "inflow_amount": 14226.94,
+        "outflow_amount": 7607.92,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 51,
+        "inflow_amount": 13671.87,
+        "outflow_amount": 8911.34,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 68,
+        "inflow_amount": 16188.79,
+        "outflow_amount": 8922.89,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 76,
+        "inflow_amount": 22378.71,
+        "outflow_amount": 12202.92,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 62,
+        "inflow_amount": 15805.95,
+        "outflow_amount": 9456.71,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 65,
+        "inflow_amount": 13665.28,
+        "outflow_amount": 8424.49,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 44,
+        "inflow_amount": 11922.76,
+        "outflow_amount": 7645.86,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 48,
+        "inflow_amount": 10782.75,
+        "outflow_amount": 6272.84,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 48,
+        "inflow_amount": 13573.72,
+        "outflow_amount": 6945.46,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 54,
+        "inflow_amount": 14213.07,
+        "outflow_amount": 7552.82,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 64,
+        "inflow_amount": 17866.23,
+        "outflow_amount": 10412.4,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 66,
+        "inflow_amount": 15396.1,
+        "outflow_amount": 8421.42,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 39,
+        "inflow_amount": 11936.01,
+        "outflow_amount": 6289.79,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 43,
+        "inflow_amount": 10802.92,
+        "outflow_amount": 5876.74,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 50,
+        "inflow_amount": 12697.68,
+        "outflow_amount": 6771.05,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 56,
+        "inflow_amount": 12725.55,
+        "outflow_amount": 6717.07,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 76,
+        "inflow_amount": 15915.18,
+        "outflow_amount": 10447.98,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 83,
+        "inflow_amount": 19169.72,
+        "outflow_amount": 10533.54,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 65,
+        "inflow_amount": 19173.57,
+        "outflow_amount": 11259.72,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 50,
+        "inflow_amount": 10841.45,
+        "outflow_amount": 6421.18,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 38,
+        "inflow_amount": 10211.95,
+        "outflow_amount": 7000.02,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 45,
+        "inflow_amount": 12567.26,
+        "outflow_amount": 7485.23,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 42,
+        "inflow_amount": 13069.14,
+        "outflow_amount": 7818.49,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 67,
+        "inflow_amount": 15885.65,
+        "outflow_amount": 9282.45,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 68,
+        "inflow_amount": 21272.97,
+        "outflow_amount": 11331.77,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 74,
+        "inflow_amount": 19250.44,
+        "outflow_amount": 11052.02,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 42,
+        "inflow_amount": 12149.43,
+        "outflow_amount": 7488.77,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 59,
+        "inflow_amount": 13489.91,
+        "outflow_amount": 7491.49,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 48,
+        "inflow_amount": 13623.91,
+        "outflow_amount": 8249.72,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 46,
+        "inflow_amount": 12598.51,
+        "outflow_amount": 6836.21,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 49,
+        "inflow_amount": 14165.57,
+        "outflow_amount": 8994.04,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 84,
+        "inflow_amount": 18237.7,
+        "outflow_amount": 11988.58,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 62,
+        "inflow_amount": 17328.32,
+        "outflow_amount": 9976.68,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 44,
+        "inflow_amount": 12006.09,
+        "outflow_amount": 7334.12,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 49,
+        "inflow_amount": 11100.31,
+        "outflow_amount": 6240.76,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 42,
+        "inflow_amount": 11588.86,
+        "outflow_amount": 7400.7,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 52,
+        "inflow_amount": 11222.25,
+        "outflow_amount": 7017.61,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 58,
+        "inflow_amount": 13751.23,
+        "outflow_amount": 8707.6,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 66,
+        "inflow_amount": 18756.91,
+        "outflow_amount": 11288.73,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 68,
+        "inflow_amount": 18506.26,
+        "outflow_amount": 10385.55,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 50,
+        "inflow_amount": 10800.05,
+        "outflow_amount": 6163.05,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 46,
+        "inflow_amount": 12869.59,
+        "outflow_amount": 8621.34,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 53,
+        "inflow_amount": 11054.95,
+        "outflow_amount": 7134.72,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 46,
+        "inflow_amount": 11247.84,
+        "outflow_amount": 6952.18,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 51,
+        "inflow_amount": 14225.42,
+        "outflow_amount": 8118.94,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 73,
+        "inflow_amount": 20554.14,
+        "outflow_amount": 12961.46,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 86,
+        "inflow_amount": 18465.43,
+        "outflow_amount": 11396.8,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 61,
+        "inflow_amount": 12979.48,
+        "outflow_amount": 7725.62,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 59,
+        "inflow_amount": 12795.93,
+        "outflow_amount": 8258.78,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 47,
+        "inflow_amount": 14349.28,
+        "outflow_amount": 8366.82,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 61,
+        "inflow_amount": 14509.18,
+        "outflow_amount": 9894.13,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 67,
+        "inflow_amount": 17059.13,
+        "outflow_amount": 9978.69,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 64,
+        "inflow_amount": 17078.36,
+        "outflow_amount": 10635.23,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 70,
+        "inflow_amount": 17193.86,
+        "outflow_amount": 8939.54,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 41,
+        "inflow_amount": 11665.79,
+        "outflow_amount": 6575.77,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 50,
+        "inflow_amount": 13195.26,
+        "outflow_amount": 7254.2,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 42,
+        "inflow_amount": 10871.69,
+        "outflow_amount": 6139.05,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 37,
+        "inflow_amount": 10939.58,
+        "outflow_amount": 6970.87,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 62,
+        "inflow_amount": 13396.99,
+        "outflow_amount": 7229.93,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 64,
+        "inflow_amount": 19092.18,
+        "outflow_amount": 12473.79,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 55,
+        "inflow_amount": 16285.39,
+        "outflow_amount": 10856.86,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 50,
+        "inflow_amount": 12690.23,
+        "outflow_amount": 7126.2,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 53,
+        "inflow_amount": 13807.03,
+        "outflow_amount": 9313.49,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 55,
+        "inflow_amount": 13164.88,
+        "outflow_amount": 8886.83,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 51,
+        "inflow_amount": 14176.61,
+        "outflow_amount": 8891.04,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 57,
+        "inflow_amount": 16119.42,
+        "outflow_amount": 9644.31,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 99,
+        "inflow_amount": 21516.96,
+        "outflow_amount": 13875.37,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 72,
+        "inflow_amount": 15767.92,
+        "outflow_amount": 9428.94,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 57,
+        "inflow_amount": 12256.81,
+        "outflow_amount": 7881.43,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 53,
+        "inflow_amount": 12791.15,
+        "outflow_amount": 8134.08,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 57,
+        "inflow_amount": 12846.74,
+        "outflow_amount": 7158.1,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 54,
+        "inflow_amount": 12889.38,
+        "outflow_amount": 7807.46,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 52,
+        "inflow_amount": 13753.26,
+        "outflow_amount": 8469.63,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 101,
+        "inflow_amount": 20690.67,
+        "outflow_amount": 13866.33,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 54,
+        "inflow_amount": 15526.22,
+        "outflow_amount": 9234.51,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 54,
+        "inflow_amount": 13125.26,
+        "outflow_amount": 7521.78,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 47,
+        "inflow_amount": 13793.45,
+        "outflow_amount": 8709.46,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 63,
+        "inflow_amount": 13924.87,
+        "outflow_amount": 8289.77,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 42,
+        "inflow_amount": 10704.14,
+        "outflow_amount": 5611.59,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 61,
+        "inflow_amount": 15680.6,
+        "outflow_amount": 10441.33,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 93,
+        "inflow_amount": 20677.76,
+        "outflow_amount": 13537.51,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 67,
+        "inflow_amount": 17858.63,
+        "outflow_amount": 11853.71,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 49,
+        "inflow_amount": 11424.23,
+        "outflow_amount": 6335.34,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 62,
+        "inflow_amount": 14091.65,
+        "outflow_amount": 8690.09,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 49,
+        "inflow_amount": 12967.2,
+        "outflow_amount": 8734.3,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 63,
+        "inflow_amount": 12729.26,
+        "outflow_amount": 8244.03,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 68,
+        "inflow_amount": 15093.76,
+        "outflow_amount": 8311.25,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 83,
+        "inflow_amount": 21629.53,
+        "outflow_amount": 13787.94,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 60,
+        "inflow_amount": 19051.95,
+        "outflow_amount": 10504.56,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 45,
+        "inflow_amount": 13170.84,
+        "outflow_amount": 7935.68,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 59,
+        "inflow_amount": 13835.33,
+        "outflow_amount": 7372.34,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 50,
+        "inflow_amount": 11521.69,
+        "outflow_amount": 6987.55,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 55,
+        "inflow_amount": 12882.83,
+        "outflow_amount": 7976.83,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 69,
+        "inflow_amount": 14788.81,
+        "outflow_amount": 8721.59,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 84,
+        "inflow_amount": 21913.67,
+        "outflow_amount": 12773.51,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 71,
+        "inflow_amount": 18809.46,
+        "outflow_amount": 11859.56,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 36,
+        "inflow_amount": 9657.05,
+        "outflow_amount": 5946.44,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 54,
+        "inflow_amount": 12233.06,
+        "outflow_amount": 7292.8,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 45,
+        "inflow_amount": 9998.67,
+        "outflow_amount": 6258.83,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 47,
+        "inflow_amount": 11524.97,
+        "outflow_amount": 6673.49,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 46,
+        "inflow_amount": 11961.31,
+        "outflow_amount": 6599.04,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 57,
+        "inflow_amount": 15563.02,
+        "outflow_amount": 8622.66,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 63,
+        "inflow_amount": 16557.65,
+        "outflow_amount": 10564.95,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 53,
+        "inflow_amount": 11851.69,
+        "outflow_amount": 6164.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 41,
+        "inflow_amount": 11219.4,
+        "outflow_amount": 6732.92,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 43,
+        "inflow_amount": 10201.17,
+        "outflow_amount": 6952.09,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 43,
+        "inflow_amount": 10344.09,
+        "outflow_amount": 5878.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 65,
+        "inflow_amount": 15428.84,
+        "outflow_amount": 10645.7,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 62,
+        "inflow_amount": 17331.74,
+        "outflow_amount": 9000.49,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 64,
+        "inflow_amount": 15331.05,
+        "outflow_amount": 10519.87,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 55,
+        "inflow_amount": 11661.5,
+        "outflow_amount": 7510.55,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 44,
+        "inflow_amount": 10405.13,
+        "outflow_amount": 6006.02,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 46,
+        "inflow_amount": 12066.14,
+        "outflow_amount": 6823.49,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 45,
+        "inflow_amount": 11398.75,
+        "outflow_amount": 6371.08,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 50,
+        "inflow_amount": 12651.47,
+        "outflow_amount": 8123.58,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 65,
+        "inflow_amount": 19384.46,
+        "outflow_amount": 10928.5,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 64,
+        "inflow_amount": 15194.34,
+        "outflow_amount": 8973.08,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 55,
+        "inflow_amount": 12031.16,
+        "outflow_amount": 6959.82,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 39,
+        "inflow_amount": 10126.2,
+        "outflow_amount": 6273.63,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 39,
+        "inflow_amount": 10814.36,
+        "outflow_amount": 6599.41,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 53,
+        "inflow_amount": 11007.53,
+        "outflow_amount": 6693.47,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 49,
+        "inflow_amount": 15457.02,
+        "outflow_amount": 8752.77,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 72,
+        "inflow_amount": 15915.66,
+        "outflow_amount": 8124.35,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 62,
+        "inflow_amount": 17986.42,
+        "outflow_amount": 12133.23,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 55,
+        "inflow_amount": 11694.03,
+        "outflow_amount": 7382.91,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 41,
+        "inflow_amount": 12366.67,
+        "outflow_amount": 7476.22,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 48,
+        "inflow_amount": 13096.17,
+        "outflow_amount": 7009.35,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 59,
+        "inflow_amount": 11702.87,
+        "outflow_amount": 7926.57,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 76,
+        "inflow_amount": 16714.31,
+        "outflow_amount": 11028.88,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 97,
+        "inflow_amount": 20418.03,
+        "outflow_amount": 12610.68,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 77,
+        "inflow_amount": 18769.49,
+        "outflow_amount": 12335.67,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 41,
+        "inflow_amount": 11988.15,
+        "outflow_amount": 6498.72,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 42,
+        "inflow_amount": 12726.08,
+        "outflow_amount": 7869.13,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 39,
+        "inflow_amount": 12205.54,
+        "outflow_amount": 7360.99,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 58,
+        "inflow_amount": 13907.9,
+        "outflow_amount": 7213.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 68,
+        "inflow_amount": 15402.67,
+        "outflow_amount": 9182.19,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 74,
+        "inflow_amount": 19640.93,
+        "outflow_amount": 12677.97,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 96,
+        "inflow_amount": 20713.37,
+        "outflow_amount": 12537.65,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 42,
+        "inflow_amount": 12503.13,
+        "outflow_amount": 6926.94,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 59,
+        "inflow_amount": 13999.54,
+        "outflow_amount": 9179.25,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 41,
+        "inflow_amount": 11465.93,
+        "outflow_amount": 6596.19,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 59,
+        "inflow_amount": 12916.51,
+        "outflow_amount": 6791.12,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 79,
+        "inflow_amount": 16163.78,
+        "outflow_amount": 10608.1,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 62,
+        "inflow_amount": 18898.41,
+        "outflow_amount": 9995.08,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 78,
+        "inflow_amount": 19074.01,
+        "outflow_amount": 10552.68,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 49,
+        "inflow_amount": 12646.12,
+        "outflow_amount": 8092.81,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 48,
+        "inflow_amount": 12851.25,
+        "outflow_amount": 8779.16,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 40,
+        "inflow_amount": 11690.29,
+        "outflow_amount": 7288.4,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 41,
+        "inflow_amount": 10691.37,
+        "outflow_amount": 6993.63,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 58,
+        "inflow_amount": 14762.09,
+        "outflow_amount": 8850.75,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 60,
+        "inflow_amount": 18206.05,
+        "outflow_amount": 12017.2,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 75,
+        "inflow_amount": 18600.29,
+        "outflow_amount": 10594.98,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 51,
+        "inflow_amount": 12391.17,
+        "outflow_amount": 6764.34,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 47,
+        "inflow_amount": 13005.83,
+        "outflow_amount": 8905.24,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 47,
+        "inflow_amount": 11513.27,
+        "outflow_amount": 6972.52,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 43,
+        "inflow_amount": 12952.69,
+        "outflow_amount": 7954.1,
+        "merchant_category": "Pharmacy & Healthcare"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 65,
+        "inflow_amount": 13778.66,
+        "outflow_amount": 8566.87,
+        "merchant_category": "Pharmacy & Healthcare"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 1898,
+        "inflow_amount": 461225.04,
+        "outflow_amount": 277322.04
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 1481,
+        "inflow_amount": 385591.33,
+        "outflow_amount": 232400.75
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 1749,
+        "inflow_amount": 407375.04,
+        "outflow_amount": 249665.27
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 1591,
+        "inflow_amount": 419562.75,
+        "outflow_amount": 247581.77
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 1765,
+        "inflow_amount": 433885.01,
+        "outflow_amount": 262882.81
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 1722,
+        "inflow_amount": 434030.14,
+        "outflow_amount": 256488.56
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 1793,
+        "inflow_amount": 456926.41,
+        "outflow_amount": 269364.17
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 1730,
+        "inflow_amount": 443445.1,
+        "outflow_amount": 258019.42
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 1680,
+        "inflow_amount": 428293.78,
+        "outflow_amount": 261665.52
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 1950,
+        "inflow_amount": 473833.45,
+        "outflow_amount": 289699.88
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 1553,
+        "inflow_amount": 389364.55,
+        "outflow_amount": 232984.72
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 1819,
+        "inflow_amount": 455395.9,
+        "outflow_amount": 276680.97
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 321859.41
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 322499.67
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 315825.44
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 310933.56
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 312963.92
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 315818.68
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 344610.46
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 355627.5
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 345023.96
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 346135.91
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 366182.83
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 352872.77
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 333016.05
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 339798.96
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 339949.88
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 343959.36
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 336843.68
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 332909.92
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 332948.55
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 325280.13
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 343219.82
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 341176.61
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 343608.14
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 326883.56
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 314567.2
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 304892.78
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 307342.89
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 295684.99
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 291677.22
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 296725.94
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 318222.99
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 302635.7
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 294945.14
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 315775.07
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 321045.25
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 300072.94
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 289945.31
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 287959.11
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 286630.53
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 270420.55
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 274285.64
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 279896.93
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 274148.64
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 288630.77
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 277800.61
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 276129.66
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 277852.22
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 283615.53
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 288508.61
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 293609.79
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 301745.58
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 300713.61
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 293591.41
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 299604.38
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 287965.86
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 268131.51
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 280392.29
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 273215.14
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 293842.62
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 293093.95
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 306785.18
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 298891.46
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 296299.59
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 302518.55
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 305324.42
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 305057.44
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 300919.05
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 279176.76
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 281319.15
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 291665.09
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 284037.67
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 278529.13
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 277615.04
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 268344.16
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 260957.71
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 249378.45
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 251031.69
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 243255.69
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 240802.59
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 245334.63
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 236514.07
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 253001.86
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 257567.9
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 260483.23
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 260396.83
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 265639.11
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 255173.01
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 259435.3
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 257641.88
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 277662.88
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 283567.15
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 280078.05
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 281017.77
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 288238.04
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 279964.05
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 282044.89
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 289938.67
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 281259.47
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 280237.02
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 265892.07
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 263013.16
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 263825.52
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 269081.46
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 289201.65
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 297706.69
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 286119.71
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 286297.24
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 273253.56
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 275482.11
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 271718.03
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 278497.41
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 277965.15
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 279927.19
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 279066.65
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 279956.01
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 271208.99
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 280231.02
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 274168.29
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 263534.45
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 259121.44
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 279189.26
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 274351.73
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 278197.41
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 291261.08
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 272556.75
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 268714.38
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 294456.4
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 287550.25
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 266840.14
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 271004.4
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 263088.24
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 257654.54
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 265127.9
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 263968.54
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 263418.81
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 267550.36
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 268131.15
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 266109.62
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 278929.3
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 280701.41
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 291929.48
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 294319.98
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 310682.82
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 314165.53
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 319312.33
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 314798.09
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 310670.63
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 305309.53
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 294790.71
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 292739.16
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 316968.2
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 327147.43
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 324737.49
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 322835.07
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 319594.86
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 318976.17
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 310309.65
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 305324.82
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 312540.26
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 336107.94
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 341970.73
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 348440.82
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 345255.29
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 354065.4
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 346874.44
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 367804.94
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 365244.27
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 354996.92
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 358451.5
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 366656.98
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 354295.39
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 358830.06
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 331078.03
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 337684.64
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 333067.62
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 341491.59
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 335826.05
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 334730.8
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 331591.94
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 323992.79
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 331047.17
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 328332.53
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 311827.76
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 307353.85
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 312609.47
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 312364.8
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 326001.21
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 301773.4
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 304864.53
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 308177.89
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 311996.14
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 316388.93
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 314599.34
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 304593.48
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 307262.25
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 313842.92
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 321146.17
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 329436.7
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 326027.31
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 321130.05
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 321435.04
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 312412.93
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 305618.56
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 311724.61
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 305430.85
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 279710.21
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 293605.59
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 295832.54
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 301535.87
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 288276.84
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 290957.0
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 284904.42
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 292682.17
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 283216.51
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 297770.08
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 288674.19
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 286927.94
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 273574.73
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 276172.18
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 279752.53
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 292611.5
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 291757.01
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 285037.84
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 290407.35
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 299644.48
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 294140.03
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 299197.3
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 297754.19
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 298372.89
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 317448.65
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 322989.22
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 317943.45
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 329075.62
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 326970.22
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 320788.57
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 322261.81
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 314372.36
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 311541.35
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 305811.71
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 302729.23
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 309491.75
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 314325.39
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 304058.41
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 308764.74
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 301354.94
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 318872.28
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 307103.54
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 308530.97
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 304919.25
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 303438.14
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 305940.39
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 311397.49
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 281450.58
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 282758.28
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 283139.35
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 280920.75
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 271389.49
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 273354.9
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 287502.91
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 287893.65
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 282793.99
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 283066.99
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 294383.75
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 292597.13
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 290943.69
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 307105.5
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 290475.91
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 285904.69
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 296697.48
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 308164.54
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 292537.64
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 292632.59
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 283440.14
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 272596.98
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 266832.77
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 278448.96
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 272430.82
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 254797.66
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 254141.71
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 257922.0
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 269764.61
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 300424.4
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 291934.49
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 271854.29
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 274239.26
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 284763.11
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 282378.13
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 286169.33
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 290260.37
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 281945.22
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 283960.09
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 290689.27
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 301115.52
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 304841.42
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 321270.64
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 311959.12
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 319678.69
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 316394.09
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 321316.67
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 322257.96
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 325166.03
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 315740.86
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 319435.72
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 338632.97
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 335806.62
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 329584.93
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 323127.31
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 309084.53
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 308712.4
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 307368.33
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 310898.73
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 320879.58
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 332284.79
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 333887.46
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 323624.08
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 316397.4
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 305237.9
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 314294.71
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 320445.96
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 323352.13
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 325621.41
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 318390.62
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 326789.31
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 324982.16
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 320270.9
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 316021.46
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 329825.8
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 328603.05
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 324662.45
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 311247.6
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 293072.4
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 296245.36
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 289742.12
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 279510.42
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 279009.39
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 272774.63
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 296639.96
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 300610.25
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 312339.04
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 322373.11
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 319571.95
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 320454.36
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 328435.99
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 331359.71
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 331174.28
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 331595.52
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 308261.42
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 308050.03
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 305283.22
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 290553.75
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 294509.47
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 291806.87
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 288123.93
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 290542.57
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 287386.18
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 267554.21
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 265347.78
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 279296.58
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 295823.0
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 297120.94
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 292882.5
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 299130.89
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 307398.56
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 302322.21
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 297667.75
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 318222.99,
+        "average_balance": 328356.86,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 306785.18,
+        "average_balance": 289432.98,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 280078.05,
+        "average_balance": 271213.53,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 274351.73,
+        "average_balance": 277383.62,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 324737.49,
+        "average_balance": 287833.29,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 307353.85,
+        "average_balance": 336664.53,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 284904.42,
+        "average_balance": 307987.82,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 304058.41,
+        "average_balance": 301532.28,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 283440.14,
+        "average_balance": 293982.52,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 338632.97,
+        "average_balance": 293011.71,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 279510.42,
+        "average_balance": 316665.73,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 297667.75,
+        "average_balance": 300496.78,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2026-06-27",
+        "amount": 33379.4,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 6,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 6,
+        "expected_contribution": 19909.36,
+        "contribution_paid": 19909.36,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 6,
+        "expected_contribution": 19651.67,
+        "contribution_paid": 19651.67,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 6,
+        "expected_contribution": 20630.72,
+        "contribution_paid": 20630.72,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 6,
+        "expected_contribution": 20184.05,
+        "contribution_paid": 20184.05,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 6,
+        "expected_contribution": 20322.83,
+        "contribution_paid": 20322.83,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 6,
+        "expected_contribution": 20422.14,
+        "contribution_paid": 20422.14,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 6,
+        "expected_contribution": 20305.32,
+        "contribution_paid": 20305.32,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 6,
+        "expected_contribution": 20369.23,
+        "contribution_paid": 20369.23,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 6,
+        "expected_contribution": 20623.12,
+        "contribution_paid": 20623.12,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 6,
+        "expected_contribution": 20576.51,
+        "contribution_paid": 20576.51,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 6,
+        "expected_contribution": 20185.16,
+        "contribution_paid": 20185.16,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 6,
+        "expected_contribution": 20068.39,
+        "contribution_paid": 20068.39,
+        "status": "on_time"
+      }
+    ]
+  }
+}

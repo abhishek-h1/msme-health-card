@@ -1,0 +1,4219 @@
+{
+  "business_id": "MSME-002",
+  "name": "Sunrise Tiffin Services",
+  "sector": "Home-Based Food & Catering",
+  "archetype": "thin_file_strong_cashflow",
+  "registration_type": "sole_proprietor",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": false,
+    "registered_since": null,
+    "filings": []
+  },
+  "upi": {
+    "merchant_category": "Food & Beverage",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 36,
+        "inflow_amount": 9558.97,
+        "outflow_amount": 5297.27,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 40,
+        "inflow_amount": 10027.1,
+        "outflow_amount": 4643.29,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 37,
+        "inflow_amount": 10473.41,
+        "outflow_amount": 4976.14,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 32,
+        "inflow_amount": 7078.43,
+        "outflow_amount": 3721.15,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 23,
+        "inflow_amount": 6931.9,
+        "outflow_amount": 2963.04,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 31,
+        "inflow_amount": 6661.9,
+        "outflow_amount": 2884.66,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 28,
+        "inflow_amount": 6268.65,
+        "outflow_amount": 3493.72,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 35,
+        "inflow_amount": 7209.45,
+        "outflow_amount": 3131.7,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 47,
+        "inflow_amount": 12066.41,
+        "outflow_amount": 5185.79,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 55,
+        "inflow_amount": 11331.62,
+        "outflow_amount": 5889.32,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 35,
+        "inflow_amount": 6863.04,
+        "outflow_amount": 3827.9,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 26,
+        "inflow_amount": 7700.01,
+        "outflow_amount": 3302.01,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 39,
+        "inflow_amount": 7717.14,
+        "outflow_amount": 4305.14,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 30,
+        "inflow_amount": 7578.57,
+        "outflow_amount": 3473.59,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 32,
+        "inflow_amount": 7767.4,
+        "outflow_amount": 3959.89,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 45,
+        "inflow_amount": 11064.44,
+        "outflow_amount": 5622.65,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 38,
+        "inflow_amount": 10287.3,
+        "outflow_amount": 4465.45,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 38,
+        "inflow_amount": 7133.06,
+        "outflow_amount": 4073.25,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 32,
+        "inflow_amount": 6299.17,
+        "outflow_amount": 3200.92,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 24,
+        "inflow_amount": 6396.7,
+        "outflow_amount": 3371.46,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 30,
+        "inflow_amount": 6710.7,
+        "outflow_amount": 3433.16,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 41,
+        "inflow_amount": 8958.97,
+        "outflow_amount": 4558.85,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 44,
+        "inflow_amount": 12217.62,
+        "outflow_amount": 6021.87,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 49,
+        "inflow_amount": 10823.19,
+        "outflow_amount": 5557.06,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 37,
+        "inflow_amount": 7313.95,
+        "outflow_amount": 4105.61,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 38,
+        "inflow_amount": 7866.07,
+        "outflow_amount": 4387.66,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 24,
+        "inflow_amount": 6546.61,
+        "outflow_amount": 3512.4,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 30,
+        "inflow_amount": 7874.14,
+        "outflow_amount": 4341.8,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 30,
+        "inflow_amount": 8458.14,
+        "outflow_amount": 3844.9,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 55,
+        "inflow_amount": 10496.54,
+        "outflow_amount": 5937.05,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 34,
+        "inflow_amount": 8884.92,
+        "outflow_amount": 3880.64,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 34,
+        "inflow_amount": 6722.22,
+        "outflow_amount": 3357.13,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 30,
+        "inflow_amount": 6470.74,
+        "outflow_amount": 3328.57,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 40,
+        "inflow_amount": 7967.99,
+        "outflow_amount": 4263.67,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 35,
+        "inflow_amount": 7303.56,
+        "outflow_amount": 3173.12,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 36,
+        "inflow_amount": 9926.65,
+        "outflow_amount": 4438.25,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 39,
+        "inflow_amount": 10557.33,
+        "outflow_amount": 5265.3,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 42,
+        "inflow_amount": 10647.18,
+        "outflow_amount": 5431.85,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 31,
+        "inflow_amount": 6584.18,
+        "outflow_amount": 3138.29,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 29,
+        "inflow_amount": 7946.92,
+        "outflow_amount": 3572.33,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 28,
+        "inflow_amount": 7498.79,
+        "outflow_amount": 3735.26,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 30,
+        "inflow_amount": 7014.77,
+        "outflow_amount": 3924.93,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 38,
+        "inflow_amount": 8907.88,
+        "outflow_amount": 4828.89,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 42,
+        "inflow_amount": 10880.28,
+        "outflow_amount": 4751.02,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 48,
+        "inflow_amount": 10888.13,
+        "outflow_amount": 4860.89,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 25,
+        "inflow_amount": 6635.58,
+        "outflow_amount": 3616.87,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 29,
+        "inflow_amount": 6848.93,
+        "outflow_amount": 3829.51,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 25,
+        "inflow_amount": 6578.22,
+        "outflow_amount": 3043.44,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 28,
+        "inflow_amount": 6685.43,
+        "outflow_amount": 3657.14,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 44,
+        "inflow_amount": 9351.13,
+        "outflow_amount": 5310.43,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 42,
+        "inflow_amount": 9696.17,
+        "outflow_amount": 5185.54,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 59,
+        "inflow_amount": 11193.61,
+        "outflow_amount": 6185.91,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 35,
+        "inflow_amount": 6995.34,
+        "outflow_amount": 3509.73,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 33,
+        "inflow_amount": 7905.75,
+        "outflow_amount": 3787.31,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 33,
+        "inflow_amount": 7756.06,
+        "outflow_amount": 3520.02,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 33,
+        "inflow_amount": 6545.38,
+        "outflow_amount": 3660.3,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 32,
+        "inflow_amount": 8277.14,
+        "outflow_amount": 4576.52,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 46,
+        "inflow_amount": 10478.4,
+        "outflow_amount": 5456.61,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 36,
+        "inflow_amount": 8835.38,
+        "outflow_amount": 5008.25,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 35,
+        "inflow_amount": 7350.77,
+        "outflow_amount": 3866.93,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 24,
+        "inflow_amount": 6913.86,
+        "outflow_amount": 3223.67,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 39,
+        "inflow_amount": 8111.57,
+        "outflow_amount": 4045.54,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 28,
+        "inflow_amount": 7596.58,
+        "outflow_amount": 3442.55,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 40,
+        "inflow_amount": 10017.59,
+        "outflow_amount": 5303.99,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 46,
+        "inflow_amount": 12694.23,
+        "outflow_amount": 6135.33,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 53,
+        "inflow_amount": 12532.89,
+        "outflow_amount": 6076.52,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 31,
+        "inflow_amount": 6887.23,
+        "outflow_amount": 3756.67,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 34,
+        "inflow_amount": 7666.02,
+        "outflow_amount": 4347.87,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 35,
+        "inflow_amount": 8032.61,
+        "outflow_amount": 3842.24,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 27,
+        "inflow_amount": 6946.39,
+        "outflow_amount": 3087.73,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 35,
+        "inflow_amount": 8135.96,
+        "outflow_amount": 4586.82,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 66,
+        "inflow_amount": 13509.74,
+        "outflow_amount": 7241.83,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 33,
+        "inflow_amount": 9472.52,
+        "outflow_amount": 4671.89,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 40,
+        "inflow_amount": 8081.6,
+        "outflow_amount": 4566.58,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 38,
+        "inflow_amount": 7975.04,
+        "outflow_amount": 4425.5,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 37,
+        "inflow_amount": 8548.6,
+        "outflow_amount": 4382.51,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 35,
+        "inflow_amount": 7799.2,
+        "outflow_amount": 3415.94,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 36,
+        "inflow_amount": 10011.65,
+        "outflow_amount": 4727.27,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 57,
+        "inflow_amount": 10789.28,
+        "outflow_amount": 6108.94,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 49,
+        "inflow_amount": 11055.54,
+        "outflow_amount": 5043.26,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 28,
+        "inflow_amount": 7697.07,
+        "outflow_amount": 3837.03,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 36,
+        "inflow_amount": 8093.19,
+        "outflow_amount": 4456.56,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 32,
+        "inflow_amount": 7212.65,
+        "outflow_amount": 3203.69,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 31,
+        "inflow_amount": 8140.25,
+        "outflow_amount": 4570.41,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 36,
+        "inflow_amount": 8891.58,
+        "outflow_amount": 4994.58,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 45,
+        "inflow_amount": 11937.71,
+        "outflow_amount": 6189.07,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 46,
+        "inflow_amount": 10611.16,
+        "outflow_amount": 4606.23,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 27,
+        "inflow_amount": 7830.54,
+        "outflow_amount": 3394.45,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 37,
+        "inflow_amount": 7713.87,
+        "outflow_amount": 4038.64,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 36,
+        "inflow_amount": 8087.76,
+        "outflow_amount": 3874.66,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 36,
+        "inflow_amount": 7532.06,
+        "outflow_amount": 3267.36,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 42,
+        "inflow_amount": 8177.32,
+        "outflow_amount": 4644.56,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 54,
+        "inflow_amount": 11170.39,
+        "outflow_amount": 5430.75,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 37,
+        "inflow_amount": 10495.55,
+        "outflow_amount": 5421.11,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 37,
+        "inflow_amount": 7331.79,
+        "outflow_amount": 3400.25,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 29,
+        "inflow_amount": 6000.83,
+        "outflow_amount": 3176.52,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 28,
+        "inflow_amount": 6471.04,
+        "outflow_amount": 3636.69,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 32,
+        "inflow_amount": 6592.08,
+        "outflow_amount": 2852.25,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 39,
+        "inflow_amount": 8856.87,
+        "outflow_amount": 4184.28,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 39,
+        "inflow_amount": 11271.5,
+        "outflow_amount": 5588.89,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 43,
+        "inflow_amount": 11107.96,
+        "outflow_amount": 5680.72,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 30,
+        "inflow_amount": 7639.98,
+        "outflow_amount": 4298.82,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 32,
+        "inflow_amount": 7388.71,
+        "outflow_amount": 3248.54,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 40,
+        "inflow_amount": 7986.69,
+        "outflow_amount": 4133.4,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 34,
+        "inflow_amount": 7023.63,
+        "outflow_amount": 3900.27,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 46,
+        "inflow_amount": 9020.42,
+        "outflow_amount": 4703.47,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 53,
+        "inflow_amount": 12210.21,
+        "outflow_amount": 5540.41,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 45,
+        "inflow_amount": 10551.11,
+        "outflow_amount": 4516.56,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 33,
+        "inflow_amount": 6706.62,
+        "outflow_amount": 3585.44,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 37,
+        "inflow_amount": 7662.44,
+        "outflow_amount": 4389.23,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 34,
+        "inflow_amount": 7638.67,
+        "outflow_amount": 3483.71,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 25,
+        "inflow_amount": 6627.04,
+        "outflow_amount": 3146.01,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 39,
+        "inflow_amount": 9396.72,
+        "outflow_amount": 4830.56,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 48,
+        "inflow_amount": 11275.3,
+        "outflow_amount": 5184.24,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 44,
+        "inflow_amount": 10132.81,
+        "outflow_amount": 5091.06,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 32,
+        "inflow_amount": 7196.7,
+        "outflow_amount": 3900.37,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 33,
+        "inflow_amount": 7122.9,
+        "outflow_amount": 3976.93,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 39,
+        "inflow_amount": 7417.31,
+        "outflow_amount": 3982.61,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 34,
+        "inflow_amount": 6911.1,
+        "outflow_amount": 3446.38,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 40,
+        "inflow_amount": 9584.96,
+        "outflow_amount": 4479.92,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 42,
+        "inflow_amount": 11414.22,
+        "outflow_amount": 5266.82,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 44,
+        "inflow_amount": 9543.24,
+        "outflow_amount": 4975.37,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 25,
+        "inflow_amount": 6542.37,
+        "outflow_amount": 3190.17,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 30,
+        "inflow_amount": 7409.25,
+        "outflow_amount": 3948.92,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 33,
+        "inflow_amount": 8061.83,
+        "outflow_amount": 3571.44,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 40,
+        "inflow_amount": 8010.68,
+        "outflow_amount": 3862.08,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 37,
+        "inflow_amount": 8050.85,
+        "outflow_amount": 3736.51,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 67,
+        "inflow_amount": 12987.2,
+        "outflow_amount": 7403.4,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 54,
+        "inflow_amount": 10469.86,
+        "outflow_amount": 5744.38,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 42,
+        "inflow_amount": 8200.55,
+        "outflow_amount": 4397.35,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 30,
+        "inflow_amount": 7081.57,
+        "outflow_amount": 3521.97,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 24,
+        "inflow_amount": 6503.77,
+        "outflow_amount": 3238.13,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 24,
+        "inflow_amount": 6638.59,
+        "outflow_amount": 3581.5,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 43,
+        "inflow_amount": 8510.75,
+        "outflow_amount": 4505.65,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 65,
+        "inflow_amount": 13173.51,
+        "outflow_amount": 6368.16,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 46,
+        "inflow_amount": 10539.03,
+        "outflow_amount": 5602.62,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 24,
+        "inflow_amount": 6402.03,
+        "outflow_amount": 3059.45,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 25,
+        "inflow_amount": 6401.17,
+        "outflow_amount": 3031.56,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 33,
+        "inflow_amount": 8313.1,
+        "outflow_amount": 4439.67,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 29,
+        "inflow_amount": 7369.84,
+        "outflow_amount": 3874.77,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 33,
+        "inflow_amount": 9679.51,
+        "outflow_amount": 4777.23,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 53,
+        "inflow_amount": 13222.27,
+        "outflow_amount": 6944.9,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 45,
+        "inflow_amount": 11436.78,
+        "outflow_amount": 6333.26,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 34,
+        "inflow_amount": 7882.23,
+        "outflow_amount": 3429.79,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 26,
+        "inflow_amount": 7645.64,
+        "outflow_amount": 3588.0,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 29,
+        "inflow_amount": 6417.37,
+        "outflow_amount": 3602.72,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 30,
+        "inflow_amount": 8630.86,
+        "outflow_amount": 3979.24,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 41,
+        "inflow_amount": 9170.06,
+        "outflow_amount": 4539.16,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 45,
+        "inflow_amount": 10899.82,
+        "outflow_amount": 5903.5,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 51,
+        "inflow_amount": 12211.71,
+        "outflow_amount": 6286.1,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 30,
+        "inflow_amount": 7172.0,
+        "outflow_amount": 3789.63,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 35,
+        "inflow_amount": 8381.97,
+        "outflow_amount": 4113.36,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 33,
+        "inflow_amount": 6717.75,
+        "outflow_amount": 3672.52,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 38,
+        "inflow_amount": 7748.16,
+        "outflow_amount": 4201.22,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 44,
+        "inflow_amount": 9646.12,
+        "outflow_amount": 5373.8,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 46,
+        "inflow_amount": 13621.49,
+        "outflow_amount": 6056.22,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 39,
+        "inflow_amount": 11098.33,
+        "outflow_amount": 5877.36,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 27,
+        "inflow_amount": 7114.79,
+        "outflow_amount": 3180.44,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 23,
+        "inflow_amount": 6806.21,
+        "outflow_amount": 3448.84,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 36,
+        "inflow_amount": 8568.41,
+        "outflow_amount": 4852.57,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 39,
+        "inflow_amount": 8038.34,
+        "outflow_amount": 3720.09,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 39,
+        "inflow_amount": 8657.83,
+        "outflow_amount": 4356.95,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 67,
+        "inflow_amount": 12957.4,
+        "outflow_amount": 6981.63,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 59,
+        "inflow_amount": 12499.45,
+        "outflow_amount": 6270.51,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 33,
+        "inflow_amount": 8487.34,
+        "outflow_amount": 3649.06,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 36,
+        "inflow_amount": 8770.13,
+        "outflow_amount": 4417.51,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 40,
+        "inflow_amount": 8701.92,
+        "outflow_amount": 3748.39,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 41,
+        "inflow_amount": 7920.38,
+        "outflow_amount": 4158.39,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 37,
+        "inflow_amount": 9662.15,
+        "outflow_amount": 5393.57,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 47,
+        "inflow_amount": 11032.67,
+        "outflow_amount": 5123.73,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 55,
+        "inflow_amount": 11688.65,
+        "outflow_amount": 5494.25,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 28,
+        "inflow_amount": 7502.4,
+        "outflow_amount": 4050.23,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 36,
+        "inflow_amount": 7909.02,
+        "outflow_amount": 4269.62,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 26,
+        "inflow_amount": 6879.72,
+        "outflow_amount": 2967.55,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 40,
+        "inflow_amount": 8401.02,
+        "outflow_amount": 4647.75,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 38,
+        "inflow_amount": 8237.07,
+        "outflow_amount": 4374.63,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 46,
+        "inflow_amount": 10823.24,
+        "outflow_amount": 5377.67,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 47,
+        "inflow_amount": 10578.18,
+        "outflow_amount": 4993.06,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 27,
+        "inflow_amount": 7055.85,
+        "outflow_amount": 3873.06,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 36,
+        "inflow_amount": 7021.27,
+        "outflow_amount": 3606.85,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 25,
+        "inflow_amount": 6731.69,
+        "outflow_amount": 3739.0,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 27,
+        "inflow_amount": 7894.9,
+        "outflow_amount": 3994.6,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 41,
+        "inflow_amount": 9751.13,
+        "outflow_amount": 4264.53,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 52,
+        "inflow_amount": 11222.02,
+        "outflow_amount": 5720.52,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 51,
+        "inflow_amount": 10775.42,
+        "outflow_amount": 4588.2,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 41,
+        "inflow_amount": 9396.97,
+        "outflow_amount": 4099.95,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 34,
+        "inflow_amount": 9865.28,
+        "outflow_amount": 4538.0,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 28,
+        "inflow_amount": 7778.18,
+        "outflow_amount": 4175.2,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 39,
+        "inflow_amount": 7707.73,
+        "outflow_amount": 4173.51,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 39,
+        "inflow_amount": 9234.08,
+        "outflow_amount": 5026.26,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 51,
+        "inflow_amount": 12395.57,
+        "outflow_amount": 6197.26,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 65,
+        "inflow_amount": 13910.06,
+        "outflow_amount": 6092.32,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 42,
+        "inflow_amount": 9488.01,
+        "outflow_amount": 4628.08,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 37,
+        "inflow_amount": 7680.59,
+        "outflow_amount": 4084.23,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 34,
+        "inflow_amount": 8807.0,
+        "outflow_amount": 3829.62,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 42,
+        "inflow_amount": 8490.16,
+        "outflow_amount": 4265.96,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 46,
+        "inflow_amount": 12201.85,
+        "outflow_amount": 6905.05,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 41,
+        "inflow_amount": 11683.06,
+        "outflow_amount": 5141.64,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 50,
+        "inflow_amount": 11679.72,
+        "outflow_amount": 5694.5,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 42,
+        "inflow_amount": 8138.29,
+        "outflow_amount": 4627.8,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 38,
+        "inflow_amount": 9383.3,
+        "outflow_amount": 4124.77,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 39,
+        "inflow_amount": 8548.24,
+        "outflow_amount": 4463.17,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 36,
+        "inflow_amount": 9609.07,
+        "outflow_amount": 4895.87,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 39,
+        "inflow_amount": 11080.38,
+        "outflow_amount": 5549.95,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 65,
+        "inflow_amount": 14629.68,
+        "outflow_amount": 7486.58,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 55,
+        "inflow_amount": 12191.68,
+        "outflow_amount": 5603.43,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 33,
+        "inflow_amount": 8443.03,
+        "outflow_amount": 4484.2,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 33,
+        "inflow_amount": 7725.96,
+        "outflow_amount": 3614.62,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 38,
+        "inflow_amount": 8414.01,
+        "outflow_amount": 3631.43,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 40,
+        "inflow_amount": 8933.86,
+        "outflow_amount": 4571.24,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 52,
+        "inflow_amount": 10597.08,
+        "outflow_amount": 5625.98,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 53,
+        "inflow_amount": 15269.92,
+        "outflow_amount": 6628.69,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 58,
+        "inflow_amount": 11654.14,
+        "outflow_amount": 5949.11,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 26,
+        "inflow_amount": 7269.83,
+        "outflow_amount": 3245.3,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 31,
+        "inflow_amount": 8339.78,
+        "outflow_amount": 4118.21,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 38,
+        "inflow_amount": 8372.85,
+        "outflow_amount": 4530.1,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 26,
+        "inflow_amount": 7307.56,
+        "outflow_amount": 3126.66,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 45,
+        "inflow_amount": 10219.78,
+        "outflow_amount": 4716.71,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 54,
+        "inflow_amount": 10505.65,
+        "outflow_amount": 5491.5,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 42,
+        "inflow_amount": 10311.23,
+        "outflow_amount": 5404.41,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 27,
+        "inflow_amount": 7203.6,
+        "outflow_amount": 3913.59,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 40,
+        "inflow_amount": 8797.06,
+        "outflow_amount": 3972.78,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 35,
+        "inflow_amount": 8259.33,
+        "outflow_amount": 3711.12,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 32,
+        "inflow_amount": 8785.67,
+        "outflow_amount": 3987.8,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 38,
+        "inflow_amount": 8521.05,
+        "outflow_amount": 4405.85,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 55,
+        "inflow_amount": 11051.59,
+        "outflow_amount": 5244.78,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 43,
+        "inflow_amount": 11071.96,
+        "outflow_amount": 6332.58,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 34,
+        "inflow_amount": 7644.29,
+        "outflow_amount": 3949.56,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 31,
+        "inflow_amount": 8309.87,
+        "outflow_amount": 3736.74,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 25,
+        "inflow_amount": 6938.8,
+        "outflow_amount": 3882.17,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 37,
+        "inflow_amount": 7710.3,
+        "outflow_amount": 3432.02,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 34,
+        "inflow_amount": 9077.84,
+        "outflow_amount": 4789.82,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 43,
+        "inflow_amount": 10556.43,
+        "outflow_amount": 4498.42,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 42,
+        "inflow_amount": 11197.31,
+        "outflow_amount": 4934.98,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 38,
+        "inflow_amount": 8044.86,
+        "outflow_amount": 4383.44,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 30,
+        "inflow_amount": 7474.74,
+        "outflow_amount": 3739.5,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 30,
+        "inflow_amount": 8453.04,
+        "outflow_amount": 3604.41,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 34,
+        "inflow_amount": 6770.24,
+        "outflow_amount": 3294.25,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 42,
+        "inflow_amount": 10797.91,
+        "outflow_amount": 5424.02,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 44,
+        "inflow_amount": 11019.15,
+        "outflow_amount": 4946.35,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 49,
+        "inflow_amount": 10523.17,
+        "outflow_amount": 4998.89,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 27,
+        "inflow_amount": 6947.75,
+        "outflow_amount": 3055.11,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 39,
+        "inflow_amount": 8563.26,
+        "outflow_amount": 3906.74,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 38,
+        "inflow_amount": 9567.43,
+        "outflow_amount": 5179.44,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 39,
+        "inflow_amount": 8695.78,
+        "outflow_amount": 4987.18,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 47,
+        "inflow_amount": 10656.86,
+        "outflow_amount": 5211.84,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 44,
+        "inflow_amount": 11383.89,
+        "outflow_amount": 6039.96,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 62,
+        "inflow_amount": 12729.24,
+        "outflow_amount": 6021.97,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 44,
+        "inflow_amount": 9632.79,
+        "outflow_amount": 5281.79,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 28,
+        "inflow_amount": 7434.14,
+        "outflow_amount": 3694.9,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 32,
+        "inflow_amount": 8703.22,
+        "outflow_amount": 4514.53,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 31,
+        "inflow_amount": 8063.04,
+        "outflow_amount": 4073.79,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 53,
+        "inflow_amount": 10576.71,
+        "outflow_amount": 5435.1,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 50,
+        "inflow_amount": 11190.98,
+        "outflow_amount": 6042.13,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 46,
+        "inflow_amount": 10918.5,
+        "outflow_amount": 4800.03,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 31,
+        "inflow_amount": 7523.59,
+        "outflow_amount": 4117.17,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 32,
+        "inflow_amount": 9442.88,
+        "outflow_amount": 4321.85,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 40,
+        "inflow_amount": 8257.26,
+        "outflow_amount": 3512.63,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 29,
+        "inflow_amount": 7386.55,
+        "outflow_amount": 3834.71,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 43,
+        "inflow_amount": 11745.15,
+        "outflow_amount": 5114.96,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 43,
+        "inflow_amount": 11886.4,
+        "outflow_amount": 5399.92,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 52,
+        "inflow_amount": 13271.52,
+        "outflow_amount": 6256.02,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 36,
+        "inflow_amount": 8147.13,
+        "outflow_amount": 3791.82,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 29,
+        "inflow_amount": 7260.78,
+        "outflow_amount": 3404.43,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 45,
+        "inflow_amount": 9498.31,
+        "outflow_amount": 4188.13,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 47,
+        "inflow_amount": 9559.27,
+        "outflow_amount": 4590.75,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 41,
+        "inflow_amount": 9426.27,
+        "outflow_amount": 5335.43,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 71,
+        "inflow_amount": 13873.71,
+        "outflow_amount": 7387.69,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 49,
+        "inflow_amount": 10458.85,
+        "outflow_amount": 4857.11,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 28,
+        "inflow_amount": 8111.63,
+        "outflow_amount": 3887.1,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 31,
+        "inflow_amount": 7223.57,
+        "outflow_amount": 4018.78,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 46,
+        "inflow_amount": 9082.58,
+        "outflow_amount": 4749.88,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 35,
+        "inflow_amount": 8862.98,
+        "outflow_amount": 4853.77,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 55,
+        "inflow_amount": 10779.58,
+        "outflow_amount": 6099.65,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 44,
+        "inflow_amount": 10718.83,
+        "outflow_amount": 5286.6,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 56,
+        "inflow_amount": 12452.98,
+        "outflow_amount": 6533.34,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 34,
+        "inflow_amount": 6872.41,
+        "outflow_amount": 3113.32,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 38,
+        "inflow_amount": 8006.07,
+        "outflow_amount": 3558.57,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 31,
+        "inflow_amount": 7956.88,
+        "outflow_amount": 4087.56,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 34,
+        "inflow_amount": 8628.34,
+        "outflow_amount": 4796.68,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 41,
+        "inflow_amount": 9215.26,
+        "outflow_amount": 4079.23,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 55,
+        "inflow_amount": 12284.59,
+        "outflow_amount": 6145.51,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 56,
+        "inflow_amount": 12694.7,
+        "outflow_amount": 6525.35,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 35,
+        "inflow_amount": 7666.1,
+        "outflow_amount": 3395.76,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 33,
+        "inflow_amount": 7061.56,
+        "outflow_amount": 3645.7,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 26,
+        "inflow_amount": 7191.25,
+        "outflow_amount": 3393.35,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 36,
+        "inflow_amount": 8920.49,
+        "outflow_amount": 4431.2,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 41,
+        "inflow_amount": 9217.6,
+        "outflow_amount": 3950.59,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 57,
+        "inflow_amount": 10709.7,
+        "outflow_amount": 6117.71,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 42,
+        "inflow_amount": 10663.66,
+        "outflow_amount": 5775.63,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 37,
+        "inflow_amount": 8708.63,
+        "outflow_amount": 4181.98,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 34,
+        "inflow_amount": 8185.48,
+        "outflow_amount": 3964.75,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 38,
+        "inflow_amount": 8034.69,
+        "outflow_amount": 4342.27,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 37,
+        "inflow_amount": 8125.04,
+        "outflow_amount": 4578.21,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 50,
+        "inflow_amount": 10568.56,
+        "outflow_amount": 5085.8,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 67,
+        "inflow_amount": 13803.11,
+        "outflow_amount": 7439.22,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 52,
+        "inflow_amount": 12603.06,
+        "outflow_amount": 7180.94,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 30,
+        "inflow_amount": 6762.93,
+        "outflow_amount": 2916.95,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 41,
+        "inflow_amount": 8831.96,
+        "outflow_amount": 3852.05,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 24,
+        "inflow_amount": 6655.27,
+        "outflow_amount": 3116.73,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 37,
+        "inflow_amount": 8381.1,
+        "outflow_amount": 4579.31,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 37,
+        "inflow_amount": 9637.32,
+        "outflow_amount": 4906.91,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 40,
+        "inflow_amount": 11204.64,
+        "outflow_amount": 5272.53,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 47,
+        "inflow_amount": 11658.57,
+        "outflow_amount": 5733.43,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 37,
+        "inflow_amount": 7398.26,
+        "outflow_amount": 3519.9,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 37,
+        "inflow_amount": 8067.65,
+        "outflow_amount": 4192.78,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 29,
+        "inflow_amount": 8060.86,
+        "outflow_amount": 4443.89,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 28,
+        "inflow_amount": 8079.13,
+        "outflow_amount": 3858.89,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 49,
+        "inflow_amount": 9484.66,
+        "outflow_amount": 4987.8,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 63,
+        "inflow_amount": 13217.95,
+        "outflow_amount": 6248.96,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 47,
+        "inflow_amount": 11181.85,
+        "outflow_amount": 6344.07,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 44,
+        "inflow_amount": 8755.01,
+        "outflow_amount": 4961.06,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 35,
+        "inflow_amount": 8472.65,
+        "outflow_amount": 4234.61,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 42,
+        "inflow_amount": 8297.09,
+        "outflow_amount": 4596.4,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 39,
+        "inflow_amount": 7911.07,
+        "outflow_amount": 3653.53,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 41,
+        "inflow_amount": 10321.64,
+        "outflow_amount": 5019.71,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 61,
+        "inflow_amount": 13341.55,
+        "outflow_amount": 6645.21,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 61,
+        "inflow_amount": 12150.87,
+        "outflow_amount": 5989.57,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 35,
+        "inflow_amount": 7156.49,
+        "outflow_amount": 3540.09,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 34,
+        "inflow_amount": 8605.72,
+        "outflow_amount": 3951.38,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 30,
+        "inflow_amount": 7521.19,
+        "outflow_amount": 4238.58,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 38,
+        "inflow_amount": 8473.4,
+        "outflow_amount": 3784.76,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 44,
+        "inflow_amount": 9658.74,
+        "outflow_amount": 4107.4,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 41,
+        "inflow_amount": 10975.72,
+        "outflow_amount": 5225.88,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 50,
+        "inflow_amount": 11590.58,
+        "outflow_amount": 5910.01,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 37,
+        "inflow_amount": 8569.83,
+        "outflow_amount": 4232.55,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 37,
+        "inflow_amount": 9029.91,
+        "outflow_amount": 3861.34,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 45,
+        "inflow_amount": 9263.71,
+        "outflow_amount": 4316.14,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 42,
+        "inflow_amount": 8400.31,
+        "outflow_amount": 4589.81,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 51,
+        "inflow_amount": 10355.37,
+        "outflow_amount": 5462.39,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 52,
+        "inflow_amount": 11519.17,
+        "outflow_amount": 5383.77,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 60,
+        "inflow_amount": 12801.83,
+        "outflow_amount": 5549.14,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 36,
+        "inflow_amount": 7848.48,
+        "outflow_amount": 3561.79,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 34,
+        "inflow_amount": 8368.35,
+        "outflow_amount": 4003.37,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 43,
+        "inflow_amount": 8484.64,
+        "outflow_amount": 4760.22,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 42,
+        "inflow_amount": 8150.91,
+        "outflow_amount": 4547.38,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 56,
+        "inflow_amount": 11527.61,
+        "outflow_amount": 6185.47,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 63,
+        "inflow_amount": 13960.6,
+        "outflow_amount": 7945.06,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 53,
+        "inflow_amount": 13928.29,
+        "outflow_amount": 7505.46,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 45,
+        "inflow_amount": 9535.63,
+        "outflow_amount": 4674.75,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 40,
+        "inflow_amount": 8233.84,
+        "outflow_amount": 4665.49,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 34,
+        "inflow_amount": 9709.33,
+        "outflow_amount": 5259.77,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 26,
+        "inflow_amount": 7414.1,
+        "outflow_amount": 3294.63,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 48,
+        "inflow_amount": 11656.73,
+        "outflow_amount": 5073.51,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 66,
+        "inflow_amount": 14661.6,
+        "outflow_amount": 7903.72,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 54,
+        "inflow_amount": 12236.48,
+        "outflow_amount": 6728.15,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 34,
+        "inflow_amount": 8879.37,
+        "outflow_amount": 4004.79,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 38,
+        "inflow_amount": 7920.34,
+        "outflow_amount": 3472.63,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 41,
+        "inflow_amount": 9735.07,
+        "outflow_amount": 5221.43,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 35,
+        "inflow_amount": 7782.91,
+        "outflow_amount": 3756.9,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 52,
+        "inflow_amount": 11612.34,
+        "outflow_amount": 5369.44,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 60,
+        "inflow_amount": 14848.36,
+        "outflow_amount": 7391.53,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 47,
+        "inflow_amount": 12318.75,
+        "outflow_amount": 5351.23,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 29,
+        "inflow_amount": 8050.35,
+        "outflow_amount": 3775.43,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 42,
+        "inflow_amount": 9996.51,
+        "outflow_amount": 4749.52,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 38,
+        "inflow_amount": 9928.06,
+        "outflow_amount": 4810.65,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 43,
+        "inflow_amount": 8865.92,
+        "outflow_amount": 5090.37,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 36,
+        "inflow_amount": 9375.96,
+        "outflow_amount": 4329.98,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 57,
+        "inflow_amount": 11573.23,
+        "outflow_amount": 5296.93,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 59,
+        "inflow_amount": 13680.61,
+        "outflow_amount": 7636.67,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 36,
+        "inflow_amount": 7594.17,
+        "outflow_amount": 3627.0,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 33,
+        "inflow_amount": 9189.11,
+        "outflow_amount": 4182.54,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 29,
+        "inflow_amount": 7667.16,
+        "outflow_amount": 4124.1,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 32,
+        "inflow_amount": 7741.03,
+        "outflow_amount": 3589.7,
+        "merchant_category": "Food & Beverage"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 62,
+        "inflow_amount": 11936.79,
+        "outflow_amount": 6473.87,
+        "merchant_category": "Food & Beverage"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 1115,
+        "inflow_amount": 262565.52,
+        "outflow_amount": 131369.34
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 1061,
+        "inflow_amount": 247363.77,
+        "outflow_amount": 125507.68
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 1191,
+        "inflow_amount": 277789.4,
+        "outflow_amount": 140286.22
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 1142,
+        "inflow_amount": 259748.79,
+        "outflow_amount": 129451.58
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 1156,
+        "inflow_amount": 270133.92,
+        "outflow_amount": 138037.14
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 1215,
+        "inflow_amount": 283027.28,
+        "outflow_amount": 142183.6
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 1203,
+        "inflow_amount": 284058.18,
+        "outflow_amount": 138747.51
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 1169,
+        "inflow_amount": 277700.04,
+        "outflow_amount": 134726.92
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 1242,
+        "inflow_amount": 290571.01,
+        "outflow_amount": 144904.81
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 1285,
+        "inflow_amount": 294200.36,
+        "outflow_amount": 148086.83
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 1279,
+        "inflow_amount": 284879.04,
+        "outflow_amount": 140414.78
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 1373,
+        "inflow_amount": 318195.8,
+        "outflow_amount": 160798.32
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 138013.67
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 139186.36
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 137727.52
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 133956.86
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 131695.41
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 127767.64
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 122475.61
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 126829.7
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 124914.52
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 126405.95
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 123899.16
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 122356.74
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 120136.49
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 118891.47
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 126010.46
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 127078.42
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 129976.77
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 131110.34
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 134722.69
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 131390.25
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 129648.37
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 130025.72
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 126370.68
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 128713.16
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 132143.4
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 133083.21
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 134993.1
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 136487.54
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 137149.45
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 138342.05
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 144534.66
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 143491.84
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 140571.84
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 136620.54
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 133605.36
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 131266.92
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 127012.61
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 126829.78
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 126863.75
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 125179.52
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 126389.5
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 127542.93
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 125733.98
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 128359.22
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 122511.51
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 119259.49
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 117847.45
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 120836.51
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 119847.3
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 119634.18
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 120323.46
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 118860.96
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 120016.89
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 122401.86
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 115714.69
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 115866.76
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 113333.87
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 117527.88
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 115757.05
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 117764.06
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 123485.59
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 120062.27
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 122121.79
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 122687.77
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 128728.59
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 131081.4
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 137606.79
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 136727.35
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 135620.75
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 133789.77
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 134196.59
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 130854.81
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 135121.06
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 139852.96
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 141707.02
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 141044.88
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 141600.99
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 138652.42
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 140774.4
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 132586.7
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 129959.0
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 124997.9
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 125045.49
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 127580.44
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 125509.25
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 124851.11
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 122284.28
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 121108.18
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 128858.19
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 132417.23
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 132541.61
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 122989.22
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 120821.49
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 116113.67
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 117269.39
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 115877.59
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 113564.9
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 114627.43
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 119148.44
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 123359.27
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 123430.84
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 120343.32
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 123146.07
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 124257.26
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 118151.16
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 122271.12
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 121143.26
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 116034.99
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 116394.85
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 119874.65
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 121179.33
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 123130.56
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 121652.14
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 122511.82
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 121323.81
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 123267.23
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 125992.25
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 124811.42
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 127063.4
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 129627.34
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 133062.16
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 128650.25
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 121502.77
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 111776.61
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 116004.15
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 116803.81
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 121604.19
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 121461.02
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 120388.09
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 124761.05
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 126599.42
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 126366.74
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 127954.16
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 130507.66
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 130072.06
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 130258.07
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 133398.42
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 133334.48
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 133892.03
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 137103.78
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 134077.44
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 135438.87
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 136511.41
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 131312.87
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 128145.92
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 127249.71
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 127569.86
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 131213.82
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 127279.19
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 125893.55
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 120972.06
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 125756.01
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 128438.06
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 131056.2
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 133553.21
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 131509.64
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 130501.09
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 127374.72
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 132154.35
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 133273.81
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 136125.76
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 137475.01
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 139020.11
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 140454.93
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 149322.07
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 155312.89
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 157153.18
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 151079.48
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 147071.57
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 150245.59
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 150616.48
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 150653.02
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 145274.93
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 148854.3
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 145983.7
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 139751.93
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 137206.88
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 133001.08
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 132170.55
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 138518.17
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 138768.28
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 135761.8
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 132786.22
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 133803.85
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 132619.9
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 133204.3
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 131845.06
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 133282.44
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 137922.52
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 142160.15
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 135660.76
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 136154.42
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 135630.8
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 134073.69
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 133449.41
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 131158.46
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 134451.27
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 130999.35
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 127196.03
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 126995.22
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 126679.2
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 126934.69
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 126411.76
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 129460.89
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 129082.71
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 126108.42
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 131585.07
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 131348.47
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 133111.01
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 129063.03
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 134674.64
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 138009.85
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 139480.95
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 138979.35
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 140245.88
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 138357.71
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 144894.36
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 147813.94
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 151704.7
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 149945.48
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 148463.82
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 145437.42
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 141831.0
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 147105.4
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 148243.11
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 149781.7
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 148497.93
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 142814.73
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 148039.85
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 149921.27
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 152795.29
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 148765.78
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 142747.53
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 143604.07
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 149172.73
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 152281.11
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 151236.78
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 150924.95
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 152124.6
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 148922.55
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 151322.51
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 152636.62
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 151755.29
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 152597.07
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 150662.42
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 150192.4
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 157773.01
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 159584.21
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 158817.46
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 150823.11
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 152309.66
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 148725.07
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 151635.13
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 149166.51
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 145724.97
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 145767.17
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 143670.09
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 149315.92
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 150418.55
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 148156.67
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 151472.57
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 151703.83
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 150040.73
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 151269.47
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 152851.49
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 155696.36
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 155480.61
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 154428.81
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 153962.69
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 145837.95
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 146207.64
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 152383.55
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 154581.64
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 155830.58
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 154560.21
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 152484.88
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 156099.54
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 154238.44
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 148214.97
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 151591.82
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 152811.88
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 152002.37
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 149441.67
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 149569.84
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 150707.79
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 148213.23
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 150938.03
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 151962.87
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 149027.46
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 146342.91
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 152858.93
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 154830.08
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 157826.04
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 155531.37
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 150199.96
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 148677.92
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 151053.15
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 149064.76
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 148778.59
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 141682.85
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 142221.24
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 143687.65
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 141819.04
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 143016.33
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 140136.89
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 141823.21
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 144691.82
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 145721.34
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 147532.13
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 144159.77
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 142614.83
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 138238.62
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 137522.45
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 134477.84
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 132811.06
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 134353.15
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 138110.67
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 138799.56
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 141708.0
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 143783.74
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 138523.93
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 138398.41
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 135403.8
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 137805.48
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 142356.93
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 137598.55
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 138179.24
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 133970.93
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 129319.7
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 125908.57
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 129056.44
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 129704.76
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 127555.44
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 131149.01
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 129468.45
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 132204.95
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 130101.07
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 124651.95
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 127059.16
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 129624.45
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 127006.69
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 128602.42
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 133682.39
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 134217.56
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 137637.62
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 137215.71
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 144955.59
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 145259.65
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 144707.27
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 151394.96
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 151612.97
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 151952.47
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 148080.39
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 147436.81
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 148005.9
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 156051.04
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 162710.58
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 162258.86
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 165676.79
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 170815.91
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 169326.97
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 163002.53
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 166102.37
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 158288.63
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 157704.21
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 144534.66,
+        "average_balance": 130517.33,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 123485.59,
+        "average_balance": 124015.24,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 122989.22,
+        "average_balance": 131063.23,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 128650.25,
+        "average_balance": 121603.38,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 128438.06,
+        "average_balance": 127214.43,
+        "bounced_payments_count": 2
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 133803.85,
+        "average_balance": 140188.22,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 138009.85,
+        "average_balance": 132116.91,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 151755.29,
+        "average_balance": 147414.46,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 154581.64,
+        "average_balance": 151375.23,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 143016.33,
+        "average_balance": 150170.53,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 131149.01,
+        "average_balance": 137380.54,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 157704.21,
+        "average_balance": 146348.91,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2025-12-02",
+        "amount": 23156.11,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2025-12-09",
+        "amount": 18071.26,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": false,
+    "employee_count": 0,
+    "monthly_contributions": []
+  }
+}

@@ -1,0 +1,4436 @@
+{
+  "business_id": "MSME-018",
+  "name": "Bright Spark Electricals",
+  "sector": "Electrical Goods Retail",
+  "archetype": "volatile_seasonal",
+  "registration_type": "partnership",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 1271653.1,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 1814396.36,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 2074002.25,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 2014053.42,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 1898168.38,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 1852704.95,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 1641711.31,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 1456886.63,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 2359595.77,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 2139961.36,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-06-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 2461807.51,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 1294362.65,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Electrical & Electronics Retail",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 8,
+        "inflow_amount": 18911.38,
+        "outflow_amount": 13385.08,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 11,
+        "inflow_amount": 25155.43,
+        "outflow_amount": 17250.84,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 11,
+        "inflow_amount": 23732.33,
+        "outflow_amount": 16445.43,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 8,
+        "inflow_amount": 16361.48,
+        "outflow_amount": 11747.81,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 6,
+        "inflow_amount": 15974.44,
+        "outflow_amount": 10848.81,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 5,
+        "inflow_amount": 14682.39,
+        "outflow_amount": 9659.98,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 7,
+        "inflow_amount": 13871.43,
+        "outflow_amount": 8767.36,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 9,
+        "inflow_amount": 19843.93,
+        "outflow_amount": 11377.04,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 7,
+        "inflow_amount": 22757.13,
+        "outflow_amount": 12950.24,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 12,
+        "inflow_amount": 25424.96,
+        "outflow_amount": 17865.5,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 8,
+        "inflow_amount": 16052.2,
+        "outflow_amount": 10745.02,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 6,
+        "inflow_amount": 16737.51,
+        "outflow_amount": 11090.62,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 6,
+        "inflow_amount": 13986.34,
+        "outflow_amount": 8043.1,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 7,
+        "inflow_amount": 15092.33,
+        "outflow_amount": 8452.22,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 8,
+        "inflow_amount": 19540.27,
+        "outflow_amount": 12204.6,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 11,
+        "inflow_amount": 24690.55,
+        "outflow_amount": 17615.46,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 9,
+        "inflow_amount": 23939.05,
+        "outflow_amount": 13120.59,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 6,
+        "inflow_amount": 16053.97,
+        "outflow_amount": 9328.67,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 6,
+        "inflow_amount": 15732.62,
+        "outflow_amount": 9615.19,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 5,
+        "inflow_amount": 16491.55,
+        "outflow_amount": 10699.82,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 6,
+        "inflow_amount": 15239.77,
+        "outflow_amount": 10798.41,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 8,
+        "inflow_amount": 18651.95,
+        "outflow_amount": 13255.05,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 10,
+        "inflow_amount": 27801.43,
+        "outflow_amount": 19127.33,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 12,
+        "inflow_amount": 24094.71,
+        "outflow_amount": 15857.94,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 8,
+        "inflow_amount": 17685.74,
+        "outflow_amount": 12413.58,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 6,
+        "inflow_amount": 14432.67,
+        "outflow_amount": 10392.9,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 7,
+        "inflow_amount": 14738.67,
+        "outflow_amount": 9828.22,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 6,
+        "inflow_amount": 14861.88,
+        "outflow_amount": 8681.99,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 8,
+        "inflow_amount": 21766.03,
+        "outflow_amount": 14447.48,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 8,
+        "inflow_amount": 22895.29,
+        "outflow_amount": 16546.39,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 10,
+        "inflow_amount": 20367.52,
+        "outflow_amount": 13681.7,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 11,
+        "inflow_amount": 25102.47,
+        "outflow_amount": 16247.63,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 11,
+        "inflow_amount": 26903.41,
+        "outflow_amount": 15889.7,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 12,
+        "inflow_amount": 24939.52,
+        "outflow_amount": 16170.41,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 11,
+        "inflow_amount": 25519.16,
+        "outflow_amount": 14095.62,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 13,
+        "inflow_amount": 26578.89,
+        "outflow_amount": 18170.42,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 18,
+        "inflow_amount": 40465.81,
+        "outflow_amount": 25667.8,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 16,
+        "inflow_amount": 34697.22,
+        "outflow_amount": 22501.67,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 11,
+        "inflow_amount": 21718.27,
+        "outflow_amount": 13434.46,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 9,
+        "inflow_amount": 26045.48,
+        "outflow_amount": 16824.13,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 9,
+        "inflow_amount": 23411.36,
+        "outflow_amount": 12833.14,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 13,
+        "inflow_amount": 26020.96,
+        "outflow_amount": 17520.82,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 12,
+        "inflow_amount": 31588.8,
+        "outflow_amount": 19196.14,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 12,
+        "inflow_amount": 34941.87,
+        "outflow_amount": 23706.67,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 16,
+        "inflow_amount": 33409.7,
+        "outflow_amount": 23820.48,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 9,
+        "inflow_amount": 24502.91,
+        "outflow_amount": 17433.73,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 12,
+        "inflow_amount": 26786.38,
+        "outflow_amount": 16639.18,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 9,
+        "inflow_amount": 23447.29,
+        "outflow_amount": 14980.74,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 9,
+        "inflow_amount": 23222.22,
+        "outflow_amount": 14752.64,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 10,
+        "inflow_amount": 27938.17,
+        "outflow_amount": 18192.11,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 21,
+        "inflow_amount": 42756.82,
+        "outflow_amount": 28694.09,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 16,
+        "inflow_amount": 36908.04,
+        "outflow_amount": 25524.76,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 10,
+        "inflow_amount": 22146.64,
+        "outflow_amount": 11897.47,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 9,
+        "inflow_amount": 25138.0,
+        "outflow_amount": 17986.33,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 11,
+        "inflow_amount": 26404.7,
+        "outflow_amount": 14657.78,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 10,
+        "inflow_amount": 24098.26,
+        "outflow_amount": 13190.88,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 13,
+        "inflow_amount": 33079.93,
+        "outflow_amount": 18122.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 16,
+        "inflow_amount": 38371.51,
+        "outflow_amount": 26240.06,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 14,
+        "inflow_amount": 35270.51,
+        "outflow_amount": 19674.09,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 9,
+        "inflow_amount": 24719.26,
+        "outflow_amount": 15774.7,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 10,
+        "inflow_amount": 23061.9,
+        "outflow_amount": 15883.1,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 11,
+        "inflow_amount": 26353.26,
+        "outflow_amount": 17483.84,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 12,
+        "inflow_amount": 23602.25,
+        "outflow_amount": 16119.78,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 14,
+        "inflow_amount": 31212.37,
+        "outflow_amount": 21005.44,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 18,
+        "inflow_amount": 45708.03,
+        "outflow_amount": 32483.23,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 17,
+        "inflow_amount": 42370.36,
+        "outflow_amount": 22693.45,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 10,
+        "inflow_amount": 28033.06,
+        "outflow_amount": 16981.32,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 8,
+        "inflow_amount": 22615.6,
+        "outflow_amount": 13452.21,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 8,
+        "inflow_amount": 24734.78,
+        "outflow_amount": 15638.57,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 9,
+        "inflow_amount": 24058.77,
+        "outflow_amount": 17310.48,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 10,
+        "inflow_amount": 28259.25,
+        "outflow_amount": 16814.63,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 16,
+        "inflow_amount": 35883.69,
+        "outflow_amount": 19335.96,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 18,
+        "inflow_amount": 35650.01,
+        "outflow_amount": 25565.06,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 13,
+        "inflow_amount": 25905.98,
+        "outflow_amount": 18738.95,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 10,
+        "inflow_amount": 28288.33,
+        "outflow_amount": 18193.13,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 11,
+        "inflow_amount": 24029.01,
+        "outflow_amount": 13061.43,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 9,
+        "inflow_amount": 23281.23,
+        "outflow_amount": 14820.25,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 15,
+        "inflow_amount": 30903.51,
+        "outflow_amount": 20392.85,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 18,
+        "inflow_amount": 37288.32,
+        "outflow_amount": 23249.98,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 15,
+        "inflow_amount": 38830.49,
+        "outflow_amount": 23200.15,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 12,
+        "inflow_amount": 25994.19,
+        "outflow_amount": 16816.34,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 12,
+        "inflow_amount": 27374.47,
+        "outflow_amount": 19483.77,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 9,
+        "inflow_amount": 24438.75,
+        "outflow_amount": 15299.43,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 9,
+        "inflow_amount": 22413.85,
+        "outflow_amount": 12602.28,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 16,
+        "inflow_amount": 33402.27,
+        "outflow_amount": 20229.25,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 16,
+        "inflow_amount": 41974.21,
+        "outflow_amount": 27692.62,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 12,
+        "inflow_amount": 34690.66,
+        "outflow_amount": 23226.63,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 7,
+        "inflow_amount": 22750.22,
+        "outflow_amount": 12451.4,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 12,
+        "inflow_amount": 28501.83,
+        "outflow_amount": 15567.74,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 13,
+        "inflow_amount": 28381.94,
+        "outflow_amount": 20360.44,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 9,
+        "inflow_amount": 25887.85,
+        "outflow_amount": 15894.81,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 14,
+        "inflow_amount": 28786.18,
+        "outflow_amount": 19644.59,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 18,
+        "inflow_amount": 40354.1,
+        "outflow_amount": 24281.6,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 12,
+        "inflow_amount": 34326.41,
+        "outflow_amount": 24245.4,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 12,
+        "inflow_amount": 26773.07,
+        "outflow_amount": 18372.21,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 12,
+        "inflow_amount": 25430.49,
+        "outflow_amount": 16734.52,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 9,
+        "inflow_amount": 22384.46,
+        "outflow_amount": 14406.61,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 11,
+        "inflow_amount": 22299.78,
+        "outflow_amount": 15638.53,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 11,
+        "inflow_amount": 30373.69,
+        "outflow_amount": 21781.93,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 16,
+        "inflow_amount": 43840.14,
+        "outflow_amount": 27898.13,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 14,
+        "inflow_amount": 39939.3,
+        "outflow_amount": 28259.48,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 8,
+        "inflow_amount": 21648.67,
+        "outflow_amount": 15319.5,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 10,
+        "inflow_amount": 23337.2,
+        "outflow_amount": 16850.06,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 9,
+        "inflow_amount": 26271.3,
+        "outflow_amount": 16341.25,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 8,
+        "inflow_amount": 21558.36,
+        "outflow_amount": 11791.08,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 11,
+        "inflow_amount": 30383.03,
+        "outflow_amount": 18652.99,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 14,
+        "inflow_amount": 37013.33,
+        "outflow_amount": 25360.05,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 15,
+        "inflow_amount": 34011.53,
+        "outflow_amount": 24426.66,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 12,
+        "inflow_amount": 27928.04,
+        "outflow_amount": 18315.89,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 10,
+        "inflow_amount": 27131.35,
+        "outflow_amount": 16662.95,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 8,
+        "inflow_amount": 23899.69,
+        "outflow_amount": 16248.33,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 13,
+        "inflow_amount": 27292.97,
+        "outflow_amount": 19555.05,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 9,
+        "inflow_amount": 25923.91,
+        "outflow_amount": 14810.12,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 16,
+        "inflow_amount": 43871.49,
+        "outflow_amount": 29293.88,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 15,
+        "inflow_amount": 38995.21,
+        "outflow_amount": 23729.81,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 7,
+        "inflow_amount": 21456.65,
+        "outflow_amount": 11777.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 11,
+        "inflow_amount": 28196.81,
+        "outflow_amount": 17673.42,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 9,
+        "inflow_amount": 27122.24,
+        "outflow_amount": 15430.67,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 8,
+        "inflow_amount": 21824.29,
+        "outflow_amount": 13639.03,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 9,
+        "inflow_amount": 30337.72,
+        "outflow_amount": 16286.24,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 17,
+        "inflow_amount": 34784.5,
+        "outflow_amount": 24084.17,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 12,
+        "inflow_amount": 39121.01,
+        "outflow_amount": 21021.7,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 12,
+        "inflow_amount": 25472.69,
+        "outflow_amount": 17309.9,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 9,
+        "inflow_amount": 26150.39,
+        "outflow_amount": 16183.67,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 8,
+        "inflow_amount": 22473.78,
+        "outflow_amount": 15153.56,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 8,
+        "inflow_amount": 23660.8,
+        "outflow_amount": 13440.24,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 11,
+        "inflow_amount": 27300.06,
+        "outflow_amount": 15501.49,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 11,
+        "inflow_amount": 31395.64,
+        "outflow_amount": 21321.13,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 11,
+        "inflow_amount": 29507.0,
+        "outflow_amount": 16019.65,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 8,
+        "inflow_amount": 21797.6,
+        "outflow_amount": 12152.17,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 9,
+        "inflow_amount": 20832.0,
+        "outflow_amount": 12125.6,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 10,
+        "inflow_amount": 21980.32,
+        "outflow_amount": 13000.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 9,
+        "inflow_amount": 21340.54,
+        "outflow_amount": 14472.19,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 11,
+        "inflow_amount": 26251.03,
+        "outflow_amount": 17179.34,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 17,
+        "inflow_amount": 36459.0,
+        "outflow_amount": 25962.46,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 11,
+        "inflow_amount": 29191.59,
+        "outflow_amount": 17002.78,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 11,
+        "inflow_amount": 22901.86,
+        "outflow_amount": 14921.16,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 13,
+        "inflow_amount": 25941.07,
+        "outflow_amount": 17226.42,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 8,
+        "inflow_amount": 22771.3,
+        "outflow_amount": 14862.62,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 10,
+        "inflow_amount": 21583.86,
+        "outflow_amount": 13330.98,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 9,
+        "inflow_amount": 25239.13,
+        "outflow_amount": 17573.26,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 17,
+        "inflow_amount": 40746.64,
+        "outflow_amount": 25305.24,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 12,
+        "inflow_amount": 33986.81,
+        "outflow_amount": 18755.28,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 10,
+        "inflow_amount": 26033.48,
+        "outflow_amount": 16701.99,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 9,
+        "inflow_amount": 20196.51,
+        "outflow_amount": 12671.3,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 9,
+        "inflow_amount": 22233.98,
+        "outflow_amount": 14967.33,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 9,
+        "inflow_amount": 22573.75,
+        "outflow_amount": 13000.18,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 12,
+        "inflow_amount": 24987.49,
+        "outflow_amount": 16096.39,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 14,
+        "inflow_amount": 32211.49,
+        "outflow_amount": 19262.94,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 12,
+        "inflow_amount": 32517.56,
+        "outflow_amount": 19389.05,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 10,
+        "inflow_amount": 20771.21,
+        "outflow_amount": 13174.07,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 10,
+        "inflow_amount": 26385.18,
+        "outflow_amount": 14519.5,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 11,
+        "inflow_amount": 26728.13,
+        "outflow_amount": 18984.99,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 9,
+        "inflow_amount": 19971.1,
+        "outflow_amount": 13316.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 12,
+        "inflow_amount": 23674.3,
+        "outflow_amount": 16582.77,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 15,
+        "inflow_amount": 32560.04,
+        "outflow_amount": 23562.72,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 16,
+        "inflow_amount": 36411.76,
+        "outflow_amount": 20804.9,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 9,
+        "inflow_amount": 18814.28,
+        "outflow_amount": 13520.05,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 11,
+        "inflow_amount": 22026.4,
+        "outflow_amount": 15182.0,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 11,
+        "inflow_amount": 23236.13,
+        "outflow_amount": 14967.18,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 10,
+        "inflow_amount": 20331.4,
+        "outflow_amount": 13574.77,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 12,
+        "inflow_amount": 28605.93,
+        "outflow_amount": 17849.19,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 11,
+        "inflow_amount": 29275.32,
+        "outflow_amount": 17324.83,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 13,
+        "inflow_amount": 28023.43,
+        "outflow_amount": 18948.02,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 9,
+        "inflow_amount": 22431.03,
+        "outflow_amount": 15459.64,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 7,
+        "inflow_amount": 20694.99,
+        "outflow_amount": 11957.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 10,
+        "inflow_amount": 25315.33,
+        "outflow_amount": 18271.08,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 9,
+        "inflow_amount": 22007.2,
+        "outflow_amount": 12735.27,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 11,
+        "inflow_amount": 29367.95,
+        "outflow_amount": 17243.64,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 14,
+        "inflow_amount": 29669.01,
+        "outflow_amount": 20011.86,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 14,
+        "inflow_amount": 31248.51,
+        "outflow_amount": 17594.22,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 7,
+        "inflow_amount": 20897.2,
+        "outflow_amount": 13465.82,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 12,
+        "inflow_amount": 24599.78,
+        "outflow_amount": 16276.66,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 9,
+        "inflow_amount": 23864.17,
+        "outflow_amount": 16937.68,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 9,
+        "inflow_amount": 19855.33,
+        "outflow_amount": 12445.83,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 10,
+        "inflow_amount": 23136.12,
+        "outflow_amount": 13700.08,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 17,
+        "inflow_amount": 37137.72,
+        "outflow_amount": 23162.84,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 13,
+        "inflow_amount": 33239.1,
+        "outflow_amount": 21085.24,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 8,
+        "inflow_amount": 18885.93,
+        "outflow_amount": 13548.63,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 8,
+        "inflow_amount": 20388.76,
+        "outflow_amount": 11956.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 10,
+        "inflow_amount": 24903.65,
+        "outflow_amount": 13367.25,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 7,
+        "inflow_amount": 19683.31,
+        "outflow_amount": 13000.14,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 12,
+        "inflow_amount": 27446.23,
+        "outflow_amount": 16169.33,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 13,
+        "inflow_amount": 30856.71,
+        "outflow_amount": 21057.7,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 12,
+        "inflow_amount": 30919.39,
+        "outflow_amount": 21185.92,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 8,
+        "inflow_amount": 21577.01,
+        "outflow_amount": 12058.76,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 11,
+        "inflow_amount": 22516.68,
+        "outflow_amount": 15720.6,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 7,
+        "inflow_amount": 19006.41,
+        "outflow_amount": 13313.47,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 8,
+        "inflow_amount": 24181.35,
+        "outflow_amount": 17247.59,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 13,
+        "inflow_amount": 27253.42,
+        "outflow_amount": 16995.8,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 12,
+        "inflow_amount": 33982.59,
+        "outflow_amount": 19663.68,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 9,
+        "inflow_amount": 27439.68,
+        "outflow_amount": 17248.43,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 9,
+        "inflow_amount": 20303.54,
+        "outflow_amount": 13468.42,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 11,
+        "inflow_amount": 24020.05,
+        "outflow_amount": 16328.68,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 6,
+        "inflow_amount": 18835.68,
+        "outflow_amount": 13498.93,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 10,
+        "inflow_amount": 21103.21,
+        "outflow_amount": 11798.0,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 11,
+        "inflow_amount": 25393.33,
+        "outflow_amount": 16378.5,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 16,
+        "inflow_amount": 32604.64,
+        "outflow_amount": 20949.2,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 14,
+        "inflow_amount": 30527.27,
+        "outflow_amount": 20588.92,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 10,
+        "inflow_amount": 22526.51,
+        "outflow_amount": 15229.57,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 9,
+        "inflow_amount": 24984.67,
+        "outflow_amount": 13858.81,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 11,
+        "inflow_amount": 23817.88,
+        "outflow_amount": 14937.47,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 11,
+        "inflow_amount": 24443.74,
+        "outflow_amount": 13279.5,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 10,
+        "inflow_amount": 23125.12,
+        "outflow_amount": 14244.94,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 15,
+        "inflow_amount": 35006.79,
+        "outflow_amount": 22064.63,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 11,
+        "inflow_amount": 34478.46,
+        "outflow_amount": 19098.3,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 8,
+        "inflow_amount": 20236.92,
+        "outflow_amount": 13915.64,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 8,
+        "inflow_amount": 19663.58,
+        "outflow_amount": 14108.82,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 8,
+        "inflow_amount": 18870.67,
+        "outflow_amount": 10565.86,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 10,
+        "inflow_amount": 24908.25,
+        "outflow_amount": 14677.28,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 13,
+        "inflow_amount": 30663.23,
+        "outflow_amount": 21024.32,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 13,
+        "inflow_amount": 38469.49,
+        "outflow_amount": 24477.48,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 11,
+        "inflow_amount": 25107.15,
+        "outflow_amount": 13464.41,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 7,
+        "inflow_amount": 17459.64,
+        "outflow_amount": 12432.82,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 8,
+        "inflow_amount": 21154.45,
+        "outflow_amount": 14201.44,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 8,
+        "inflow_amount": 21202.12,
+        "outflow_amount": 14029.47,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 6,
+        "inflow_amount": 16307.2,
+        "outflow_amount": 10648.05,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 9,
+        "inflow_amount": 22943.77,
+        "outflow_amount": 15331.09,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 12,
+        "inflow_amount": 30464.04,
+        "outflow_amount": 16868.13,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 10,
+        "inflow_amount": 26012.69,
+        "outflow_amount": 14485.44,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 7,
+        "inflow_amount": 17206.79,
+        "outflow_amount": 12057.25,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 8,
+        "inflow_amount": 18838.06,
+        "outflow_amount": 11933.19,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 6,
+        "inflow_amount": 18769.02,
+        "outflow_amount": 10594.68,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 8,
+        "inflow_amount": 20334.79,
+        "outflow_amount": 11313.34,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 8,
+        "inflow_amount": 22647.65,
+        "outflow_amount": 14967.0,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 14,
+        "inflow_amount": 31958.75,
+        "outflow_amount": 18737.83,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 13,
+        "inflow_amount": 27288.61,
+        "outflow_amount": 18098.64,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 7,
+        "inflow_amount": 16019.78,
+        "outflow_amount": 11472.4,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 7,
+        "inflow_amount": 18088.53,
+        "outflow_amount": 11519.43,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 8,
+        "inflow_amount": 16457.9,
+        "outflow_amount": 10529.21,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 7,
+        "inflow_amount": 16321.06,
+        "outflow_amount": 9202.18,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 10,
+        "inflow_amount": 25952.61,
+        "outflow_amount": 14187.15,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 13,
+        "inflow_amount": 29793.04,
+        "outflow_amount": 20483.83,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 10,
+        "inflow_amount": 25516.18,
+        "outflow_amount": 14733.01,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 8,
+        "inflow_amount": 19765.08,
+        "outflow_amount": 10943.38,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 9,
+        "inflow_amount": 19122.88,
+        "outflow_amount": 12319.84,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 7,
+        "inflow_amount": 18525.05,
+        "outflow_amount": 12317.82,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 8,
+        "inflow_amount": 19261.4,
+        "outflow_amount": 11237.12,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 9,
+        "inflow_amount": 19813.47,
+        "outflow_amount": 14262.81,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 12,
+        "inflow_amount": 29152.91,
+        "outflow_amount": 15653.24,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 12,
+        "inflow_amount": 27211.19,
+        "outflow_amount": 14938.81,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 7,
+        "inflow_amount": 17357.17,
+        "outflow_amount": 10333.71,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 7,
+        "inflow_amount": 15865.67,
+        "outflow_amount": 10081.17,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 13,
+        "inflow_amount": 32018.06,
+        "outflow_amount": 21024.17,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 12,
+        "inflow_amount": 31174.02,
+        "outflow_amount": 16750.83,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 14,
+        "inflow_amount": 40049.72,
+        "outflow_amount": 27718.11,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 18,
+        "inflow_amount": 48118.28,
+        "outflow_amount": 32680.47,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 19,
+        "inflow_amount": 47010.2,
+        "outflow_amount": 28917.1,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 11,
+        "inflow_amount": 28216.72,
+        "outflow_amount": 18415.93,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 14,
+        "inflow_amount": 28309.6,
+        "outflow_amount": 18708.24,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 11,
+        "inflow_amount": 33753.84,
+        "outflow_amount": 19802.96,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 13,
+        "inflow_amount": 27988.07,
+        "outflow_amount": 18230.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 16,
+        "inflow_amount": 36707.07,
+        "outflow_amount": 25362.68,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 19,
+        "inflow_amount": 46356.34,
+        "outflow_amount": 27888.04,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 15,
+        "inflow_amount": 46513.77,
+        "outflow_amount": 27811.35,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 12,
+        "inflow_amount": 35716.29,
+        "outflow_amount": 20618.79,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 11,
+        "inflow_amount": 28641.41,
+        "outflow_amount": 18315.37,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 13,
+        "inflow_amount": 32300.38,
+        "outflow_amount": 21071.2,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 13,
+        "inflow_amount": 28059.04,
+        "outflow_amount": 15522.87,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 14,
+        "inflow_amount": 36694.04,
+        "outflow_amount": 21243.53,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 21,
+        "inflow_amount": 50380.46,
+        "outflow_amount": 30773.69,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 25,
+        "inflow_amount": 51614.7,
+        "outflow_amount": 36779.97,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 16,
+        "inflow_amount": 35156.93,
+        "outflow_amount": 18865.49,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 12,
+        "inflow_amount": 32492.83,
+        "outflow_amount": 19350.02,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 12,
+        "inflow_amount": 31315.38,
+        "outflow_amount": 19198.13,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 14,
+        "inflow_amount": 31410.07,
+        "outflow_amount": 18376.32,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 17,
+        "inflow_amount": 35220.33,
+        "outflow_amount": 24983.03,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 21,
+        "inflow_amount": 41727.14,
+        "outflow_amount": 27771.16,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 17,
+        "inflow_amount": 47015.88,
+        "outflow_amount": 32155.11,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 15,
+        "inflow_amount": 31495.3,
+        "outflow_amount": 19481.72,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 13,
+        "inflow_amount": 29495.2,
+        "outflow_amount": 19357.31,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 14,
+        "inflow_amount": 29169.21,
+        "outflow_amount": 20582.96,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 12,
+        "inflow_amount": 33551.72,
+        "outflow_amount": 21626.97,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 11,
+        "inflow_amount": 30445.07,
+        "outflow_amount": 17939.77,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 17,
+        "inflow_amount": 38782.59,
+        "outflow_amount": 23049.24,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 19,
+        "inflow_amount": 43538.65,
+        "outflow_amount": 24877.37,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 11,
+        "inflow_amount": 25162.49,
+        "outflow_amount": 15108.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 8,
+        "inflow_amount": 22977.61,
+        "outflow_amount": 15712.31,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 13,
+        "inflow_amount": 28698.02,
+        "outflow_amount": 17771.44,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 15,
+        "inflow_amount": 29386.93,
+        "outflow_amount": 21039.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 15,
+        "inflow_amount": 31469.15,
+        "outflow_amount": 19686.14,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 17,
+        "inflow_amount": 36733.62,
+        "outflow_amount": 24736.36,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 17,
+        "inflow_amount": 37204.25,
+        "outflow_amount": 20211.11,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 11,
+        "inflow_amount": 28643.09,
+        "outflow_amount": 17813.18,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 9,
+        "inflow_amount": 22712.06,
+        "outflow_amount": 14800.16,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 9,
+        "inflow_amount": 27569.68,
+        "outflow_amount": 17025.25,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 10,
+        "inflow_amount": 27109.22,
+        "outflow_amount": 16738.46,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 12,
+        "inflow_amount": 35127.39,
+        "outflow_amount": 21078.14,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 17,
+        "inflow_amount": 38500.02,
+        "outflow_amount": 22668.82,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 12,
+        "inflow_amount": 36275.76,
+        "outflow_amount": 20808.63,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 11,
+        "inflow_amount": 27288.04,
+        "outflow_amount": 18625.22,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 11,
+        "inflow_amount": 25817.31,
+        "outflow_amount": 18637.13,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 13,
+        "inflow_amount": 26835.38,
+        "outflow_amount": 18228.67,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 9,
+        "inflow_amount": 27884.77,
+        "outflow_amount": 16177.65,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 16,
+        "inflow_amount": 35848.95,
+        "outflow_amount": 19913.78,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 15,
+        "inflow_amount": 43661.21,
+        "outflow_amount": 24792.62,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 13,
+        "inflow_amount": 41101.4,
+        "outflow_amount": 23123.0,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 13,
+        "inflow_amount": 27975.86,
+        "outflow_amount": 19621.83,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 9,
+        "inflow_amount": 23431.32,
+        "outflow_amount": 15126.29,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 11,
+        "inflow_amount": 26916.61,
+        "outflow_amount": 14489.65,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 9,
+        "inflow_amount": 26383.47,
+        "outflow_amount": 16065.31,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 12,
+        "inflow_amount": 34377.3,
+        "outflow_amount": 23004.74,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 15,
+        "inflow_amount": 34995.44,
+        "outflow_amount": 22921.33,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 12,
+        "inflow_amount": 37557.79,
+        "outflow_amount": 21004.95,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 13,
+        "inflow_amount": 29010.1,
+        "outflow_amount": 16410.89,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 12,
+        "inflow_amount": 33645.02,
+        "outflow_amount": 18120.33,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 13,
+        "inflow_amount": 29221.51,
+        "outflow_amount": 16289.46,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 10,
+        "inflow_amount": 28044.64,
+        "outflow_amount": 19552.92,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 14,
+        "inflow_amount": 35755.2,
+        "outflow_amount": 20970.74,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 19,
+        "inflow_amount": 49050.2,
+        "outflow_amount": 32569.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 19,
+        "inflow_amount": 49087.89,
+        "outflow_amount": 30488.46,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 15,
+        "inflow_amount": 33642.3,
+        "outflow_amount": 20426.98,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 13,
+        "inflow_amount": 28389.5,
+        "outflow_amount": 17885.92,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 12,
+        "inflow_amount": 30686.11,
+        "outflow_amount": 20987.29,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 12,
+        "inflow_amount": 34016.18,
+        "outflow_amount": 22130.15,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 13,
+        "inflow_amount": 34638.43,
+        "outflow_amount": 22049.67,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 21,
+        "inflow_amount": 52626.67,
+        "outflow_amount": 35065.69,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 15,
+        "inflow_amount": 39387.25,
+        "outflow_amount": 28097.84,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 11,
+        "inflow_amount": 32085.75,
+        "outflow_amount": 22754.98,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 14,
+        "inflow_amount": 32041.95,
+        "outflow_amount": 22816.28,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 15,
+        "inflow_amount": 34196.29,
+        "outflow_amount": 21378.8,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 10,
+        "inflow_amount": 28665.87,
+        "outflow_amount": 19398.4,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 19,
+        "inflow_amount": 37409.23,
+        "outflow_amount": 26146.93,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 18,
+        "inflow_amount": 49878.98,
+        "outflow_amount": 30706.41,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 19,
+        "inflow_amount": 45141.31,
+        "outflow_amount": 30430.29,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 12,
+        "inflow_amount": 34408.55,
+        "outflow_amount": 20718.73,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 11,
+        "inflow_amount": 29823.58,
+        "outflow_amount": 19170.42,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 12,
+        "inflow_amount": 32431.42,
+        "outflow_amount": 20043.4,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 14,
+        "inflow_amount": 31008.36,
+        "outflow_amount": 22182.2,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 13,
+        "inflow_amount": 34654.53,
+        "outflow_amount": 19433.17,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 26,
+        "inflow_amount": 53942.68,
+        "outflow_amount": 35688.1,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 23,
+        "inflow_amount": 49263.65,
+        "outflow_amount": 30360.08,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 15,
+        "inflow_amount": 34407.26,
+        "outflow_amount": 22140.83,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 15,
+        "inflow_amount": 35543.75,
+        "outflow_amount": 22455.45,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 7,
+        "inflow_amount": 17882.21,
+        "outflow_amount": 12140.81,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 5,
+        "inflow_amount": 16003.21,
+        "outflow_amount": 8701.25,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 10,
+        "inflow_amount": 22900.2,
+        "outflow_amount": 15880.3,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 11,
+        "inflow_amount": 25640.82,
+        "outflow_amount": 16824.77,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 10,
+        "inflow_amount": 25124.1,
+        "outflow_amount": 14254.54,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 7,
+        "inflow_amount": 16746.92,
+        "outflow_amount": 9689.38,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 7,
+        "inflow_amount": 18116.77,
+        "outflow_amount": 9723.53,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 8,
+        "inflow_amount": 16925.21,
+        "outflow_amount": 11680.42,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 5,
+        "inflow_amount": 16016.22,
+        "outflow_amount": 9317.8,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 7,
+        "inflow_amount": 18312.51,
+        "outflow_amount": 13061.45,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 9,
+        "inflow_amount": 22615.38,
+        "outflow_amount": 12790.11,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 10,
+        "inflow_amount": 21116.21,
+        "outflow_amount": 12100.93,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 6,
+        "inflow_amount": 18503.19,
+        "outflow_amount": 10880.79,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 7,
+        "inflow_amount": 18837.48,
+        "outflow_amount": 13583.51,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 6,
+        "inflow_amount": 16519.36,
+        "outflow_amount": 11596.28,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 7,
+        "inflow_amount": 15527.63,
+        "outflow_amount": 9765.97,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 7,
+        "inflow_amount": 18660.64,
+        "outflow_amount": 10920.32,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 9,
+        "inflow_amount": 25597.49,
+        "outflow_amount": 15689.35,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 9,
+        "inflow_amount": 23173.94,
+        "outflow_amount": 14701.72,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 8,
+        "inflow_amount": 18648.39,
+        "outflow_amount": 10619.14,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 7,
+        "inflow_amount": 16175.01,
+        "outflow_amount": 11209.53,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 8,
+        "inflow_amount": 16438.85,
+        "outflow_amount": 10546.42,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 7,
+        "inflow_amount": 17899.72,
+        "outflow_amount": 11464.94,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 10,
+        "inflow_amount": 20890.51,
+        "outflow_amount": 12234.68,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 9,
+        "inflow_amount": 26370.44,
+        "outflow_amount": 18987.95,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 9,
+        "inflow_amount": 26335.11,
+        "outflow_amount": 15068.78,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 5,
+        "inflow_amount": 15133.98,
+        "outflow_amount": 9531.71,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 8,
+        "inflow_amount": 16972.91,
+        "outflow_amount": 10697.03,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 6,
+        "inflow_amount": 17746.9,
+        "outflow_amount": 10262.32,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 6,
+        "inflow_amount": 16001.75,
+        "outflow_amount": 9585.78,
+        "merchant_category": "Electrical & Electronics Retail"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 7,
+        "inflow_amount": 19926.19,
+        "outflow_amount": 12697.06,
+        "merchant_category": "Electrical & Electronics Retail"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 245,
+        "inflow_amount": 587566.95,
+        "outflow_amount": 386244.37
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 362,
+        "inflow_amount": 859195.46,
+        "outflow_amount": 545723.26
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 383,
+        "inflow_amount": 921604.72,
+        "outflow_amount": 585810.01
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 346,
+        "inflow_amount": 897830.74,
+        "outflow_amount": 578888.77
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 331,
+        "inflow_amount": 811621.89,
+        "outflow_amount": 507567.39
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 338,
+        "inflow_amount": 788558.12,
+        "outflow_amount": 505079.87
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 294,
+        "inflow_amount": 720859.56,
+        "outflow_amount": 457927.52
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 276,
+        "inflow_amount": 671918.65,
+        "outflow_amount": 413377.89
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 447,
+        "inflow_amount": 1087672.0,
+        "outflow_amount": 689384.03
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 392,
+        "inflow_amount": 980410.45,
+        "outflow_amount": 602796.57
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 448,
+        "inflow_amount": 1102104.16,
+        "outflow_amount": 706870.32
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 237,
+        "inflow_amount": 602759.25,
+        "outflow_amount": 376208.57
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 334336.98
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 327177.67
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 332240.36
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 310913.7
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 310795.42
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 319272.75
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 274625.69
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 266205.61
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 264964.52
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 271759.11
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 272574.75
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 270340.46
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 280581.39
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 280301.93
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 298921.83
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 306318.75
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 293717.96
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 302508.46
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 327978.1
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 350933.83
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 351029.96
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 340375.38
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 331575.3
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 349106.61
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 342035.99
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 329308.56
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 297046.2
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 303004.84
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 304333.85
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 291451.91
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 307122.93
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 330232.26
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 357450.92
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 372795.09
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 388047.33
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 385929.9
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 385260.22
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 416337.53
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 403311.09
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 417393.24
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 426229.02
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 429207.66
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 422315.71
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 400076.12
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 425270.22
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 424987.91
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 419048.73
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 403402.02
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 407001.14
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 391823.12
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 399722.49
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 402531.91
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 425140.99
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 422644.73
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 412607.93
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 410005.78
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 398502.86
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 423268.67
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 396078.56
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 399893.96
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 386616.3
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 443915.98
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 424371.79
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 427994.45
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 445711.56
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 424747.96
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 414925.52
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 461556.6
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 474959.78
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 488850.25
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 498044.86
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 484142.49
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 479447.74
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 495650.42
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 506342.32
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 506088.36
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 511610.64
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 501358.62
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 486563.24
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 482508.53
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 470799.32
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 488819.2
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 488228.88
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 486179.1
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 515165.71
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 520437.84
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 509206.33
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 472891.69
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 470231.43
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 452030.09
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 430051.66
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 480552.37
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 453810.5
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 463270.53
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 465822.6
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 486839.18
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 488267.41
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 458068.12
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 458028.72
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 463629.56
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 511691.38
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 530179.23
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 534118.99
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 519102.54
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 512978.62
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 509064.55
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 497593.22
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 494400.0
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 507498.02
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 514536.62
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 526804.69
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 503364.18
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 519966.97
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 516197.66
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 507988.42
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 516209.56
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 489087.03
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 466539.5
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 460641.03
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 468652.18
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 481387.03
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 475572.37
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 452570.85
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 461337.57
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 424879.64
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 387629.99
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 405249.6
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 422591.74
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 408969.34
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 414100.77
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 416657.35
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 438376.44
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 420935.62
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 433756.24
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 484551.54
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 461162.72
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 455099.71
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 471682.6
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 450998.01
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 449894.24
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 460350.36
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 434248.76
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 419000.27
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 401903.98
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 411647.07
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 426263.69
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 405162.16
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 411119.07
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 416185.8
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 396964.63
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 427526.63
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 435853.99
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 408017.16
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 421509.6
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 401289.77
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 412320.96
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 394927.96
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 357894.32
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 371935.97
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 396195.26
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 400557.26
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 417395.02
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 400512.1
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 407507.45
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 404599.78
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 429236.71
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 432885.74
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 406400.36
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 409969.78
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 407056.17
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 397745.42
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 417018.39
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 416940.52
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 437290.11
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 435473.11
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 433716.28
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 433840.15
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 443229.55
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 455495.24
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 445770.39
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 447595.47
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 436985.22
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 433769.42
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 451797.17
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 446817.34
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 448050.22
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 432151.71
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 434028.63
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 456082.78
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 440947.72
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 457150.43
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 429574.84
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 442322.45
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 439450.15
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 440744.78
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 435260.14
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 419940.51
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 408901.96
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 412449.89
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 401896.26
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 416502.87
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 421627.66
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 437864.17
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 439313.32
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 448257.03
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 439610.74
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 444063.49
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 439125.81
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 420009.33
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 410396.47
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 398251.56
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 413550.06
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 425145.41
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 442458.22
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 434362.42
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 416512.84
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 424819.11
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 387691.49
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 394464.21
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 399178.69
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 374403.89
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 383967.68
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 362370.77
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 363406.96
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 354553.49
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 343610.9
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 348460.25
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 349205.69
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 377639.02
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 367014.16
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 362530.71
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 369288.24
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 389065.37
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 396088.99
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 399695.44
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 415006.95
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 440360.5
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 426774.5
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 421864.75
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 405639.97
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 416731.6
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 426581.12
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 444107.14
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 455211.65
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 468682.83
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 489064.91
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 509444.23
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 501447.12
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 480383.98
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 518188.68
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 508221.9
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 521202.79
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 453715.3
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 487957.2
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 478739.82
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 517661.37
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 512646.91
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 494510.9
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 538394.76
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 584832.34
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 611813.45
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 599710.02
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 576835.86
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 596181.38
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 613997.42
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 627271.22
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 603070.85
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 615129.96
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 602113.9
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 618717.08
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 655106.26
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 649627.43
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 665231.88
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 645155.35
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 642999.55
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 663814.03
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 658844.03
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 672851.63
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 629756.74
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 591171.15
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 560463.0
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 577707.43
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 582252.77
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 585447.69
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 561959.13
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 534052.6
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 546214.33
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 582066.68
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 517978.0
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 535343.99
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 547510.89
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 541238.66
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 555781.97
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 605450.35
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 599453.04
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 564648.07
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 592449.88
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 617434.75
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 628541.1
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 627410.04
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 621273.01
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 628683.67
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 612944.29
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 619136.71
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 676591.79
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 644751.6
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 694483.72
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 684965.86
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 697793.52
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 711206.35
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 726359.36
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 727584.69
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 742321.37
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 702818.72
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 712413.08
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 709792.77
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 694202.4
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 681193.71
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 690894.96
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 742156.58
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 672291.26
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 692820.98
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 719098.74
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 763223.72
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 718644.43
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 689163.72
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 690720.61
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 657791.55
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 661710.44
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 652407.12
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 639021.27
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 626718.36
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 615083.71
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 542562.15
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 528624.21
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 490372.89
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 477179.24
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 476352.17
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 450187.87
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 438910.48
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 415890.28
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 410155.87
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 406353.98
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 403790.58
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 414081.26
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 407479.52
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 399201.4
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 396119.95
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 388623.46
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 382428.84
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 374649.98
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 364457.19
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 364970.48
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 372337.75
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 359924.73
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 349856.9
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 346986.44
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 330667.41
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 331983.05
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 326894.96
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 324398.04
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 330234.21
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 315547.52
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 327596.71
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 327031.41
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 307122.93,
+        "average_balance": 307834.22,
+        "bounced_payments_count": 2
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 386616.3,
+        "average_balance": 402771.11,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 480552.37,
+        "average_balance": 475593.06,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 475572.37,
+        "average_balance": 493377.01,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 408017.16,
+        "average_balance": 429506.05,
+        "bounced_payments_count": 2
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 451797.17,
+        "average_balance": 418027.76,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 413550.06,
+        "average_balance": 431226.51,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 444107.14,
+        "average_balance": 395580.66,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 665231.88,
+        "average_balance": 551837.11,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 619136.71,
+        "average_balance": 595162.4,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 542562.15,
+        "average_balance": 686026.28,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 327031.41,
+        "average_balance": 388170.61,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2025-08-07",
+        "amount": 82912.36,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2025-08-30",
+        "amount": 56733.81,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2025-10-09",
+        "amount": 58969.7,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2025-11-08",
+        "amount": 48012.17,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2025-12-03",
+        "amount": 101183.13,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2025-12-04",
+        "amount": 113972.13,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-02-12",
+        "amount": 68388.37,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-05-16",
+        "amount": 135182.43,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-30",
+        "amount": 178819.01,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 10,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 10,
+        "expected_contribution": 36242.68,
+        "contribution_paid": 36242.68,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 10,
+        "expected_contribution": 36288.69,
+        "contribution_paid": 36288.69,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 10,
+        "expected_contribution": 36119.69,
+        "contribution_paid": 36119.69,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 10,
+        "expected_contribution": 37001.48,
+        "contribution_paid": 37001.48,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 10,
+        "expected_contribution": 35281.85,
+        "contribution_paid": 35281.85,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 10,
+        "expected_contribution": 35711.42,
+        "contribution_paid": 35711.42,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 10,
+        "expected_contribution": 36276.72,
+        "contribution_paid": 36276.72,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 10,
+        "expected_contribution": 36375.96,
+        "contribution_paid": 36375.96,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 10,
+        "expected_contribution": 36962.51,
+        "contribution_paid": 36962.51,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 10,
+        "expected_contribution": 36043.28,
+        "contribution_paid": 36043.28,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 10,
+        "expected_contribution": 36814.76,
+        "contribution_paid": 36814.76,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 10,
+        "expected_contribution": 35618.02,
+        "contribution_paid": 0.0,
+        "status": "missed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4451 @@
+{
+  "business_id": "MSME-007",
+  "name": "Balaji Print & Packaging",
+  "sector": "Printing & Packaging",
+  "archetype": "declining_on_paper",
+  "registration_type": "partnership",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 1747352.52,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 1714653.33,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 1766912.73,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 1780152.78,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 1881889.44,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 1826788.81,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 1787810.4,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-22",
+        "status": "filed_late",
+        "days_late": 2
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 1860143.53,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 1552987.78,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 1285734.71,
+        "due_date": "2026-06-20",
+        "filing_date": null,
+        "status": "missed",
+        "days_late": null
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 1080522.44,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 770068.67,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Printing & Packaging",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 7,
+        "inflow_amount": 27985.1,
+        "outflow_amount": 17762.25,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 4,
+        "inflow_amount": 16009.83,
+        "outflow_amount": 8948.25,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 2,
+        "inflow_amount": 8977.31,
+        "outflow_amount": 4988.37,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 7,
+        "inflow_amount": 28411.92,
+        "outflow_amount": 18265.91,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 6,
+        "inflow_amount": 29078.63,
+        "outflow_amount": 15899.1,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 9,
+        "inflow_amount": 30673.48,
+        "outflow_amount": 17926.28,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 7,
+        "inflow_amount": 28279.76,
+        "outflow_amount": 15557.59,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 8,
+        "inflow_amount": 28739.52,
+        "outflow_amount": 16848.11,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 3,
+        "inflow_amount": 14581.66,
+        "outflow_amount": 8638.95,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 3,
+        "inflow_amount": 9929.41,
+        "outflow_amount": 5934.21,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 8,
+        "inflow_amount": 28297.23,
+        "outflow_amount": 16674.5,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 10,
+        "inflow_amount": 31808.71,
+        "outflow_amount": 22121.88,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 6,
+        "inflow_amount": 25608.9,
+        "outflow_amount": 17782.43,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 9,
+        "inflow_amount": 31862.34,
+        "outflow_amount": 22406.14,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 7,
+        "inflow_amount": 25677.77,
+        "outflow_amount": 18185.52,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 4,
+        "inflow_amount": 15349.45,
+        "outflow_amount": 10635.22,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 3,
+        "inflow_amount": 10131.37,
+        "outflow_amount": 5464.72,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 7,
+        "inflow_amount": 25011.79,
+        "outflow_amount": 15912.61,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 6,
+        "inflow_amount": 24917.46,
+        "outflow_amount": 16002.37,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 7,
+        "inflow_amount": 28079.78,
+        "outflow_amount": 18068.92,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 8,
+        "inflow_amount": 29624.22,
+        "outflow_amount": 16765.42,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 9,
+        "inflow_amount": 26856.19,
+        "outflow_amount": 17020.09,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 3,
+        "inflow_amount": 13248.74,
+        "outflow_amount": 7137.34,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 2,
+        "inflow_amount": 10936.0,
+        "outflow_amount": 6772.26,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 8,
+        "inflow_amount": 32052.29,
+        "outflow_amount": 19779.08,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 6,
+        "inflow_amount": 28101.37,
+        "outflow_amount": 18166.37,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 8,
+        "inflow_amount": 28760.05,
+        "outflow_amount": 17567.28,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 6,
+        "inflow_amount": 27879.91,
+        "outflow_amount": 17852.09,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 8,
+        "inflow_amount": 30494.56,
+        "outflow_amount": 21131.3,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 4,
+        "inflow_amount": 14272.31,
+        "outflow_amount": 8188.81,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 3,
+        "inflow_amount": 8370.21,
+        "outflow_amount": 5293.08,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 7,
+        "inflow_amount": 25606.38,
+        "outflow_amount": 17345.59,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 8,
+        "inflow_amount": 29985.06,
+        "outflow_amount": 17929.57,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 7,
+        "inflow_amount": 30830.99,
+        "outflow_amount": 20465.96,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 6,
+        "inflow_amount": 26408.31,
+        "outflow_amount": 17708.31,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 8,
+        "inflow_amount": 25140.54,
+        "outflow_amount": 14692.1,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 5,
+        "inflow_amount": 14421.87,
+        "outflow_amount": 10221.82,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 2,
+        "inflow_amount": 9976.32,
+        "outflow_amount": 5937.23,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 7,
+        "inflow_amount": 27971.35,
+        "outflow_amount": 19414.78,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 7,
+        "inflow_amount": 29347.97,
+        "outflow_amount": 19845.58,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 7,
+        "inflow_amount": 25208.54,
+        "outflow_amount": 16838.79,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 6,
+        "inflow_amount": 24378.43,
+        "outflow_amount": 14663.87,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 9,
+        "inflow_amount": 29070.58,
+        "outflow_amount": 20248.78,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 4,
+        "inflow_amount": 15190.9,
+        "outflow_amount": 9276.48,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 3,
+        "inflow_amount": 9086.68,
+        "outflow_amount": 5407.46,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 7,
+        "inflow_amount": 25120.14,
+        "outflow_amount": 13845.3,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 8,
+        "inflow_amount": 25665.35,
+        "outflow_amount": 17132.91,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 8,
+        "inflow_amount": 28924.37,
+        "outflow_amount": 15948.96,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 8,
+        "inflow_amount": 31106.83,
+        "outflow_amount": 19587.39,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 6,
+        "inflow_amount": 25830.25,
+        "outflow_amount": 17750.52,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 5,
+        "inflow_amount": 14255.44,
+        "outflow_amount": 8481.2,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 2,
+        "inflow_amount": 9259.05,
+        "outflow_amount": 5513.06,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 8,
+        "inflow_amount": 27094.57,
+        "outflow_amount": 14520.28,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 6,
+        "inflow_amount": 27382.17,
+        "outflow_amount": 14971.52,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 5,
+        "inflow_amount": 25551.95,
+        "outflow_amount": 13839.15,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 8,
+        "inflow_amount": 25934.42,
+        "outflow_amount": 16758.31,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 7,
+        "inflow_amount": 29593.99,
+        "outflow_amount": 20638.62,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 3,
+        "inflow_amount": 16302.49,
+        "outflow_amount": 9810.67,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 2,
+        "inflow_amount": 9617.78,
+        "outflow_amount": 5460.85,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 6,
+        "inflow_amount": 27155.41,
+        "outflow_amount": 14559.32,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 6,
+        "inflow_amount": 26330.56,
+        "outflow_amount": 14918.44,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 9,
+        "inflow_amount": 30646.31,
+        "outflow_amount": 18912.24,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 9,
+        "inflow_amount": 29506.35,
+        "outflow_amount": 19719.09,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 7,
+        "inflow_amount": 23375.45,
+        "outflow_amount": 15590.1,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 3,
+        "inflow_amount": 14509.69,
+        "outflow_amount": 9398.45,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 3,
+        "inflow_amount": 10126.82,
+        "outflow_amount": 6760.68,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 6,
+        "inflow_amount": 26853.19,
+        "outflow_amount": 14516.8,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 6,
+        "inflow_amount": 26531.2,
+        "outflow_amount": 15162.54,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 8,
+        "inflow_amount": 28136.9,
+        "outflow_amount": 17238.58,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 6,
+        "inflow_amount": 23623.19,
+        "outflow_amount": 14196.53,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 6,
+        "inflow_amount": 28559.16,
+        "outflow_amount": 17012.88,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 5,
+        "inflow_amount": 14817.55,
+        "outflow_amount": 10457.34,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 3,
+        "inflow_amount": 8891.15,
+        "outflow_amount": 4970.96,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 10,
+        "inflow_amount": 30155.85,
+        "outflow_amount": 19101.36,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 9,
+        "inflow_amount": 30109.07,
+        "outflow_amount": 17997.24,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 7,
+        "inflow_amount": 24896.48,
+        "outflow_amount": 13433.22,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 6,
+        "inflow_amount": 29597.34,
+        "outflow_amount": 16967.24,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 6,
+        "inflow_amount": 25222.33,
+        "outflow_amount": 13896.47,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 4,
+        "inflow_amount": 13114.7,
+        "outflow_amount": 7192.21,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 3,
+        "inflow_amount": 10311.78,
+        "outflow_amount": 6881.56,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 8,
+        "inflow_amount": 29619.11,
+        "outflow_amount": 15617.79,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 6,
+        "inflow_amount": 27128.99,
+        "outflow_amount": 16719.96,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 9,
+        "inflow_amount": 29607.0,
+        "outflow_amount": 20697.95,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 9,
+        "inflow_amount": 30693.24,
+        "outflow_amount": 20617.57,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 7,
+        "inflow_amount": 28366.01,
+        "outflow_amount": 17953.88,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 4,
+        "inflow_amount": 12870.24,
+        "outflow_amount": 8719.42,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 3,
+        "inflow_amount": 8786.45,
+        "outflow_amount": 5941.4,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 8,
+        "inflow_amount": 25333.88,
+        "outflow_amount": 14636.6,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 8,
+        "inflow_amount": 30410.81,
+        "outflow_amount": 18433.14,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 7,
+        "inflow_amount": 28758.46,
+        "outflow_amount": 15401.99,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 9,
+        "inflow_amount": 31253.39,
+        "outflow_amount": 17205.58,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 9,
+        "inflow_amount": 29806.48,
+        "outflow_amount": 16586.89,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 4,
+        "inflow_amount": 17207.66,
+        "outflow_amount": 10293.9,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 3,
+        "inflow_amount": 11497.48,
+        "outflow_amount": 7473.86,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 7,
+        "inflow_amount": 30689.38,
+        "outflow_amount": 19821.52,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 8,
+        "inflow_amount": 33535.23,
+        "outflow_amount": 18784.4,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 8,
+        "inflow_amount": 33025.18,
+        "outflow_amount": 20014.1,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 7,
+        "inflow_amount": 26987.3,
+        "outflow_amount": 18400.16,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 10,
+        "inflow_amount": 32522.6,
+        "outflow_amount": 22639.67,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 4,
+        "inflow_amount": 16102.72,
+        "outflow_amount": 8769.21,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 3,
+        "inflow_amount": 10478.27,
+        "outflow_amount": 6551.1,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 7,
+        "inflow_amount": 27321.35,
+        "outflow_amount": 17474.13,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 10,
+        "inflow_amount": 33099.3,
+        "outflow_amount": 17886.0,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 8,
+        "inflow_amount": 31951.69,
+        "outflow_amount": 20721.79,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 9,
+        "inflow_amount": 30151.52,
+        "outflow_amount": 21008.95,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 7,
+        "inflow_amount": 27761.64,
+        "outflow_amount": 17663.47,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 4,
+        "inflow_amount": 14609.14,
+        "outflow_amount": 9702.2,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 4,
+        "inflow_amount": 11511.8,
+        "outflow_amount": 8034.43,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 8,
+        "inflow_amount": 27257.17,
+        "outflow_amount": 17324.28,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 7,
+        "inflow_amount": 27619.82,
+        "outflow_amount": 15921.08,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 8,
+        "inflow_amount": 29162.78,
+        "outflow_amount": 15912.98,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 8,
+        "inflow_amount": 31914.95,
+        "outflow_amount": 18842.56,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 10,
+        "inflow_amount": 34488.69,
+        "outflow_amount": 23872.61,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 5,
+        "inflow_amount": 15598.36,
+        "outflow_amount": 11103.5,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 3,
+        "inflow_amount": 9371.54,
+        "outflow_amount": 5486.42,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 10,
+        "inflow_amount": 33093.01,
+        "outflow_amount": 20410.36,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 9,
+        "inflow_amount": 30654.84,
+        "outflow_amount": 20680.77,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 9,
+        "inflow_amount": 31393.54,
+        "outflow_amount": 20091.31,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 8,
+        "inflow_amount": 26166.73,
+        "outflow_amount": 16139.69,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 9,
+        "inflow_amount": 28560.95,
+        "outflow_amount": 18188.39,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 4,
+        "inflow_amount": 14038.65,
+        "outflow_amount": 9042.45,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 2,
+        "inflow_amount": 9163.81,
+        "outflow_amount": 5778.51,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 9,
+        "inflow_amount": 29339.39,
+        "outflow_amount": 20203.12,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 7,
+        "inflow_amount": 31051.9,
+        "outflow_amount": 17182.01,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 8,
+        "inflow_amount": 30062.42,
+        "outflow_amount": 17501.51,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 7,
+        "inflow_amount": 25595.9,
+        "outflow_amount": 15401.79,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 6,
+        "inflow_amount": 23561.89,
+        "outflow_amount": 12501.94,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 4,
+        "inflow_amount": 15245.77,
+        "outflow_amount": 9427.24,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 2,
+        "inflow_amount": 9069.31,
+        "outflow_amount": 5331.61,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 7,
+        "inflow_amount": 25984.87,
+        "outflow_amount": 14996.91,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 7,
+        "inflow_amount": 26772.84,
+        "outflow_amount": 15554.08,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 7,
+        "inflow_amount": 28929.28,
+        "outflow_amount": 15816.65,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 7,
+        "inflow_amount": 23734.95,
+        "outflow_amount": 16921.31,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 7,
+        "inflow_amount": 25189.37,
+        "outflow_amount": 16743.52,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 4,
+        "inflow_amount": 15453.25,
+        "outflow_amount": 8392.02,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 3,
+        "inflow_amount": 9389.73,
+        "outflow_amount": 6686.25,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 7,
+        "inflow_amount": 26159.11,
+        "outflow_amount": 17408.82,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 7,
+        "inflow_amount": 27283.73,
+        "outflow_amount": 17775.53,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 6,
+        "inflow_amount": 26598.67,
+        "outflow_amount": 14463.25,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 7,
+        "inflow_amount": 30368.53,
+        "outflow_amount": 17452.41,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 9,
+        "inflow_amount": 29223.55,
+        "outflow_amount": 19545.72,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 4,
+        "inflow_amount": 15262.18,
+        "outflow_amount": 8778.78,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 3,
+        "inflow_amount": 10267.99,
+        "outflow_amount": 5842.42,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 7,
+        "inflow_amount": 26609.56,
+        "outflow_amount": 15505.47,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 7,
+        "inflow_amount": 29300.77,
+        "outflow_amount": 19098.18,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 9,
+        "inflow_amount": 26172.82,
+        "outflow_amount": 18328.17,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 7,
+        "inflow_amount": 24572.86,
+        "outflow_amount": 17468.19,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 8,
+        "inflow_amount": 27228.92,
+        "outflow_amount": 18456.13,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 5,
+        "inflow_amount": 16079.47,
+        "outflow_amount": 11265.71,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 3,
+        "inflow_amount": 9900.46,
+        "outflow_amount": 6843.04,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 8,
+        "inflow_amount": 26342.25,
+        "outflow_amount": 15744.5,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 6,
+        "inflow_amount": 28769.21,
+        "outflow_amount": 16147.36,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 9,
+        "inflow_amount": 30269.43,
+        "outflow_amount": 20535.19,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 8,
+        "inflow_amount": 26303.65,
+        "outflow_amount": 15109.95,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 7,
+        "inflow_amount": 27348.31,
+        "outflow_amount": 15100.46,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 4,
+        "inflow_amount": 15243.3,
+        "outflow_amount": 9543.35,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 3,
+        "inflow_amount": 10314.86,
+        "outflow_amount": 7067.05,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 8,
+        "inflow_amount": 25572.53,
+        "outflow_amount": 15305.01,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 9,
+        "inflow_amount": 27479.7,
+        "outflow_amount": 17512.18,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 7,
+        "inflow_amount": 30005.52,
+        "outflow_amount": 18732.65,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 6,
+        "inflow_amount": 28254.12,
+        "outflow_amount": 15235.6,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 7,
+        "inflow_amount": 28631.81,
+        "outflow_amount": 20143.09,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 3,
+        "inflow_amount": 13269.5,
+        "outflow_amount": 7836.34,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 3,
+        "inflow_amount": 9468.73,
+        "outflow_amount": 5385.56,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 7,
+        "inflow_amount": 24078.6,
+        "outflow_amount": 14621.22,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 7,
+        "inflow_amount": 30371.39,
+        "outflow_amount": 19646.88,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 8,
+        "inflow_amount": 30917.83,
+        "outflow_amount": 18023.34,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 6,
+        "inflow_amount": 27551.62,
+        "outflow_amount": 15189.69,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 7,
+        "inflow_amount": 24449.59,
+        "outflow_amount": 16858.56,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 4,
+        "inflow_amount": 15346.58,
+        "outflow_amount": 9132.98,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 3,
+        "inflow_amount": 10957.57,
+        "outflow_amount": 6205.28,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 7,
+        "inflow_amount": 24223.88,
+        "outflow_amount": 13708.95,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 7,
+        "inflow_amount": 28263.52,
+        "outflow_amount": 19871.6,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 6,
+        "inflow_amount": 24069.53,
+        "outflow_amount": 13874.08,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 7,
+        "inflow_amount": 28544.41,
+        "outflow_amount": 15871.39,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 7,
+        "inflow_amount": 29930.64,
+        "outflow_amount": 19937.01,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 3,
+        "inflow_amount": 12401.65,
+        "outflow_amount": 6686.05,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 3,
+        "inflow_amount": 9763.03,
+        "outflow_amount": 6912.73,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 8,
+        "inflow_amount": 27221.39,
+        "outflow_amount": 16548.49,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 7,
+        "inflow_amount": 24091.06,
+        "outflow_amount": 15629.16,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 6,
+        "inflow_amount": 25825.33,
+        "outflow_amount": 13767.65,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 6,
+        "inflow_amount": 24923.95,
+        "outflow_amount": 14746.51,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 8,
+        "inflow_amount": 30066.52,
+        "outflow_amount": 16318.91,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 4,
+        "inflow_amount": 15870.48,
+        "outflow_amount": 9268.88,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 2,
+        "inflow_amount": 9258.87,
+        "outflow_amount": 5421.28,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 7,
+        "inflow_amount": 27476.9,
+        "outflow_amount": 18065.38,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 7,
+        "inflow_amount": 28340.82,
+        "outflow_amount": 19357.72,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 7,
+        "inflow_amount": 31287.5,
+        "outflow_amount": 18251.17,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 7,
+        "inflow_amount": 31587.54,
+        "outflow_amount": 16669.79,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 10,
+        "inflow_amount": 32269.16,
+        "outflow_amount": 17451.91,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 4,
+        "inflow_amount": 17779.32,
+        "outflow_amount": 9508.4,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 3,
+        "inflow_amount": 9344.02,
+        "outflow_amount": 6619.01,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 9,
+        "inflow_amount": 34149.26,
+        "outflow_amount": 23067.01,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 6,
+        "inflow_amount": 26774.3,
+        "outflow_amount": 18840.67,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 7,
+        "inflow_amount": 34522.72,
+        "outflow_amount": 20321.46,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 9,
+        "inflow_amount": 34226.54,
+        "outflow_amount": 20438.42,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 8,
+        "inflow_amount": 28164.96,
+        "outflow_amount": 16612.38,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 3,
+        "inflow_amount": 13937.13,
+        "outflow_amount": 9845.82,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 3,
+        "inflow_amount": 10537.57,
+        "outflow_amount": 6168.96,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 7,
+        "inflow_amount": 27152.85,
+        "outflow_amount": 18723.71,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 7,
+        "inflow_amount": 26658.79,
+        "outflow_amount": 18761.55,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 7,
+        "inflow_amount": 32180.96,
+        "outflow_amount": 18317.69,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 6,
+        "inflow_amount": 26057.25,
+        "outflow_amount": 18268.95,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 8,
+        "inflow_amount": 31105.57,
+        "outflow_amount": 20026.18,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 4,
+        "inflow_amount": 15486.13,
+        "outflow_amount": 9733.69,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 2,
+        "inflow_amount": 9866.56,
+        "outflow_amount": 6079.44,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 9,
+        "inflow_amount": 28394.26,
+        "outflow_amount": 19559.17,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 9,
+        "inflow_amount": 30629.82,
+        "outflow_amount": 16498.84,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 10,
+        "inflow_amount": 32724.81,
+        "outflow_amount": 22202.17,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 10,
+        "inflow_amount": 33646.01,
+        "outflow_amount": 18121.65,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 9,
+        "inflow_amount": 34934.25,
+        "outflow_amount": 19727.16,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 4,
+        "inflow_amount": 16337.99,
+        "outflow_amount": 9809.02,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 2,
+        "inflow_amount": 8780.02,
+        "outflow_amount": 6000.78,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 7,
+        "inflow_amount": 30785.6,
+        "outflow_amount": 17614.5,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 7,
+        "inflow_amount": 29583.57,
+        "outflow_amount": 20776.93,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 7,
+        "inflow_amount": 26125.29,
+        "outflow_amount": 16789.4,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 8,
+        "inflow_amount": 27512.46,
+        "outflow_amount": 15356.14,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 6,
+        "inflow_amount": 25585.93,
+        "outflow_amount": 15180.59,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 4,
+        "inflow_amount": 14753.69,
+        "outflow_amount": 10418.05,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 3,
+        "inflow_amount": 8616.99,
+        "outflow_amount": 6027.19,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 6,
+        "inflow_amount": 24150.69,
+        "outflow_amount": 14793.98,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 7,
+        "inflow_amount": 30304.17,
+        "outflow_amount": 15984.81,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 7,
+        "inflow_amount": 28822.06,
+        "outflow_amount": 17008.09,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 8,
+        "inflow_amount": 29055.41,
+        "outflow_amount": 19681.74,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 8,
+        "inflow_amount": 28046.76,
+        "outflow_amount": 19194.29,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 4,
+        "inflow_amount": 14816.2,
+        "outflow_amount": 9196.26,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 2,
+        "inflow_amount": 9514.94,
+        "outflow_amount": 6769.44,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 9,
+        "inflow_amount": 31985.81,
+        "outflow_amount": 19698.47,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 10,
+        "inflow_amount": 29458.48,
+        "outflow_amount": 19807.81,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 6,
+        "inflow_amount": 27864.16,
+        "outflow_amount": 17163.93,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 6,
+        "inflow_amount": 25690.34,
+        "outflow_amount": 16648.96,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 7,
+        "inflow_amount": 29766.7,
+        "outflow_amount": 20377.72,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 4,
+        "inflow_amount": 13580.34,
+        "outflow_amount": 7923.49,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 3,
+        "inflow_amount": 10920.49,
+        "outflow_amount": 7734.36,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 8,
+        "inflow_amount": 26427.93,
+        "outflow_amount": 16337.2,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 6,
+        "inflow_amount": 28712.91,
+        "outflow_amount": 15520.08,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 9,
+        "inflow_amount": 31660.55,
+        "outflow_amount": 19121.88,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 6,
+        "inflow_amount": 25751.84,
+        "outflow_amount": 14917.19,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 9,
+        "inflow_amount": 32048.27,
+        "outflow_amount": 20640.57,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 5,
+        "inflow_amount": 16260.17,
+        "outflow_amount": 8876.27,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 2,
+        "inflow_amount": 9169.82,
+        "outflow_amount": 5105.22,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 7,
+        "inflow_amount": 25145.69,
+        "outflow_amount": 14151.62,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 9,
+        "inflow_amount": 30013.1,
+        "outflow_amount": 20027.21,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 8,
+        "inflow_amount": 26494.83,
+        "outflow_amount": 16812.57,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 8,
+        "inflow_amount": 26300.8,
+        "outflow_amount": 21515.56,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 8,
+        "inflow_amount": 24063.6,
+        "outflow_amount": 16609.27,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 3,
+        "inflow_amount": 11439.16,
+        "outflow_amount": 9403.91,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 3,
+        "inflow_amount": 8981.93,
+        "outflow_amount": 6387.18,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 7,
+        "inflow_amount": 25213.56,
+        "outflow_amount": 17257.32,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 6,
+        "inflow_amount": 24858.38,
+        "outflow_amount": 19355.44,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 7,
+        "inflow_amount": 26222.99,
+        "outflow_amount": 18706.24,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 7,
+        "inflow_amount": 25499.24,
+        "outflow_amount": 19392.83,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 9,
+        "inflow_amount": 26799.47,
+        "outflow_amount": 20409.58,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 3,
+        "inflow_amount": 12969.95,
+        "outflow_amount": 8599.35,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 3,
+        "inflow_amount": 9034.15,
+        "outflow_amount": 7391.73,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 7,
+        "inflow_amount": 21907.13,
+        "outflow_amount": 15406.06,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 9,
+        "inflow_amount": 26832.36,
+        "outflow_amount": 16818.5,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 8,
+        "inflow_amount": 25652.66,
+        "outflow_amount": 17194.28,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 8,
+        "inflow_amount": 22949.65,
+        "outflow_amount": 18758.26,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 6,
+        "inflow_amount": 28212.41,
+        "outflow_amount": 18747.66,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 4,
+        "inflow_amount": 13010.6,
+        "outflow_amount": 8561.65,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 2,
+        "inflow_amount": 7763.51,
+        "outflow_amount": 5361.16,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 9,
+        "inflow_amount": 26789.18,
+        "outflow_amount": 21574.04,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 6,
+        "inflow_amount": 25869.46,
+        "outflow_amount": 17060.15,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 8,
+        "inflow_amount": 25398.07,
+        "outflow_amount": 18830.29,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 7,
+        "inflow_amount": 26397.9,
+        "outflow_amount": 20342.56,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 7,
+        "inflow_amount": 23248.8,
+        "outflow_amount": 16634.24,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 3,
+        "inflow_amount": 12565.97,
+        "outflow_amount": 8658.04,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 2,
+        "inflow_amount": 8008.53,
+        "outflow_amount": 5660.48,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 7,
+        "inflow_amount": 24440.13,
+        "outflow_amount": 17104.63,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 6,
+        "inflow_amount": 21211.71,
+        "outflow_amount": 13750.58,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 7,
+        "inflow_amount": 23648.39,
+        "outflow_amount": 17054.39,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 9,
+        "inflow_amount": 26627.59,
+        "outflow_amount": 21111.58,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 5,
+        "inflow_amount": 18817.02,
+        "outflow_amount": 15099.2,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 4,
+        "inflow_amount": 12144.18,
+        "outflow_amount": 10475.85,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 2,
+        "inflow_amount": 7480.22,
+        "outflow_amount": 6935.95,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 7,
+        "inflow_amount": 17877.75,
+        "outflow_amount": 15280.61,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 5,
+        "inflow_amount": 17533.15,
+        "outflow_amount": 16929.38,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 5,
+        "inflow_amount": 22035.0,
+        "outflow_amount": 17773.72,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 6,
+        "inflow_amount": 18688.34,
+        "outflow_amount": 17380.73,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 6,
+        "inflow_amount": 20731.38,
+        "outflow_amount": 20053.93,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 3,
+        "inflow_amount": 10262.15,
+        "outflow_amount": 8301.92,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 3,
+        "inflow_amount": 7042.72,
+        "outflow_amount": 6267.47,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 7,
+        "inflow_amount": 22291.98,
+        "outflow_amount": 21511.72,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 5,
+        "inflow_amount": 20057.09,
+        "outflow_amount": 19073.27,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 7,
+        "inflow_amount": 20091.2,
+        "outflow_amount": 18988.43,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 5,
+        "inflow_amount": 18259.88,
+        "outflow_amount": 13155.16,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 7,
+        "inflow_amount": 20224.68,
+        "outflow_amount": 17926.52,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 3,
+        "inflow_amount": 10240.66,
+        "outflow_amount": 8645.34,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 2,
+        "inflow_amount": 6882.33,
+        "outflow_amount": 4963.24,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 7,
+        "inflow_amount": 21421.36,
+        "outflow_amount": 16321.5,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 8,
+        "inflow_amount": 22625.91,
+        "outflow_amount": 17997.0,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 7,
+        "inflow_amount": 19848.73,
+        "outflow_amount": 15261.18,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 5,
+        "inflow_amount": 20023.27,
+        "outflow_amount": 15107.1,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 6,
+        "inflow_amount": 20634.13,
+        "outflow_amount": 19418.35,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 3,
+        "inflow_amount": 10751.98,
+        "outflow_amount": 8572.14,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 2,
+        "inflow_amount": 6914.43,
+        "outflow_amount": 5710.24,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 6,
+        "inflow_amount": 23432.5,
+        "outflow_amount": 21969.69,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 8,
+        "inflow_amount": 21162.44,
+        "outflow_amount": 20211.57,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 6,
+        "inflow_amount": 21463.79,
+        "outflow_amount": 20003.47,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 7,
+        "inflow_amount": 21561.91,
+        "outflow_amount": 16041.05,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 6,
+        "inflow_amount": 17745.65,
+        "outflow_amount": 15974.04,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 3,
+        "inflow_amount": 11395.72,
+        "outflow_amount": 8716.25,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 2,
+        "inflow_amount": 7109.1,
+        "outflow_amount": 6739.18,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 4,
+        "inflow_amount": 16481.2,
+        "outflow_amount": 15730.38,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 5,
+        "inflow_amount": 18035.41,
+        "outflow_amount": 15289.69,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 6,
+        "inflow_amount": 18486.71,
+        "outflow_amount": 17600.87,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 6,
+        "inflow_amount": 17137.77,
+        "outflow_amount": 16154.56,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 5,
+        "inflow_amount": 15860.95,
+        "outflow_amount": 14524.13,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 3,
+        "inflow_amount": 8679.37,
+        "outflow_amount": 7371.73,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 2,
+        "inflow_amount": 5025.95,
+        "outflow_amount": 5391.07,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 5,
+        "inflow_amount": 14483.58,
+        "outflow_amount": 13970.54,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 5,
+        "inflow_amount": 17867.22,
+        "outflow_amount": 19628.84,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 5,
+        "inflow_amount": 15129.72,
+        "outflow_amount": 14195.48,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 6,
+        "inflow_amount": 14556.28,
+        "outflow_amount": 15005.94,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 7,
+        "inflow_amount": 18317.77,
+        "outflow_amount": 18599.82,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 4,
+        "inflow_amount": 9953.67,
+        "outflow_amount": 9389.02,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 3,
+        "inflow_amount": 6598.54,
+        "outflow_amount": 7253.66,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 5,
+        "inflow_amount": 15810.57,
+        "outflow_amount": 16926.64,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 6,
+        "inflow_amount": 16573.03,
+        "outflow_amount": 14355.66,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 5,
+        "inflow_amount": 18950.13,
+        "outflow_amount": 19425.75,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 4,
+        "inflow_amount": 16080.35,
+        "outflow_amount": 16767.13,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 7,
+        "inflow_amount": 16942.48,
+        "outflow_amount": 17139.46,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 3,
+        "inflow_amount": 8339.69,
+        "outflow_amount": 9106.65,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 2,
+        "inflow_amount": 5967.01,
+        "outflow_amount": 6100.4,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 5,
+        "inflow_amount": 16250.46,
+        "outflow_amount": 14316.85,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 4,
+        "inflow_amount": 15685.1,
+        "outflow_amount": 16105.65,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 5,
+        "inflow_amount": 14797.31,
+        "outflow_amount": 14111.08,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 6,
+        "inflow_amount": 15564.5,
+        "outflow_amount": 16032.48,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 6,
+        "inflow_amount": 17873.43,
+        "outflow_amount": 16394.77,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 2,
+        "inflow_amount": 8008.35,
+        "outflow_amount": 7862.56,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 2,
+        "inflow_amount": 5756.18,
+        "outflow_amount": 5662.37,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 7,
+        "inflow_amount": 18143.21,
+        "outflow_amount": 19923.91,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 6,
+        "inflow_amount": 18493.25,
+        "outflow_amount": 16855.26,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 4,
+        "inflow_amount": 10674.63,
+        "outflow_amount": 11015.79,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 5,
+        "inflow_amount": 12410.11,
+        "outflow_amount": 11482.38,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 4,
+        "inflow_amount": 13671.77,
+        "outflow_amount": 15139.47,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 2,
+        "inflow_amount": 5474.87,
+        "outflow_amount": 6686.02,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 1,
+        "inflow_amount": 3540.99,
+        "outflow_amount": 3652.45,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 5,
+        "inflow_amount": 12650.6,
+        "outflow_amount": 13096.92,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 3,
+        "inflow_amount": 11094.07,
+        "outflow_amount": 11461.45,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 3,
+        "inflow_amount": 10804.74,
+        "outflow_amount": 12281.43,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 4,
+        "inflow_amount": 11041.41,
+        "outflow_amount": 11076.01,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 3,
+        "inflow_amount": 11464.23,
+        "outflow_amount": 11977.1,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 2,
+        "inflow_amount": 5525.6,
+        "outflow_amount": 5435.85,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 2,
+        "inflow_amount": 3890.95,
+        "outflow_amount": 4384.29,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 3,
+        "inflow_amount": 11491.41,
+        "outflow_amount": 12540.59,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 5,
+        "inflow_amount": 12495.11,
+        "outflow_amount": 13425.98,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 4,
+        "inflow_amount": 13471.28,
+        "outflow_amount": 12904.47,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 3,
+        "inflow_amount": 11575.4,
+        "outflow_amount": 11110.04,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 5,
+        "inflow_amount": 12766.05,
+        "outflow_amount": 13221.79,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 2,
+        "inflow_amount": 5622.9,
+        "outflow_amount": 6376.58,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 2,
+        "inflow_amount": 3684.05,
+        "outflow_amount": 4196.51,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 3,
+        "inflow_amount": 10746.58,
+        "outflow_amount": 10386.04,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 5,
+        "inflow_amount": 11027.29,
+        "outflow_amount": 13505.31,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 4,
+        "inflow_amount": 12441.39,
+        "outflow_amount": 12314.39,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 4,
+        "inflow_amount": 10487.46,
+        "outflow_amount": 10165.0,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 4,
+        "inflow_amount": 12007.56,
+        "outflow_amount": 12740.48,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 2,
+        "inflow_amount": 5964.68,
+        "outflow_amount": 6554.94,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 1,
+        "inflow_amount": 4639.94,
+        "outflow_amount": 5010.96,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 3,
+        "inflow_amount": 10784.37,
+        "outflow_amount": 10563.58,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 5,
+        "inflow_amount": 12728.04,
+        "outflow_amount": 13866.32,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 4,
+        "inflow_amount": 10407.65,
+        "outflow_amount": 10232.22,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 3,
+        "inflow_amount": 11025.58,
+        "outflow_amount": 11556.42,
+        "merchant_category": "Printing & Packaging"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 4,
+        "inflow_amount": 13609.91,
+        "outflow_amount": 16646.32,
+        "merchant_category": "Printing & Packaging"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 188,
+        "inflow_amount": 720007.27,
+        "outflow_amount": 449696.45
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 181,
+        "inflow_amount": 697748.69,
+        "outflow_amount": 433732.82
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 203,
+        "inflow_amount": 741618.57,
+        "outflow_amount": 447937.66
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 203,
+        "inflow_amount": 736937.1,
+        "outflow_amount": 464033.8
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 197,
+        "inflow_amount": 729790.38,
+        "outflow_amount": 453318.83
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 186,
+        "inflow_amount": 710760.6,
+        "outflow_amount": 429790.6
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 184,
+        "inflow_amount": 714831.86,
+        "outflow_amount": 442468.6
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 192,
+        "inflow_amount": 730910.38,
+        "outflow_amount": 454844.17
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 187,
+        "inflow_amount": 638412.11,
+        "outflow_amount": 460469.53
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 158,
+        "inflow_amount": 516750.65,
+        "outflow_amount": 446805.2
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 141,
+        "inflow_amount": 425849.19,
+        "outflow_amount": 417192.35
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 104,
+        "inflow_amount": 309220.62,
+        "outflow_amount": 325007.1
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 660322.82
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 637899.48
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 659268.39
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 660943.21
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 648971.18
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 678118.01
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 671871.31
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 641789.25
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 653089.19
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 660848.62
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 661418.51
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 679066.29
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 651573.64
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 676425.86
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 671967.9
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 672170.01
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 654132.0
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 659973.6
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 648211.43
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 645070.6
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 655556.89
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 637386.16
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 612361.62
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 603790.52
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 645797.78
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 642665.54
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 652374.17
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 663514.63
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 682445.81
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 681152.31
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 661508.24
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 642631.92
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 612936.35
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 628393.46
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 619960.17
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 594192.5
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 584931.0
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 570984.28
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 567076.72
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 547838.52
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 540639.61
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 566460.37
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 562683.17
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 553138.87
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 554973.53
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 564601.31
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 559689.07
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 554890.9
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 561272.83
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 569916.74
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 536978.86
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 553702.76
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 532522.86
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 570862.32
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 587267.12
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 609933.76
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 604366.46
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 593314.18
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 595673.07
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 600834.64
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 601627.77
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 607311.57
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 620261.82
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 614916.21
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 622934.39
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 586888.56
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 591930.43
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 599030.8
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 586709.61
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 625144.73
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 625183.28
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 620874.38
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 637236.49
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 647112.44
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 636858.99
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 635196.84
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 624316.23
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 597583.33
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 597114.02
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 580300.35
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 565697.27
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 569900.45
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 588671.34
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 551188.84
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 562835.81
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 546976.11
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 567392.46
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 572881.78
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 592455.55
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 636090.43
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 626712.31
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 624452.81
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 605875.69
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 630510.88
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 645376.44
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 641541.1
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 643622.41
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 646926.02
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 657075.05
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 644848.04
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 655042.22
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 639373.67
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 633392.96
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 643903.58
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 640624.25
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 676963.35
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 656100.08
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 653347.82
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 683412.28
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 685371.65
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 670711.28
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 680239.95
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 671282.93
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 660312.58
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 669614.88
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 674705.6
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 687743.3
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 710573.73
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 710337.43
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 703568.79
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 696128.12
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 680970.06
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 654692.78
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 633701.66
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 615879.05
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 606977.04
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 632769.66
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 648270.51
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 679102.03
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 669781.55
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 648480.7
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 639770.76
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 604633.55
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 579682.52
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 568917.75
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 541379.12
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 542765.43
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 561156.19
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 579529.82
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 588791.84
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 613282.86
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 600615.09
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 631403.09
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 601007.85
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 578517.34
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 564721.22
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 568843.09
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 516898.16
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 546308.36
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 563885.21
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 569738.86
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 600123.66
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 619455.87
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 640292.96
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 654086.63
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 678037.94
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 684115.44
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 679752.76
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 665774.15
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 664932.62
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 678375.84
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 680451.98
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 672256.51
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 659102.15
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 640821.21
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 642077.63
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 648176.37
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 621765.25
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 618666.23
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 607275.14
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 580746.57
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 578377.54
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 598527.64
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 590782.21
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 547728.68
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 539752.06
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 535055.14
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 521034.03
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 516587.06
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 543143.4
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 569376.13
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 564708.78
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 557954.09
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 573065.37
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 589484.17
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 604930.55
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 604650.68
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 577459.36
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 631689.72
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 626286.1
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 622058.65
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 631370.46
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 634177.01
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 629651.78
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 645341.06
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 640370.27
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 686621.88
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 682916.4
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 690131.02
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 674509.49
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 663203.52
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 657541.38
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 673022.85
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 652840.94
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 632983.33
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 650922.97
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 621616.89
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 635073.07
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 614910.11
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 628387.13
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 670785.43
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 648304.87
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 629100.15
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 629537.25
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 591267.57
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 600994.58
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 585783.24
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 570562.79
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 567496.75
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 571942.79
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 580906.33
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 574454.29
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 574868.4
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 567203.56
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 591358.23
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 613979.87
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 621559.88
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 625352.96
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 637748.65
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 637825.61
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 633374.46
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 642177.61
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 657106.31
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 650327.97
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 634251.94
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 630332.34
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 618097.97
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 573684.5
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 565394.85
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 597330.33
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 611055.3
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 604856.71
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 580209.72
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 595020.62
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 585852.86
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 569090.56
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 558791.64
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 532720.18
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 519455.08
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 514607.94
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 518041.32
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 529207.83
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 505523.7
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 512889.58
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 510861.56
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 496806.79
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 487481.68
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 492783.98
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 452153.77
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 440959.39
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 454731.28
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 480848.58
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 488885.33
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 505168.51
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 512230.84
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 485754.92
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 484524.31
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 460052.38
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 447823.16
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 438720.98
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 450667.91
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 443446.79
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 444186.23
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 438267.38
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 425166.46
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 401430.39
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 418481.29
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 399272.34
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 358879.34
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 346918.02
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 346044.12
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 360557.08
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 356901.11
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 342431.76
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 345768.21
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 340281.85
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 342195.5
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 355925.28
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 352802.76
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 318376.04
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 323583.54
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 326100.39
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 330444.12
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 337185.81
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 326396.37
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 321785.93
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 290056.83
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 280865.67
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 271019.02
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 270044.07
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 276626.49
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 264429.98
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 261787.89
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 271599.51
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 274953.66
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 266144.57
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 230912.01
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 210136.16
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 206698.59
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 184829.97
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 175294.77
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 177342.97
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 181879.09
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 169853.53
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 174530.41
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 161484.04
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 167401.82
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 176365.32
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 163457.19
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 159016.25
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 152905.53
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 155820.65
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 175969.11
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 180120.42
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 189609.18
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 171123.17
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 169893.45
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 164853.84
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 168195.29
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 163510.98
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 130195.36
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 135534.27
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 125105.11
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 131972.58
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 123585.64
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 91328.93
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 78240.04
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 75199.2
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 74921.94
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 73308.78
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 76894.06
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 82222.3
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 83706.62
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 85770.02
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 91289.89
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 86922.57
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 79936.36
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 75863.51
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 63044.52
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 62299.85
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 54812.98
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 57973.17
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 59540.58
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 47478.39
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 37644.3
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 36710.63
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 40022.05
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 49129.98
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 40755.51
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 50856.42
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 49040.88
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 45345.96
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 53850.79
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 34879.69
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 27111.51
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 661508.24,
+        "average_balance": 655860.81,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 601627.77,
+        "average_balance": 578143.17,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 624452.81,
+        "average_balance": 602005.15,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 680970.06,
+        "average_balance": 663316.54,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 619455.87,
+        "average_balance": 599067.18,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 573065.37,
+        "average_balance": 611380.63,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 648304.87,
+        "average_balance": 640044.32,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 580209.72,
+        "average_balance": 605488.48,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 444186.23,
+        "average_balance": 497309.66,
+        "bounced_payments_count": 2
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 271599.51,
+        "average_balance": 335536.28,
+        "bounced_payments_count": 3
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 131972.58,
+        "average_balance": 176503.64,
+        "bounced_payments_count": 3
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 27111.51,
+        "average_balance": 64183.45,
+        "bounced_payments_count": 4
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2026-04-16",
+        "amount": 109212.03,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-04-29",
+        "amount": 36696.35,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-05-17",
+        "amount": 88879.61,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-05-24",
+        "amount": 84772.8,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-05-27",
+        "amount": 28210.1,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-12",
+        "amount": 59325.8,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-15",
+        "amount": 79186.4,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-06-27",
+        "amount": 74722.14,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-07-02",
+        "amount": 60273.03,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-07-21",
+        "amount": 49918.42,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-07-25",
+        "amount": 34650.54,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-07-30",
+        "amount": 34461.87,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 9,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 11,
+        "expected_contribution": 42978.62,
+        "contribution_paid": 42978.62,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 11,
+        "expected_contribution": 41759.93,
+        "contribution_paid": 41759.93,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 11,
+        "expected_contribution": 42669.39,
+        "contribution_paid": 42669.39,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 11,
+        "expected_contribution": 42327.97,
+        "contribution_paid": 42327.97,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 11,
+        "expected_contribution": 42430.69,
+        "contribution_paid": 42430.69,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 11,
+        "expected_contribution": 41782.41,
+        "contribution_paid": 41782.41,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 11,
+        "expected_contribution": 41430.05,
+        "contribution_paid": 41430.05,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 11,
+        "expected_contribution": 42913.97,
+        "contribution_paid": 42913.97,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 11,
+        "expected_contribution": 42151.09,
+        "contribution_paid": 42151.09,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 10,
+        "expected_contribution": 39001.0,
+        "contribution_paid": 39001.0,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 9,
+        "expected_contribution": 34351.96,
+        "contribution_paid": 34351.96,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 9,
+        "expected_contribution": 35273.5,
+        "contribution_paid": 35273.5,
+        "status": "on_time"
+      }
+    ]
+  }
+}

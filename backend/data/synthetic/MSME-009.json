@@ -1,0 +1,4401 @@
+{
+  "business_id": "MSME-009",
+  "name": "Ganga Textile Traders",
+  "sector": "Textile Trading",
+  "archetype": "growing",
+  "registration_type": "partnership",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 1484755.27,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 1488889.61,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 1544509.28,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 1814515.59,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 1856607.16,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 1902346.11,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 1948059.13,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 1929328.71,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 2121560.94,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 2082161.95,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-06-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 2190166.96,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 2324168.32,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Textiles",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 4,
+        "inflow_amount": 24602.93,
+        "outflow_amount": 13385.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 2,
+        "inflow_amount": 14372.84,
+        "outflow_amount": 8110.34,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 2,
+        "inflow_amount": 9775.49,
+        "outflow_amount": 5226.14,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 5,
+        "inflow_amount": 26345.58,
+        "outflow_amount": 14644.09,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 6,
+        "inflow_amount": 26277.39,
+        "outflow_amount": 13171.4,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 6,
+        "inflow_amount": 24575.53,
+        "outflow_amount": 14871.14,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 4,
+        "inflow_amount": 23181.68,
+        "outflow_amount": 13431.84,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 6,
+        "inflow_amount": 28257.39,
+        "outflow_amount": 18494.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 2,
+        "inflow_amount": 11834.59,
+        "outflow_amount": 7418.2,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 2,
+        "inflow_amount": 9510.66,
+        "outflow_amount": 4913.29,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 5,
+        "inflow_amount": 22949.12,
+        "outflow_amount": 13774.82,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 7,
+        "inflow_amount": 30038.86,
+        "outflow_amount": 17550.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 5,
+        "inflow_amount": 28361.52,
+        "outflow_amount": 17008.08,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 6,
+        "inflow_amount": 25424.48,
+        "outflow_amount": 16355.23,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 4,
+        "inflow_amount": 23224.47,
+        "outflow_amount": 12600.87,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 3,
+        "inflow_amount": 15725.79,
+        "outflow_amount": 7848.97,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 2,
+        "inflow_amount": 10008.15,
+        "outflow_amount": 5209.63,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 6,
+        "inflow_amount": 25226.12,
+        "outflow_amount": 15163.1,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 5,
+        "inflow_amount": 28996.82,
+        "outflow_amount": 18004.67,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 5,
+        "inflow_amount": 28290.92,
+        "outflow_amount": 15068.96,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 5,
+        "inflow_amount": 26803.38,
+        "outflow_amount": 14895.61,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 5,
+        "inflow_amount": 28203.96,
+        "outflow_amount": 15233.36,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 3,
+        "inflow_amount": 14060.2,
+        "outflow_amount": 8814.16,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 2,
+        "inflow_amount": 10060.53,
+        "outflow_amount": 5420.12,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 5,
+        "inflow_amount": 26035.6,
+        "outflow_amount": 15248.97,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 6,
+        "inflow_amount": 29782.48,
+        "outflow_amount": 19022.99,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 4,
+        "inflow_amount": 25750.5,
+        "outflow_amount": 13912.41,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 5,
+        "inflow_amount": 24911.66,
+        "outflow_amount": 16369.27,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 6,
+        "inflow_amount": 28293.29,
+        "outflow_amount": 14630.2,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 3,
+        "inflow_amount": 14655.45,
+        "outflow_amount": 9391.88,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 2,
+        "inflow_amount": 8173.18,
+        "outflow_amount": 4200.51,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 5,
+        "inflow_amount": 23115.62,
+        "outflow_amount": 12114.02,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 4,
+        "inflow_amount": 25532.38,
+        "outflow_amount": 14385.36,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 4,
+        "inflow_amount": 24361.54,
+        "outflow_amount": 15579.06,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 4,
+        "inflow_amount": 24551.02,
+        "outflow_amount": 13781.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 6,
+        "inflow_amount": 27363.82,
+        "outflow_amount": 18148.16,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 2,
+        "inflow_amount": 13682.93,
+        "outflow_amount": 6772.13,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 2,
+        "inflow_amount": 7691.88,
+        "outflow_amount": 4917.44,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 5,
+        "inflow_amount": 25035.12,
+        "outflow_amount": 12579.65,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 6,
+        "inflow_amount": 24748.94,
+        "outflow_amount": 12813.69,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 5,
+        "inflow_amount": 23227.98,
+        "outflow_amount": 11956.09,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 4,
+        "inflow_amount": 22244.29,
+        "outflow_amount": 11754.59,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 7,
+        "inflow_amount": 29379.27,
+        "outflow_amount": 15684.86,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 3,
+        "inflow_amount": 14811.73,
+        "outflow_amount": 9470.38,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 2,
+        "inflow_amount": 9782.53,
+        "outflow_amount": 6376.01,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 6,
+        "inflow_amount": 26317.26,
+        "outflow_amount": 15703.73,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 4,
+        "inflow_amount": 22813.24,
+        "outflow_amount": 12368.17,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 6,
+        "inflow_amount": 25509.32,
+        "outflow_amount": 15757.31,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 6,
+        "inflow_amount": 29068.37,
+        "outflow_amount": 19206.8,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 4,
+        "inflow_amount": 24948.57,
+        "outflow_amount": 14619.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 2,
+        "inflow_amount": 13541.47,
+        "outflow_amount": 8265.71,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 1,
+        "inflow_amount": 8700.24,
+        "outflow_amount": 4795.97,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 5,
+        "inflow_amount": 26740.19,
+        "outflow_amount": 15350.92,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 5,
+        "inflow_amount": 23376.22,
+        "outflow_amount": 15009.23,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 5,
+        "inflow_amount": 28805.12,
+        "outflow_amount": 19141.68,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 5,
+        "inflow_amount": 23880.01,
+        "outflow_amount": 15268.91,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 4,
+        "inflow_amount": 28700.58,
+        "outflow_amount": 15315.68,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 3,
+        "inflow_amount": 12469.9,
+        "outflow_amount": 7944.16,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 2,
+        "inflow_amount": 9774.53,
+        "outflow_amount": 5073.59,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 4,
+        "inflow_amount": 25139.5,
+        "outflow_amount": 12596.67,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 4,
+        "inflow_amount": 24477.39,
+        "outflow_amount": 13417.02,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 4,
+        "inflow_amount": 25314.6,
+        "outflow_amount": 13035.76,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 5,
+        "inflow_amount": 27340.56,
+        "outflow_amount": 16909.01,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 5,
+        "inflow_amount": 27668.74,
+        "outflow_amount": 16728.35,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 2,
+        "inflow_amount": 12539.41,
+        "outflow_amount": 6342.21,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 2,
+        "inflow_amount": 9256.34,
+        "outflow_amount": 5494.35,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 6,
+        "inflow_amount": 28276.83,
+        "outflow_amount": 14035.59,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 4,
+        "inflow_amount": 26217.62,
+        "outflow_amount": 16695.22,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 5,
+        "inflow_amount": 27266.56,
+        "outflow_amount": 13553.89,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 5,
+        "inflow_amount": 25922.31,
+        "outflow_amount": 13167.41,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 6,
+        "inflow_amount": 24772.29,
+        "outflow_amount": 14846.82,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 3,
+        "inflow_amount": 15494.69,
+        "outflow_amount": 9003.12,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 2,
+        "inflow_amount": 10103.68,
+        "outflow_amount": 5007.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 5,
+        "inflow_amount": 30505.1,
+        "outflow_amount": 16717.55,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 5,
+        "inflow_amount": 24163.14,
+        "outflow_amount": 13371.46,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 6,
+        "inflow_amount": 30423.45,
+        "outflow_amount": 15790.77,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 6,
+        "inflow_amount": 30115.03,
+        "outflow_amount": 17565.31,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 4,
+        "inflow_amount": 23055.22,
+        "outflow_amount": 15182.61,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 2,
+        "inflow_amount": 12662.57,
+        "outflow_amount": 6656.59,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 2,
+        "inflow_amount": 10070.26,
+        "outflow_amount": 6380.93,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 5,
+        "inflow_amount": 28371.41,
+        "outflow_amount": 14100.79,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 6,
+        "inflow_amount": 30041.37,
+        "outflow_amount": 16050.92,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 5,
+        "inflow_amount": 26145.96,
+        "outflow_amount": 14366.6,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 6,
+        "inflow_amount": 25100.33,
+        "outflow_amount": 15544.08,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 6,
+        "inflow_amount": 29015.29,
+        "outflow_amount": 16375.01,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 3,
+        "inflow_amount": 13211.13,
+        "outflow_amount": 8182.89,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 2,
+        "inflow_amount": 10475.65,
+        "outflow_amount": 5813.44,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 4,
+        "inflow_amount": 24798.23,
+        "outflow_amount": 12952.15,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 5,
+        "inflow_amount": 29355.86,
+        "outflow_amount": 14748.06,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 6,
+        "inflow_amount": 25284.34,
+        "outflow_amount": 13163.67,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 4,
+        "inflow_amount": 26025.5,
+        "outflow_amount": 13860.8,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 7,
+        "inflow_amount": 30970.5,
+        "outflow_amount": 18250.88,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 3,
+        "inflow_amount": 16742.28,
+        "outflow_amount": 9655.46,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 3,
+        "inflow_amount": 12770.2,
+        "outflow_amount": 8425.75,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 7,
+        "inflow_amount": 34123.6,
+        "outflow_amount": 20208.11,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 6,
+        "inflow_amount": 28380.35,
+        "outflow_amount": 18105.45,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 5,
+        "inflow_amount": 28275.57,
+        "outflow_amount": 15828.56,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 7,
+        "inflow_amount": 34838.49,
+        "outflow_amount": 20340.79,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 7,
+        "inflow_amount": 29295.93,
+        "outflow_amount": 14986.86,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 3,
+        "inflow_amount": 16392.64,
+        "outflow_amount": 9261.04,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 3,
+        "inflow_amount": 12644.04,
+        "outflow_amount": 7527.27,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 6,
+        "inflow_amount": 29655.29,
+        "outflow_amount": 15902.87,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 6,
+        "inflow_amount": 31657.83,
+        "outflow_amount": 19412.46,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 5,
+        "inflow_amount": 35387.21,
+        "outflow_amount": 17932.17,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 6,
+        "inflow_amount": 37691.96,
+        "outflow_amount": 19635.95,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 7,
+        "inflow_amount": 31989.59,
+        "outflow_amount": 18243.34,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 3,
+        "inflow_amount": 19501.41,
+        "outflow_amount": 11652.95,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 3,
+        "inflow_amount": 11806.32,
+        "outflow_amount": 7547.92,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 7,
+        "inflow_amount": 35782.27,
+        "outflow_amount": 19587.61,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 8,
+        "inflow_amount": 35463.7,
+        "outflow_amount": 22596.53,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 7,
+        "inflow_amount": 30676.35,
+        "outflow_amount": 17865.89,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 6,
+        "inflow_amount": 29124.49,
+        "outflow_amount": 19154.29,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 6,
+        "inflow_amount": 31469.27,
+        "outflow_amount": 17954.11,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 4,
+        "inflow_amount": 18658.21,
+        "outflow_amount": 9369.23,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 3,
+        "inflow_amount": 12903.43,
+        "outflow_amount": 7741.01,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 8,
+        "inflow_amount": 36824.43,
+        "outflow_amount": 21709.82,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 6,
+        "inflow_amount": 28868.42,
+        "outflow_amount": 16908.49,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 7,
+        "inflow_amount": 35316.92,
+        "outflow_amount": 19850.14,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 7,
+        "inflow_amount": 36701.3,
+        "outflow_amount": 21033.65,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 6,
+        "inflow_amount": 29891.77,
+        "outflow_amount": 17225.88,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 4,
+        "inflow_amount": 18292.78,
+        "outflow_amount": 10857.72,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 3,
+        "inflow_amount": 12718.78,
+        "outflow_amount": 7148.58,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 5,
+        "inflow_amount": 26594.88,
+        "outflow_amount": 17173.53,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 8,
+        "inflow_amount": 32834.12,
+        "outflow_amount": 20836.35,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 5,
+        "inflow_amount": 30315.37,
+        "outflow_amount": 19546.38,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 7,
+        "inflow_amount": 33663.05,
+        "outflow_amount": 20905.88,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 6,
+        "inflow_amount": 30381.48,
+        "outflow_amount": 17005.8,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 4,
+        "inflow_amount": 17528.24,
+        "outflow_amount": 10300.4,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 2,
+        "inflow_amount": 10952.89,
+        "outflow_amount": 6474.18,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 6,
+        "inflow_amount": 32497.28,
+        "outflow_amount": 21156.12,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 6,
+        "inflow_amount": 27189.19,
+        "outflow_amount": 17601.89,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 6,
+        "inflow_amount": 27026.41,
+        "outflow_amount": 14824.28,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 7,
+        "inflow_amount": 34733.4,
+        "outflow_amount": 17468.91,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 7,
+        "inflow_amount": 29834.81,
+        "outflow_amount": 16861.74,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 4,
+        "inflow_amount": 17191.63,
+        "outflow_amount": 8638.33,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 2,
+        "inflow_amount": 9196.54,
+        "outflow_amount": 5962.44,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 6,
+        "inflow_amount": 31866.83,
+        "outflow_amount": 20826.14,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 7,
+        "inflow_amount": 35332.76,
+        "outflow_amount": 18467.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 7,
+        "inflow_amount": 34623.49,
+        "outflow_amount": 19628.68,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 8,
+        "inflow_amount": 35291.77,
+        "outflow_amount": 21711.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 7,
+        "inflow_amount": 34277.52,
+        "outflow_amount": 17400.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 3,
+        "inflow_amount": 15700.4,
+        "outflow_amount": 8361.08,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 2,
+        "inflow_amount": 10276.28,
+        "outflow_amount": 6674.3,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 6,
+        "inflow_amount": 32045.8,
+        "outflow_amount": 17292.15,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 5,
+        "inflow_amount": 28917.99,
+        "outflow_amount": 17888.79,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 7,
+        "inflow_amount": 34733.12,
+        "outflow_amount": 21774.11,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 5,
+        "inflow_amount": 33476.83,
+        "outflow_amount": 18104.62,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 6,
+        "inflow_amount": 28061.75,
+        "outflow_amount": 15023.78,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 3,
+        "inflow_amount": 16553.92,
+        "outflow_amount": 10277.75,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 3,
+        "inflow_amount": 12177.3,
+        "outflow_amount": 7470.24,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 7,
+        "inflow_amount": 35084.02,
+        "outflow_amount": 19263.34,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 5,
+        "inflow_amount": 29315.34,
+        "outflow_amount": 19182.79,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 6,
+        "inflow_amount": 31462.24,
+        "outflow_amount": 16919.0,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 5,
+        "inflow_amount": 31783.5,
+        "outflow_amount": 20565.55,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 8,
+        "inflow_amount": 35144.7,
+        "outflow_amount": 21289.17,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 4,
+        "inflow_amount": 17761.96,
+        "outflow_amount": 10041.29,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 3,
+        "inflow_amount": 11552.43,
+        "outflow_amount": 7623.35,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 7,
+        "inflow_amount": 34686.89,
+        "outflow_amount": 22138.44,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 6,
+        "inflow_amount": 34574.62,
+        "outflow_amount": 21839.26,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 7,
+        "inflow_amount": 28608.03,
+        "outflow_amount": 15687.35,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 5,
+        "inflow_amount": 28615.68,
+        "outflow_amount": 17367.66,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 6,
+        "inflow_amount": 29263.91,
+        "outflow_amount": 18454.11,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 4,
+        "inflow_amount": 15729.09,
+        "outflow_amount": 9333.66,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 2,
+        "inflow_amount": 9928.95,
+        "outflow_amount": 6607.82,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 5,
+        "inflow_amount": 30718.54,
+        "outflow_amount": 16521.11,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 7,
+        "inflow_amount": 28591.99,
+        "outflow_amount": 16831.01,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 6,
+        "inflow_amount": 34924.58,
+        "outflow_amount": 21786.13,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 7,
+        "inflow_amount": 34518.48,
+        "outflow_amount": 17978.78,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 6,
+        "inflow_amount": 28751.15,
+        "outflow_amount": 14703.83,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 4,
+        "inflow_amount": 18472.1,
+        "outflow_amount": 10041.53,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 2,
+        "inflow_amount": 10988.46,
+        "outflow_amount": 5717.73,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 7,
+        "inflow_amount": 30801.05,
+        "outflow_amount": 20073.11,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 6,
+        "inflow_amount": 30709.56,
+        "outflow_amount": 19804.45,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 6,
+        "inflow_amount": 34946.18,
+        "outflow_amount": 22357.51,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 6,
+        "inflow_amount": 35116.15,
+        "outflow_amount": 22948.51,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 6,
+        "inflow_amount": 33672.86,
+        "outflow_amount": 17034.96,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 3,
+        "inflow_amount": 15018.35,
+        "outflow_amount": 8596.33,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 2,
+        "inflow_amount": 10624.19,
+        "outflow_amount": 6400.55,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 7,
+        "inflow_amount": 32092.42,
+        "outflow_amount": 16390.27,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 6,
+        "inflow_amount": 33131.85,
+        "outflow_amount": 19174.98,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 6,
+        "inflow_amount": 31245.84,
+        "outflow_amount": 16731.34,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 8,
+        "inflow_amount": 35764.55,
+        "outflow_amount": 23615.68,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 7,
+        "inflow_amount": 33568.28,
+        "outflow_amount": 20009.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 4,
+        "inflow_amount": 17739.94,
+        "outflow_amount": 11028.98,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 2,
+        "inflow_amount": 11496.43,
+        "outflow_amount": 6771.45,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 5,
+        "inflow_amount": 32131.74,
+        "outflow_amount": 17537.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 6,
+        "inflow_amount": 40351.55,
+        "outflow_amount": 21668.37,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 9,
+        "inflow_amount": 40526.19,
+        "outflow_amount": 21881.32,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 8,
+        "inflow_amount": 35005.18,
+        "outflow_amount": 19435.52,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 6,
+        "inflow_amount": 38906.89,
+        "outflow_amount": 21564.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 4,
+        "inflow_amount": 18636.38,
+        "outflow_amount": 11126.43,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 2,
+        "inflow_amount": 12506.62,
+        "outflow_amount": 7426.87,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 7,
+        "inflow_amount": 35446.5,
+        "outflow_amount": 19781.9,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 7,
+        "inflow_amount": 39378.49,
+        "outflow_amount": 26135.88,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 9,
+        "inflow_amount": 38162.07,
+        "outflow_amount": 24748.07,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 6,
+        "inflow_amount": 36423.08,
+        "outflow_amount": 24123.67,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 9,
+        "inflow_amount": 41281.48,
+        "outflow_amount": 26354.02,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 4,
+        "inflow_amount": 22245.89,
+        "outflow_amount": 11159.5,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 3,
+        "inflow_amount": 12953.25,
+        "outflow_amount": 7196.2,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 5,
+        "inflow_amount": 32976.84,
+        "outflow_amount": 20222.2,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 6,
+        "inflow_amount": 34685.72,
+        "outflow_amount": 19955.81,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 8,
+        "inflow_amount": 42537.57,
+        "outflow_amount": 22497.86,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 7,
+        "inflow_amount": 36461.32,
+        "outflow_amount": 19364.18,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 7,
+        "inflow_amount": 39348.6,
+        "outflow_amount": 22722.23,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 3,
+        "inflow_amount": 16972.1,
+        "outflow_amount": 8882.73,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 2,
+        "inflow_amount": 11900.91,
+        "outflow_amount": 6828.89,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 7,
+        "inflow_amount": 33725.49,
+        "outflow_amount": 19722.83,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 9,
+        "inflow_amount": 42919.43,
+        "outflow_amount": 23700.81,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 6,
+        "inflow_amount": 32453.13,
+        "outflow_amount": 21295.72,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 6,
+        "inflow_amount": 35876.11,
+        "outflow_amount": 18164.31,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 9,
+        "inflow_amount": 38426.67,
+        "outflow_amount": 22368.08,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 3,
+        "inflow_amount": 21410.43,
+        "outflow_amount": 11306.37,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 2,
+        "inflow_amount": 11066.59,
+        "outflow_amount": 6136.13,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 6,
+        "inflow_amount": 33471.06,
+        "outflow_amount": 21035.05,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 8,
+        "inflow_amount": 35751.03,
+        "outflow_amount": 23446.68,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 5,
+        "inflow_amount": 29299.63,
+        "outflow_amount": 17372.05,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 7,
+        "inflow_amount": 33331.24,
+        "outflow_amount": 16916.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 6,
+        "inflow_amount": 30956.91,
+        "outflow_amount": 18291.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 3,
+        "inflow_amount": 18161.89,
+        "outflow_amount": 9409.45,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 2,
+        "inflow_amount": 12394.54,
+        "outflow_amount": 7901.91,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 6,
+        "inflow_amount": 35160.77,
+        "outflow_amount": 17427.56,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 6,
+        "inflow_amount": 35817.12,
+        "outflow_amount": 19846.93,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 7,
+        "inflow_amount": 37637.97,
+        "outflow_amount": 18952.58,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 7,
+        "inflow_amount": 30377.81,
+        "outflow_amount": 18379.64,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 6,
+        "inflow_amount": 33747.38,
+        "outflow_amount": 19036.02,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 4,
+        "inflow_amount": 18481.13,
+        "outflow_amount": 10108.43,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 2,
+        "inflow_amount": 12335.6,
+        "outflow_amount": 8048.05,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 6,
+        "inflow_amount": 33496.36,
+        "outflow_amount": 21670.01,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 8,
+        "inflow_amount": 37001.42,
+        "outflow_amount": 20563.6,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 8,
+        "inflow_amount": 35875.03,
+        "outflow_amount": 21968.55,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 8,
+        "inflow_amount": 38225.71,
+        "outflow_amount": 19683.39,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 6,
+        "inflow_amount": 30052.55,
+        "outflow_amount": 18584.38,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 4,
+        "inflow_amount": 17494.32,
+        "outflow_amount": 10831.65,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 2,
+        "inflow_amount": 13204.34,
+        "outflow_amount": 7029.97,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 6,
+        "inflow_amount": 30765.93,
+        "outflow_amount": 19787.77,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 7,
+        "inflow_amount": 38732.21,
+        "outflow_amount": 20450.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 8,
+        "inflow_amount": 36407.73,
+        "outflow_amount": 23846.87,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 6,
+        "inflow_amount": 29445.39,
+        "outflow_amount": 15769.6,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 7,
+        "inflow_amount": 34721.29,
+        "outflow_amount": 18921.55,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 4,
+        "inflow_amount": 18685.82,
+        "outflow_amount": 9615.74,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 2,
+        "inflow_amount": 10285.52,
+        "outflow_amount": 5178.85,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 6,
+        "inflow_amount": 31855.1,
+        "outflow_amount": 16112.88,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 6,
+        "inflow_amount": 33255.08,
+        "outflow_amount": 20953.95,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 8,
+        "inflow_amount": 34456.57,
+        "outflow_amount": 22718.85,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 10,
+        "inflow_amount": 39833.94,
+        "outflow_amount": 24875.53,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 8,
+        "inflow_amount": 40080.71,
+        "outflow_amount": 21051.68,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 4,
+        "inflow_amount": 22379.91,
+        "outflow_amount": 11329.81,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 2,
+        "inflow_amount": 13223.07,
+        "outflow_amount": 7544.81,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 9,
+        "inflow_amount": 40235.11,
+        "outflow_amount": 23661.21,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 6,
+        "inflow_amount": 35895.12,
+        "outflow_amount": 18730.53,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 7,
+        "inflow_amount": 31805.31,
+        "outflow_amount": 16219.63,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 6,
+        "inflow_amount": 32651.48,
+        "outflow_amount": 19686.91,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 8,
+        "inflow_amount": 41666.38,
+        "outflow_amount": 21370.75,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 5,
+        "inflow_amount": 19296.37,
+        "outflow_amount": 12751.7,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 3,
+        "inflow_amount": 14627.82,
+        "outflow_amount": 8943.36,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 7,
+        "inflow_amount": 32918.46,
+        "outflow_amount": 18978.64,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 9,
+        "inflow_amount": 40770.47,
+        "outflow_amount": 24197.43,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 8,
+        "inflow_amount": 34615.86,
+        "outflow_amount": 19477.97,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 6,
+        "inflow_amount": 39409.81,
+        "outflow_amount": 19514.94,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 7,
+        "inflow_amount": 32181.75,
+        "outflow_amount": 20398.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 4,
+        "inflow_amount": 17092.72,
+        "outflow_amount": 11395.79,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 2,
+        "inflow_amount": 13674.18,
+        "outflow_amount": 8977.39,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 6,
+        "inflow_amount": 37686.6,
+        "outflow_amount": 22625.48,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 7,
+        "inflow_amount": 41249.93,
+        "outflow_amount": 27114.38,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 8,
+        "inflow_amount": 38807.9,
+        "outflow_amount": 22028.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 7,
+        "inflow_amount": 40497.12,
+        "outflow_amount": 25930.54,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 8,
+        "inflow_amount": 40302.01,
+        "outflow_amount": 23836.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 4,
+        "inflow_amount": 18325.78,
+        "outflow_amount": 11801.42,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 3,
+        "inflow_amount": 14221.29,
+        "outflow_amount": 9011.32,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 8,
+        "inflow_amount": 38826.67,
+        "outflow_amount": 23305.73,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 9,
+        "inflow_amount": 39311.68,
+        "outflow_amount": 22257.63,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 6,
+        "inflow_amount": 32774.03,
+        "outflow_amount": 21832.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 7,
+        "inflow_amount": 32581.93,
+        "outflow_amount": 17157.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 10,
+        "inflow_amount": 41103.16,
+        "outflow_amount": 27356.49,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 4,
+        "inflow_amount": 18303.23,
+        "outflow_amount": 10688.56,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 2,
+        "inflow_amount": 10705.25,
+        "outflow_amount": 6276.45,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 7,
+        "inflow_amount": 33718.33,
+        "outflow_amount": 18313.53,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 7,
+        "inflow_amount": 38343.89,
+        "outflow_amount": 22544.08,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 8,
+        "inflow_amount": 41273.98,
+        "outflow_amount": 22428.13,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 7,
+        "inflow_amount": 36941.35,
+        "outflow_amount": 20658.89,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 7,
+        "inflow_amount": 37621.77,
+        "outflow_amount": 20466.04,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 4,
+        "inflow_amount": 20661.27,
+        "outflow_amount": 13227.05,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 2,
+        "inflow_amount": 11804.96,
+        "outflow_amount": 7350.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 8,
+        "inflow_amount": 33587.55,
+        "outflow_amount": 21297.15,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 5,
+        "inflow_amount": 33457.04,
+        "outflow_amount": 19801.76,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 7,
+        "inflow_amount": 39379.42,
+        "outflow_amount": 19492.92,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 7,
+        "inflow_amount": 37312.34,
+        "outflow_amount": 20719.43,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 6,
+        "inflow_amount": 32940.64,
+        "outflow_amount": 20778.28,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 4,
+        "inflow_amount": 19865.31,
+        "outflow_amount": 12492.21,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 2,
+        "inflow_amount": 13804.03,
+        "outflow_amount": 7277.2,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 9,
+        "inflow_amount": 36492.95,
+        "outflow_amount": 22953.4,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 7,
+        "inflow_amount": 32124.78,
+        "outflow_amount": 20466.16,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 7,
+        "inflow_amount": 30760.91,
+        "outflow_amount": 18983.1,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 10,
+        "inflow_amount": 39931.29,
+        "outflow_amount": 26108.27,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 7,
+        "inflow_amount": 34710.14,
+        "outflow_amount": 22757.04,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 3,
+        "inflow_amount": 16808.85,
+        "outflow_amount": 10045.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 3,
+        "inflow_amount": 12920.63,
+        "outflow_amount": 7533.77,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 8,
+        "inflow_amount": 34660.18,
+        "outflow_amount": 19762.29,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 7,
+        "inflow_amount": 34178.13,
+        "outflow_amount": 19210.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 8,
+        "inflow_amount": 39793.9,
+        "outflow_amount": 23156.86,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 7,
+        "inflow_amount": 31242.11,
+        "outflow_amount": 18328.48,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 7,
+        "inflow_amount": 39295.63,
+        "outflow_amount": 19900.64,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 5,
+        "inflow_amount": 20910.74,
+        "outflow_amount": 10706.01,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 2,
+        "inflow_amount": 12144.5,
+        "outflow_amount": 6055.07,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 7,
+        "inflow_amount": 44397.09,
+        "outflow_amount": 23014.61,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 9,
+        "inflow_amount": 39921.29,
+        "outflow_amount": 26292.79,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 6,
+        "inflow_amount": 35430.61,
+        "outflow_amount": 18121.66,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 8,
+        "inflow_amount": 39259.79,
+        "outflow_amount": 24752.11,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 8,
+        "inflow_amount": 38034.81,
+        "outflow_amount": 22809.82,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 4,
+        "inflow_amount": 22273.97,
+        "outflow_amount": 14081.19,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 2,
+        "inflow_amount": 12045.33,
+        "outflow_amount": 6770.28,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 9,
+        "inflow_amount": 45565.22,
+        "outflow_amount": 26484.58,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 6,
+        "inflow_amount": 34863.48,
+        "outflow_amount": 22509.29,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 10,
+        "inflow_amount": 43784.14,
+        "outflow_amount": 27688.06,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 8,
+        "inflow_amount": 39474.68,
+        "outflow_amount": 21659.41,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 8,
+        "inflow_amount": 40499.09,
+        "outflow_amount": 24312.02,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 4,
+        "inflow_amount": 20714.09,
+        "outflow_amount": 10226.93,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 2,
+        "inflow_amount": 15611.02,
+        "outflow_amount": 8235.09,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 8,
+        "inflow_amount": 42986.57,
+        "outflow_amount": 21888.15,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 9,
+        "inflow_amount": 43334.01,
+        "outflow_amount": 28103.53,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 10,
+        "inflow_amount": 44932.88,
+        "outflow_amount": 27599.29,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 9,
+        "inflow_amount": 43431.67,
+        "outflow_amount": 23621.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 8,
+        "inflow_amount": 42348.18,
+        "outflow_amount": 20890.23,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 5,
+        "inflow_amount": 22274.02,
+        "outflow_amount": 14832.61,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 2,
+        "inflow_amount": 13908.69,
+        "outflow_amount": 6906.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 8,
+        "inflow_amount": 35931.36,
+        "outflow_amount": 18448.69,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 8,
+        "inflow_amount": 36985.51,
+        "outflow_amount": 19046.66,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 9,
+        "inflow_amount": 38165.59,
+        "outflow_amount": 22239.78,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 7,
+        "inflow_amount": 40753.21,
+        "outflow_amount": 21082.71,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 9,
+        "inflow_amount": 40103.82,
+        "outflow_amount": 21242.58,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 4,
+        "inflow_amount": 19183.29,
+        "outflow_amount": 10051.5,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 2,
+        "inflow_amount": 12326.71,
+        "outflow_amount": 7035.23,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 6,
+        "inflow_amount": 36463.41,
+        "outflow_amount": 21708.14,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 8,
+        "inflow_amount": 42832.14,
+        "outflow_amount": 25196.85,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 8,
+        "inflow_amount": 33768.77,
+        "outflow_amount": 20400.71,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 8,
+        "inflow_amount": 33638.43,
+        "outflow_amount": 21541.47,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 8,
+        "inflow_amount": 37359.02,
+        "outflow_amount": 20661.49,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 4,
+        "inflow_amount": 19254.49,
+        "outflow_amount": 9562.41,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 2,
+        "inflow_amount": 11827.92,
+        "outflow_amount": 6276.23,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 7,
+        "inflow_amount": 43322.43,
+        "outflow_amount": 24204.25,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 8,
+        "inflow_amount": 43701.57,
+        "outflow_amount": 22824.68,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 9,
+        "inflow_amount": 39051.27,
+        "outflow_amount": 25771.84,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 9,
+        "inflow_amount": 39554.76,
+        "outflow_amount": 20906.62,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 7,
+        "inflow_amount": 33116.09,
+        "outflow_amount": 18204.81,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 4,
+        "inflow_amount": 19131.03,
+        "outflow_amount": 11912.02,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 3,
+        "inflow_amount": 12344.98,
+        "outflow_amount": 7428.32,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 9,
+        "inflow_amount": 42657.33,
+        "outflow_amount": 26364.12,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 8,
+        "inflow_amount": 41060.2,
+        "outflow_amount": 26728.99,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 6,
+        "inflow_amount": 41211.51,
+        "outflow_amount": 21313.6,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 5,
+        "inflow_amount": 34880.61,
+        "outflow_amount": 18253.13,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 8,
+        "inflow_amount": 34733.92,
+        "outflow_amount": 17995.23,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 4,
+        "inflow_amount": 18531.85,
+        "outflow_amount": 10110.52,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 2,
+        "inflow_amount": 13345.9,
+        "outflow_amount": 7104.96,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 9,
+        "inflow_amount": 43203.91,
+        "outflow_amount": 24022.8,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 10,
+        "inflow_amount": 43386.0,
+        "outflow_amount": 27994.46,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 8,
+        "inflow_amount": 41417.13,
+        "outflow_amount": 27110.64,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 6,
+        "inflow_amount": 34645.23,
+        "outflow_amount": 17550.61,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 7,
+        "inflow_amount": 37224.42,
+        "outflow_amount": 23447.68,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 4,
+        "inflow_amount": 21963.48,
+        "outflow_amount": 11794.03,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 2,
+        "inflow_amount": 14095.68,
+        "outflow_amount": 9310.58,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 6,
+        "inflow_amount": 34006.12,
+        "outflow_amount": 19071.28,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 9,
+        "inflow_amount": 39157.33,
+        "outflow_amount": 24916.74,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 6,
+        "inflow_amount": 39750.62,
+        "outflow_amount": 20194.87,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 7,
+        "inflow_amount": 43644.83,
+        "outflow_amount": 24780.55,
+        "merchant_category": "Textiles"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 6,
+        "inflow_amount": 35994.01,
+        "outflow_amount": 19416.87,
+        "merchant_category": "Textiles"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 133,
+        "inflow_amount": 673710.56,
+        "outflow_amount": 389390.0
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 125,
+        "inflow_amount": 649790.96,
+        "outflow_amount": 376167.93
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 138,
+        "inflow_amount": 719963.97,
+        "outflow_amount": 399893.71
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 162,
+        "inflow_amount": 803844.83,
+        "outflow_amount": 463669.9
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 168,
+        "inflow_amount": 839136.65,
+        "outflow_amount": 491021.53
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 168,
+        "inflow_amount": 839046.28,
+        "outflow_amount": 498693.48
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 165,
+        "inflow_amount": 875146.06,
+        "outflow_amount": 503942.94
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 171,
+        "inflow_amount": 877494.47,
+        "outflow_amount": 503276.99
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 192,
+        "inflow_amount": 951399.98,
+        "outflow_amount": 558725.24
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 187,
+        "inflow_amount": 916798.26,
+        "outflow_amount": 537135.01
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 203,
+        "inflow_amount": 1027835.67,
+        "outflow_amount": 586851.29
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 199,
+        "inflow_amount": 1020980.84,
+        "outflow_amount": 587176.51
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 490917.4
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 461587.8
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 444357.76
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 460083.71
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 450561.67
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 456958.17
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 450374.85
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 439801.04
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 456013.31
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 458420.81
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 477294.45
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 461646.05
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 462489.86
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 473095.6
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 465071.59
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 480018.02
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 486684.52
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 491484.95
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 492003.87
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 478016.73
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 467337.92
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 503105.83
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 508905.3
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 483137.7
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 491376.41
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 481063.97
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 466122.11
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 456351.59
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 451432.85
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 434327.86
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 422631.43
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 392003.26
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 394261.4
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 392565.95
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 382249.85
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 404260.72
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 392963.38
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 418099.0
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 421130.17
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 412159.82
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 420923.18
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 406727.71
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 398456.24
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 386430.73
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 389184.49
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 397496.92
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 378162.94
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 380905.26
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 366007.94
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 365525.14
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 358259.35
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 358449.29
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 371356.86
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 383853.99
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 410526.41
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 426435.76
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 424720.34
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 413376.77
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 426159.12
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 434949.36
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 398115.15
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 393135.43
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 407299.03
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 399520.27
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 428689.84
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 431284.36
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 416850.03
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 433745.17
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 423896.55
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 437126.71
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 459827.34
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 482879.41
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 480777.0
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 468198.62
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 459097.74
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 471556.79
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 449019.17
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 440232.2
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 436598.46
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 465221.55
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 482280.4
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 512262.79
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 463665.99
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 446725.22
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 474220.37
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 475885.26
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 494455.27
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 491820.39
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 487208.97
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 503990.89
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 541451.13
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 519938.29
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 510074.61
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 517872.19
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 511795.44
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 509809.93
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 502344.79
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 485434.12
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 500950.77
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 477559.82
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 470982.7
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 469364.48
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 512377.9
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 512358.0
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 542537.35
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 564260.46
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 564378.29
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 556280.62
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 564525.81
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 599282.51
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 581905.88
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 586114.97
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 580686.91
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 569071.86
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 578785.04
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 572927.13
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 580681.94
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 554391.5
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 555951.52
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 510724.46
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 560954.44
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 545345.38
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 524406.86
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 558276.57
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 557196.21
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 543898.87
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 546132.55
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 557750.63
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 550020.04
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 574169.8
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 564965.5
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 563263.37
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 582608.28
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 569735.9
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 582291.3
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 588120.38
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 601843.07
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 568694.87
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 591854.56
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 566627.75
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 609005.27
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 626823.35
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 594715.44
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 596850.61
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 586083.06
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 602435.28
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 603113.01
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 576538.55
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 551670.4
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 559215.34
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 560354.99
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 556289.47
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 557645.21
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 556769.31
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 568888.84
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 554211.63
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 568574.92
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 570572.3
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 558457.72
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 590359.1
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 577531.13
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 557814.39
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 540473.82
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 548401.07
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 541275.98
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 569804.85
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 574532.41
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 539771.94
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 555051.4
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 569129.5
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 575813.08
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 599561.98
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 620240.84
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 643710.87
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 639649.44
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 654357.97
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 623766.94
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 628164.74
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 655942.49
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 676932.2
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 679437.59
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 682663.72
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 672516.47
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 646640.76
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 624780.72
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 600859.97
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 609439.53
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 590912.56
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 566903.42
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 548943.78
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 558393.45
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 561690.29
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 562310.84
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 539678.84
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 522021.09
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 533675.65
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 524594.94
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 529587.67
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 536860.65
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 592119.65
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 585874.83
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 580791.98
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 613533.09
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 605794.73
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 603866.59
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 606175.49
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 623432.86
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 616950.76
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 621169.11
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 611844.31
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 596722.76
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 599452.35
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 608615.57
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 596897.94
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 590930.65
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 587383.6
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 617270.28
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 591207.37
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 597659.33
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 593646.31
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 579998.35
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 612278.71
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 642029.96
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 636287.06
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 638424.42
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 645492.52
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 656005.6
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 668011.11
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 643966.03
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 644297.72
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 624380.51
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 608096.23
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 605770.05
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 618122.62
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 602839.53
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 620519.5
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 642730.53
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 634438.38
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 638715.31
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 640219.32
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 653206.87
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 656840.34
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 680789.18
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 655296.34
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 649036.03
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 642803.64
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 621553.48
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 637465.92
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 608730.18
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 653821.26
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 646960.38
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 635214.51
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 646032.49
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 644738.26
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 632040.63
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 618081.72
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 599928.6
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 610157.87
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 603043.11
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 629294.51
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 649306.8
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 646665.45
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 654197.41
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 650162.66
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 637331.07
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 628518.28
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 640652.56
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 630939.08
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 633741.02
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 618456.8
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 616270.67
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 576538.52
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 576291.89
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 602974.61
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 587717.37
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 534443.66
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 513964.26
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 503968.85
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 532172.62
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 525751.12
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 509832.72
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 544016.52
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 554069.66
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 579191.82
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 536691.49
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 503393.98
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 456344.19
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 485214.7
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 500783.98
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 499808.54
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 510951.35
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 523721.13
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 550753.57
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 551148.41
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 568474.41
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 572760.16
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 587491.22
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 645784.49
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 622203.49
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 630999.97
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 590418.88
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 608106.41
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 602650.88
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 613580.45
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 631897.58
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 592166.63
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 589954.91
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 609735.91
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 611533.01
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 671990.35
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 661804.54
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 653580.64
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 698911.05
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 713290.65
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 650724.06
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 628220.91
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 620818.79
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 602135.26
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 564225.59
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 587479.05
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 584114.15
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 603668.5
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 615200.29
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 619889.35
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 655239.66
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 628112.83
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 646813.9
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 651215.3
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 643598.61
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 676230.1
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 676378.21
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 671763.89
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 658217.23
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 688900.4
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 667182.1
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 687537.35
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 653601.47
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 699689.14
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 713439.93
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 723161.99
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 682976.4
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 684534.48
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 690941.22
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 667296.38
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 649863.88
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 624384.03
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 624322.42
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 620599.04
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 598734.0
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 604809.44
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 590054.75
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 603069.62
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 636495.2
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 657736.41
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 618995.83
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 649847.85
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 638741.11
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 640435.37
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 609438.88
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 596922.77
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 653238.02
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 672373.46
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 711058.1
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 742199.63
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 743437.41
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 422631.43,
+        "average_balance": 467828.23,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 398115.15,
+        "average_balance": 396857.22,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 519938.29,
+        "average_balance": 460608.41,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 545345.38,
+        "average_balance": 538324.36,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 557645.21,
+        "average_balance": 573309.56,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 646640.76,
+        "average_balance": 598097.4,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 599452.35,
+        "average_balance": 581013.64,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 680789.18,
+        "average_balance": 625066.8,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 576291.89,
+        "average_balance": 629775.7,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 613580.45,
+        "average_balance": 553205.96,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 688900.4,
+        "average_balance": 636927.05,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 743437.41,
+        "average_balance": 656681.22,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2025-09-06",
+        "amount": 84352.84,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2025-12-22",
+        "amount": 51182.15,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 10,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 9,
+        "expected_contribution": 31703.75,
+        "contribution_paid": 31703.75,
+        "status": "delayed"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 9,
+        "expected_contribution": 32127.88,
+        "contribution_paid": 32127.88,
+        "status": "delayed"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 9,
+        "expected_contribution": 31506.09,
+        "contribution_paid": 31506.09,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 9,
+        "expected_contribution": 31503.78,
+        "contribution_paid": 31503.78,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 9,
+        "expected_contribution": 32803.48,
+        "contribution_paid": 32803.48,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 9,
+        "expected_contribution": 31444.01,
+        "contribution_paid": 31444.01,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 9,
+        "expected_contribution": 33153.04,
+        "contribution_paid": 33153.04,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 9,
+        "expected_contribution": 32422.44,
+        "contribution_paid": 32422.44,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 10,
+        "expected_contribution": 36134.67,
+        "contribution_paid": 36134.67,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 10,
+        "expected_contribution": 35882.38,
+        "contribution_paid": 35882.38,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 10,
+        "expected_contribution": 35037.07,
+        "contribution_paid": 35037.07,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 10,
+        "expected_contribution": 35496.82,
+        "contribution_paid": 35496.82,
+        "status": "on_time"
+      }
+    ]
+  }
+}

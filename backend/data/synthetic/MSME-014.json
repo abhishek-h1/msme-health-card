@@ -1,0 +1,4406 @@
+{
+  "business_id": "MSME-014",
+  "name": "Nova Beauty & Salon Chain",
+  "sector": "Personal Care Services",
+  "archetype": "growing",
+  "registration_type": "pvt_ltd",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 1146902.43,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 1137971.76,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 1215849.62,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 1260533.03,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-26",
+        "status": "filed_late",
+        "days_late": 6
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 1270823.08,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 1248590.61,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 1312057.69,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 1494317.84,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 1509860.81,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 1624707.59,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-06-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 1557876.4,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 1708994.64,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Personal Care & Salons",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 31,
+        "inflow_amount": 15486.02,
+        "outflow_amount": 9178.31,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 38,
+        "inflow_amount": 19323.97,
+        "outflow_amount": 12354.4,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 39,
+        "inflow_amount": 22162.92,
+        "outflow_amount": 11586.05,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 29,
+        "inflow_amount": 14194.4,
+        "outflow_amount": 7752.53,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 29,
+        "inflow_amount": 13209.15,
+        "outflow_amount": 7541.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 21,
+        "inflow_amount": 13254.84,
+        "outflow_amount": 7133.3,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 30,
+        "inflow_amount": 12907.24,
+        "outflow_amount": 7682.11,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 26,
+        "inflow_amount": 16037.74,
+        "outflow_amount": 8662.84,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 48,
+        "inflow_amount": 22786.1,
+        "outflow_amount": 11489.52,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 42,
+        "inflow_amount": 21989.28,
+        "outflow_amount": 13881.98,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 28,
+        "inflow_amount": 14432.33,
+        "outflow_amount": 7664.49,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 28,
+        "inflow_amount": 15697.0,
+        "outflow_amount": 9014.21,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 28,
+        "inflow_amount": 12507.0,
+        "outflow_amount": 7390.69,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 29,
+        "inflow_amount": 14186.82,
+        "outflow_amount": 8835.86,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 31,
+        "inflow_amount": 17989.91,
+        "outflow_amount": 8882.21,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 55,
+        "inflow_amount": 23089.36,
+        "outflow_amount": 14062.06,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 32,
+        "inflow_amount": 20446.12,
+        "outflow_amount": 10923.72,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 32,
+        "inflow_amount": 13034.53,
+        "outflow_amount": 8318.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 23,
+        "inflow_amount": 12823.42,
+        "outflow_amount": 6481.46,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 21,
+        "inflow_amount": 11832.83,
+        "outflow_amount": 7538.6,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 20,
+        "inflow_amount": 12711.53,
+        "outflow_amount": 6774.51,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 28,
+        "inflow_amount": 14973.11,
+        "outflow_amount": 9638.57,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 44,
+        "inflow_amount": 19101.06,
+        "outflow_amount": 11029.16,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 47,
+        "inflow_amount": 21972.44,
+        "outflow_amount": 10935.54,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 25,
+        "inflow_amount": 13559.27,
+        "outflow_amount": 8742.1,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 26,
+        "inflow_amount": 15132.25,
+        "outflow_amount": 8644.8,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 22,
+        "inflow_amount": 12360.42,
+        "outflow_amount": 7917.47,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 22,
+        "inflow_amount": 13683.88,
+        "outflow_amount": 6987.96,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 31,
+        "inflow_amount": 19078.16,
+        "outflow_amount": 11542.83,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 52,
+        "inflow_amount": 24462.87,
+        "outflow_amount": 12105.84,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 46,
+        "inflow_amount": 21882.86,
+        "outflow_amount": 13757.48,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 25,
+        "inflow_amount": 16051.79,
+        "outflow_amount": 8421.5,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 35,
+        "inflow_amount": 15079.15,
+        "outflow_amount": 8767.92,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 36,
+        "inflow_amount": 15998.08,
+        "outflow_amount": 10526.99,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 28,
+        "inflow_amount": 12875.07,
+        "outflow_amount": 7157.74,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 36,
+        "inflow_amount": 19856.65,
+        "outflow_amount": 13056.26,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 44,
+        "inflow_amount": 22041.16,
+        "outflow_amount": 14098.56,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 33,
+        "inflow_amount": 19453.62,
+        "outflow_amount": 9594.39,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 26,
+        "inflow_amount": 13042.7,
+        "outflow_amount": 7916.46,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 24,
+        "inflow_amount": 13876.25,
+        "outflow_amount": 7978.91,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 34,
+        "inflow_amount": 15624.66,
+        "outflow_amount": 9297.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 32,
+        "inflow_amount": 15858.14,
+        "outflow_amount": 9830.74,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 28,
+        "inflow_amount": 15043.45,
+        "outflow_amount": 9722.57,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 36,
+        "inflow_amount": 21466.38,
+        "outflow_amount": 11328.34,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 40,
+        "inflow_amount": 18864.85,
+        "outflow_amount": 11937.85,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 26,
+        "inflow_amount": 15030.52,
+        "outflow_amount": 8738.97,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 32,
+        "inflow_amount": 16354.24,
+        "outflow_amount": 10253.61,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 33,
+        "inflow_amount": 14639.07,
+        "outflow_amount": 8911.79,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 29,
+        "inflow_amount": 13506.75,
+        "outflow_amount": 7292.52,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 36,
+        "inflow_amount": 15915.33,
+        "outflow_amount": 8266.11,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 44,
+        "inflow_amount": 25129.39,
+        "outflow_amount": 15668.68,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 34,
+        "inflow_amount": 18115.88,
+        "outflow_amount": 10992.77,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 29,
+        "inflow_amount": 12343.95,
+        "outflow_amount": 7037.95,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 37,
+        "inflow_amount": 15770.49,
+        "outflow_amount": 9363.43,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 26,
+        "inflow_amount": 12889.76,
+        "outflow_amount": 8132.08,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 27,
+        "inflow_amount": 14981.46,
+        "outflow_amount": 7985.87,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 31,
+        "inflow_amount": 15641.88,
+        "outflow_amount": 8897.27,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 42,
+        "inflow_amount": 19594.65,
+        "outflow_amount": 10501.96,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 53,
+        "inflow_amount": 23778.46,
+        "outflow_amount": 13562.15,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 21,
+        "inflow_amount": 13859.06,
+        "outflow_amount": 6888.14,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 26,
+        "inflow_amount": 13860.27,
+        "outflow_amount": 9163.46,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 28,
+        "inflow_amount": 13301.87,
+        "outflow_amount": 6875.34,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 29,
+        "inflow_amount": 15459.87,
+        "outflow_amount": 8756.16,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 46,
+        "inflow_amount": 19390.66,
+        "outflow_amount": 11864.36,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 52,
+        "inflow_amount": 27040.27,
+        "outflow_amount": 14259.01,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 50,
+        "inflow_amount": 24269.24,
+        "outflow_amount": 12077.85,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 22,
+        "inflow_amount": 14470.59,
+        "outflow_amount": 7578.73,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 26,
+        "inflow_amount": 14358.87,
+        "outflow_amount": 8153.67,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 27,
+        "inflow_amount": 13106.21,
+        "outflow_amount": 7341.23,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 26,
+        "inflow_amount": 14599.2,
+        "outflow_amount": 8475.68,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 34,
+        "inflow_amount": 17271.57,
+        "outflow_amount": 9325.26,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 61,
+        "inflow_amount": 25638.41,
+        "outflow_amount": 15871.49,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 51,
+        "inflow_amount": 22612.33,
+        "outflow_amount": 14957.05,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 30,
+        "inflow_amount": 16079.97,
+        "outflow_amount": 8325.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 32,
+        "inflow_amount": 17444.83,
+        "outflow_amount": 10674.6,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 30,
+        "inflow_amount": 14870.46,
+        "outflow_amount": 8281.72,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 34,
+        "inflow_amount": 16918.26,
+        "outflow_amount": 9459.28,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 51,
+        "inflow_amount": 21490.93,
+        "outflow_amount": 13235.31,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 57,
+        "inflow_amount": 26807.38,
+        "outflow_amount": 17142.96,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 36,
+        "inflow_amount": 20034.36,
+        "outflow_amount": 12562.46,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 31,
+        "inflow_amount": 13319.44,
+        "outflow_amount": 7679.58,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 31,
+        "inflow_amount": 14596.51,
+        "outflow_amount": 9303.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 24,
+        "inflow_amount": 14976.17,
+        "outflow_amount": 7947.84,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 35,
+        "inflow_amount": 15245.25,
+        "outflow_amount": 9383.26,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 32,
+        "inflow_amount": 17758.78,
+        "outflow_amount": 10265.98,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 34,
+        "inflow_amount": 21138.05,
+        "outflow_amount": 10440.06,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 48,
+        "inflow_amount": 23953.14,
+        "outflow_amount": 12103.9,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 34,
+        "inflow_amount": 16861.35,
+        "outflow_amount": 9779.72,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 30,
+        "inflow_amount": 14372.14,
+        "outflow_amount": 8857.86,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 29,
+        "inflow_amount": 13819.9,
+        "outflow_amount": 8140.07,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 33,
+        "inflow_amount": 14539.36,
+        "outflow_amount": 9140.95,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 34,
+        "inflow_amount": 18259.21,
+        "outflow_amount": 10226.23,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 37,
+        "inflow_amount": 21170.3,
+        "outflow_amount": 12605.17,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 39,
+        "inflow_amount": 20250.38,
+        "outflow_amount": 12124.07,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 27,
+        "inflow_amount": 13947.57,
+        "outflow_amount": 9116.28,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 22,
+        "inflow_amount": 13429.31,
+        "outflow_amount": 8208.89,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 36,
+        "inflow_amount": 17540.05,
+        "outflow_amount": 10455.56,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 33,
+        "inflow_amount": 14906.62,
+        "outflow_amount": 8919.85,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 35,
+        "inflow_amount": 20604.77,
+        "outflow_amount": 10907.85,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 48,
+        "inflow_amount": 23620.86,
+        "outflow_amount": 14793.51,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 50,
+        "inflow_amount": 21933.93,
+        "outflow_amount": 12135.78,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 26,
+        "inflow_amount": 14900.07,
+        "outflow_amount": 7860.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 30,
+        "inflow_amount": 15629.83,
+        "outflow_amount": 10390.55,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 29,
+        "inflow_amount": 14986.03,
+        "outflow_amount": 9208.98,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 33,
+        "inflow_amount": 16631.8,
+        "outflow_amount": 9587.0,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 48,
+        "inflow_amount": 21274.02,
+        "outflow_amount": 11163.61,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 45,
+        "inflow_amount": 25838.45,
+        "outflow_amount": 16667.62,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 47,
+        "inflow_amount": 25428.92,
+        "outflow_amount": 13453.25,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 41,
+        "inflow_amount": 18027.24,
+        "outflow_amount": 10883.3,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 27,
+        "inflow_amount": 16236.88,
+        "outflow_amount": 9228.14,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 36,
+        "inflow_amount": 16687.53,
+        "outflow_amount": 10256.78,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 26,
+        "inflow_amount": 16444.94,
+        "outflow_amount": 8286.25,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 33,
+        "inflow_amount": 17903.98,
+        "outflow_amount": 11475.28,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 44,
+        "inflow_amount": 27271.7,
+        "outflow_amount": 15532.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 56,
+        "inflow_amount": 25750.66,
+        "outflow_amount": 16273.81,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 27,
+        "inflow_amount": 13994.35,
+        "outflow_amount": 7231.64,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 29,
+        "inflow_amount": 16226.21,
+        "outflow_amount": 8691.9,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 33,
+        "inflow_amount": 15406.65,
+        "outflow_amount": 10030.99,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 34,
+        "inflow_amount": 15394.48,
+        "outflow_amount": 8201.37,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 32,
+        "inflow_amount": 16719.11,
+        "outflow_amount": 9368.14,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 46,
+        "inflow_amount": 27240.7,
+        "outflow_amount": 16300.63,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 34,
+        "inflow_amount": 19490.71,
+        "outflow_amount": 9877.68,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 30,
+        "inflow_amount": 13347.34,
+        "outflow_amount": 6895.18,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 33,
+        "inflow_amount": 14063.02,
+        "outflow_amount": 8613.14,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 32,
+        "inflow_amount": 14305.77,
+        "outflow_amount": 8032.64,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 34,
+        "inflow_amount": 14913.54,
+        "outflow_amount": 9694.18,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 47,
+        "inflow_amount": 21419.41,
+        "outflow_amount": 13547.62,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 52,
+        "inflow_amount": 23827.85,
+        "outflow_amount": 13754.4,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 61,
+        "inflow_amount": 25727.15,
+        "outflow_amount": 16504.07,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 35,
+        "inflow_amount": 14969.34,
+        "outflow_amount": 8720.17,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 25,
+        "inflow_amount": 13339.2,
+        "outflow_amount": 7513.25,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 27,
+        "inflow_amount": 14186.39,
+        "outflow_amount": 8551.01,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 34,
+        "inflow_amount": 14214.67,
+        "outflow_amount": 9336.23,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 39,
+        "inflow_amount": 21829.11,
+        "outflow_amount": 10831.84,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 51,
+        "inflow_amount": 25178.94,
+        "outflow_amount": 16346.45,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 55,
+        "inflow_amount": 24039.66,
+        "outflow_amount": 13671.87,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 29,
+        "inflow_amount": 15058.96,
+        "outflow_amount": 7482.8,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 33,
+        "inflow_amount": 15298.19,
+        "outflow_amount": 8324.11,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 32,
+        "inflow_amount": 15080.58,
+        "outflow_amount": 9041.92,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 33,
+        "inflow_amount": 13799.83,
+        "outflow_amount": 8670.93,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 44,
+        "inflow_amount": 18396.38,
+        "outflow_amount": 12123.87,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 48,
+        "inflow_amount": 25903.11,
+        "outflow_amount": 16798.31,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 53,
+        "inflow_amount": 24269.33,
+        "outflow_amount": 14688.53,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 30,
+        "inflow_amount": 14001.09,
+        "outflow_amount": 9239.96,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 24,
+        "inflow_amount": 14180.34,
+        "outflow_amount": 8616.19,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 28,
+        "inflow_amount": 13976.4,
+        "outflow_amount": 8095.04,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 28,
+        "inflow_amount": 15473.6,
+        "outflow_amount": 9471.56,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 44,
+        "inflow_amount": 19393.15,
+        "outflow_amount": 12087.01,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 34,
+        "inflow_amount": 22460.84,
+        "outflow_amount": 11270.64,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 44,
+        "inflow_amount": 21959.14,
+        "outflow_amount": 14014.39,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 34,
+        "inflow_amount": 15244.96,
+        "outflow_amount": 9915.15,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 31,
+        "inflow_amount": 16205.2,
+        "outflow_amount": 9735.29,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 28,
+        "inflow_amount": 14376.76,
+        "outflow_amount": 9533.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 37,
+        "inflow_amount": 15755.34,
+        "outflow_amount": 10070.91,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 35,
+        "inflow_amount": 19961.1,
+        "outflow_amount": 12894.57,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 49,
+        "inflow_amount": 25193.93,
+        "outflow_amount": 13825.34,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 47,
+        "inflow_amount": 25135.25,
+        "outflow_amount": 13697.0,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 35,
+        "inflow_amount": 14926.22,
+        "outflow_amount": 8430.87,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 33,
+        "inflow_amount": 14217.07,
+        "outflow_amount": 8287.6,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 31,
+        "inflow_amount": 14821.25,
+        "outflow_amount": 9438.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 23,
+        "inflow_amount": 13365.46,
+        "outflow_amount": 8685.63,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 35,
+        "inflow_amount": 21624.05,
+        "outflow_amount": 11721.59,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 58,
+        "inflow_amount": 27800.87,
+        "outflow_amount": 17873.68,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 42,
+        "inflow_amount": 23925.7,
+        "outflow_amount": 13330.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 40,
+        "inflow_amount": 17234.69,
+        "outflow_amount": 9757.83,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 29,
+        "inflow_amount": 15208.71,
+        "outflow_amount": 8560.93,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 27,
+        "inflow_amount": 15784.87,
+        "outflow_amount": 9493.82,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 35,
+        "inflow_amount": 16196.63,
+        "outflow_amount": 8424.49,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 49,
+        "inflow_amount": 20195.2,
+        "outflow_amount": 13258.77,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 50,
+        "inflow_amount": 24531.28,
+        "outflow_amount": 12920.12,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 41,
+        "inflow_amount": 23436.68,
+        "outflow_amount": 13834.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 34,
+        "inflow_amount": 14624.51,
+        "outflow_amount": 9136.94,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 28,
+        "inflow_amount": 17966.97,
+        "outflow_amount": 9397.12,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 26,
+        "inflow_amount": 16406.74,
+        "outflow_amount": 9003.37,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 31,
+        "inflow_amount": 15026.22,
+        "outflow_amount": 7934.76,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 49,
+        "inflow_amount": 21132.44,
+        "outflow_amount": 11584.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 56,
+        "inflow_amount": 25428.5,
+        "outflow_amount": 15190.2,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 37,
+        "inflow_amount": 20425.16,
+        "outflow_amount": 12312.69,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 35,
+        "inflow_amount": 17843.7,
+        "outflow_amount": 8865.48,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 37,
+        "inflow_amount": 16760.47,
+        "outflow_amount": 8509.77,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 26,
+        "inflow_amount": 14794.22,
+        "outflow_amount": 8851.33,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 30,
+        "inflow_amount": 14936.12,
+        "outflow_amount": 7797.72,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 36,
+        "inflow_amount": 17786.39,
+        "outflow_amount": 8787.09,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 35,
+        "inflow_amount": 21030.41,
+        "outflow_amount": 11210.02,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 47,
+        "inflow_amount": 24239.44,
+        "outflow_amount": 15504.63,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 33,
+        "inflow_amount": 19494.66,
+        "outflow_amount": 10230.54,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 39,
+        "inflow_amount": 18234.58,
+        "outflow_amount": 9845.34,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 36,
+        "inflow_amount": 17633.74,
+        "outflow_amount": 9460.06,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 37,
+        "inflow_amount": 18212.92,
+        "outflow_amount": 11226.37,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 46,
+        "inflow_amount": 23786.07,
+        "outflow_amount": 13716.41,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 60,
+        "inflow_amount": 27813.5,
+        "outflow_amount": 14634.39,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 47,
+        "inflow_amount": 22463.2,
+        "outflow_amount": 12031.89,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 38,
+        "inflow_amount": 20507.82,
+        "outflow_amount": 13092.79,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 30,
+        "inflow_amount": 15941.25,
+        "outflow_amount": 10568.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 36,
+        "inflow_amount": 19358.17,
+        "outflow_amount": 12681.9,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 46,
+        "inflow_amount": 19801.78,
+        "outflow_amount": 13074.2,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 37,
+        "inflow_amount": 22487.24,
+        "outflow_amount": 12768.9,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 77,
+        "inflow_amount": 31463.64,
+        "outflow_amount": 20806.6,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 39,
+        "inflow_amount": 23610.19,
+        "outflow_amount": 14075.2,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 26,
+        "inflow_amount": 16077.17,
+        "outflow_amount": 8414.9,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 38,
+        "inflow_amount": 18540.19,
+        "outflow_amount": 12048.28,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 34,
+        "inflow_amount": 19537.03,
+        "outflow_amount": 11220.82,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 32,
+        "inflow_amount": 18742.55,
+        "outflow_amount": 10861.77,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 58,
+        "inflow_amount": 23839.96,
+        "outflow_amount": 14685.56,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 74,
+        "inflow_amount": 31188.96,
+        "outflow_amount": 19954.61,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 49,
+        "inflow_amount": 22980.51,
+        "outflow_amount": 12354.86,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 28,
+        "inflow_amount": 16446.77,
+        "outflow_amount": 10233.46,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 37,
+        "inflow_amount": 20094.45,
+        "outflow_amount": 10876.04,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 31,
+        "inflow_amount": 16383.48,
+        "outflow_amount": 9356.01,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 40,
+        "inflow_amount": 18890.8,
+        "outflow_amount": 9570.57,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 36,
+        "inflow_amount": 20830.04,
+        "outflow_amount": 13421.86,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 48,
+        "inflow_amount": 26919.42,
+        "outflow_amount": 17606.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 47,
+        "inflow_amount": 28186.08,
+        "outflow_amount": 18377.36,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 36,
+        "inflow_amount": 15991.25,
+        "outflow_amount": 9387.93,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 37,
+        "inflow_amount": 20319.86,
+        "outflow_amount": 13425.77,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 27,
+        "inflow_amount": 15848.6,
+        "outflow_amount": 8069.93,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 27,
+        "inflow_amount": 16986.37,
+        "outflow_amount": 8856.25,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 36,
+        "inflow_amount": 23602.19,
+        "outflow_amount": 12095.35,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 52,
+        "inflow_amount": 32804.65,
+        "outflow_amount": 16556.49,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 59,
+        "inflow_amount": 28524.01,
+        "outflow_amount": 17783.08,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 34,
+        "inflow_amount": 18943.43,
+        "outflow_amount": 11446.84,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 27,
+        "inflow_amount": 17519.27,
+        "outflow_amount": 8686.15,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 34,
+        "inflow_amount": 17341.9,
+        "outflow_amount": 10141.63,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 29,
+        "inflow_amount": 17620.0,
+        "outflow_amount": 9362.13,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 47,
+        "inflow_amount": 24290.55,
+        "outflow_amount": 13039.18,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 63,
+        "inflow_amount": 32146.79,
+        "outflow_amount": 20509.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 56,
+        "inflow_amount": 28814.43,
+        "outflow_amount": 14806.57,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 35,
+        "inflow_amount": 18115.6,
+        "outflow_amount": 10769.13,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 43,
+        "inflow_amount": 19144.18,
+        "outflow_amount": 11416.18,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 28,
+        "inflow_amount": 16855.23,
+        "outflow_amount": 11006.79,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 31,
+        "inflow_amount": 18317.99,
+        "outflow_amount": 10227.15,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 58,
+        "inflow_amount": 24694.62,
+        "outflow_amount": 16269.17,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 62,
+        "inflow_amount": 28113.1,
+        "outflow_amount": 14589.89,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 53,
+        "inflow_amount": 30339.74,
+        "outflow_amount": 16021.99,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 27,
+        "inflow_amount": 16534.83,
+        "outflow_amount": 9543.53,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 33,
+        "inflow_amount": 18593.47,
+        "outflow_amount": 9235.48,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 45,
+        "inflow_amount": 20176.65,
+        "outflow_amount": 10466.87,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 44,
+        "inflow_amount": 20812.05,
+        "outflow_amount": 13060.03,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 43,
+        "inflow_amount": 20018.47,
+        "outflow_amount": 11237.46,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 59,
+        "inflow_amount": 26849.63,
+        "outflow_amount": 15046.95,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 42,
+        "inflow_amount": 24608.38,
+        "outflow_amount": 13678.14,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 43,
+        "inflow_amount": 20972.27,
+        "outflow_amount": 11912.51,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 29,
+        "inflow_amount": 17321.26,
+        "outflow_amount": 9161.22,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 32,
+        "inflow_amount": 16627.4,
+        "outflow_amount": 9490.72,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 45,
+        "inflow_amount": 20311.34,
+        "outflow_amount": 10293.12,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 57,
+        "inflow_amount": 23964.92,
+        "outflow_amount": 14545.4,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 58,
+        "inflow_amount": 32015.46,
+        "outflow_amount": 16959.97,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 57,
+        "inflow_amount": 28853.6,
+        "outflow_amount": 16726.23,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 37,
+        "inflow_amount": 19703.85,
+        "outflow_amount": 12227.86,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 40,
+        "inflow_amount": 19057.26,
+        "outflow_amount": 10865.28,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 42,
+        "inflow_amount": 18036.02,
+        "outflow_amount": 11021.55,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 30,
+        "inflow_amount": 16479.67,
+        "outflow_amount": 9821.74,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 39,
+        "inflow_amount": 22758.22,
+        "outflow_amount": 11460.32,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 55,
+        "inflow_amount": 29739.78,
+        "outflow_amount": 16000.58,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 59,
+        "inflow_amount": 28059.04,
+        "outflow_amount": 14004.02,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 38,
+        "inflow_amount": 19001.64,
+        "outflow_amount": 11172.92,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 31,
+        "inflow_amount": 18691.03,
+        "outflow_amount": 11285.39,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 38,
+        "inflow_amount": 18344.38,
+        "outflow_amount": 9853.39,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 44,
+        "inflow_amount": 21337.98,
+        "outflow_amount": 13886.13,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 49,
+        "inflow_amount": 25268.63,
+        "outflow_amount": 16430.05,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 57,
+        "inflow_amount": 32048.24,
+        "outflow_amount": 16975.96,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 56,
+        "inflow_amount": 27439.51,
+        "outflow_amount": 15692.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 27,
+        "inflow_amount": 16570.17,
+        "outflow_amount": 10043.75,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 29,
+        "inflow_amount": 17749.87,
+        "outflow_amount": 10728.56,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 31,
+        "inflow_amount": 17515.23,
+        "outflow_amount": 10491.37,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 38,
+        "inflow_amount": 17561.66,
+        "outflow_amount": 8784.65,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 39,
+        "inflow_amount": 23448.01,
+        "outflow_amount": 11807.91,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 58,
+        "inflow_amount": 27290.53,
+        "outflow_amount": 15101.91,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 41,
+        "inflow_amount": 24806.98,
+        "outflow_amount": 13632.92,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 28,
+        "inflow_amount": 17714.84,
+        "outflow_amount": 9982.52,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 33,
+        "inflow_amount": 17755.08,
+        "outflow_amount": 9840.61,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 30,
+        "inflow_amount": 17115.31,
+        "outflow_amount": 9564.34,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 43,
+        "inflow_amount": 19131.38,
+        "outflow_amount": 10904.45,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 49,
+        "inflow_amount": 21550.49,
+        "outflow_amount": 11570.76,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 65,
+        "inflow_amount": 29387.58,
+        "outflow_amount": 17724.32,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 68,
+        "inflow_amount": 28083.99,
+        "outflow_amount": 17528.57,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 37,
+        "inflow_amount": 19381.81,
+        "outflow_amount": 12184.86,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 31,
+        "inflow_amount": 18771.91,
+        "outflow_amount": 9307.24,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 51,
+        "inflow_amount": 21669.81,
+        "outflow_amount": 14073.58,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 44,
+        "inflow_amount": 22012.97,
+        "outflow_amount": 11174.49,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 44,
+        "inflow_amount": 22091.56,
+        "outflow_amount": 13464.98,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 68,
+        "inflow_amount": 35065.74,
+        "outflow_amount": 20379.91,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 56,
+        "inflow_amount": 25380.72,
+        "outflow_amount": 14711.53,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 43,
+        "inflow_amount": 17879.54,
+        "outflow_amount": 10739.33,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 43,
+        "inflow_amount": 19965.73,
+        "outflow_amount": 10128.42,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 39,
+        "inflow_amount": 18033.72,
+        "outflow_amount": 11045.95,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 39,
+        "inflow_amount": 19842.89,
+        "outflow_amount": 11994.65,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 53,
+        "inflow_amount": 26082.66,
+        "outflow_amount": 13936.0,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 70,
+        "inflow_amount": 31165.95,
+        "outflow_amount": 19459.13,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 58,
+        "inflow_amount": 32210.68,
+        "outflow_amount": 18435.93,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 44,
+        "inflow_amount": 19185.76,
+        "outflow_amount": 11921.04,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 40,
+        "inflow_amount": 22560.02,
+        "outflow_amount": 12281.12,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 49,
+        "inflow_amount": 22627.7,
+        "outflow_amount": 13401.12,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 49,
+        "inflow_amount": 22365.29,
+        "outflow_amount": 14255.23,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 48,
+        "inflow_amount": 22397.7,
+        "outflow_amount": 12186.34,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 56,
+        "inflow_amount": 28327.0,
+        "outflow_amount": 18082.0,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 65,
+        "inflow_amount": 32155.4,
+        "outflow_amount": 17902.22,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 36,
+        "inflow_amount": 20324.62,
+        "outflow_amount": 11045.83,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 46,
+        "inflow_amount": 20037.78,
+        "outflow_amount": 11118.68,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 41,
+        "inflow_amount": 21514.9,
+        "outflow_amount": 14184.2,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 40,
+        "inflow_amount": 21181.24,
+        "outflow_amount": 12375.63,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 41,
+        "inflow_amount": 22127.62,
+        "outflow_amount": 13661.5,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 48,
+        "inflow_amount": 27657.95,
+        "outflow_amount": 16493.94,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 56,
+        "inflow_amount": 28168.74,
+        "outflow_amount": 15219.47,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 38,
+        "inflow_amount": 21150.79,
+        "outflow_amount": 13163.4,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 42,
+        "inflow_amount": 20400.51,
+        "outflow_amount": 11913.4,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 39,
+        "inflow_amount": 18267.89,
+        "outflow_amount": 11765.33,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 53,
+        "inflow_amount": 22263.99,
+        "outflow_amount": 14799.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 51,
+        "inflow_amount": 26056.61,
+        "outflow_amount": 16247.6,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 69,
+        "inflow_amount": 28159.98,
+        "outflow_amount": 17922.65,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 67,
+        "inflow_amount": 30509.76,
+        "outflow_amount": 18328.64,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 43,
+        "inflow_amount": 19181.34,
+        "outflow_amount": 10866.82,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 36,
+        "inflow_amount": 17695.55,
+        "outflow_amount": 11347.11,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 31,
+        "inflow_amount": 17548.4,
+        "outflow_amount": 10979.71,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 38,
+        "inflow_amount": 18857.3,
+        "outflow_amount": 9765.36,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 47,
+        "inflow_amount": 25688.17,
+        "outflow_amount": 15427.25,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 74,
+        "inflow_amount": 31539.97,
+        "outflow_amount": 20354.7,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 59,
+        "inflow_amount": 25490.18,
+        "outflow_amount": 16572.56,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 43,
+        "inflow_amount": 19166.26,
+        "outflow_amount": 10935.66,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 35,
+        "inflow_amount": 20423.36,
+        "outflow_amount": 13483.93,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 38,
+        "inflow_amount": 20111.82,
+        "outflow_amount": 9994.76,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 50,
+        "inflow_amount": 22150.47,
+        "outflow_amount": 12672.13,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 56,
+        "inflow_amount": 27039.64,
+        "outflow_amount": 14139.89,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 51,
+        "inflow_amount": 29585.36,
+        "outflow_amount": 18397.45,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 52,
+        "inflow_amount": 29274.47,
+        "outflow_amount": 18336.25,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 44,
+        "inflow_amount": 21007.09,
+        "outflow_amount": 10982.59,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 33,
+        "inflow_amount": 18183.58,
+        "outflow_amount": 9446.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 37,
+        "inflow_amount": 21062.65,
+        "outflow_amount": 11933.65,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 36,
+        "inflow_amount": 18150.81,
+        "outflow_amount": 9102.89,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 58,
+        "inflow_amount": 24117.61,
+        "outflow_amount": 15869.58,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 46,
+        "inflow_amount": 26224.03,
+        "outflow_amount": 14317.8,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 53,
+        "inflow_amount": 28472.83,
+        "outflow_amount": 18911.57,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 38,
+        "inflow_amount": 17554.55,
+        "outflow_amount": 11037.36,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 45,
+        "inflow_amount": 21183.16,
+        "outflow_amount": 11770.64,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 51,
+        "inflow_amount": 23432.07,
+        "outflow_amount": 14185.58,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 43,
+        "inflow_amount": 23968.22,
+        "outflow_amount": 12566.93,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 43,
+        "inflow_amount": 24430.65,
+        "outflow_amount": 15529.96,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 72,
+        "inflow_amount": 31448.51,
+        "outflow_amount": 18377.17,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 47,
+        "inflow_amount": 27632.18,
+        "outflow_amount": 15303.44,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 40,
+        "inflow_amount": 24969.61,
+        "outflow_amount": 14906.68,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 43,
+        "inflow_amount": 24276.25,
+        "outflow_amount": 12050.42,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 58,
+        "inflow_amount": 24403.36,
+        "outflow_amount": 15852.27,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 48,
+        "inflow_amount": 20212.95,
+        "outflow_amount": 12999.35,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 53,
+        "inflow_amount": 24979.91,
+        "outflow_amount": 14815.15,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 68,
+        "inflow_amount": 37986.07,
+        "outflow_amount": 23114.29,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 60,
+        "inflow_amount": 29387.57,
+        "outflow_amount": 15029.78,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 50,
+        "inflow_amount": 24639.28,
+        "outflow_amount": 12777.16,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 37,
+        "inflow_amount": 22561.03,
+        "outflow_amount": 13442.28,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 45,
+        "inflow_amount": 22243.25,
+        "outflow_amount": 13552.01,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 53,
+        "inflow_amount": 23851.8,
+        "outflow_amount": 12063.35,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 50,
+        "inflow_amount": 23773.75,
+        "outflow_amount": 12407.16,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 80,
+        "inflow_amount": 36366.96,
+        "outflow_amount": 22884.73,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 75,
+        "inflow_amount": 32489.9,
+        "outflow_amount": 17597.05,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 36,
+        "inflow_amount": 20653.87,
+        "outflow_amount": 10228.82,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 45,
+        "inflow_amount": 23739.31,
+        "outflow_amount": 14322.23,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 43,
+        "inflow_amount": 18829.18,
+        "outflow_amount": 12047.08,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 48,
+        "inflow_amount": 19934.52,
+        "outflow_amount": 13061.3,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 61,
+        "inflow_amount": 27997.27,
+        "outflow_amount": 14401.63,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 59,
+        "inflow_amount": 28934.17,
+        "outflow_amount": 16838.38,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 64,
+        "inflow_amount": 33451.8,
+        "outflow_amount": 18904.0,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 32,
+        "inflow_amount": 19863.32,
+        "outflow_amount": 11012.52,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 46,
+        "inflow_amount": 24131.04,
+        "outflow_amount": 14986.77,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 47,
+        "inflow_amount": 20309.16,
+        "outflow_amount": 13507.2,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 38,
+        "inflow_amount": 19770.39,
+        "outflow_amount": 10041.03,
+        "merchant_category": "Personal Care & Salons"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 43,
+        "inflow_amount": 25850.44,
+        "outflow_amount": 14173.51,
+        "merchant_category": "Personal Care & Salons"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 1003,
+        "inflow_amount": 516308.83,
+        "outflow_amount": 294450.48
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 983,
+        "inflow_amount": 496543.11,
+        "outflow_amount": 291292.37
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 1117,
+        "inflow_amount": 554004.58,
+        "outflow_amount": 318486.43
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 1083,
+        "inflow_amount": 564888.05,
+        "outflow_amount": 329236.76
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 1152,
+        "inflow_amount": 550439.25,
+        "outflow_amount": 331121.13
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 1156,
+        "inflow_amount": 583476.15,
+        "outflow_amount": 333087.28
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 1179,
+        "inflow_amount": 595519.53,
+        "outflow_amount": 354322.84
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 1286,
+        "inflow_amount": 680406.85,
+        "outflow_amount": 386186.59
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 1261,
+        "inflow_amount": 654397.03,
+        "outflow_amount": 369596.0
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 1517,
+        "inflow_amount": 739209.47,
+        "outflow_amount": 431987.97
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 1402,
+        "inflow_amount": 686518.13,
+        "outflow_amount": 410786.44
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 1578,
+        "inflow_amount": 786517.79,
+        "outflow_amount": 452979.23
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 321003.21
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 316887.63
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 314851.01
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 328314.83
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 321027.5
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 322142.23
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 314069.72
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 322331.66
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 338437.59
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 349780.31
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 361708.28
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 371164.73
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 380942.65
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 375734.49
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 368084.82
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 373165.28
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 353853.77
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 345056.15
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 354671.46
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 349415.35
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 357838.15
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 332483.11
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 322607.48
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 330386.75
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 328753.79
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 318698.15
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 303912.57
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 326395.53
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 322794.07
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 311316.95
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 296058.11
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 284250.28
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 310106.87
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 315548.88
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 316922.38
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 323482.7
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 318804.94
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 315999.91
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 326900.55
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 313778.24
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 297628.18
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 293558.64
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 286397.16
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 283703.92
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 294193.56
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 296132.1
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 307673.75
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 301280.48
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 297667.48
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 301181.09
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 311676.37
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 317462.93
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 317656.25
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 311106.85
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 313379.33
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 289686.55
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 296517.5
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 295285.18
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 292594.0
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 319180.71
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 333483.04
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 311313.59
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 330552.38
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 346153.36
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 356189.1
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 361613.14
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 383318.45
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 398007.03
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 401269.74
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 397124.87
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 394684.59
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 382392.72
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 379405.09
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 387410.96
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 385464.65
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 376881.42
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 378292.71
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 376007.49
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 388871.93
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 389654.45
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 388481.33
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 401273.91
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 401069.73
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 402327.51
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 390701.83
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 392912.43
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 366475.62
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 359140.52
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 357377.0
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 353322.48
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 365368.78
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 357195.34
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 351637.25
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 361535.62
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 354675.75
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 363055.62
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 343291.91
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 342945.31
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 336166.08
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 356437.73
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 354714.04
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 357789.8
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 349704.29
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 354878.9
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 348386.14
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 346299.81
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 348161.13
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 351052.01
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 358109.81
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 355686.91
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 367251.82
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 358342.48
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 354267.87
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 353445.07
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 346988.69
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 331657.27
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 344538.44
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 345784.14
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 342609.82
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 341340.63
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 358409.84
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 360232.03
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 351491.02
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 372010.09
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 350320.9
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 334177.72
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 338529.61
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 351562.16
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 343850.5
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 353537.11
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 378812.34
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 352584.09
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 364076.65
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 383276.78
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 386540.73
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 393872.59
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 421689.73
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 427589.01
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 425783.22
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 426470.81
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 413587.09
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 418826.52
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 408516.76
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 385156.03
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 368430.78
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 376113.97
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 401146.36
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 404635.27
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 383748.86
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 370530.32
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 355555.94
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 365331.76
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 355701.39
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 378544.87
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 362663.63
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 363669.32
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 380708.23
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 380196.28
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 381815.17
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 384418.85
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 393689.8
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 412110.39
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 396423.36
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 397483.93
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 373723.81
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 368742.27
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 359569.27
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 358546.38
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 328311.13
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 358940.54
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 366934.65
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 355680.41
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 362137.79
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 389791.82
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 394910.17
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 384624.52
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 388513.95
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 394510.7
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 390838.91
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 386504.72
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 379658.01
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 386808.0
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 399740.4
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 398425.41
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 383224.85
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 383239.38
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 400884.83
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 396629.13
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 380594.72
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 382759.7
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 384963.01
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 394771.54
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 399422.81
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 411966.12
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 404672.98
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 393595.01
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 398176.7
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 414338.72
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 444546.64
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 430083.45
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 412123.58
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 402217.71
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 427723.22
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 411768.84
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 407833.35
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 419524.98
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 411683.68
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 411306.78
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 409710.81
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 401052.51
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 415663.33
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 414730.48
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 412677.56
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 423740.32
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 416122.35
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 422342.35
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 403482.92
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 419918.37
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 423021.18
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 411877.63
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 406324.88
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 427428.84
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 432109.75
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 443171.53
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 441013.48
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 448182.55
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 446770.61
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 441021.13
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 436561.22
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 453345.79
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 437518.1
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 424089.35
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 424501.68
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 429326.71
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 434200.25
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 434162.65
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 431547.39
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 416484.92
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 413889.86
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 409963.17
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 393106.31
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 406250.88
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 440251.85
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 440720.23
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 465818.2
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 458285.52
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 461455.83
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 461957.55
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 458144.24
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 456498.15
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 446052.68
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 434233.28
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 395352.65
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 408828.52
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 395664.1
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 399591.84
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 392631.67
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 390449.76
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 392116.88
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 403140.54
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 393405.67
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 412994.2
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 415085.37
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 417148.89
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 400356.83
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 385861.25
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 360085.64
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 387032.33
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 371114.07
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 396037.38
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 402028.23
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 419236.17
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 414771.76
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 433027.21
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 455323.54
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 442164.51
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 440532.24
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 460284.24
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 413649.63
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 439821.97
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 490658.62
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 523635.67
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 522163.95
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 523707.12
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 525116.99
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 506421.07
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 526091.18
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 526295.86
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 521059.12
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 540691.35
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 557758.26
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 548376.65
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 530929.05
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 513235.95
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 528210.58
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 551419.51
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 541839.13
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 526275.68
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 542994.4
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 547093.49
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 564922.07
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 550232.97
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 541552.34
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 536302.64
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 532480.81
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 539761.78
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 521245.41
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 514742.93
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 510513.74
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 490353.96
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 490397.6
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 488947.35
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 481085.89
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 450343.86
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 460564.69
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 433739.71
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 443608.94
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 438570.44
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 434201.73
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 445296.62
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 465823.39
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 457413.2
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 481218.29
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 480772.87
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 462790.28
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 472684.55
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 448844.95
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 433363.8
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 443009.84
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 476953.22
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 480691.65
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 504194.41
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 486132.82
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 461077.32
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 456930.07
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 485883.3
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 481907.7
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 473096.55
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 491850.99
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 475071.76
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 477922.58
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 502000.65
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 515950.78
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 509078.55
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 495755.11
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 494160.92
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 496165.36
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 516393.18
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 529042.28
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 512828.34
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 536973.67
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 533675.51
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 533014.5
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 534834.07
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 530688.52
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 506679.41
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 509796.93
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 499005.87
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 476381.77
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 463873.67
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 475472.03
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 470117.93
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 478294.72
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 507992.5
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 535662.46
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 296058.11,
+        "average_balance": 336577.01,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 333483.04,
+        "average_balance": 306107.99,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 357195.34,
+        "average_balance": 376137.23,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 360232.03,
+        "average_balance": 351313.21,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 355701.39,
+        "average_balance": 379466.33,
+        "bounced_payments_count": 2
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 398425.41,
+        "average_balance": 379310.86,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 414730.48,
+        "average_balance": 405328.89,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 440251.85,
+        "average_balance": 425948.57,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 414771.76,
+        "average_balance": 414536.65,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 536302.64,
+        "average_balance": 511993.13,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 461077.32,
+        "average_balance": 474360.87,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 535662.46,
+        "average_balance": 500209.73,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2025-12-01",
+        "amount": 41114.29,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2025-12-03",
+        "amount": 35643.7,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-01-10",
+        "amount": 97241.08,
+        "reason": "cheque_return"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 19,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 18,
+        "expected_contribution": 50920.16,
+        "contribution_paid": 50920.16,
+        "status": "delayed"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 18,
+        "expected_contribution": 51637.28,
+        "contribution_paid": 51637.28,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 18,
+        "expected_contribution": 50642.52,
+        "contribution_paid": 50642.52,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 18,
+        "expected_contribution": 51875.24,
+        "contribution_paid": 51875.24,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 18,
+        "expected_contribution": 53233.75,
+        "contribution_paid": 53233.75,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 18,
+        "expected_contribution": 53389.78,
+        "contribution_paid": 53389.78,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 18,
+        "expected_contribution": 53064.66,
+        "contribution_paid": 53064.66,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 18,
+        "expected_contribution": 50689.75,
+        "contribution_paid": 50689.75,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 19,
+        "expected_contribution": 55085.25,
+        "contribution_paid": 55085.25,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 19,
+        "expected_contribution": 53926.17,
+        "contribution_paid": 53926.17,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 19,
+        "expected_contribution": 54689.53,
+        "contribution_paid": 54689.53,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 19,
+        "expected_contribution": 55787.22,
+        "contribution_paid": 55787.22,
+        "status": "on_time"
+      }
+    ]
+  }
+}

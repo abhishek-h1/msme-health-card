@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from database import engine, Base
 from api.health import router as health_router
 from api.businesses import router as businesses_router
+from api.synthetic import router as synthetic_router
 
 Base.metadata.create_all(bind=engine)
 
@@ -21,3 +22,4 @@ app.add_middleware(
 
 app.include_router(health_router)
 app.include_router(businesses_router)
+app.include_router(synthetic_router)

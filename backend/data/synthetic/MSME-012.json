@@ -1,0 +1,4421 @@
+{
+  "business_id": "MSME-012",
+  "name": "Shree Logistics & Carriers",
+  "sector": "Logistics & Transport",
+  "archetype": "volatile_seasonal",
+  "registration_type": "partnership",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 1973191.35,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 2082711.01,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-22",
+        "status": "filed_late",
+        "days_late": 2
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 3204251.34,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 3037769.12,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 1895862.17,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 2278318.25,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 1939248.78,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 2687992.5,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 2327100.16,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 1916196.65,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-06-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 1348868.94,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 1590366.0,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Transport & Logistics",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 5,
+        "inflow_amount": 33504.77,
+        "outflow_amount": 19474.39,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 3,
+        "inflow_amount": 20749.73,
+        "outflow_amount": 11403.99,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 2,
+        "inflow_amount": 13988.38,
+        "outflow_amount": 9242.37,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 5,
+        "inflow_amount": 34021.56,
+        "outflow_amount": 18381.61,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 8,
+        "inflow_amount": 34924.45,
+        "outflow_amount": 24706.03,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 8,
+        "inflow_amount": 35565.43,
+        "outflow_amount": 24823.88,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 7,
+        "inflow_amount": 38168.06,
+        "outflow_amount": 24560.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 6,
+        "inflow_amount": 32834.29,
+        "outflow_amount": 21443.3,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 2,
+        "inflow_amount": 17341.77,
+        "outflow_amount": 9828.97,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 2,
+        "inflow_amount": 11322.49,
+        "outflow_amount": 7345.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 6,
+        "inflow_amount": 38029.19,
+        "outflow_amount": 24203.99,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 7,
+        "inflow_amount": 37123.21,
+        "outflow_amount": 25172.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 6,
+        "inflow_amount": 34875.34,
+        "outflow_amount": 24252.91,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 6,
+        "inflow_amount": 35702.32,
+        "outflow_amount": 19487.36,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 7,
+        "inflow_amount": 34358.41,
+        "outflow_amount": 22469.15,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 4,
+        "inflow_amount": 18918.4,
+        "outflow_amount": 10990.02,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 3,
+        "inflow_amount": 13981.42,
+        "outflow_amount": 8733.06,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 9,
+        "inflow_amount": 39423.86,
+        "outflow_amount": 25706.7,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 6,
+        "inflow_amount": 33873.0,
+        "outflow_amount": 22973.12,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 5,
+        "inflow_amount": 33241.33,
+        "outflow_amount": 22011.52,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 8,
+        "inflow_amount": 38603.65,
+        "outflow_amount": 25356.03,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 6,
+        "inflow_amount": 36947.9,
+        "outflow_amount": 23903.35,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 4,
+        "inflow_amount": 18702.44,
+        "outflow_amount": 12962.99,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 3,
+        "inflow_amount": 13953.33,
+        "outflow_amount": 10080.42,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 7,
+        "inflow_amount": 35107.78,
+        "outflow_amount": 20411.4,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 7,
+        "inflow_amount": 37595.13,
+        "outflow_amount": 24526.25,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 9,
+        "inflow_amount": 39811.31,
+        "outflow_amount": 27028.89,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 6,
+        "inflow_amount": 31408.24,
+        "outflow_amount": 17479.4,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 5,
+        "inflow_amount": 33168.57,
+        "outflow_amount": 19802.22,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 5,
+        "inflow_amount": 20818.94,
+        "outflow_amount": 14277.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 2,
+        "inflow_amount": 11155.68,
+        "outflow_amount": 6849.09,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 7,
+        "inflow_amount": 36968.29,
+        "outflow_amount": 22365.58,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 8,
+        "inflow_amount": 40715.96,
+        "outflow_amount": 22985.1,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 7,
+        "inflow_amount": 35705.4,
+        "outflow_amount": 22150.58,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 6,
+        "inflow_amount": 32296.91,
+        "outflow_amount": 20929.34,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 8,
+        "inflow_amount": 40994.79,
+        "outflow_amount": 25716.91,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 4,
+        "inflow_amount": 21067.72,
+        "outflow_amount": 13591.59,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 2,
+        "inflow_amount": 11579.48,
+        "outflow_amount": 6833.95,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 7,
+        "inflow_amount": 36728.65,
+        "outflow_amount": 20599.68,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 6,
+        "inflow_amount": 32878.11,
+        "outflow_amount": 17782.4,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 9,
+        "inflow_amount": 41196.32,
+        "outflow_amount": 29701.23,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 6,
+        "inflow_amount": 38410.43,
+        "outflow_amount": 26977.84,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 7,
+        "inflow_amount": 41773.66,
+        "outflow_amount": 24564.06,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 4,
+        "inflow_amount": 17005.52,
+        "outflow_amount": 9837.38,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 3,
+        "inflow_amount": 11361.98,
+        "outflow_amount": 7912.72,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 7,
+        "inflow_amount": 42694.81,
+        "outflow_amount": 29322.31,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 7,
+        "inflow_amount": 41951.14,
+        "outflow_amount": 23918.07,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 5,
+        "inflow_amount": 34232.61,
+        "outflow_amount": 18898.62,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 8,
+        "inflow_amount": 38501.4,
+        "outflow_amount": 21357.14,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 7,
+        "inflow_amount": 38916.27,
+        "outflow_amount": 26067.09,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 3,
+        "inflow_amount": 18028.12,
+        "outflow_amount": 12735.81,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 2,
+        "inflow_amount": 11691.4,
+        "outflow_amount": 7892.32,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 6,
+        "inflow_amount": 32939.8,
+        "outflow_amount": 23798.21,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 8,
+        "inflow_amount": 36442.6,
+        "outflow_amount": 23832.1,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 7,
+        "inflow_amount": 32684.94,
+        "outflow_amount": 18523.49,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 7,
+        "inflow_amount": 40217.57,
+        "outflow_amount": 21975.11,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 6,
+        "inflow_amount": 40048.86,
+        "outflow_amount": 23765.43,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 3,
+        "inflow_amount": 20721.35,
+        "outflow_amount": 11890.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 3,
+        "inflow_amount": 14639.5,
+        "outflow_amount": 8646.5,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 9,
+        "inflow_amount": 40718.53,
+        "outflow_amount": 29464.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 9,
+        "inflow_amount": 39964.86,
+        "outflow_amount": 27172.24,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 9,
+        "inflow_amount": 47813.74,
+        "outflow_amount": 33320.47,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 12,
+        "inflow_amount": 58734.24,
+        "outflow_amount": 38063.81,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 9,
+        "inflow_amount": 46132.0,
+        "outflow_amount": 32892.77,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 7,
+        "inflow_amount": 31822.29,
+        "outflow_amount": 20241.81,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 3,
+        "inflow_amount": 20673.19,
+        "outflow_amount": 13450.15,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 11,
+        "inflow_amount": 50149.1,
+        "outflow_amount": 35376.48,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 10,
+        "inflow_amount": 48274.46,
+        "outflow_amount": 32878.13,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 8,
+        "inflow_amount": 47606.12,
+        "outflow_amount": 27296.77,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 10,
+        "inflow_amount": 60713.87,
+        "outflow_amount": 37569.93,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 9,
+        "inflow_amount": 56368.02,
+        "outflow_amount": 31568.02,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 5,
+        "inflow_amount": 28143.77,
+        "outflow_amount": 19270.72,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 4,
+        "inflow_amount": 17726.12,
+        "outflow_amount": 11014.83,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 8,
+        "inflow_amount": 53543.49,
+        "outflow_amount": 31012.29,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 9,
+        "inflow_amount": 59664.73,
+        "outflow_amount": 32396.27,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 8,
+        "inflow_amount": 46280.54,
+        "outflow_amount": 27146.1,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 8,
+        "inflow_amount": 55590.51,
+        "outflow_amount": 31344.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 12,
+        "inflow_amount": 59413.76,
+        "outflow_amount": 37337.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 5,
+        "inflow_amount": 25380.31,
+        "outflow_amount": 13669.64,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 3,
+        "inflow_amount": 16960.41,
+        "outflow_amount": 11020.18,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 8,
+        "inflow_amount": 56367.62,
+        "outflow_amount": 33188.35,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 9,
+        "inflow_amount": 50267.65,
+        "outflow_amount": 34548.51,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 13,
+        "inflow_amount": 61852.91,
+        "outflow_amount": 39364.72,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 11,
+        "inflow_amount": 56947.02,
+        "outflow_amount": 38966.95,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 9,
+        "inflow_amount": 57849.15,
+        "outflow_amount": 33030.31,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 5,
+        "inflow_amount": 29715.51,
+        "outflow_amount": 19873.91,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 3,
+        "inflow_amount": 16484.78,
+        "outflow_amount": 10478.95,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 9,
+        "inflow_amount": 47265.62,
+        "outflow_amount": 29065.07,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 9,
+        "inflow_amount": 46446.16,
+        "outflow_amount": 27022.2,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 10,
+        "inflow_amount": 55189.54,
+        "outflow_amount": 32529.24,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 9,
+        "inflow_amount": 46509.76,
+        "outflow_amount": 27420.59,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 10,
+        "inflow_amount": 61713.88,
+        "outflow_amount": 38660.02,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 5,
+        "inflow_amount": 32895.85,
+        "outflow_amount": 20454.74,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 4,
+        "inflow_amount": 18344.22,
+        "outflow_amount": 11316.99,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 7,
+        "inflow_amount": 48226.12,
+        "outflow_amount": 25886.65,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 11,
+        "inflow_amount": 51383.78,
+        "outflow_amount": 36441.82,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 11,
+        "inflow_amount": 50080.51,
+        "outflow_amount": 32828.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 9,
+        "inflow_amount": 51556.47,
+        "outflow_amount": 36299.1,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 12,
+        "inflow_amount": 62449.74,
+        "outflow_amount": 43796.61,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 6,
+        "inflow_amount": 28894.78,
+        "outflow_amount": 19321.13,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 3,
+        "inflow_amount": 17856.27,
+        "outflow_amount": 11920.71,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 8,
+        "inflow_amount": 51242.13,
+        "outflow_amount": 35245.32,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 9,
+        "inflow_amount": 53170.98,
+        "outflow_amount": 32576.58,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 9,
+        "inflow_amount": 47954.38,
+        "outflow_amount": 30466.02,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 13,
+        "inflow_amount": 60378.6,
+        "outflow_amount": 43742.8,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 12,
+        "inflow_amount": 57928.89,
+        "outflow_amount": 38222.06,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 5,
+        "inflow_amount": 25263.61,
+        "outflow_amount": 14962.65,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 4,
+        "inflow_amount": 21099.0,
+        "outflow_amount": 13089.89,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 10,
+        "inflow_amount": 63450.41,
+        "outflow_amount": 39178.2,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 13,
+        "inflow_amount": 62882.98,
+        "outflow_amount": 44401.29,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 13,
+        "inflow_amount": 60300.6,
+        "outflow_amount": 41349.73,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 9,
+        "inflow_amount": 55331.33,
+        "outflow_amount": 33828.66,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 8,
+        "inflow_amount": 53340.63,
+        "outflow_amount": 38453.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 5,
+        "inflow_amount": 27901.02,
+        "outflow_amount": 17537.46,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 3,
+        "inflow_amount": 21296.45,
+        "outflow_amount": 12955.97,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 9,
+        "inflow_amount": 50640.58,
+        "outflow_amount": 27163.23,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 8,
+        "inflow_amount": 51492.11,
+        "outflow_amount": 29708.25,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 12,
+        "inflow_amount": 57664.76,
+        "outflow_amount": 37729.44,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 10,
+        "inflow_amount": 49369.24,
+        "outflow_amount": 28724.72,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 13,
+        "inflow_amount": 63527.67,
+        "outflow_amount": 39281.22,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 5,
+        "inflow_amount": 33506.52,
+        "outflow_amount": 23391.77,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 3,
+        "inflow_amount": 20442.49,
+        "outflow_amount": 10979.75,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 6,
+        "inflow_amount": 36641.62,
+        "outflow_amount": 25666.73,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 5,
+        "inflow_amount": 30721.77,
+        "outflow_amount": 18052.68,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 6,
+        "inflow_amount": 28773.7,
+        "outflow_amount": 18265.82,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 7,
+        "inflow_amount": 33417.17,
+        "outflow_amount": 22149.5,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 5,
+        "inflow_amount": 30493.27,
+        "outflow_amount": 18674.24,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 3,
+        "inflow_amount": 18794.08,
+        "outflow_amount": 10910.83,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 2,
+        "inflow_amount": 11291.45,
+        "outflow_amount": 6786.47,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 6,
+        "inflow_amount": 37644.48,
+        "outflow_amount": 22982.31,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 8,
+        "inflow_amount": 37462.01,
+        "outflow_amount": 26899.29,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 7,
+        "inflow_amount": 36552.38,
+        "outflow_amount": 23589.3,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 5,
+        "inflow_amount": 32305.23,
+        "outflow_amount": 18699.63,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 5,
+        "inflow_amount": 35367.25,
+        "outflow_amount": 20250.26,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 3,
+        "inflow_amount": 17604.22,
+        "outflow_amount": 9527.91,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 2,
+        "inflow_amount": 12964.94,
+        "outflow_amount": 8539.71,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 6,
+        "inflow_amount": 33765.57,
+        "outflow_amount": 19094.12,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 6,
+        "inflow_amount": 28146.52,
+        "outflow_amount": 15091.11,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 8,
+        "inflow_amount": 36009.43,
+        "outflow_amount": 25443.7,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 6,
+        "inflow_amount": 37216.53,
+        "outflow_amount": 21616.77,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 5,
+        "inflow_amount": 29130.97,
+        "outflow_amount": 20801.43,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 4,
+        "inflow_amount": 18710.83,
+        "outflow_amount": 12226.13,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 2,
+        "inflow_amount": 10260.54,
+        "outflow_amount": 6271.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 7,
+        "inflow_amount": 36951.2,
+        "outflow_amount": 22382.9,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 5,
+        "inflow_amount": 36290.68,
+        "outflow_amount": 21755.6,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 5,
+        "inflow_amount": 28515.6,
+        "outflow_amount": 16390.53,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 6,
+        "inflow_amount": 34270.46,
+        "outflow_amount": 20977.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 6,
+        "inflow_amount": 35505.1,
+        "outflow_amount": 21932.32,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 4,
+        "inflow_amount": 16310.28,
+        "outflow_amount": 11536.87,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 2,
+        "inflow_amount": 10217.64,
+        "outflow_amount": 6461.47,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 6,
+        "inflow_amount": 36836.89,
+        "outflow_amount": 25896.77,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 6,
+        "inflow_amount": 30437.25,
+        "outflow_amount": 18330.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 5,
+        "inflow_amount": 30605.27,
+        "outflow_amount": 22005.56,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 6,
+        "inflow_amount": 36688.52,
+        "outflow_amount": 23264.05,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 7,
+        "inflow_amount": 33155.03,
+        "outflow_amount": 23365.41,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 4,
+        "inflow_amount": 19061.65,
+        "outflow_amount": 12852.63,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 2,
+        "inflow_amount": 11757.03,
+        "outflow_amount": 7533.9,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 5,
+        "inflow_amount": 37087.96,
+        "outflow_amount": 22049.2,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 8,
+        "inflow_amount": 41003.9,
+        "outflow_amount": 28220.13,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 7,
+        "inflow_amount": 39818.2,
+        "outflow_amount": 28146.68,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 7,
+        "inflow_amount": 39375.16,
+        "outflow_amount": 22079.56,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 6,
+        "inflow_amount": 37681.94,
+        "outflow_amount": 22828.25,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 4,
+        "inflow_amount": 19295.44,
+        "outflow_amount": 13233.02,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 2,
+        "inflow_amount": 12393.23,
+        "outflow_amount": 8323.18,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 8,
+        "inflow_amount": 39624.37,
+        "outflow_amount": 21528.25,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 8,
+        "inflow_amount": 40924.03,
+        "outflow_amount": 22156.97,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 8,
+        "inflow_amount": 37614.04,
+        "outflow_amount": 25472.99,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 9,
+        "inflow_amount": 43404.57,
+        "outflow_amount": 26009.65,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 7,
+        "inflow_amount": 33805.2,
+        "outflow_amount": 20856.66,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 4,
+        "inflow_amount": 19333.41,
+        "outflow_amount": 11922.42,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 3,
+        "inflow_amount": 12607.88,
+        "outflow_amount": 8376.04,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 8,
+        "inflow_amount": 34424.32,
+        "outflow_amount": 24459.4,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 7,
+        "inflow_amount": 40333.66,
+        "outflow_amount": 24925.88,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 9,
+        "inflow_amount": 41568.57,
+        "outflow_amount": 26295.4,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 9,
+        "inflow_amount": 44293.49,
+        "outflow_amount": 24284.57,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 8,
+        "inflow_amount": 40172.91,
+        "outflow_amount": 25550.08,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 4,
+        "inflow_amount": 21281.5,
+        "outflow_amount": 14091.59,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 2,
+        "inflow_amount": 14684.35,
+        "outflow_amount": 8360.82,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 8,
+        "inflow_amount": 40466.81,
+        "outflow_amount": 29172.75,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 5,
+        "inflow_amount": 34608.91,
+        "outflow_amount": 20371.49,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 6,
+        "inflow_amount": 39643.54,
+        "outflow_amount": 24828.9,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 6,
+        "inflow_amount": 37470.25,
+        "outflow_amount": 21040.18,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 9,
+        "inflow_amount": 44290.75,
+        "outflow_amount": 31127.41,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 4,
+        "inflow_amount": 18625.56,
+        "outflow_amount": 13100.1,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 2,
+        "inflow_amount": 11349.11,
+        "outflow_amount": 6105.72,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 7,
+        "inflow_amount": 36424.85,
+        "outflow_amount": 25379.27,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 6,
+        "inflow_amount": 36676.84,
+        "outflow_amount": 23098.25,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 7,
+        "inflow_amount": 32919.89,
+        "outflow_amount": 20035.91,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 8,
+        "inflow_amount": 37382.12,
+        "outflow_amount": 21941.62,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 7,
+        "inflow_amount": 31673.5,
+        "outflow_amount": 21673.02,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 3,
+        "inflow_amount": 20347.91,
+        "outflow_amount": 12033.44,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 2,
+        "inflow_amount": 14458.67,
+        "outflow_amount": 9471.46,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 6,
+        "inflow_amount": 39830.47,
+        "outflow_amount": 28096.29,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 7,
+        "inflow_amount": 34390.38,
+        "outflow_amount": 23467.06,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 6,
+        "inflow_amount": 33331.52,
+        "outflow_amount": 18638.47,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 7,
+        "inflow_amount": 34811.48,
+        "outflow_amount": 20028.87,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 6,
+        "inflow_amount": 31993.6,
+        "outflow_amount": 17193.26,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 4,
+        "inflow_amount": 20705.64,
+        "outflow_amount": 13581.29,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 2,
+        "inflow_amount": 11868.46,
+        "outflow_amount": 7525.18,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 6,
+        "inflow_amount": 32794.52,
+        "outflow_amount": 21914.21,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 8,
+        "inflow_amount": 41842.23,
+        "outflow_amount": 27322.46,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 9,
+        "inflow_amount": 42385.63,
+        "outflow_amount": 28551.61,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 7,
+        "inflow_amount": 40968.1,
+        "outflow_amount": 29586.33,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 7,
+        "inflow_amount": 42035.38,
+        "outflow_amount": 30039.64,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 3,
+        "inflow_amount": 17339.88,
+        "outflow_amount": 11142.45,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 2,
+        "inflow_amount": 13606.83,
+        "outflow_amount": 9533.16,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 7,
+        "inflow_amount": 33869.94,
+        "outflow_amount": 22197.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 6,
+        "inflow_amount": 34559.96,
+        "outflow_amount": 18618.48,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 5,
+        "inflow_amount": 36590.55,
+        "outflow_amount": 20401.11,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 7,
+        "inflow_amount": 37082.52,
+        "outflow_amount": 20278.15,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 9,
+        "inflow_amount": 41588.52,
+        "outflow_amount": 27665.75,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 4,
+        "inflow_amount": 18614.24,
+        "outflow_amount": 10871.75,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 4,
+        "inflow_amount": 18375.98,
+        "outflow_amount": 12361.4,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 7,
+        "inflow_amount": 48795.36,
+        "outflow_amount": 32364.96,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 8,
+        "inflow_amount": 53231.35,
+        "outflow_amount": 31370.68,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 7,
+        "inflow_amount": 40411.24,
+        "outflow_amount": 27529.58,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 10,
+        "inflow_amount": 50010.59,
+        "outflow_amount": 32644.58,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 8,
+        "inflow_amount": 43171.76,
+        "outflow_amount": 26435.1,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 4,
+        "inflow_amount": 24290.46,
+        "outflow_amount": 13476.88,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 3,
+        "inflow_amount": 14135.12,
+        "outflow_amount": 9945.57,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 10,
+        "inflow_amount": 46875.82,
+        "outflow_amount": 30026.76,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 11,
+        "inflow_amount": 50518.98,
+        "outflow_amount": 32628.85,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 7,
+        "inflow_amount": 41184.97,
+        "outflow_amount": 29773.41,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 10,
+        "inflow_amount": 45220.23,
+        "outflow_amount": 31055.96,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 8,
+        "inflow_amount": 46876.94,
+        "outflow_amount": 32743.9,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 4,
+        "inflow_amount": 23674.24,
+        "outflow_amount": 15059.34,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 3,
+        "inflow_amount": 14022.68,
+        "outflow_amount": 8875.87,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 9,
+        "inflow_amount": 51649.41,
+        "outflow_amount": 31438.09,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 9,
+        "inflow_amount": 43231.05,
+        "outflow_amount": 29031.53,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 11,
+        "inflow_amount": 53159.53,
+        "outflow_amount": 29559.87,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 10,
+        "inflow_amount": 46583.56,
+        "outflow_amount": 31837.87,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 8,
+        "inflow_amount": 39885.51,
+        "outflow_amount": 25112.77,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 6,
+        "inflow_amount": 25565.74,
+        "outflow_amount": 17677.61,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 3,
+        "inflow_amount": 16487.33,
+        "outflow_amount": 11308.9,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 8,
+        "inflow_amount": 41529.66,
+        "outflow_amount": 26627.8,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 7,
+        "inflow_amount": 46421.98,
+        "outflow_amount": 30344.08,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 7,
+        "inflow_amount": 45901.52,
+        "outflow_amount": 24969.58,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 8,
+        "inflow_amount": 41536.46,
+        "outflow_amount": 24261.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 8,
+        "inflow_amount": 53538.19,
+        "outflow_amount": 30361.32,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 6,
+        "inflow_amount": 27320.17,
+        "outflow_amount": 18516.53,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 4,
+        "inflow_amount": 17275.17,
+        "outflow_amount": 11924.35,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 9,
+        "inflow_amount": 51789.85,
+        "outflow_amount": 30060.87,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 8,
+        "inflow_amount": 52957.45,
+        "outflow_amount": 35494.45,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 9,
+        "inflow_amount": 46562.92,
+        "outflow_amount": 27118.06,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 7,
+        "inflow_amount": 42211.54,
+        "outflow_amount": 23889.78,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 9,
+        "inflow_amount": 45903.96,
+        "outflow_amount": 28219.8,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 5,
+        "inflow_amount": 24813.46,
+        "outflow_amount": 16385.5,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 2,
+        "inflow_amount": 12975.4,
+        "outflow_amount": 8393.49,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 7,
+        "inflow_amount": 39794.55,
+        "outflow_amount": 28211.43,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 8,
+        "inflow_amount": 37764.9,
+        "outflow_amount": 24714.53,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 8,
+        "inflow_amount": 41228.78,
+        "outflow_amount": 24882.4,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 8,
+        "inflow_amount": 38033.53,
+        "outflow_amount": 24974.97,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 7,
+        "inflow_amount": 39438.26,
+        "outflow_amount": 24514.44,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 4,
+        "inflow_amount": 23116.47,
+        "outflow_amount": 16030.52,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 3,
+        "inflow_amount": 14926.48,
+        "outflow_amount": 9176.85,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 8,
+        "inflow_amount": 39962.53,
+        "outflow_amount": 25073.1,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 7,
+        "inflow_amount": 39897.07,
+        "outflow_amount": 25802.29,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 6,
+        "inflow_amount": 36273.69,
+        "outflow_amount": 24972.98,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 10,
+        "inflow_amount": 43027.37,
+        "outflow_amount": 30933.56,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 8,
+        "inflow_amount": 43377.12,
+        "outflow_amount": 30027.51,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 3,
+        "inflow_amount": 18990.4,
+        "outflow_amount": 10470.37,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 3,
+        "inflow_amount": 16121.68,
+        "outflow_amount": 9859.54,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 8,
+        "inflow_amount": 42948.28,
+        "outflow_amount": 30426.88,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 8,
+        "inflow_amount": 46425.95,
+        "outflow_amount": 25413.3,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 7,
+        "inflow_amount": 39501.11,
+        "outflow_amount": 22427.0,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 10,
+        "inflow_amount": 47176.98,
+        "outflow_amount": 27276.15,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 7,
+        "inflow_amount": 43157.19,
+        "outflow_amount": 30466.36,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 5,
+        "inflow_amount": 23422.03,
+        "outflow_amount": 16579.62,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 3,
+        "inflow_amount": 16785.48,
+        "outflow_amount": 9735.34,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 8,
+        "inflow_amount": 44826.77,
+        "outflow_amount": 31834.22,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 6,
+        "inflow_amount": 40464.19,
+        "outflow_amount": 22615.69,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 6,
+        "inflow_amount": 39371.35,
+        "outflow_amount": 25547.57,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 7,
+        "inflow_amount": 42819.15,
+        "outflow_amount": 29681.0,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 7,
+        "inflow_amount": 33096.14,
+        "outflow_amount": 22239.73,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 3,
+        "inflow_amount": 15733.74,
+        "outflow_amount": 9557.2,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 2,
+        "inflow_amount": 10711.74,
+        "outflow_amount": 6093.15,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 6,
+        "inflow_amount": 36381.36,
+        "outflow_amount": 21346.19,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 6,
+        "inflow_amount": 38430.33,
+        "outflow_amount": 22048.11,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 6,
+        "inflow_amount": 34380.84,
+        "outflow_amount": 19794.39,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 6,
+        "inflow_amount": 35402.31,
+        "outflow_amount": 21026.58,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 7,
+        "inflow_amount": 33174.8,
+        "outflow_amount": 21189.23,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 3,
+        "inflow_amount": 15488.29,
+        "outflow_amount": 8997.62,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 2,
+        "inflow_amount": 11319.14,
+        "outflow_amount": 6460.77,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 8,
+        "inflow_amount": 37594.39,
+        "outflow_amount": 25005.14,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 8,
+        "inflow_amount": 36958.18,
+        "outflow_amount": 22143.46,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 6,
+        "inflow_amount": 32353.75,
+        "outflow_amount": 19251.31,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 8,
+        "inflow_amount": 37127.9,
+        "outflow_amount": 26504.25,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 8,
+        "inflow_amount": 35484.66,
+        "outflow_amount": 21755.62,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 3,
+        "inflow_amount": 15135.6,
+        "outflow_amount": 10357.98,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 3,
+        "inflow_amount": 13112.17,
+        "outflow_amount": 8980.59,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 5,
+        "inflow_amount": 32242.23,
+        "outflow_amount": 23243.21,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 7,
+        "inflow_amount": 35342.54,
+        "outflow_amount": 22882.88,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 5,
+        "inflow_amount": 31107.68,
+        "outflow_amount": 18388.73,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 6,
+        "inflow_amount": 33868.84,
+        "outflow_amount": 22817.32,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 6,
+        "inflow_amount": 35085.24,
+        "outflow_amount": 20790.87,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 3,
+        "inflow_amount": 15014.64,
+        "outflow_amount": 9651.63,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 2,
+        "inflow_amount": 12759.08,
+        "outflow_amount": 8828.08,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 5,
+        "inflow_amount": 32578.99,
+        "outflow_amount": 21016.18,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 7,
+        "inflow_amount": 36177.8,
+        "outflow_amount": 22183.58,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 7,
+        "inflow_amount": 34697.93,
+        "outflow_amount": 18793.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 6,
+        "inflow_amount": 38333.36,
+        "outflow_amount": 25484.05,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 7,
+        "inflow_amount": 35063.14,
+        "outflow_amount": 23285.86,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 3,
+        "inflow_amount": 16242.08,
+        "outflow_amount": 11415.05,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 3,
+        "inflow_amount": 12641.23,
+        "outflow_amount": 6804.56,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 5,
+        "inflow_amount": 25201.76,
+        "outflow_amount": 15775.33,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 5,
+        "inflow_amount": 26012.79,
+        "outflow_amount": 15884.52,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 3,
+        "inflow_amount": 22936.21,
+        "outflow_amount": 13533.18,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 4,
+        "inflow_amount": 21169.49,
+        "outflow_amount": 13678.67,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 4,
+        "inflow_amount": 23422.74,
+        "outflow_amount": 12978.6,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 3,
+        "inflow_amount": 13571.34,
+        "outflow_amount": 8490.35,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 1,
+        "inflow_amount": 8094.72,
+        "outflow_amount": 5382.83,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 5,
+        "inflow_amount": 25353.69,
+        "outflow_amount": 14347.14,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 4,
+        "inflow_amount": 21462.68,
+        "outflow_amount": 13039.95,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 5,
+        "inflow_amount": 27407.66,
+        "outflow_amount": 15831.8,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 5,
+        "inflow_amount": 25624.45,
+        "outflow_amount": 15200.89,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 4,
+        "inflow_amount": 21561.01,
+        "outflow_amount": 14503.75,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 2,
+        "inflow_amount": 11147.65,
+        "outflow_amount": 7359.3,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 2,
+        "inflow_amount": 8348.0,
+        "outflow_amount": 5061.14,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 4,
+        "inflow_amount": 22710.2,
+        "outflow_amount": 13848.31,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 4,
+        "inflow_amount": 22918.58,
+        "outflow_amount": 15334.75,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 5,
+        "inflow_amount": 27081.69,
+        "outflow_amount": 17800.93,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 4,
+        "inflow_amount": 22427.41,
+        "outflow_amount": 12109.03,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 4,
+        "inflow_amount": 20998.97,
+        "outflow_amount": 11963.05,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 2,
+        "inflow_amount": 12670.37,
+        "outflow_amount": 9007.43,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 1,
+        "inflow_amount": 9493.14,
+        "outflow_amount": 5505.45,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 4,
+        "inflow_amount": 27980.73,
+        "outflow_amount": 17947.55,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 4,
+        "inflow_amount": 26763.89,
+        "outflow_amount": 16200.84,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 5,
+        "inflow_amount": 22731.55,
+        "outflow_amount": 14715.39,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 5,
+        "inflow_amount": 27629.79,
+        "outflow_amount": 19245.49,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 4,
+        "inflow_amount": 26236.9,
+        "outflow_amount": 16691.15,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 2,
+        "inflow_amount": 12308.07,
+        "outflow_amount": 7088.21,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 1,
+        "inflow_amount": 8927.21,
+        "outflow_amount": 4909.82,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 4,
+        "inflow_amount": 26480.44,
+        "outflow_amount": 16937.38,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 3,
+        "inflow_amount": 20919.44,
+        "outflow_amount": 11741.94,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 5,
+        "inflow_amount": 27520.43,
+        "outflow_amount": 15107.37,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 6,
+        "inflow_amount": 27571.82,
+        "outflow_amount": 15704.22,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 5,
+        "inflow_amount": 30152.79,
+        "outflow_amount": 19966.73,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 3,
+        "inflow_amount": 16660.84,
+        "outflow_amount": 10284.42,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 2,
+        "inflow_amount": 8543.02,
+        "outflow_amount": 5568.11,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 6,
+        "inflow_amount": 30120.54,
+        "outflow_amount": 17498.82,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 6,
+        "inflow_amount": 26678.12,
+        "outflow_amount": 17436.48,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 6,
+        "inflow_amount": 30353.93,
+        "outflow_amount": 17065.01,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 5,
+        "inflow_amount": 27709.5,
+        "outflow_amount": 16105.39,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 4,
+        "inflow_amount": 23820.13,
+        "outflow_amount": 15823.83,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 2,
+        "inflow_amount": 14131.3,
+        "outflow_amount": 10149.86,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 2,
+        "inflow_amount": 9602.08,
+        "outflow_amount": 6156.82,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 6,
+        "inflow_amount": 28001.75,
+        "outflow_amount": 19786.71,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 5,
+        "inflow_amount": 24198.31,
+        "outflow_amount": 15695.21,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 5,
+        "inflow_amount": 31779.86,
+        "outflow_amount": 18901.66,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 6,
+        "inflow_amount": 28418.86,
+        "outflow_amount": 17018.91,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 6,
+        "inflow_amount": 31275.67,
+        "outflow_amount": 18830.67,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 3,
+        "inflow_amount": 13512.36,
+        "outflow_amount": 9367.91,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 2,
+        "inflow_amount": 9001.98,
+        "outflow_amount": 5624.17,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 6,
+        "inflow_amount": 31539.66,
+        "outflow_amount": 16928.14,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 4,
+        "inflow_amount": 23947.78,
+        "outflow_amount": 15826.6,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 5,
+        "inflow_amount": 25573.05,
+        "outflow_amount": 14156.01,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 5,
+        "inflow_amount": 26225.27,
+        "outflow_amount": 15386.46,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 5,
+        "inflow_amount": 28676.18,
+        "outflow_amount": 20743.76,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 2,
+        "inflow_amount": 12920.19,
+        "outflow_amount": 6947.46,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 2,
+        "inflow_amount": 10927.8,
+        "outflow_amount": 7576.17,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 4,
+        "inflow_amount": 26490.93,
+        "outflow_amount": 15560.65,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 5,
+        "inflow_amount": 27696.32,
+        "outflow_amount": 17190.74,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 5,
+        "inflow_amount": 28411.85,
+        "outflow_amount": 18667.26,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 5,
+        "inflow_amount": 24462.62,
+        "outflow_amount": 14993.28,
+        "merchant_category": "Transport & Logistics"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 5,
+        "inflow_amount": 29264.11,
+        "outflow_amount": 19245.35,
+        "merchant_category": "Transport & Logistics"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 169,
+        "inflow_amount": 909220.38,
+        "outflow_amount": 579889.07
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 181,
+        "inflow_amount": 963076.98,
+        "outflow_amount": 601208.36
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 255,
+        "inflow_amount": 1417600.27,
+        "outflow_amount": 881019.52
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 249,
+        "inflow_amount": 1349872.12,
+        "outflow_amount": 871254.86
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 159,
+        "inflow_amount": 889214.33,
+        "outflow_amount": 559210.07
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 190,
+        "inflow_amount": 1006496.18,
+        "outflow_amount": 635827.56
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 160,
+        "inflow_amount": 861442.74,
+        "outflow_amount": 546391.99
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 225,
+        "inflow_amount": 1215628.3,
+        "outflow_amount": 774820.01
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 197,
+        "inflow_amount": 1071318.59,
+        "outflow_amount": 685654.25
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 164,
+        "inflow_amount": 873040.12,
+        "outflow_amount": 548336.87
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 108,
+        "inflow_amount": 619592.57,
+        "outflow_amount": 382114.17
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 138,
+        "inflow_amount": 735189.05,
+        "outflow_amount": 455314.18
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 558430.11
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 556514.06
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 566656.38
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 546005.53
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 523590.28
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 553056.41
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 525981.87
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 520208.82
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 529376.66
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 505047.72
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 511651.63
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 522386.39
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 525747.86
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 513499.88
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 505824.03
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 485909.4
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 481373.05
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 455306.58
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 457325.16
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 479565.65
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 471475.69
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 453359.63
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 466596.49
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 472796.77
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 468374.8
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 465914.63
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 460155.7
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 452584.5
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 457555.95
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 464284.03
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 441528.36
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 422912.54
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 477637.47
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 482308.32
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 490519.47
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 512224.69
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 545198.27
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 538555.11
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 550801.65
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 533364.86
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 527428.14
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 598171.05
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 563946.48
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 535135.77
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 515532.47
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 502278.15
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 545410.16
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 576842.69
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 577321.06
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 556009.31
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 555572.63
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 536965.11
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 536147.07
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 525605.12
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 526193.81
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 537526.49
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 545000.97
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 570219.71
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 541146.55
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 575829.13
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 576007.18
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 580064.85
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 587217.24
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 583080.46
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 589385.69
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 571046.39
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 646512.4
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 640179.78
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 632425.4
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 592141.08
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 630851.14
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 596419.11
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 510218.94
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 580861.36
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 548838.19
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 557733.96
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 547382.38
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 503011.01
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 577269.63
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 638687.08
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 641355.43
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 698846.15
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 679448.9
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 751171.28
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 691347.76
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 712949.36
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 733834.79
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 764137.65
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 789892.55
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 824323.2
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 823914.45
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 795538.43
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 796463.54
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 769168.78
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 774401.81
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 761948.14
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 701444.36
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 714319.45
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 754895.86
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 716863.01
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 714254.87
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 637278.87
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 684620.14
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 700346.35
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 712560.69
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 748817.99
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 707322.25
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 682351.7
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 653015.5
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 660784.75
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 642261.3
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 676175.51
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 720805.24
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 697044.52
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 727188.92
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 692371.61
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 708211.37
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 705514.73
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 720379.9
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 711410.77
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 704359.63
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 675652.1
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 664829.61
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 684004.62
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 665576.33
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 652996.37
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 649862.86
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 651828.32
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 651780.44
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 625937.29
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 600829.59
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 591677.61
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 571782.44
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 555900.51
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 525750.64
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 538429.71
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 538113.46
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 543816.08
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 507517.33
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 495362.51
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 502231.02
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 491865.62
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 517719.93
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 523838.31
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 543146.55
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 532564.62
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 527356.95
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 509921.1
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 492883.28
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 478784.89
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 504432.03
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 490757.49
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 502071.55
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 543913.54
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 533932.48
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 541766.09
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 547309.41
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 551870.09
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 514307.87
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 506462.83
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 497506.48
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 508281.24
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 485436.45
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 457260.92
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 424482.6
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 420618.33
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 435828.34
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 466795.58
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 460392.35
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 474994.16
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 506761.13
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 511489.81
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 533772.64
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 446647.25
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 458775.95
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 464585.69
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 466226.2
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 466463.26
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 440995.13
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 472070.12
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 447248.96
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 476638.08
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 496296.41
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 474755.63
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 457345.61
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 472087.0
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 450222.8
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 481964.03
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 514705.23
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 516151.68
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 523002.72
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 502682.8
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 567351.82
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 561775.41
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 580780.24
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 604748.82
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 583342.7
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 568423.51
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 550829.27
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 539065.85
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 547433.41
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 535892.7
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 503680.0
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 515992.02
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 479418.28
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 457830.03
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 457960.3
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 468022.75
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 484639.04
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 516921.99
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 520627.37
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 524641.08
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 576228.93
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 607650.66
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 608195.75
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 613964.61
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 596177.63
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 609470.9
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 626348.58
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 674313.77
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 675179.01
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 701772.69
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 763942.24
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 745824.86
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 722005.54
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 757200.26
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 740700.7
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 748879.65
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 743827.19
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 759853.25
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 693239.79
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 680387.39
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 656105.1
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 683059.37
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 684945.49
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 690917.45
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 628070.68
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 673986.51
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 672690.09
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 656425.5
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 596039.82
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 569782.94
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 600452.24
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 572459.06
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 535980.68
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 564581.66
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 575975.55
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 543844.56
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 538644.98
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 546164.52
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 520550.38
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 487546.48
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 499358.23
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 518099.19
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 504565.87
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 506868.81
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 490287.63
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 486395.64
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 450799.05
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 461894.99
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 458923.47
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 424190.43
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 395745.4
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 457930.86
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 442559.35
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 413971.32
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 455938.5
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 451229.88
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 451769.09
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 442227.06
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 438384.06
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 452217.01
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 491775.06
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 483460.23
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 489284.65
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 512255.65
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 497779.95
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 505475.4
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 523864.59
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 546867.37
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 530841.82
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 513667.33
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 519815.76
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 520785.94
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 498912.52
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 498200.91
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 477949.01
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 474170.48
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 456301.34
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 450463.14
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 439350.06
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 424613.46
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 407590.53
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 400220.18
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 405135.33
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 429650.43
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 400568.94
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 422604.52
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 415004.96
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 415753.99
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 418442.13
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 435766.1
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 423509.4
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 414995.57
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 423381.45
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 414241.36
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 440590.4
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 448665.44
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 435461.97
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 407092.63
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 396457.4
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 395354.3
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 394277.06
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 404636.97
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 390066.94
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 391082.93
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 375322.79
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 373447.15
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 375791.22
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 381002.64
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 362780.52
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 358098.69
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 357397.47
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 364783.76
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 371754.42
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 338960.94
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 368065.65
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 347721.38
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 339500.37
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 311241.77
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 319262.59
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 291619.12
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 300916.33
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 302873.3
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 318141.85
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 342115.26
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 334134.33
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 336161.89
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 325464.88
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 328149.48
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 352818.87
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 378954.13
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 397936.28
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 386808.55
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 370034.46
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 355832.47
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 358395.12
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 344712.56
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 354653.53
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 350754.1
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 352912.4
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 359891.81
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 375363.47
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 390147.2
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 404250.32
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 399932.23
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 405588.87
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 404846.78
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 404529.24
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 429593.41
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 430374.82
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 417034.89
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 409064.98
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 398093.81
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 391086.65
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 441528.36,
+        "average_balance": 496712.39,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 576007.18,
+        "average_balance": 535927.05,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 795538.43,
+        "average_balance": 645809.23,
+        "bounced_payments_count": 2
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 675652.1,
+        "average_balance": 709074.46,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 502071.55,
+        "average_balance": 559147.39,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 474755.63,
+        "average_balance": 484964.03,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 524641.08,
+        "average_balance": 517412.09,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 600452.24,
+        "average_balance": 669601.24,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 491775.06,
+        "average_balance": 486029.29,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 414995.57,
+        "average_balance": 463009.73,
+        "bounced_payments_count": 3
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 302873.3,
+        "average_balance": 372728.3,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 391086.65,
+        "average_balance": 374444.47,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2025-10-11",
+        "amount": 122630.89,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2025-10-12",
+        "amount": 223370.52,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2025-11-10",
+        "amount": 221040.85,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-05-18",
+        "amount": 70608.19,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-05-19",
+        "amount": 56252.24,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-05-31",
+        "amount": 48266.35,
+        "reason": "cheque_return"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 20,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 20,
+        "expected_contribution": 75409.65,
+        "contribution_paid": 75409.65,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 20,
+        "expected_contribution": 77695.22,
+        "contribution_paid": 77695.22,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 20,
+        "expected_contribution": 75148.4,
+        "contribution_paid": 75148.4,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 20,
+        "expected_contribution": 78940.36,
+        "contribution_paid": 78940.36,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 20,
+        "expected_contribution": 78105.2,
+        "contribution_paid": 78105.2,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 20,
+        "expected_contribution": 77870.48,
+        "contribution_paid": 0.0,
+        "status": "missed"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 20,
+        "expected_contribution": 76073.13,
+        "contribution_paid": 76073.13,
+        "status": "delayed"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 20,
+        "expected_contribution": 77663.64,
+        "contribution_paid": 77663.64,
+        "status": "delayed"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 20,
+        "expected_contribution": 76975.18,
+        "contribution_paid": 76975.18,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 20,
+        "expected_contribution": 78528.03,
+        "contribution_paid": 78528.03,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 20,
+        "expected_contribution": 77074.94,
+        "contribution_paid": 77074.94,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 20,
+        "expected_contribution": 78461.95,
+        "contribution_paid": 78461.95,
+        "status": "on_time"
+      }
+    ]
+  }
+}

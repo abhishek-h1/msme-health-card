@@ -1,0 +1,4305 @@
+{
+  "business_id": "MSME-011",
+  "name": "FixIt Electronics Repair Hub",
+  "sector": "Electronics Repair Services",
+  "archetype": "stable",
+  "registration_type": "sole_proprietor",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 396498.06,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 342610.08,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 339973.16,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 335418.69,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 425555.23,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 405618.06,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 366466.58,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 391826.71,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 347269.28,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 394255.39,
+        "due_date": "2026-06-20",
+        "filing_date": null,
+        "status": "missed",
+        "days_late": null
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 420107.07,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 401188.45,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Electronics & Repair Services",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 14,
+        "inflow_amount": 6688.61,
+        "outflow_amount": 4433.75,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 7,
+        "inflow_amount": 3849.73,
+        "outflow_amount": 2201.17,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 4,
+        "inflow_amount": 2270.23,
+        "outflow_amount": 1194.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 14,
+        "inflow_amount": 6436.8,
+        "outflow_amount": 4245.55,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 12,
+        "inflow_amount": 6458.27,
+        "outflow_amount": 3861.57,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 13,
+        "inflow_amount": 6101.98,
+        "outflow_amount": 3712.84,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 11,
+        "inflow_amount": 6806.88,
+        "outflow_amount": 4641.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 13,
+        "inflow_amount": 6550.61,
+        "outflow_amount": 3886.23,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 6,
+        "inflow_amount": 4113.24,
+        "outflow_amount": 2148.41,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 5,
+        "inflow_amount": 2502.42,
+        "outflow_amount": 1606.9,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 17,
+        "inflow_amount": 7721.09,
+        "outflow_amount": 4891.73,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 11,
+        "inflow_amount": 7219.19,
+        "outflow_amount": 3979.5,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 12,
+        "inflow_amount": 6209.76,
+        "outflow_amount": 3373.94,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 10,
+        "inflow_amount": 7023.49,
+        "outflow_amount": 3663.3,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 14,
+        "inflow_amount": 7862.07,
+        "outflow_amount": 4161.28,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 6,
+        "inflow_amount": 3230.56,
+        "outflow_amount": 2188.06,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 4,
+        "inflow_amount": 2624.67,
+        "outflow_amount": 1374.18,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 11,
+        "inflow_amount": 6455.97,
+        "outflow_amount": 4143.63,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 15,
+        "inflow_amount": 7569.44,
+        "outflow_amount": 3919.58,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 10,
+        "inflow_amount": 6324.1,
+        "outflow_amount": 3955.35,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 11,
+        "inflow_amount": 6082.87,
+        "outflow_amount": 3511.81,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 14,
+        "inflow_amount": 7618.07,
+        "outflow_amount": 4466.33,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 6,
+        "inflow_amount": 3610.28,
+        "outflow_amount": 2213.66,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 4,
+        "inflow_amount": 2555.14,
+        "outflow_amount": 1762.47,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 12,
+        "inflow_amount": 5888.41,
+        "outflow_amount": 3663.1,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 9,
+        "inflow_amount": 6199.06,
+        "outflow_amount": 3293.21,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 11,
+        "inflow_amount": 6543.79,
+        "outflow_amount": 3890.41,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 15,
+        "inflow_amount": 6798.83,
+        "outflow_amount": 4589.68,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 11,
+        "inflow_amount": 7350.9,
+        "outflow_amount": 4259.76,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 5,
+        "inflow_amount": 3420.22,
+        "outflow_amount": 2288.73,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 5,
+        "inflow_amount": 2464.23,
+        "outflow_amount": 1624.31,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 10,
+        "inflow_amount": 5391.54,
+        "outflow_amount": 3165.93,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 12,
+        "inflow_amount": 6515.02,
+        "outflow_amount": 3552.93,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 12,
+        "inflow_amount": 5746.79,
+        "outflow_amount": 3482.52,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 10,
+        "inflow_amount": 6477.6,
+        "outflow_amount": 4173.84,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 14,
+        "inflow_amount": 6992.76,
+        "outflow_amount": 3687.03,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 7,
+        "inflow_amount": 3622.63,
+        "outflow_amount": 2342.5,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 3,
+        "inflow_amount": 1965.28,
+        "outflow_amount": 1212.37,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 10,
+        "inflow_amount": 5696.5,
+        "outflow_amount": 3784.23,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 11,
+        "inflow_amount": 6640.34,
+        "outflow_amount": 4442.54,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 11,
+        "inflow_amount": 5490.61,
+        "outflow_amount": 3528.88,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 10,
+        "inflow_amount": 5308.19,
+        "outflow_amount": 2996.9,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 11,
+        "inflow_amount": 6519.46,
+        "outflow_amount": 4316.35,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 7,
+        "inflow_amount": 3584.88,
+        "outflow_amount": 2019.07,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 3,
+        "inflow_amount": 1926.46,
+        "outflow_amount": 1305.22,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 13,
+        "inflow_amount": 6946.64,
+        "outflow_amount": 3569.59,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 9,
+        "inflow_amount": 6429.78,
+        "outflow_amount": 3650.52,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 12,
+        "inflow_amount": 6315.56,
+        "outflow_amount": 3981.59,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 9,
+        "inflow_amount": 5597.49,
+        "outflow_amount": 3734.64,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 11,
+        "inflow_amount": 6032.97,
+        "outflow_amount": 3591.09,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 6,
+        "inflow_amount": 3312.87,
+        "outflow_amount": 1769.94,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 4,
+        "inflow_amount": 2447.73,
+        "outflow_amount": 1645.75,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 10,
+        "inflow_amount": 5979.47,
+        "outflow_amount": 3925.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 12,
+        "inflow_amount": 7068.57,
+        "outflow_amount": 4772.28,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 9,
+        "inflow_amount": 5312.92,
+        "outflow_amount": 2843.0,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 14,
+        "inflow_amount": 6582.03,
+        "outflow_amount": 4517.29,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 9,
+        "inflow_amount": 5695.91,
+        "outflow_amount": 3819.1,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 7,
+        "inflow_amount": 3628.52,
+        "outflow_amount": 2371.79,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 4,
+        "inflow_amount": 2145.64,
+        "outflow_amount": 1386.29,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 10,
+        "inflow_amount": 6178.66,
+        "outflow_amount": 4262.68,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 14,
+        "inflow_amount": 7072.65,
+        "outflow_amount": 4781.1,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 10,
+        "inflow_amount": 6438.36,
+        "outflow_amount": 3652.38,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 10,
+        "inflow_amount": 5507.16,
+        "outflow_amount": 3610.36,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 14,
+        "inflow_amount": 6615.8,
+        "outflow_amount": 3957.67,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 6,
+        "inflow_amount": 2896.39,
+        "outflow_amount": 1763.99,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 3,
+        "inflow_amount": 1955.66,
+        "outflow_amount": 1265.88,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 13,
+        "inflow_amount": 6526.11,
+        "outflow_amount": 3337.98,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 10,
+        "inflow_amount": 5062.52,
+        "outflow_amount": 2892.07,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 10,
+        "inflow_amount": 5529.2,
+        "outflow_amount": 3512.9,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 12,
+        "inflow_amount": 6555.74,
+        "outflow_amount": 4465.36,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 13,
+        "inflow_amount": 6058.25,
+        "outflow_amount": 3978.72,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 6,
+        "inflow_amount": 3184.75,
+        "outflow_amount": 1800.72,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 4,
+        "inflow_amount": 2029.16,
+        "outflow_amount": 1143.42,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 11,
+        "inflow_amount": 6261.0,
+        "outflow_amount": 3500.65,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 10,
+        "inflow_amount": 5899.12,
+        "outflow_amount": 3469.48,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 9,
+        "inflow_amount": 5646.31,
+        "outflow_amount": 3813.7,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 13,
+        "inflow_amount": 6553.31,
+        "outflow_amount": 3566.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 9,
+        "inflow_amount": 5793.42,
+        "outflow_amount": 3989.06,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 4,
+        "inflow_amount": 2845.55,
+        "outflow_amount": 1575.19,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 5,
+        "inflow_amount": 2266.56,
+        "outflow_amount": 1547.56,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 11,
+        "inflow_amount": 5388.1,
+        "outflow_amount": 3137.76,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 13,
+        "inflow_amount": 6246.55,
+        "outflow_amount": 3359.62,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 11,
+        "inflow_amount": 5869.34,
+        "outflow_amount": 3087.22,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 12,
+        "inflow_amount": 6340.18,
+        "outflow_amount": 4299.91,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 11,
+        "inflow_amount": 6763.13,
+        "outflow_amount": 4399.21,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 6,
+        "inflow_amount": 3152.54,
+        "outflow_amount": 1671.36,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 4,
+        "inflow_amount": 1941.9,
+        "outflow_amount": 1223.84,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 8,
+        "inflow_amount": 5327.78,
+        "outflow_amount": 2884.73,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 11,
+        "inflow_amount": 5867.58,
+        "outflow_amount": 3574.4,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 10,
+        "inflow_amount": 5448.32,
+        "outflow_amount": 3344.21,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 8,
+        "inflow_amount": 5437.41,
+        "outflow_amount": 2820.3,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 11,
+        "inflow_amount": 5859.42,
+        "outflow_amount": 3089.95,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 5,
+        "inflow_amount": 3046.3,
+        "outflow_amount": 1638.88,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 4,
+        "inflow_amount": 1915.19,
+        "outflow_amount": 1224.41,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 11,
+        "inflow_amount": 5774.45,
+        "outflow_amount": 3550.42,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 10,
+        "inflow_amount": 6233.99,
+        "outflow_amount": 4079.9,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 12,
+        "inflow_amount": 6668.23,
+        "outflow_amount": 4430.18,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 9,
+        "inflow_amount": 5658.58,
+        "outflow_amount": 3898.54,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 12,
+        "inflow_amount": 6358.97,
+        "outflow_amount": 3344.41,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 7,
+        "inflow_amount": 3427.47,
+        "outflow_amount": 1866.45,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 5,
+        "inflow_amount": 2298.54,
+        "outflow_amount": 1445.74,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 13,
+        "inflow_amount": 7129.55,
+        "outflow_amount": 3677.15,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 15,
+        "inflow_amount": 7111.21,
+        "outflow_amount": 3961.41,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 9,
+        "inflow_amount": 6102.33,
+        "outflow_amount": 3647.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 10,
+        "inflow_amount": 6526.53,
+        "outflow_amount": 4113.07,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 9,
+        "inflow_amount": 6314.65,
+        "outflow_amount": 4226.08,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 8,
+        "inflow_amount": 3735.33,
+        "outflow_amount": 2253.45,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 4,
+        "inflow_amount": 2100.24,
+        "outflow_amount": 1231.37,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 9,
+        "inflow_amount": 5564.25,
+        "outflow_amount": 3542.71,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 12,
+        "inflow_amount": 7199.31,
+        "outflow_amount": 4009.73,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 9,
+        "inflow_amount": 5934.34,
+        "outflow_amount": 3820.37,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 16,
+        "inflow_amount": 7304.72,
+        "outflow_amount": 4711.54,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 10,
+        "inflow_amount": 5837.52,
+        "outflow_amount": 3654.69,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 5,
+        "inflow_amount": 3158.4,
+        "outflow_amount": 2149.43,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 3,
+        "inflow_amount": 2052.93,
+        "outflow_amount": 1384.93,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 8,
+        "inflow_amount": 5682.55,
+        "outflow_amount": 2940.36,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 9,
+        "inflow_amount": 5549.18,
+        "outflow_amount": 3312.95,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 10,
+        "inflow_amount": 6620.85,
+        "outflow_amount": 4286.81,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 12,
+        "inflow_amount": 6072.1,
+        "outflow_amount": 3382.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 15,
+        "inflow_amount": 7166.41,
+        "outflow_amount": 4927.93,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 6,
+        "inflow_amount": 3474.49,
+        "outflow_amount": 2067.64,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 5,
+        "inflow_amount": 2189.22,
+        "outflow_amount": 1286.39,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 12,
+        "inflow_amount": 6916.8,
+        "outflow_amount": 4164.4,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 13,
+        "inflow_amount": 8025.24,
+        "outflow_amount": 4249.65,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 14,
+        "inflow_amount": 7239.6,
+        "outflow_amount": 4601.5,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 12,
+        "inflow_amount": 6467.43,
+        "outflow_amount": 3832.64,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 10,
+        "inflow_amount": 6612.96,
+        "outflow_amount": 3783.94,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 5,
+        "inflow_amount": 3549.74,
+        "outflow_amount": 2301.02,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 4,
+        "inflow_amount": 2361.25,
+        "outflow_amount": 1539.29,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 12,
+        "inflow_amount": 7762.7,
+        "outflow_amount": 4550.68,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 11,
+        "inflow_amount": 7236.34,
+        "outflow_amount": 4499.49,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 12,
+        "inflow_amount": 6471.42,
+        "outflow_amount": 3870.06,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 13,
+        "inflow_amount": 7348.95,
+        "outflow_amount": 3963.19,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 12,
+        "inflow_amount": 6964.87,
+        "outflow_amount": 4356.7,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 6,
+        "inflow_amount": 3573.56,
+        "outflow_amount": 2148.18,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 4,
+        "inflow_amount": 2098.69,
+        "outflow_amount": 1180.8,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 10,
+        "inflow_amount": 6501.83,
+        "outflow_amount": 4309.09,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 15,
+        "inflow_amount": 7594.97,
+        "outflow_amount": 4501.96,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 10,
+        "inflow_amount": 6547.38,
+        "outflow_amount": 3899.29,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 11,
+        "inflow_amount": 7032.47,
+        "outflow_amount": 4690.53,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 11,
+        "inflow_amount": 5989.4,
+        "outflow_amount": 3172.5,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 5,
+        "inflow_amount": 3584.77,
+        "outflow_amount": 2055.36,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 4,
+        "inflow_amount": 2635.4,
+        "outflow_amount": 1459.81,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 13,
+        "inflow_amount": 6451.29,
+        "outflow_amount": 3725.77,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 12,
+        "inflow_amount": 6955.75,
+        "outflow_amount": 4530.57,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 12,
+        "inflow_amount": 7498.26,
+        "outflow_amount": 4136.47,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 11,
+        "inflow_amount": 6876.87,
+        "outflow_amount": 3955.06,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 12,
+        "inflow_amount": 6124.93,
+        "outflow_amount": 3178.03,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 8,
+        "inflow_amount": 3435.74,
+        "outflow_amount": 2320.0,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 5,
+        "inflow_amount": 2577.09,
+        "outflow_amount": 1404.76,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 11,
+        "inflow_amount": 8002.92,
+        "outflow_amount": 4174.37,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 14,
+        "inflow_amount": 7471.61,
+        "outflow_amount": 4342.35,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 13,
+        "inflow_amount": 7910.68,
+        "outflow_amount": 4356.72,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 14,
+        "inflow_amount": 7024.09,
+        "outflow_amount": 3597.03,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 14,
+        "inflow_amount": 7596.22,
+        "outflow_amount": 4250.12,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 8,
+        "inflow_amount": 4147.58,
+        "outflow_amount": 2636.1,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 4,
+        "inflow_amount": 2584.3,
+        "outflow_amount": 1507.58,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 12,
+        "inflow_amount": 6227.22,
+        "outflow_amount": 3199.24,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 16,
+        "inflow_amount": 7194.71,
+        "outflow_amount": 4698.48,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 10,
+        "inflow_amount": 6274.54,
+        "outflow_amount": 3754.26,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 11,
+        "inflow_amount": 6607.8,
+        "outflow_amount": 4280.22,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 11,
+        "inflow_amount": 7387.92,
+        "outflow_amount": 4350.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 6,
+        "inflow_amount": 3822.81,
+        "outflow_amount": 2290.66,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 5,
+        "inflow_amount": 2382.28,
+        "outflow_amount": 1434.02,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 11,
+        "inflow_amount": 7127.95,
+        "outflow_amount": 4629.17,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 13,
+        "inflow_amount": 6968.22,
+        "outflow_amount": 4238.29,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 11,
+        "inflow_amount": 6327.62,
+        "outflow_amount": 3336.46,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 14,
+        "inflow_amount": 7327.84,
+        "outflow_amount": 4664.64,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 15,
+        "inflow_amount": 7390.99,
+        "outflow_amount": 4101.88,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 4,
+        "inflow_amount": 3166.01,
+        "outflow_amount": 1737.0,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 5,
+        "inflow_amount": 2445.62,
+        "outflow_amount": 1623.16,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 12,
+        "inflow_amount": 6866.06,
+        "outflow_amount": 4036.91,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 11,
+        "inflow_amount": 6362.63,
+        "outflow_amount": 3447.51,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 12,
+        "inflow_amount": 7310.49,
+        "outflow_amount": 3754.37,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 14,
+        "inflow_amount": 7461.29,
+        "outflow_amount": 4327.97,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 13,
+        "inflow_amount": 6430.95,
+        "outflow_amount": 3734.24,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 5,
+        "inflow_amount": 3255.27,
+        "outflow_amount": 2002.6,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 5,
+        "inflow_amount": 2638.73,
+        "outflow_amount": 1537.96,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 10,
+        "inflow_amount": 6483.54,
+        "outflow_amount": 4025.99,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 13,
+        "inflow_amount": 7717.35,
+        "outflow_amount": 4057.41,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 10,
+        "inflow_amount": 6507.47,
+        "outflow_amount": 3460.63,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 14,
+        "inflow_amount": 7698.34,
+        "outflow_amount": 4823.12,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 12,
+        "inflow_amount": 7028.42,
+        "outflow_amount": 4125.84,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 6,
+        "inflow_amount": 3527.27,
+        "outflow_amount": 2379.77,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 6,
+        "inflow_amount": 2702.23,
+        "outflow_amount": 1789.86,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 10,
+        "inflow_amount": 6165.18,
+        "outflow_amount": 3960.45,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 9,
+        "inflow_amount": 6427.18,
+        "outflow_amount": 3291.74,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 11,
+        "inflow_amount": 6571.69,
+        "outflow_amount": 3911.46,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 12,
+        "inflow_amount": 7758.27,
+        "outflow_amount": 5173.56,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 14,
+        "inflow_amount": 7515.87,
+        "outflow_amount": 4732.98,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 7,
+        "inflow_amount": 3904.31,
+        "outflow_amount": 2129.36,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 4,
+        "inflow_amount": 2390.61,
+        "outflow_amount": 1535.7,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 10,
+        "inflow_amount": 6688.5,
+        "outflow_amount": 4182.6,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 12,
+        "inflow_amount": 6701.88,
+        "outflow_amount": 4236.77,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 12,
+        "inflow_amount": 6873.08,
+        "outflow_amount": 4216.34,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 15,
+        "inflow_amount": 7290.33,
+        "outflow_amount": 3993.52,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 14,
+        "inflow_amount": 7648.47,
+        "outflow_amount": 4800.86,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 9,
+        "inflow_amount": 4132.97,
+        "outflow_amount": 2582.11,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 4,
+        "inflow_amount": 2499.36,
+        "outflow_amount": 1432.91,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 12,
+        "inflow_amount": 7969.81,
+        "outflow_amount": 4820.48,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 11,
+        "inflow_amount": 6971.29,
+        "outflow_amount": 4804.74,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 12,
+        "inflow_amount": 7465.38,
+        "outflow_amount": 5124.24,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 13,
+        "inflow_amount": 7467.01,
+        "outflow_amount": 3874.67,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 12,
+        "inflow_amount": 6389.34,
+        "outflow_amount": 3469.51,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 7,
+        "inflow_amount": 4002.8,
+        "outflow_amount": 2684.11,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 3,
+        "inflow_amount": 2246.06,
+        "outflow_amount": 1412.12,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 15,
+        "inflow_amount": 7665.52,
+        "outflow_amount": 4452.83,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 13,
+        "inflow_amount": 8017.29,
+        "outflow_amount": 4922.3,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 13,
+        "inflow_amount": 8135.61,
+        "outflow_amount": 5564.74,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 15,
+        "inflow_amount": 7592.03,
+        "outflow_amount": 4214.58,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 12,
+        "inflow_amount": 7610.06,
+        "outflow_amount": 4065.41,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 7,
+        "inflow_amount": 3596.21,
+        "outflow_amount": 1986.02,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 4,
+        "inflow_amount": 2508.79,
+        "outflow_amount": 1586.24,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 11,
+        "inflow_amount": 7592.66,
+        "outflow_amount": 4618.62,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 12,
+        "inflow_amount": 6357.11,
+        "outflow_amount": 3566.58,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 11,
+        "inflow_amount": 6120.09,
+        "outflow_amount": 3249.57,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 11,
+        "inflow_amount": 7551.36,
+        "outflow_amount": 4980.18,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 11,
+        "inflow_amount": 6269.21,
+        "outflow_amount": 3752.27,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 6,
+        "inflow_amount": 3500.49,
+        "outflow_amount": 1796.37,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 4,
+        "inflow_amount": 2112.8,
+        "outflow_amount": 1305.4,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 15,
+        "inflow_amount": 7593.21,
+        "outflow_amount": 4696.41,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 14,
+        "inflow_amount": 6846.54,
+        "outflow_amount": 4547.18,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 11,
+        "inflow_amount": 6212.54,
+        "outflow_amount": 3673.95,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 11,
+        "inflow_amount": 5933.49,
+        "outflow_amount": 3537.1,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 9,
+        "inflow_amount": 6057.41,
+        "outflow_amount": 3430.65,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 6,
+        "inflow_amount": 3363.33,
+        "outflow_amount": 1893.25,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 4,
+        "inflow_amount": 2480.54,
+        "outflow_amount": 1544.5,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 15,
+        "inflow_amount": 7206.32,
+        "outflow_amount": 4185.2,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 12,
+        "inflow_amount": 7461.18,
+        "outflow_amount": 4423.33,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 15,
+        "inflow_amount": 7259.36,
+        "outflow_amount": 4199.86,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 10,
+        "inflow_amount": 5960.15,
+        "outflow_amount": 3402.61,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 12,
+        "inflow_amount": 7183.01,
+        "outflow_amount": 3946.91,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 6,
+        "inflow_amount": 3459.72,
+        "outflow_amount": 2319.15,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 4,
+        "inflow_amount": 2465.22,
+        "outflow_amount": 1510.03,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 12,
+        "inflow_amount": 6759.65,
+        "outflow_amount": 4234.08,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 17,
+        "inflow_amount": 7579.84,
+        "outflow_amount": 5063.57,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 15,
+        "inflow_amount": 7586.04,
+        "outflow_amount": 4074.87,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 12,
+        "inflow_amount": 6364.33,
+        "outflow_amount": 3739.79,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 10,
+        "inflow_amount": 5869.64,
+        "outflow_amount": 3990.18,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 5,
+        "inflow_amount": 3045.13,
+        "outflow_amount": 1634.33,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 4,
+        "inflow_amount": 2402.67,
+        "outflow_amount": 1265.27,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 12,
+        "inflow_amount": 6418.95,
+        "outflow_amount": 3814.76,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 9,
+        "inflow_amount": 6057.46,
+        "outflow_amount": 3661.37,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 11,
+        "inflow_amount": 6403.02,
+        "outflow_amount": 4088.57,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 12,
+        "inflow_amount": 6305.68,
+        "outflow_amount": 3826.5,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 10,
+        "inflow_amount": 6278.45,
+        "outflow_amount": 3772.31,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 6,
+        "inflow_amount": 3352.82,
+        "outflow_amount": 2123.46,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 4,
+        "inflow_amount": 2268.95,
+        "outflow_amount": 1550.19,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 9,
+        "inflow_amount": 6216.93,
+        "outflow_amount": 3559.53,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 11,
+        "inflow_amount": 6236.57,
+        "outflow_amount": 3975.65,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 14,
+        "inflow_amount": 7011.47,
+        "outflow_amount": 4789.35,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 11,
+        "inflow_amount": 5220.22,
+        "outflow_amount": 3085.53,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 9,
+        "inflow_amount": 5628.56,
+        "outflow_amount": 3669.65,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 6,
+        "inflow_amount": 3528.92,
+        "outflow_amount": 2254.88,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 5,
+        "inflow_amount": 2314.99,
+        "outflow_amount": 1592.64,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 11,
+        "inflow_amount": 6705.07,
+        "outflow_amount": 4341.45,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 9,
+        "inflow_amount": 6445.44,
+        "outflow_amount": 4124.48,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 9,
+        "inflow_amount": 5486.61,
+        "outflow_amount": 2850.21,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 9,
+        "inflow_amount": 5889.21,
+        "outflow_amount": 3694.87,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 11,
+        "inflow_amount": 5897.47,
+        "outflow_amount": 3269.76,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 5,
+        "inflow_amount": 3052.84,
+        "outflow_amount": 1670.35,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 4,
+        "inflow_amount": 1820.93,
+        "outflow_amount": 1140.46,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 11,
+        "inflow_amount": 6048.71,
+        "outflow_amount": 3426.97,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 13,
+        "inflow_amount": 6542.47,
+        "outflow_amount": 4116.44,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 13,
+        "inflow_amount": 6895.85,
+        "outflow_amount": 4270.8,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 9,
+        "inflow_amount": 6031.54,
+        "outflow_amount": 3462.08,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 10,
+        "inflow_amount": 5261.95,
+        "outflow_amount": 2835.42,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 8,
+        "inflow_amount": 3561.99,
+        "outflow_amount": 2244.32,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 4,
+        "inflow_amount": 1832.85,
+        "outflow_amount": 1076.81,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 8,
+        "inflow_amount": 5357.73,
+        "outflow_amount": 3519.05,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 11,
+        "inflow_amount": 6287.96,
+        "outflow_amount": 3279.03,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 13,
+        "inflow_amount": 6942.51,
+        "outflow_amount": 3891.28,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 12,
+        "inflow_amount": 6427.45,
+        "outflow_amount": 3829.7,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 15,
+        "inflow_amount": 8094.0,
+        "outflow_amount": 4151.14,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 5,
+        "inflow_amount": 3280.4,
+        "outflow_amount": 1744.3,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 5,
+        "inflow_amount": 2319.08,
+        "outflow_amount": 1417.18,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 15,
+        "inflow_amount": 6880.99,
+        "outflow_amount": 4623.28,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 14,
+        "inflow_amount": 6516.24,
+        "outflow_amount": 4106.71,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 13,
+        "inflow_amount": 6182.95,
+        "outflow_amount": 3920.09,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 17,
+        "inflow_amount": 7943.28,
+        "outflow_amount": 5438.9,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 15,
+        "inflow_amount": 7768.27,
+        "outflow_amount": 4681.45,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 6,
+        "inflow_amount": 3241.05,
+        "outflow_amount": 2176.8,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 4,
+        "inflow_amount": 2620.3,
+        "outflow_amount": 1391.12,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 11,
+        "inflow_amount": 7809.8,
+        "outflow_amount": 4509.03,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 12,
+        "inflow_amount": 6560.41,
+        "outflow_amount": 3795.37,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 13,
+        "inflow_amount": 7768.57,
+        "outflow_amount": 3997.98,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 11,
+        "inflow_amount": 7166.34,
+        "outflow_amount": 4384.01,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 9,
+        "inflow_amount": 6349.98,
+        "outflow_amount": 3749.21,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 8,
+        "inflow_amount": 3655.96,
+        "outflow_amount": 2383.18,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 4,
+        "inflow_amount": 2226.26,
+        "outflow_amount": 1308.11,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 10,
+        "inflow_amount": 6073.84,
+        "outflow_amount": 3817.19,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 15,
+        "inflow_amount": 7114.81,
+        "outflow_amount": 4382.49,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 11,
+        "inflow_amount": 6724.0,
+        "outflow_amount": 4635.7,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 13,
+        "inflow_amount": 7446.4,
+        "outflow_amount": 4432.16,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 14,
+        "inflow_amount": 7605.71,
+        "outflow_amount": 3981.77,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 6,
+        "inflow_amount": 3481.54,
+        "outflow_amount": 2054.57,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 4,
+        "inflow_amount": 2442.38,
+        "outflow_amount": 1613.03,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 14,
+        "inflow_amount": 6681.65,
+        "outflow_amount": 4467.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 16,
+        "inflow_amount": 7387.91,
+        "outflow_amount": 4973.11,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 10,
+        "inflow_amount": 6594.69,
+        "outflow_amount": 3650.92,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 15,
+        "inflow_amount": 7572.16,
+        "outflow_amount": 4330.95,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 13,
+        "inflow_amount": 8027.4,
+        "outflow_amount": 5067.07,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 8,
+        "inflow_amount": 3745.89,
+        "outflow_amount": 2523.48,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 5,
+        "inflow_amount": 2333.35,
+        "outflow_amount": 1413.25,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 13,
+        "inflow_amount": 6887.82,
+        "outflow_amount": 4065.09,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 14,
+        "inflow_amount": 6641.32,
+        "outflow_amount": 4262.84,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 13,
+        "inflow_amount": 7357.97,
+        "outflow_amount": 3902.83,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 14,
+        "inflow_amount": 8087.95,
+        "outflow_amount": 4581.99,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 10,
+        "inflow_amount": 6705.59,
+        "outflow_amount": 3739.06,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 7,
+        "inflow_amount": 3981.7,
+        "outflow_amount": 2706.24,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 4,
+        "inflow_amount": 2315.83,
+        "outflow_amount": 1365.09,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 13,
+        "inflow_amount": 6546.56,
+        "outflow_amount": 3910.14,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 12,
+        "inflow_amount": 7424.72,
+        "outflow_amount": 4862.59,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 10,
+        "inflow_amount": 6249.72,
+        "outflow_amount": 3631.09,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 11,
+        "inflow_amount": 7095.75,
+        "outflow_amount": 3630.32,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 10,
+        "inflow_amount": 6918.25,
+        "outflow_amount": 3596.83,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 7,
+        "inflow_amount": 3469.27,
+        "outflow_amount": 2129.66,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 5,
+        "inflow_amount": 2894.39,
+        "outflow_amount": 1964.58,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 14,
+        "inflow_amount": 8238.76,
+        "outflow_amount": 4857.12,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 17,
+        "inflow_amount": 7983.71,
+        "outflow_amount": 5022.54,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 11,
+        "inflow_amount": 7838.74,
+        "outflow_amount": 4159.57,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 13,
+        "inflow_amount": 7428.26,
+        "outflow_amount": 4709.39,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 13,
+        "inflow_amount": 6406.48,
+        "outflow_amount": 3794.4,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 7,
+        "inflow_amount": 3399.83,
+        "outflow_amount": 2063.3,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 5,
+        "inflow_amount": 2859.68,
+        "outflow_amount": 1513.58,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 11,
+        "inflow_amount": 6610.85,
+        "outflow_amount": 3488.61,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 12,
+        "inflow_amount": 6908.6,
+        "outflow_amount": 3798.58,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 12,
+        "inflow_amount": 7251.43,
+        "outflow_amount": 4897.89,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 11,
+        "inflow_amount": 6814.52,
+        "outflow_amount": 4678.08,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 9,
+        "inflow_amount": 6427.33,
+        "outflow_amount": 3779.87,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 6,
+        "inflow_amount": 3699.48,
+        "outflow_amount": 2327.54,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 4,
+        "inflow_amount": 2261.66,
+        "outflow_amount": 1507.13,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 13,
+        "inflow_amount": 7896.72,
+        "outflow_amount": 4281.32,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 10,
+        "inflow_amount": 6449.26,
+        "outflow_amount": 4186.27,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 11,
+        "inflow_amount": 7381.86,
+        "outflow_amount": 4157.89,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 15,
+        "inflow_amount": 6715.24,
+        "outflow_amount": 4366.87,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 16,
+        "inflow_amount": 7620.91,
+        "outflow_amount": 4992.35,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 5,
+        "inflow_amount": 3456.9,
+        "outflow_amount": 2377.15,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 5,
+        "inflow_amount": 2480.54,
+        "outflow_amount": 1521.97,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 14,
+        "inflow_amount": 6660.03,
+        "outflow_amount": 4521.71,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 15,
+        "inflow_amount": 7361.84,
+        "outflow_amount": 4283.64,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 12,
+        "inflow_amount": 7456.31,
+        "outflow_amount": 4831.21,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 16,
+        "inflow_amount": 7523.08,
+        "outflow_amount": 4762.12,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 14,
+        "inflow_amount": 7811.71,
+        "outflow_amount": 4310.99,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 6,
+        "inflow_amount": 3836.5,
+        "outflow_amount": 2301.85,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 4,
+        "inflow_amount": 2152.73,
+        "outflow_amount": 1399.02,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 11,
+        "inflow_amount": 7103.8,
+        "outflow_amount": 3820.68,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 12,
+        "inflow_amount": 7552.79,
+        "outflow_amount": 3927.95,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 11,
+        "inflow_amount": 7683.48,
+        "outflow_amount": 5151.73,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 11,
+        "inflow_amount": 7361.75,
+        "outflow_amount": 4239.95,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 14,
+        "inflow_amount": 6862.98,
+        "outflow_amount": 4444.27,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 6,
+        "inflow_amount": 4131.9,
+        "outflow_amount": 2126.02,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 4,
+        "inflow_amount": 2507.94,
+        "outflow_amount": 1354.96,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 15,
+        "inflow_amount": 7685.08,
+        "outflow_amount": 5145.12,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 10,
+        "inflow_amount": 6308.63,
+        "outflow_amount": 4344.42,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 13,
+        "inflow_amount": 6267.24,
+        "outflow_amount": 3546.27,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 12,
+        "inflow_amount": 6101.62,
+        "outflow_amount": 3579.14,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 15,
+        "inflow_amount": 7648.85,
+        "outflow_amount": 4273.76,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 7,
+        "inflow_amount": 3905.26,
+        "outflow_amount": 2590.65,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 4,
+        "inflow_amount": 2495.31,
+        "outflow_amount": 1480.53,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 12,
+        "inflow_amount": 7424.83,
+        "outflow_amount": 4843.04,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 14,
+        "inflow_amount": 7284.64,
+        "outflow_amount": 3716.04,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 14,
+        "inflow_amount": 7298.3,
+        "outflow_amount": 4667.06,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 12,
+        "inflow_amount": 7381.51,
+        "outflow_amount": 3838.12,
+        "merchant_category": "Electronics & Repair Services"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 10,
+        "inflow_amount": 6348.71,
+        "outflow_amount": 3742.46,
+        "merchant_category": "Electronics & Repair Services"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 312,
+        "inflow_amount": 172550.91,
+        "outflow_amount": 103147.28
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 284,
+        "inflow_amount": 158625.47,
+        "outflow_amount": 98632.88
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 288,
+        "inflow_amount": 157266.62,
+        "outflow_amount": 93736.52
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 272,
+        "inflow_amount": 154207.83,
+        "outflow_amount": 94067.78
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 317,
+        "inflow_amount": 185820.91,
+        "outflow_amount": 109254.18
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 321,
+        "inflow_amount": 181291.53,
+        "outflow_amount": 106043.55
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 294,
+        "inflow_amount": 170398.34,
+        "outflow_amount": 103365.97
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 310,
+        "inflow_amount": 173578.24,
+        "outflow_amount": 103643.58
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 278,
+        "inflow_amount": 157255.16,
+        "outflow_amount": 95331.74
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 331,
+        "inflow_amount": 179615.61,
+        "outflow_amount": 109121.47
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 311,
+        "inflow_amount": 181052.15,
+        "outflow_amount": 107413.54
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 340,
+        "inflow_amount": 189812.27,
+        "outflow_amount": 114658.94
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 122479.75
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 119983.72
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 117467.06
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 117362.25
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 110102.25
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 107881.83
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 110972.26
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 108781.0
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 111666.47
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 111289.47
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 113428.29
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 114170.9
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 111942.93
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 108827.63
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 110570.79
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 113921.13
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 116617.34
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 119983.42
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 127252.58
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 119306.32
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 125480.02
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 123221.35
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 135666.87
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 134122.2
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 132702.06
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 134770.7
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 130842.55
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 133608.76
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 133281.52
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 133510.68
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 130106.58
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 126660.68
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 125860.0
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 118027.71
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 119545.89
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 114055.96
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 109521.69
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 111428.42
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 110150.11
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 104874.58
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 107248.29
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 106994.7
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 111787.47
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 115321.09
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 111719.96
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 120207.22
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 123553.53
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 123102.99
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 121450.46
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 117405.48
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 114147.31
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 109184.26
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 105460.16
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 107185.61
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 105140.94
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 110830.06
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 106373.16
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 105951.71
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 109720.26
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 109110.15
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 109040.27
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 108193.65
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 103941.27
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 105892.03
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 105717.91
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 106500.57
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 105500.07
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 103829.73
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 104292.81
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 100398.02
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 97795.15
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 101318.11
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 96909.74
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 95032.89
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 91980.57
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 98467.51
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 101077.25
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 102764.22
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 108231.91
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 108112.32
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 108932.3
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 104095.75
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 99353.29
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 103881.79
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 103223.4
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 102691.04
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 105751.37
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 109149.25
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 116165.19
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 108805.0
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 110025.99
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 104426.71
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 103680.24
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 102910.08
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 99675.67
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 95993.64
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 99806.66
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 100301.14
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 96288.47
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 100334.72
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 97080.06
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 99548.87
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 100796.28
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 105451.4
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 103979.27
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 105179.07
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 104376.73
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 103158.46
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 100961.56
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 100094.4
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 103094.1
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 101208.98
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 102078.25
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 105545.0
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 103772.4
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 107507.12
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 108957.69
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 114958.54
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 110479.63
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 117989.64
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 112814.21
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 105293.07
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 112818.05
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 117133.59
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 114437.71
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 117214.14
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 117335.98
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 118153.2
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 126988.75
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 128180.23
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 124095.93
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 129676.24
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 121591.58
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 125347.77
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 132334.96
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 134602.88
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 134654.32
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 135766.04
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 139265.26
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 135461.48
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 136316.57
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 141548.26
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 139350.59
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 136547.48
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 145146.01
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 147397.31
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 150229.46
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 149607.63
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 149039.94
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 154131.74
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 147434.52
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 150593.99
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 146550.45
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 140949.67
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 137056.18
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 137000.17
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 135931.43
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 135949.04
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 136125.54
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 135637.6
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 134711.47
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 130622.72
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 122627.07
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 124347.58
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 130271.81
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 123611.6
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 124746.86
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 133215.6
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 130648.11
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 131224.55
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 132443.75
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 132928.74
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 130728.93
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 130399.1
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 128820.32
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 126569.37
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 129218.68
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 127070.79
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 125665.35
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 130631.27
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 131746.27
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 134204.7
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 131890.43
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 129970.64
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 127252.12
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 125130.81
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 122511.54
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 120320.85
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 124024.57
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 122838.12
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 126830.54
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 122568.64
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 122987.0
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 119911.24
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 121205.52
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 125389.33
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 125175.39
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 123418.9
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 124556.44
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 124992.95
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 121126.29
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 121606.14
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 118992.26
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 114880.86
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 112566.87
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 111911.87
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 113228.21
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 113488.61
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 110192.62
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 110840.15
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 112661.61
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 111174.18
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 113224.54
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 112437.47
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 113278.83
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 108978.8
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 119524.25
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 129254.03
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 128659.59
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 128226.97
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 126818.01
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 124664.55
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 121402.69
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 124568.51
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 128716.6
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 132077.12
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 132261.69
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 129675.87
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 125547.4
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 120968.75
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 119207.4
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 126349.6
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 119461.95
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 120076.53
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 112644.4
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 113490.58
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 112568.99
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 117983.9
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 113021.23
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 116710.48
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 115618.64
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 107934.57
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 106638.72
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 108664.68
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 111222.72
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 110254.0
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 108197.04
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 105384.62
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 108181.09
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 112603.95
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 108961.62
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 107669.68
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 110326.55
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 114040.89
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 115124.76
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 113383.69
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 113086.1
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 110883.8
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 109377.39
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 108450.84
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 112442.05
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 109567.61
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 111184.76
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 117370.04
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 120162.92
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 120724.62
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 119848.57
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 117604.7
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 118406.31
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 110096.2
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 112323.66
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 114781.6
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 119648.1
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 123096.17
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 119311.67
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 113754.44
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 107483.96
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 108734.83
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 105861.79
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 116502.34
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 113765.82
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 114257.46
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 112920.49
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 119297.18
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 120052.26
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 109837.62
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 109214.89
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 116468.63
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 115040.4
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 118048.05
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 115885.19
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 115656.57
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 113282.05
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 115742.17
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 118029.32
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 119347.32
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 111681.23
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 111068.09
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 107248.68
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 107309.8
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 107928.55
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 111877.16
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 119078.98
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 122972.13
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 129185.03
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 131273.64
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 126906.78
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 128919.23
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 130724.73
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 140166.14
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 134657.05
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 131601.17
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 134897.11
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 137105.7
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 135965.77
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 130874.15
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 129705.27
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 127142.35
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 127398.75
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 132883.1
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 137401.99
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 133193.01
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 128949.42
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 125792.71
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 123745.88
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 128651.87
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 127422.67
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 128339.74
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 123497.76
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 122398.34
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 120154.47
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 118522.23
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 120645.92
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 120318.7
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 124227.6
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 131949.77
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 132218.57
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 133869.0
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 135946.76
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 132967.56
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 135482.38
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 141071.1
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 139570.0
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 140746.84
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 135692.73
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 133671.91
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 137176.6
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 134151.48
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 135753.77
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 131299.31
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 135854.81
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 132741.98
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 138702.46
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 132061.05
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 137467.54
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 130826.2
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 134398.58
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 136153.41
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 139800.18
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 141171.28
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 142960.51
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 140573.72
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 143539.16
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 141226.71
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 142731.95
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 130106.58,
+        "average_balance": 120687.76,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 109040.27,
+        "average_balance": 113035.34,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 104426.71,
+        "average_balance": 103950.22,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 105293.07,
+        "average_balance": 103777.18,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 146550.45,
+        "average_balance": 134159.74,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 129970.64,
+        "average_balance": 131192.43,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 111174.18,
+        "average_balance": 119706.56,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 106638.72,
+        "average_balance": 120064.28,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 119648.1,
+        "average_balance": 112665.82,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 122972.13,
+        "average_balance": 114217.91,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 120318.7,
+        "average_balance": 128948.02,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 142731.95,
+        "average_balance": 136322.74,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": []
+  },
+  "epfo": {
+    "epfo_registered": false,
+    "employee_count": 0,
+    "monthly_contributions": []
+  }
+}

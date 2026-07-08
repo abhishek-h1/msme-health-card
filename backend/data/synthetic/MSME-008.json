@@ -1,0 +1,4501 @@
+{
+  "business_id": "MSME-008",
+  "name": "Coastal Traders Pvt Ltd",
+  "sector": "Wholesale Trading",
+  "archetype": "declining_on_paper",
+  "registration_type": "pvt_ltd",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 3278331.56,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 3608557.47,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 3630828.4,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 3624237.99,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 3555335.87,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 3690071.16,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 3704023.7,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 3600213.69,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-20",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 2956302.52,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-06-03",
+        "status": "filed_late",
+        "days_late": 14
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 2435225.47,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-07-10",
+        "status": "filed_late",
+        "days_late": 20
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 1980184.11,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-08-01",
+        "status": "filed_late",
+        "days_late": 12
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 1632768.89,
+        "due_date": "2026-08-20",
+        "filing_date": null,
+        "status": "missed",
+        "days_late": null
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Wholesale Trade",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 6,
+        "inflow_amount": 46387.17,
+        "outflow_amount": 31397.86,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 3,
+        "inflow_amount": 27903.58,
+        "outflow_amount": 16358.16,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 2,
+        "inflow_amount": 16694.83,
+        "outflow_amount": 11022.09,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 8,
+        "inflow_amount": 58548.46,
+        "outflow_amount": 36438.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 7,
+        "inflow_amount": 56313.55,
+        "outflow_amount": 34835.21,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 7,
+        "inflow_amount": 46760.36,
+        "outflow_amount": 25674.68,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 6,
+        "inflow_amount": 44992.22,
+        "outflow_amount": 27886.56,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 7,
+        "inflow_amount": 52514.41,
+        "outflow_amount": 30547.71,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 4,
+        "inflow_amount": 28421.32,
+        "outflow_amount": 15441.02,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 2,
+        "inflow_amount": 15775.83,
+        "outflow_amount": 8375.17,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 6,
+        "inflow_amount": 45330.44,
+        "outflow_amount": 24291.05,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 5,
+        "inflow_amount": 52028.74,
+        "outflow_amount": 27697.4,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 5,
+        "inflow_amount": 46850.2,
+        "outflow_amount": 28502.41,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 7,
+        "inflow_amount": 53856.22,
+        "outflow_amount": 36414.03,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 6,
+        "inflow_amount": 53501.73,
+        "outflow_amount": 29052.35,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 3,
+        "inflow_amount": 29679.2,
+        "outflow_amount": 17125.25,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 2,
+        "inflow_amount": 17667.53,
+        "outflow_amount": 10810.99,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 7,
+        "inflow_amount": 49718.58,
+        "outflow_amount": 34880.83,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 6,
+        "inflow_amount": 48272.55,
+        "outflow_amount": 32767.46,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 7,
+        "inflow_amount": 49783.33,
+        "outflow_amount": 30776.29,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 8,
+        "inflow_amount": 56309.96,
+        "outflow_amount": 33808.31,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 7,
+        "inflow_amount": 46853.87,
+        "outflow_amount": 27040.03,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 3,
+        "inflow_amount": 23950.22,
+        "outflow_amount": 13414.54,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 2,
+        "inflow_amount": 19875.97,
+        "outflow_amount": 12059.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 5,
+        "inflow_amount": 44735.58,
+        "outflow_amount": 28181.3,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 6,
+        "inflow_amount": 44189.13,
+        "outflow_amount": 26378.9,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 7,
+        "inflow_amount": 48315.58,
+        "outflow_amount": 34130.4,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 6,
+        "inflow_amount": 47179.94,
+        "outflow_amount": 28788.22,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 7,
+        "inflow_amount": 54596.75,
+        "outflow_amount": 37969.63,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 4,
+        "inflow_amount": 25858.71,
+        "outflow_amount": 14685.69,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 2,
+        "inflow_amount": 15999.33,
+        "outflow_amount": 10979.76,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 8,
+        "inflow_amount": 56599.03,
+        "outflow_amount": 32214.12,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 7,
+        "inflow_amount": 54499.88,
+        "outflow_amount": 28962.23,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 8,
+        "inflow_amount": 62770.03,
+        "outflow_amount": 44051.5,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 8,
+        "inflow_amount": 59336.63,
+        "outflow_amount": 33517.29,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 8,
+        "inflow_amount": 56877.84,
+        "outflow_amount": 34448.29,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 4,
+        "inflow_amount": 26751.19,
+        "outflow_amount": 18935.01,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 3,
+        "inflow_amount": 20294.87,
+        "outflow_amount": 14105.49,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 7,
+        "inflow_amount": 55603.99,
+        "outflow_amount": 30990.91,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 7,
+        "inflow_amount": 47540.33,
+        "outflow_amount": 31289.96,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 9,
+        "inflow_amount": 59376.63,
+        "outflow_amount": 33441.58,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 7,
+        "inflow_amount": 60847.16,
+        "outflow_amount": 39879.46,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 7,
+        "inflow_amount": 55501.27,
+        "outflow_amount": 37675.59,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 5,
+        "inflow_amount": 31597.28,
+        "outflow_amount": 21363.65,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 2,
+        "inflow_amount": 16694.94,
+        "outflow_amount": 10663.41,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 8,
+        "inflow_amount": 54317.04,
+        "outflow_amount": 32533.55,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 8,
+        "inflow_amount": 52497.0,
+        "outflow_amount": 29882.51,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 9,
+        "inflow_amount": 59266.04,
+        "outflow_amount": 41247.12,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 8,
+        "inflow_amount": 62438.96,
+        "outflow_amount": 43922.54,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 7,
+        "inflow_amount": 48237.68,
+        "outflow_amount": 32834.06,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 3,
+        "inflow_amount": 26310.27,
+        "outflow_amount": 14306.71,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 3,
+        "inflow_amount": 19455.42,
+        "outflow_amount": 10712.31,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 8,
+        "inflow_amount": 54163.73,
+        "outflow_amount": 35988.84,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 7,
+        "inflow_amount": 56431.96,
+        "outflow_amount": 35612.71,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 7,
+        "inflow_amount": 47977.44,
+        "outflow_amount": 30696.22,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 8,
+        "inflow_amount": 63082.97,
+        "outflow_amount": 34597.08,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 8,
+        "inflow_amount": 59263.86,
+        "outflow_amount": 34273.15,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 4,
+        "inflow_amount": 32708.5,
+        "outflow_amount": 20403.68,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 3,
+        "inflow_amount": 20525.77,
+        "outflow_amount": 13271.4,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 7,
+        "inflow_amount": 56234.05,
+        "outflow_amount": 33136.7,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 6,
+        "inflow_amount": 53942.74,
+        "outflow_amount": 30178.01,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 8,
+        "inflow_amount": 54701.26,
+        "outflow_amount": 30914.34,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 8,
+        "inflow_amount": 51530.23,
+        "outflow_amount": 31890.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 6,
+        "inflow_amount": 51352.85,
+        "outflow_amount": 35575.85,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 5,
+        "inflow_amount": 31818.16,
+        "outflow_amount": 20675.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 2,
+        "inflow_amount": 16735.2,
+        "outflow_amount": 8862.74,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 7,
+        "inflow_amount": 49514.89,
+        "outflow_amount": 33794.91,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 7,
+        "inflow_amount": 53972.74,
+        "outflow_amount": 31207.63,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 9,
+        "inflow_amount": 57646.37,
+        "outflow_amount": 34963.8,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 5,
+        "inflow_amount": 51934.07,
+        "outflow_amount": 28548.36,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 7,
+        "inflow_amount": 52020.81,
+        "outflow_amount": 34729.14,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 4,
+        "inflow_amount": 32005.03,
+        "outflow_amount": 19340.34,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 2,
+        "inflow_amount": 21303.64,
+        "outflow_amount": 14414.95,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 9,
+        "inflow_amount": 58612.8,
+        "outflow_amount": 37370.75,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 7,
+        "inflow_amount": 50876.07,
+        "outflow_amount": 30801.93,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 6,
+        "inflow_amount": 48115.99,
+        "outflow_amount": 30704.26,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 8,
+        "inflow_amount": 60061.68,
+        "outflow_amount": 38940.49,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 8,
+        "inflow_amount": 51166.13,
+        "outflow_amount": 28382.18,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 5,
+        "inflow_amount": 29493.39,
+        "outflow_amount": 20525.03,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 2,
+        "inflow_amount": 16379.84,
+        "outflow_amount": 9026.36,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 7,
+        "inflow_amount": 50585.45,
+        "outflow_amount": 27856.0,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 7,
+        "inflow_amount": 47482.59,
+        "outflow_amount": 30201.63,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 7,
+        "inflow_amount": 51034.77,
+        "outflow_amount": 32479.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 8,
+        "inflow_amount": 51968.32,
+        "outflow_amount": 29405.09,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 8,
+        "inflow_amount": 55126.73,
+        "outflow_amount": 37699.22,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 4,
+        "inflow_amount": 27625.63,
+        "outflow_amount": 15291.06,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 3,
+        "inflow_amount": 21106.94,
+        "outflow_amount": 11971.87,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 8,
+        "inflow_amount": 59483.95,
+        "outflow_amount": 35544.31,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 6,
+        "inflow_amount": 45468.5,
+        "outflow_amount": 31922.43,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 6,
+        "inflow_amount": 48941.74,
+        "outflow_amount": 28027.45,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 8,
+        "inflow_amount": 48021.51,
+        "outflow_amount": 31419.52,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 6,
+        "inflow_amount": 46707.03,
+        "outflow_amount": 32945.2,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 4,
+        "inflow_amount": 33521.85,
+        "outflow_amount": 23486.61,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 2,
+        "inflow_amount": 18422.69,
+        "outflow_amount": 12673.9,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 7,
+        "inflow_amount": 51091.18,
+        "outflow_amount": 35945.22,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 9,
+        "inflow_amount": 65759.48,
+        "outflow_amount": 36200.13,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 9,
+        "inflow_amount": 56615.1,
+        "outflow_amount": 34762.1,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 7,
+        "inflow_amount": 51681.47,
+        "outflow_amount": 35225.02,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 7,
+        "inflow_amount": 61335.65,
+        "outflow_amount": 38629.03,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 4,
+        "inflow_amount": 34542.2,
+        "outflow_amount": 23466.55,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 3,
+        "inflow_amount": 21356.43,
+        "outflow_amount": 15110.41,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 8,
+        "inflow_amount": 56020.25,
+        "outflow_amount": 38495.37,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 7,
+        "inflow_amount": 51880.86,
+        "outflow_amount": 31457.13,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 7,
+        "inflow_amount": 55762.75,
+        "outflow_amount": 35753.75,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 10,
+        "inflow_amount": 63686.58,
+        "outflow_amount": 44760.1,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 9,
+        "inflow_amount": 51992.82,
+        "outflow_amount": 36971.55,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 4,
+        "inflow_amount": 34769.33,
+        "outflow_amount": 23570.24,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 3,
+        "inflow_amount": 21095.65,
+        "outflow_amount": 11566.69,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 7,
+        "inflow_amount": 64718.03,
+        "outflow_amount": 34967.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 9,
+        "inflow_amount": 63457.31,
+        "outflow_amount": 43069.16,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 9,
+        "inflow_amount": 64775.21,
+        "outflow_amount": 36983.27,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 8,
+        "inflow_amount": 59884.93,
+        "outflow_amount": 42172.69,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 8,
+        "inflow_amount": 50832.75,
+        "outflow_amount": 31750.58,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 4,
+        "inflow_amount": 32248.89,
+        "outflow_amount": 18787.7,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 3,
+        "inflow_amount": 23301.41,
+        "outflow_amount": 12766.56,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 6,
+        "inflow_amount": 59439.29,
+        "outflow_amount": 36416.4,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 6,
+        "inflow_amount": 53062.38,
+        "outflow_amount": 30066.45,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 8,
+        "inflow_amount": 63616.47,
+        "outflow_amount": 44965.78,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 6,
+        "inflow_amount": 55526.16,
+        "outflow_amount": 34050.06,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 10,
+        "inflow_amount": 65990.56,
+        "outflow_amount": 42046.35,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 5,
+        "inflow_amount": 35090.6,
+        "outflow_amount": 23883.28,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 2,
+        "inflow_amount": 18487.57,
+        "outflow_amount": 12449.86,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 6,
+        "inflow_amount": 46522.37,
+        "outflow_amount": 32141.09,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 6,
+        "inflow_amount": 51954.21,
+        "outflow_amount": 31715.79,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 7,
+        "inflow_amount": 49941.51,
+        "outflow_amount": 31293.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 8,
+        "inflow_amount": 53475.77,
+        "outflow_amount": 33961.63,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 9,
+        "inflow_amount": 57251.17,
+        "outflow_amount": 37513.33,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 4,
+        "inflow_amount": 26333.07,
+        "outflow_amount": 18177.66,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 3,
+        "inflow_amount": 21314.01,
+        "outflow_amount": 11842.61,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 7,
+        "inflow_amount": 58173.46,
+        "outflow_amount": 31816.33,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 6,
+        "inflow_amount": 47691.86,
+        "outflow_amount": 29754.55,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 8,
+        "inflow_amount": 50394.79,
+        "outflow_amount": 29979.15,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 8,
+        "inflow_amount": 57730.52,
+        "outflow_amount": 39935.48,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 7,
+        "inflow_amount": 53824.53,
+        "outflow_amount": 35267.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 5,
+        "inflow_amount": 30529.48,
+        "outflow_amount": 18483.04,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 3,
+        "inflow_amount": 17567.08,
+        "outflow_amount": 10488.01,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 8,
+        "inflow_amount": 54591.33,
+        "outflow_amount": 30087.34,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 9,
+        "inflow_amount": 59852.89,
+        "outflow_amount": 36078.16,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 9,
+        "inflow_amount": 58108.55,
+        "outflow_amount": 36725.66,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 6,
+        "inflow_amount": 56571.0,
+        "outflow_amount": 33395.52,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 6,
+        "inflow_amount": 59810.16,
+        "outflow_amount": 31779.19,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 4,
+        "inflow_amount": 24255.72,
+        "outflow_amount": 16286.89,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 2,
+        "inflow_amount": 18209.2,
+        "outflow_amount": 10410.86,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 6,
+        "inflow_amount": 51199.12,
+        "outflow_amount": 34971.44,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 7,
+        "inflow_amount": 58289.3,
+        "outflow_amount": 32286.09,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 7,
+        "inflow_amount": 52484.75,
+        "outflow_amount": 30488.03,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 7,
+        "inflow_amount": 58495.83,
+        "outflow_amount": 41527.29,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 9,
+        "inflow_amount": 60829.67,
+        "outflow_amount": 35236.86,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 5,
+        "inflow_amount": 31333.91,
+        "outflow_amount": 20465.25,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 2,
+        "inflow_amount": 16256.32,
+        "outflow_amount": 8727.55,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 8,
+        "inflow_amount": 61962.81,
+        "outflow_amount": 38190.99,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 7,
+        "inflow_amount": 48443.95,
+        "outflow_amount": 28148.62,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 7,
+        "inflow_amount": 50784.19,
+        "outflow_amount": 31152.72,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 9,
+        "inflow_amount": 63278.86,
+        "outflow_amount": 41605.88,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 6,
+        "inflow_amount": 50857.97,
+        "outflow_amount": 32789.06,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 4,
+        "inflow_amount": 29075.9,
+        "outflow_amount": 16199.57,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 2,
+        "inflow_amount": 18943.25,
+        "outflow_amount": 12978.97,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 8,
+        "inflow_amount": 64515.59,
+        "outflow_amount": 41800.81,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 7,
+        "inflow_amount": 56618.59,
+        "outflow_amount": 37969.53,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 8,
+        "inflow_amount": 50932.04,
+        "outflow_amount": 31845.51,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 8,
+        "inflow_amount": 61654.03,
+        "outflow_amount": 34551.65,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 8,
+        "inflow_amount": 52529.11,
+        "outflow_amount": 33246.26,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 4,
+        "inflow_amount": 26582.05,
+        "outflow_amount": 18186.57,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 2,
+        "inflow_amount": 17134.23,
+        "outflow_amount": 10358.26,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 8,
+        "inflow_amount": 53528.81,
+        "outflow_amount": 37120.23,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 6,
+        "inflow_amount": 54119.99,
+        "outflow_amount": 35473.84,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 7,
+        "inflow_amount": 58275.49,
+        "outflow_amount": 38784.91,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 8,
+        "inflow_amount": 52708.34,
+        "outflow_amount": 29078.21,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 9,
+        "inflow_amount": 64856.82,
+        "outflow_amount": 44665.53,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 4,
+        "inflow_amount": 30411.0,
+        "outflow_amount": 17063.65,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 3,
+        "inflow_amount": 19277.63,
+        "outflow_amount": 12397.41,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 8,
+        "inflow_amount": 53472.27,
+        "outflow_amount": 35499.91,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 9,
+        "inflow_amount": 60075.67,
+        "outflow_amount": 40310.64,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 7,
+        "inflow_amount": 54491.89,
+        "outflow_amount": 36199.85,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 8,
+        "inflow_amount": 64058.95,
+        "outflow_amount": 40950.06,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 7,
+        "inflow_amount": 57242.25,
+        "outflow_amount": 38440.53,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 3,
+        "inflow_amount": 25483.81,
+        "outflow_amount": 13944.18,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 3,
+        "inflow_amount": 21417.28,
+        "outflow_amount": 11813.81,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 8,
+        "inflow_amount": 51492.34,
+        "outflow_amount": 27470.96,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 9,
+        "inflow_amount": 59185.13,
+        "outflow_amount": 37080.97,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 7,
+        "inflow_amount": 63012.29,
+        "outflow_amount": 42838.06,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 6,
+        "inflow_amount": 50987.4,
+        "outflow_amount": 34332.57,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 10,
+        "inflow_amount": 61831.92,
+        "outflow_amount": 43882.92,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 3,
+        "inflow_amount": 26669.49,
+        "outflow_amount": 17292.8,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 3,
+        "inflow_amount": 20269.81,
+        "outflow_amount": 13723.58,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 8,
+        "inflow_amount": 67027.66,
+        "outflow_amount": 43759.0,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 7,
+        "inflow_amount": 55931.36,
+        "outflow_amount": 29581.0,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 8,
+        "inflow_amount": 67210.66,
+        "outflow_amount": 40571.3,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 8,
+        "inflow_amount": 64245.25,
+        "outflow_amount": 38917.82,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 7,
+        "inflow_amount": 57954.79,
+        "outflow_amount": 36835.36,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 4,
+        "inflow_amount": 28378.38,
+        "outflow_amount": 18466.49,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 3,
+        "inflow_amount": 19351.29,
+        "outflow_amount": 12327.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 9,
+        "inflow_amount": 58199.11,
+        "outflow_amount": 36659.59,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 9,
+        "inflow_amount": 70421.64,
+        "outflow_amount": 49765.27,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 6,
+        "inflow_amount": 55510.18,
+        "outflow_amount": 30576.29,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 6,
+        "inflow_amount": 54005.37,
+        "outflow_amount": 34264.65,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 8,
+        "inflow_amount": 61062.87,
+        "outflow_amount": 37346.28,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 6,
+        "inflow_amount": 37462.3,
+        "outflow_amount": 24336.33,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 4,
+        "inflow_amount": 21622.45,
+        "outflow_amount": 14505.93,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 9,
+        "inflow_amount": 63146.15,
+        "outflow_amount": 34978.79,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 10,
+        "inflow_amount": 62280.68,
+        "outflow_amount": 40105.65,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 10,
+        "inflow_amount": 67360.99,
+        "outflow_amount": 43414.62,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 10,
+        "inflow_amount": 62523.2,
+        "outflow_amount": 38089.4,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 7,
+        "inflow_amount": 53293.46,
+        "outflow_amount": 32410.79,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 3,
+        "inflow_amount": 32024.84,
+        "outflow_amount": 17586.1,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 3,
+        "inflow_amount": 24092.55,
+        "outflow_amount": 13889.93,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 7,
+        "inflow_amount": 67414.0,
+        "outflow_amount": 35859.4,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 11,
+        "inflow_amount": 70409.62,
+        "outflow_amount": 46698.14,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 7,
+        "inflow_amount": 63190.52,
+        "outflow_amount": 35642.79,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 8,
+        "inflow_amount": 54161.76,
+        "outflow_amount": 34774.84,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 7,
+        "inflow_amount": 58474.08,
+        "outflow_amount": 39502.09,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 5,
+        "inflow_amount": 34890.76,
+        "outflow_amount": 23766.89,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 3,
+        "inflow_amount": 19896.07,
+        "outflow_amount": 11257.92,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 8,
+        "inflow_amount": 63951.29,
+        "outflow_amount": 40459.58,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 9,
+        "inflow_amount": 54123.84,
+        "outflow_amount": 38489.95,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 8,
+        "inflow_amount": 58867.09,
+        "outflow_amount": 41431.94,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 6,
+        "inflow_amount": 55100.07,
+        "outflow_amount": 36750.61,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 7,
+        "inflow_amount": 55083.12,
+        "outflow_amount": 29821.09,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 3,
+        "inflow_amount": 28452.33,
+        "outflow_amount": 19658.77,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 3,
+        "inflow_amount": 19691.62,
+        "outflow_amount": 13093.0,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 6,
+        "inflow_amount": 49520.51,
+        "outflow_amount": 34150.2,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 8,
+        "inflow_amount": 57780.98,
+        "outflow_amount": 34840.69,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 7,
+        "inflow_amount": 63126.4,
+        "outflow_amount": 33949.18,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 8,
+        "inflow_amount": 56072.4,
+        "outflow_amount": 39559.25,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 6,
+        "inflow_amount": 48504.48,
+        "outflow_amount": 27555.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 4,
+        "inflow_amount": 29096.54,
+        "outflow_amount": 16215.01,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 3,
+        "inflow_amount": 20619.1,
+        "outflow_amount": 12453.07,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 7,
+        "inflow_amount": 49643.11,
+        "outflow_amount": 32504.31,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 8,
+        "inflow_amount": 55542.12,
+        "outflow_amount": 30188.23,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 8,
+        "inflow_amount": 62333.93,
+        "outflow_amount": 41002.28,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 8,
+        "inflow_amount": 56122.33,
+        "outflow_amount": 36730.45,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 6,
+        "inflow_amount": 49043.33,
+        "outflow_amount": 32387.1,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 5,
+        "inflow_amount": 32909.48,
+        "outflow_amount": 21878.84,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 3,
+        "inflow_amount": 21668.08,
+        "outflow_amount": 13682.57,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 6,
+        "inflow_amount": 51328.44,
+        "outflow_amount": 35921.41,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 6,
+        "inflow_amount": 57669.85,
+        "outflow_amount": 32720.54,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 9,
+        "inflow_amount": 62514.98,
+        "outflow_amount": 40589.18,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 8,
+        "inflow_amount": 58501.12,
+        "outflow_amount": 40604.07,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 9,
+        "inflow_amount": 62389.93,
+        "outflow_amount": 35862.8,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 4,
+        "inflow_amount": 27328.82,
+        "outflow_amount": 16305.43,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 2,
+        "inflow_amount": 17227.53,
+        "outflow_amount": 11152.5,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 6,
+        "inflow_amount": 51715.11,
+        "outflow_amount": 28644.16,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 7,
+        "inflow_amount": 59609.3,
+        "outflow_amount": 39970.96,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 6,
+        "inflow_amount": 40980.91,
+        "outflow_amount": 33654.72,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 5,
+        "inflow_amount": 43743.13,
+        "outflow_amount": 30143.23,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 9,
+        "inflow_amount": 49510.67,
+        "outflow_amount": 38617.83,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 3,
+        "inflow_amount": 23858.03,
+        "outflow_amount": 18716.92,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 2,
+        "inflow_amount": 16960.33,
+        "outflow_amount": 12242.56,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 6,
+        "inflow_amount": 53141.05,
+        "outflow_amount": 42482.31,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 6,
+        "inflow_amount": 40461.41,
+        "outflow_amount": 25714.06,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 6,
+        "inflow_amount": 48090.63,
+        "outflow_amount": 30007.91,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 7,
+        "inflow_amount": 52894.31,
+        "outflow_amount": 42098.18,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 6,
+        "inflow_amount": 51184.73,
+        "outflow_amount": 36088.51,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 2,
+        "inflow_amount": 20993.49,
+        "outflow_amount": 13103.8,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 3,
+        "inflow_amount": 17396.72,
+        "outflow_amount": 13928.77,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 7,
+        "inflow_amount": 44188.77,
+        "outflow_amount": 34019.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 7,
+        "inflow_amount": 46423.66,
+        "outflow_amount": 38243.33,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 6,
+        "inflow_amount": 46844.63,
+        "outflow_amount": 32242.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 7,
+        "inflow_amount": 53411.73,
+        "outflow_amount": 42795.54,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 6,
+        "inflow_amount": 45536.63,
+        "outflow_amount": 35119.18,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 4,
+        "inflow_amount": 23082.83,
+        "outflow_amount": 18650.3,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 2,
+        "inflow_amount": 16666.75,
+        "outflow_amount": 11277.57,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 7,
+        "inflow_amount": 41924.16,
+        "outflow_amount": 31698.94,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 8,
+        "inflow_amount": 49581.01,
+        "outflow_amount": 35405.26,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 6,
+        "inflow_amount": 48472.52,
+        "outflow_amount": 39021.54,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 7,
+        "inflow_amount": 46716.25,
+        "outflow_amount": 37321.7,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 8,
+        "inflow_amount": 52311.22,
+        "outflow_amount": 36214.54,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 3,
+        "inflow_amount": 22681.78,
+        "outflow_amount": 14586.5,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 3,
+        "inflow_amount": 15917.62,
+        "outflow_amount": 12831.71,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 7,
+        "inflow_amount": 40455.89,
+        "outflow_amount": 33492.96,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 7,
+        "inflow_amount": 44363.42,
+        "outflow_amount": 30216.4,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 6,
+        "inflow_amount": 46989.43,
+        "outflow_amount": 32248.09,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 6,
+        "inflow_amount": 44480.35,
+        "outflow_amount": 34272.58,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 7,
+        "inflow_amount": 36807.25,
+        "outflow_amount": 35518.41,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 4,
+        "inflow_amount": 21763.61,
+        "outflow_amount": 16289.58,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 2,
+        "inflow_amount": 13154.59,
+        "outflow_amount": 10283.3,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 6,
+        "inflow_amount": 37170.28,
+        "outflow_amount": 28517.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 7,
+        "inflow_amount": 43277.01,
+        "outflow_amount": 31243.05,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 6,
+        "inflow_amount": 37788.92,
+        "outflow_amount": 33987.59,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 5,
+        "inflow_amount": 35634.56,
+        "outflow_amount": 28601.97,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 8,
+        "inflow_amount": 43586.15,
+        "outflow_amount": 41611.04,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 4,
+        "inflow_amount": 21951.4,
+        "outflow_amount": 17356.54,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 2,
+        "inflow_amount": 14283.42,
+        "outflow_amount": 12021.1,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 5,
+        "inflow_amount": 38592.89,
+        "outflow_amount": 29654.71,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 5,
+        "inflow_amount": 35099.04,
+        "outflow_amount": 31337.2,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 5,
+        "inflow_amount": 33847.02,
+        "outflow_amount": 31971.56,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 6,
+        "inflow_amount": 38520.69,
+        "outflow_amount": 36837.84,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 6,
+        "inflow_amount": 36859.71,
+        "outflow_amount": 27808.17,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 3,
+        "inflow_amount": 17201.5,
+        "outflow_amount": 14674.01,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 2,
+        "inflow_amount": 14282.58,
+        "outflow_amount": 13644.94,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 5,
+        "inflow_amount": 38917.87,
+        "outflow_amount": 33101.12,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 6,
+        "inflow_amount": 40674.54,
+        "outflow_amount": 31544.97,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 5,
+        "inflow_amount": 35832.95,
+        "outflow_amount": 31805.91,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 5,
+        "inflow_amount": 33746.8,
+        "outflow_amount": 26846.28,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 7,
+        "inflow_amount": 40118.68,
+        "outflow_amount": 34918.09,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 4,
+        "inflow_amount": 19918.96,
+        "outflow_amount": 18096.11,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 3,
+        "inflow_amount": 15006.29,
+        "outflow_amount": 13769.38,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 6,
+        "inflow_amount": 41810.72,
+        "outflow_amount": 40239.07,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 5,
+        "inflow_amount": 32705.38,
+        "outflow_amount": 30159.04,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 8,
+        "inflow_amount": 43893.7,
+        "outflow_amount": 36658.14,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 5,
+        "inflow_amount": 38634.71,
+        "outflow_amount": 34963.27,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 7,
+        "inflow_amount": 43663.87,
+        "outflow_amount": 32044.47,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 3,
+        "inflow_amount": 21629.75,
+        "outflow_amount": 16610.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 2,
+        "inflow_amount": 13832.78,
+        "outflow_amount": 13297.19,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 7,
+        "inflow_amount": 34915.82,
+        "outflow_amount": 37251.24,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 5,
+        "inflow_amount": 34835.37,
+        "outflow_amount": 29740.87,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 6,
+        "inflow_amount": 33033.92,
+        "outflow_amount": 34307.63,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 7,
+        "inflow_amount": 35919.52,
+        "outflow_amount": 31449.14,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 5,
+        "inflow_amount": 26861.72,
+        "outflow_amount": 28758.31,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 3,
+        "inflow_amount": 17293.93,
+        "outflow_amount": 17295.55,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 1,
+        "inflow_amount": 9491.81,
+        "outflow_amount": 9385.61,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 5,
+        "inflow_amount": 30260.88,
+        "outflow_amount": 29053.7,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 5,
+        "inflow_amount": 33945.88,
+        "outflow_amount": 30707.46,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 5,
+        "inflow_amount": 35848.35,
+        "outflow_amount": 32193.92,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 5,
+        "inflow_amount": 35256.46,
+        "outflow_amount": 29326.45,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 4,
+        "inflow_amount": 27858.79,
+        "outflow_amount": 26718.13,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 3,
+        "inflow_amount": 17082.59,
+        "outflow_amount": 16346.5,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 2,
+        "inflow_amount": 11269.33,
+        "outflow_amount": 11053.72,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 7,
+        "inflow_amount": 35423.75,
+        "outflow_amount": 38835.47,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 6,
+        "inflow_amount": 35225.57,
+        "outflow_amount": 30663.66,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 4,
+        "inflow_amount": 30919.29,
+        "outflow_amount": 25725.71,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 4,
+        "inflow_amount": 30112.79,
+        "outflow_amount": 27372.51,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 6,
+        "inflow_amount": 34503.14,
+        "outflow_amount": 35248.18,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 2,
+        "inflow_amount": 15124.06,
+        "outflow_amount": 12466.7,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 2,
+        "inflow_amount": 12269.39,
+        "outflow_amount": 10800.9,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 6,
+        "inflow_amount": 34780.1,
+        "outflow_amount": 34438.95,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 5,
+        "inflow_amount": 27961.4,
+        "outflow_amount": 29303.32,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 4,
+        "inflow_amount": 27264.39,
+        "outflow_amount": 29590.88,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 6,
+        "inflow_amount": 31519.67,
+        "outflow_amount": 29982.27,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 6,
+        "inflow_amount": 31985.31,
+        "outflow_amount": 30370.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 4,
+        "inflow_amount": 18461.11,
+        "outflow_amount": 20059.59,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 2,
+        "inflow_amount": 10721.88,
+        "outflow_amount": 9885.67,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 5,
+        "inflow_amount": 33704.51,
+        "outflow_amount": 35071.64,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 5,
+        "inflow_amount": 29132.67,
+        "outflow_amount": 28217.67,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 4,
+        "inflow_amount": 26426.57,
+        "outflow_amount": 27393.89,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 3,
+        "inflow_amount": 23797.59,
+        "outflow_amount": 28171.87,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 5,
+        "inflow_amount": 24006.94,
+        "outflow_amount": 27844.85,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 2,
+        "inflow_amount": 12094.72,
+        "outflow_amount": 11542.96,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 1,
+        "inflow_amount": 7796.52,
+        "outflow_amount": 7990.34,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 5,
+        "inflow_amount": 23482.29,
+        "outflow_amount": 26482.74,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 4,
+        "inflow_amount": 27642.14,
+        "outflow_amount": 26389.6,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 5,
+        "inflow_amount": 27698.45,
+        "outflow_amount": 29522.82,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 5,
+        "inflow_amount": 26749.8,
+        "outflow_amount": 28493.94,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 3,
+        "inflow_amount": 25563.87,
+        "outflow_amount": 23677.57,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 2,
+        "inflow_amount": 14164.86,
+        "outflow_amount": 13648.21,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 1,
+        "inflow_amount": 7253.33,
+        "outflow_amount": 7083.65,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 4,
+        "inflow_amount": 23537.64,
+        "outflow_amount": 26754.96,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 4,
+        "inflow_amount": 23165.8,
+        "outflow_amount": 22440.45,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 4,
+        "inflow_amount": 21905.48,
+        "outflow_amount": 22443.62,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 3,
+        "inflow_amount": 21257.38,
+        "outflow_amount": 21582.83,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 5,
+        "inflow_amount": 27506.08,
+        "outflow_amount": 27926.84,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 2,
+        "inflow_amount": 13940.7,
+        "outflow_amount": 14188.68,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 2,
+        "inflow_amount": 9441.48,
+        "outflow_amount": 9580.85,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 4,
+        "inflow_amount": 23603.38,
+        "outflow_amount": 22569.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 3,
+        "inflow_amount": 21547.8,
+        "outflow_amount": 19705.16,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 4,
+        "inflow_amount": 22419.5,
+        "outflow_amount": 22244.36,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 5,
+        "inflow_amount": 27168.58,
+        "outflow_amount": 32499.04,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 4,
+        "inflow_amount": 23023.91,
+        "outflow_amount": 23862.98,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 2,
+        "inflow_amount": 12344.92,
+        "outflow_amount": 14171.33,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 1,
+        "inflow_amount": 7985.37,
+        "outflow_amount": 8671.73,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 4,
+        "inflow_amount": 24544.92,
+        "outflow_amount": 26073.43,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 4,
+        "inflow_amount": 25790.43,
+        "outflow_amount": 23808.24,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 5,
+        "inflow_amount": 27937.81,
+        "outflow_amount": 29843.34,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 4,
+        "inflow_amount": 22668.66,
+        "outflow_amount": 24506.79,
+        "merchant_category": "Wholesale Trade"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 5,
+        "inflow_amount": 26413.73,
+        "outflow_amount": 31009.96,
+        "merchant_category": "Wholesale Trade"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 163,
+        "inflow_amount": 1268865.29,
+        "outflow_amount": 777731.35
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 194,
+        "inflow_amount": 1431144.5,
+        "outflow_amount": 885135.08
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 193,
+        "inflow_amount": 1392794.31,
+        "outflow_amount": 865432.21
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 191,
+        "inflow_amount": 1439965.85,
+        "outflow_amount": 922449.26
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 196,
+        "inflow_amount": 1444182.53,
+        "outflow_amount": 888327.77
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 199,
+        "inflow_amount": 1474720.39,
+        "outflow_amount": 946173.11
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 193,
+        "inflow_amount": 1451915.73,
+        "outflow_amount": 898356.05
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 191,
+        "inflow_amount": 1455433.3,
+        "outflow_amount": 919830.41
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 168,
+        "inflow_amount": 1189264.06,
+        "outflow_amount": 886457.4
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 154,
+        "inflow_amount": 980207.62,
+        "outflow_amount": 835412.1
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 137,
+        "inflow_amount": 822983.4,
+        "outflow_amount": 791622.08
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 109,
+        "inflow_amount": 652880.65,
+        "outflow_amount": 682126.76
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 991450.41
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 1034308.82
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 1059933.3
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 1041461.12
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 1062624.75
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 1032263.35
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 1075629.48
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 1096832.44
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 1120097.96
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 1100112.57
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 1122600.38
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 1073798.49
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 1116831.46
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 1110237.96
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 1138717.2
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 1183966.0
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 1247962.47
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 1244407.7
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 1247303.61
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 1331056.11
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 1358191.62
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 1390750.58
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 1410747.63
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 1425643.43
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 1377534.83
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 1330287.93
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 1321708.97
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 1311619.97
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 1274217.7
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 1298644.89
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 1299584.99
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 1321512.99
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 1304511.24
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 1364739.83
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 1309553.01
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 1259288.95
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 1229094.32
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 1281083.6
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 1241328.46
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 1223790.83
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 1179483.11
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 1244013.97
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 1224587.75
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 1248116.94
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 1231537.51
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 1251790.19
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 1262985.0
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 1289883.49
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 1331764.39
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 1285833.55
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 1275198.21
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 1326285.23
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 1335141.78
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 1344659.13
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 1367451.93
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 1389110.75
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 1386588.94
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 1355912.26
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 1339858.8
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 1324996.68
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 1331518.34
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 1348813.96
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 1313670.58
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 1265921.81
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 1296038.29
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 1249261.62
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 1270979.09
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 1225167.88
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 1238084.72
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 1232407.09
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 1217099.25
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 1212711.28
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 1214263.83
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 1209465.0
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 1217601.62
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 1221958.24
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 1255858.77
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 1304711.31
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 1280156.58
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 1198397.19
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 1207909.63
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 1173554.65
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 1151703.65
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 1163981.59
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 1187313.75
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 1252975.18
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 1227026.06
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 1221397.24
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 1205105.37
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 1263167.8
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 1267281.32
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 1259533.62
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 1323269.11
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 1321602.28
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 1320188.21
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 1363499.32
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 1424919.34
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 1418847.67
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 1382108.78
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 1359533.87
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 1344963.1
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 1329274.49
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 1328598.64
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 1290645.31
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 1196774.23
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 1189322.04
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 1251863.41
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 1261376.01
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 1314217.24
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 1339469.95
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 1399095.82
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 1379720.03
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 1293504.5
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 1304780.54
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 1332736.56
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 1282854.37
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 1243167.03
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 1285605.91
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 1261806.53
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 1204650.27
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 1192785.27
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 1229232.24
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 1262583.33
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 1298621.49
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 1292801.76
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 1248428.16
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 1192131.98
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 1142072.55
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 1140094.8
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 1134086.16
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 1122182.14
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 1116823.37
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 1151379.47
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 1152596.43
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 1162280.16
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 1211813.37
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 1228677.83
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 1187708.36
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 1243804.67
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 1237195.3
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 1250111.6
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 1183193.79
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 1235033.7
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 1290766.28
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 1291675.64
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 1277700.03
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 1320868.57
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 1360045.96
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 1329888.44
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 1297762.95
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 1223708.11
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 1291023.97
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 1317692.21
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 1326354.17
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 1350240.91
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 1317996.71
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 1311037.49
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 1288530.89
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 1277655.3
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 1285826.85
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 1284891.86
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 1253943.46
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 1214543.95
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 1158804.61
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 1271578.39
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 1269578.99
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 1284205.75
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 1263700.69
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 1246492.81
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 1309014.29
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 1299571.28
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 1260296.87
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 1253300.68
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 1329330.58
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 1308085.52
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 1299228.98
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 1344169.1
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 1310234.97
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 1357014.11
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 1365428.78
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 1389715.23
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 1392090.54
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 1384558.77
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 1395940.13
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 1353652.04
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 1400127.27
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 1351581.24
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 1300405.06
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 1328601.5
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 1275644.47
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 1269572.47
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 1248504.75
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 1258727.71
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 1242418.73
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 1284065.74
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 1275913.14
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 1309183.95
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 1300750.04
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 1338125.76
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 1349226.14
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 1295674.19
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 1234275.14
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 1232283.32
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 1218388.17
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 1278873.56
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 1270542.69
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 1342280.42
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 1417489.48
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 1387025.43
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 1339164.04
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 1310969.3
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 1285258.91
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 1240842.98
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 1247055.82
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 1292927.91
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 1334674.97
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 1296775.41
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 1265405.24
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 1268059.16
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 1286483.32
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 1274596.54
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 1270642.16
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 1340133.35
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 1293931.1
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 1263260.8
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 1195914.15
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 1207658.5
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 1206409.29
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 1225842.34
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 1201053.79
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 1155853.19
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 1214939.59
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 1210601.94
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 1286022.79
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 1277366.87
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 1277839.36
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 1253435.48
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 1205762.95
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 1184832.55
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 1212611.8
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 1289257.25
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 1248968.77
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 1248570.36
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 1173392.48
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 1076718.17
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 1041438.08
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 1044076.76
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 992264.67
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 994723.42
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 1000563.11
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 968040.3
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 969280.34
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 1029379.44
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 990488.26
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 989336.63
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 988063.87
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 984845.51
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 973527.61
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 918173.92
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 968400.46
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 932484.05
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 929640.31
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 903005.25
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 881605.01
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 902048.2
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 895482.15
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 928334.5
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 956427.87
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 995172.52
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 1045005.48
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 1034314.57
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 1020758.82
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 1050794.02
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 1003663.15
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 962801.57
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 974291.39
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 929878.0
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 907784.56
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 895600.69
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 885874.93
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 837554.13
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 825231.58
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 772009.47
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 757367.33
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 767333.74
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 762614.55
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 700205.79
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 706957.81
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 678046.82
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 705916.5
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 739928.34
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 750454.42
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 710813.96
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 708527.46
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 721093.87
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 712491.49
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 661048.18
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 658726.51
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 622163.1
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 595956.69
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 588810.83
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 558882.9
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 567363.97
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 608971.02
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 637894.97
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 630959.52
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 603970.89
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 549680.29
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 578961.01
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 584812.76
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 577694.74
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 564129.46
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 528403.91
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 461622.07
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 428077.83
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 412780.5
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 397375.82
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 383281.72
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 388385.51
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 380546.9
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 320149.27
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 342755.71
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 346013.0
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 336388.43
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 296806.59
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 262926.81
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 281819.2
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 251110.28
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 288900.45
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 290406.67
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 245390.38
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 218309.18
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 266320.5
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 268761.85
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 241166.93
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 209706.06
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 188155.25
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 193351.56
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 184454.74
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 188634.69
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 192176.51
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 167925.3
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 143743.8
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 149095.48
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 100926.55
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 134061.97
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 107173.15
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 120012.8
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 112923.55
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 90419.91
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 108056.66
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 137237.08
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 142460.02
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 106314.77
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 99449.9
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 100774.35
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 105675.55
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 131219.98
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 140540.56
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 134984.49
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 143012.03
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 153076.6
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 89077.21
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 93863.69
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 107486.94
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 1299584.99,
+        "average_balance": 1200984.78,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 1331518.34,
+        "average_balance": 1295387.37,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 1259533.62,
+        "average_balance": 1237210.26,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 1229232.24,
+        "average_balance": 1305680.4,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 1317692.21,
+        "average_balance": 1232088.79,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 1395940.13,
+        "average_balance": 1303334.28,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 1285258.91,
+        "average_balance": 1303525.88,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 1248570.36,
+        "average_balance": 1250894.51,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 1050794.02,
+        "average_balance": 985926.19,
+        "bounced_payments_count": 4
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 608971.02,
+        "average_balance": 750914.99,
+        "bounced_payments_count": 3
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 268761.85,
+        "average_balance": 404154.54,
+        "bounced_payments_count": 8
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 107486.94,
+        "average_balance": 139263.16,
+        "bounced_payments_count": 7
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2026-04-02",
+        "amount": 222331.04,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-04-16",
+        "amount": 146654.29,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-04-19",
+        "amount": 106339.19,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-04-28",
+        "amount": 155394.44,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-05-08",
+        "amount": 150597.07,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-05-14",
+        "amount": 93766.22,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-05-20",
+        "amount": 67783.02,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-06-04",
+        "amount": 97866.96,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-12",
+        "amount": 57428.62,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-06-13",
+        "amount": 72757.86,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-06-17",
+        "amount": 150868.8,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-20",
+        "amount": 107139.8,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-06-21",
+        "amount": 141118.78,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-24",
+        "amount": 64196.33,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-06-27",
+        "amount": 94269.16,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-07-03",
+        "amount": 70088.87,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-07-05",
+        "amount": 92571.68,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-07-11",
+        "amount": 54638.85,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-07-16",
+        "amount": 93187.62,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-07-25",
+        "amount": 46046.65,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-07-29",
+        "amount": 122516.32,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-07-31",
+        "amount": 68276.9,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 20,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 22,
+        "expected_contribution": 95718.92,
+        "contribution_paid": 95718.92,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 22,
+        "expected_contribution": 96305.31,
+        "contribution_paid": 96305.31,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 22,
+        "expected_contribution": 92780.7,
+        "contribution_paid": 92780.7,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 22,
+        "expected_contribution": 93052.53,
+        "contribution_paid": 93052.53,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 22,
+        "expected_contribution": 96021.94,
+        "contribution_paid": 96021.94,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 22,
+        "expected_contribution": 94761.44,
+        "contribution_paid": 94761.44,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 22,
+        "expected_contribution": 97829.19,
+        "contribution_paid": 97829.19,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 22,
+        "expected_contribution": 97182.97,
+        "contribution_paid": 97182.97,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 22,
+        "expected_contribution": 97791.23,
+        "contribution_paid": 0.0,
+        "status": "missed"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 21,
+        "expected_contribution": 92748.13,
+        "contribution_paid": 0.0,
+        "status": "missed"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 20,
+        "expected_contribution": 87731.59,
+        "contribution_paid": 87731.59,
+        "status": "delayed"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 20,
+        "expected_contribution": 88424.24,
+        "contribution_paid": 88424.24,
+        "status": "delayed"
+      }
+    ]
+  }
+}

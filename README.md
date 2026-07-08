@@ -35,6 +35,26 @@ for a liveness check, or `http://localhost:8000/docs` for the interactive OpenAP
 Storage is SQLite (`backend/msme_health.db`), managed via SQLAlchemy. Tables are created
 automatically on startup.
 
+## Synthetic demo data
+
+`backend/data/generator.py` generates 12 months of GST, UPI, Account Aggregator (bank),
+and EPFO data for 18 fictional MSMEs, deliberately varied (thin-file-but-healthy,
+looks-good-on-paper-but-declining, and a stable/growing/seasonal mix) to give the scoring
+engine useful contrast to demo against.
+
+```bash
+cd backend
+source venv/bin/activate
+python data/generator.py
+```
+
+This writes one JSON file per business plus `businesses_index.json` to
+`backend/data/synthetic/`. The dataset is deterministic (fixed seed), so re-running it
+regenerates the same data. Once generated, it's served via:
+
+- `GET /api/businesses` — list of business IDs, names, sectors, and archetypes
+- `GET /api/businesses/{business_id}/raw` — the raw synthetic data for one business
+
 ## Running the frontend
 
 ```bash

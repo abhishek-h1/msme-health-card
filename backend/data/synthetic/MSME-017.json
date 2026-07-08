@@ -1,0 +1,4406 @@
+{
+  "business_id": "MSME-017",
+  "name": "Vraj Stationery Wholesalers",
+  "sector": "Wholesale Stationery",
+  "archetype": "stable",
+  "registration_type": "partnership",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 1177450.49,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 1424639.85,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 1295180.16,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 1270888.96,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 1252872.42,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 1404074.17,
+        "due_date": "2026-02-20",
+        "filing_date": null,
+        "status": "missed",
+        "days_late": null
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 1336871.33,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 1235334.58,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 1262836.56,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 1373112.85,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-06-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 1281387.11,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 1401247.37,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Stationery & Office Supplies",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 8,
+        "inflow_amount": 23529.38,
+        "outflow_amount": 13277.99,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 3,
+        "inflow_amount": 9509.77,
+        "outflow_amount": 5069.06,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 2,
+        "inflow_amount": 7918.71,
+        "outflow_amount": 4520.94,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 5,
+        "inflow_amount": 18712.81,
+        "outflow_amount": 11234.56,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 7,
+        "inflow_amount": 23028.03,
+        "outflow_amount": 15307.15,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 6,
+        "inflow_amount": 20661.75,
+        "outflow_amount": 13232.72,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 7,
+        "inflow_amount": 23706.04,
+        "outflow_amount": 15573.71,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 8,
+        "inflow_amount": 20706.81,
+        "outflow_amount": 12332.0,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 3,
+        "inflow_amount": 11607.78,
+        "outflow_amount": 6510.49,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 3,
+        "inflow_amount": 7683.58,
+        "outflow_amount": 4128.25,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 8,
+        "inflow_amount": 22144.26,
+        "outflow_amount": 14342.89,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 6,
+        "inflow_amount": 22497.39,
+        "outflow_amount": 14422.25,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 9,
+        "inflow_amount": 24179.62,
+        "outflow_amount": 13121.17,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 6,
+        "inflow_amount": 19715.38,
+        "outflow_amount": 12850.25,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 6,
+        "inflow_amount": 24170.11,
+        "outflow_amount": 15160.37,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 5,
+        "inflow_amount": 12548.96,
+        "outflow_amount": 7420.96,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 2,
+        "inflow_amount": 6586.82,
+        "outflow_amount": 3953.05,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 7,
+        "inflow_amount": 20048.2,
+        "outflow_amount": 12887.77,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 7,
+        "inflow_amount": 21223.25,
+        "outflow_amount": 14044.78,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 8,
+        "inflow_amount": 21728.59,
+        "outflow_amount": 14364.31,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 8,
+        "inflow_amount": 21641.92,
+        "outflow_amount": 13909.07,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 9,
+        "inflow_amount": 22564.46,
+        "outflow_amount": 14842.19,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 4,
+        "inflow_amount": 12503.73,
+        "outflow_amount": 7670.43,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 2,
+        "inflow_amount": 6857.33,
+        "outflow_amount": 3642.77,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 6,
+        "inflow_amount": 20154.89,
+        "outflow_amount": 10823.53,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 5,
+        "inflow_amount": 19226.85,
+        "outflow_amount": 11693.82,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 8,
+        "inflow_amount": 21375.74,
+        "outflow_amount": 14605.36,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 6,
+        "inflow_amount": 18590.9,
+        "outflow_amount": 12433.06,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 6,
+        "inflow_amount": 19611.05,
+        "outflow_amount": 13410.43,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 4,
+        "inflow_amount": 10136.82,
+        "outflow_amount": 5275.19,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 3,
+        "inflow_amount": 7225.65,
+        "outflow_amount": 4545.07,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 9,
+        "inflow_amount": 24864.24,
+        "outflow_amount": 16910.47,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 10,
+        "inflow_amount": 24328.32,
+        "outflow_amount": 16614.68,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 10,
+        "inflow_amount": 27522.22,
+        "outflow_amount": 15570.71,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 7,
+        "inflow_amount": 23964.88,
+        "outflow_amount": 12274.39,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 9,
+        "inflow_amount": 27214.16,
+        "outflow_amount": 15686.28,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 4,
+        "inflow_amount": 14124.12,
+        "outflow_amount": 7653.36,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 2,
+        "inflow_amount": 7676.01,
+        "outflow_amount": 4855.83,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 9,
+        "inflow_amount": 27479.66,
+        "outflow_amount": 18788.18,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 9,
+        "inflow_amount": 27606.63,
+        "outflow_amount": 17084.5,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 9,
+        "inflow_amount": 25623.79,
+        "outflow_amount": 14132.17,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 10,
+        "inflow_amount": 27407.92,
+        "outflow_amount": 17985.62,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 8,
+        "inflow_amount": 23597.92,
+        "outflow_amount": 14220.25,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 4,
+        "inflow_amount": 11470.26,
+        "outflow_amount": 7223.1,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 3,
+        "inflow_amount": 9257.76,
+        "outflow_amount": 5254.96,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 8,
+        "inflow_amount": 26240.77,
+        "outflow_amount": 15186.6,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 8,
+        "inflow_amount": 22139.19,
+        "outflow_amount": 14456.9,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 9,
+        "inflow_amount": 28426.51,
+        "outflow_amount": 14518.23,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 8,
+        "inflow_amount": 22447.72,
+        "outflow_amount": 14308.04,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 7,
+        "inflow_amount": 21508.47,
+        "outflow_amount": 14366.93,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 4,
+        "inflow_amount": 13072.94,
+        "outflow_amount": 7591.12,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 3,
+        "inflow_amount": 9746.49,
+        "outflow_amount": 5463.23,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 9,
+        "inflow_amount": 28832.04,
+        "outflow_amount": 15171.34,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 10,
+        "inflow_amount": 26628.36,
+        "outflow_amount": 14934.63,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 6,
+        "inflow_amount": 21847.39,
+        "outflow_amount": 14640.46,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 8,
+        "inflow_amount": 26772.61,
+        "outflow_amount": 15385.13,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 6,
+        "inflow_amount": 22909.54,
+        "outflow_amount": 13116.4,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 4,
+        "inflow_amount": 13907.26,
+        "outflow_amount": 9123.08,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 3,
+        "inflow_amount": 9497.6,
+        "outflow_amount": 6408.27,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 7,
+        "inflow_amount": 28437.45,
+        "outflow_amount": 17348.63,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 8,
+        "inflow_amount": 26793.79,
+        "outflow_amount": 16776.76,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 7,
+        "inflow_amount": 20763.49,
+        "outflow_amount": 12125.98,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 8,
+        "inflow_amount": 24228.66,
+        "outflow_amount": 16554.04,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 7,
+        "inflow_amount": 22368.57,
+        "outflow_amount": 14390.25,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 3,
+        "inflow_amount": 11023.95,
+        "outflow_amount": 5882.42,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 2,
+        "inflow_amount": 8053.65,
+        "outflow_amount": 4885.63,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 6,
+        "inflow_amount": 19960.31,
+        "outflow_amount": 11812.47,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 6,
+        "inflow_amount": 20662.06,
+        "outflow_amount": 11461.88,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 7,
+        "inflow_amount": 21087.48,
+        "outflow_amount": 12783.26,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 7,
+        "inflow_amount": 22102.49,
+        "outflow_amount": 13177.7,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 5,
+        "inflow_amount": 18742.57,
+        "outflow_amount": 9673.64,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 3,
+        "inflow_amount": 11234.87,
+        "outflow_amount": 6802.96,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 2,
+        "inflow_amount": 6460.2,
+        "outflow_amount": 4233.8,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 8,
+        "inflow_amount": 21904.32,
+        "outflow_amount": 14739.44,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 5,
+        "inflow_amount": 19790.63,
+        "outflow_amount": 12195.39,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 8,
+        "inflow_amount": 21424.42,
+        "outflow_amount": 14712.5,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 5,
+        "inflow_amount": 18929.8,
+        "outflow_amount": 9791.37,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 7,
+        "inflow_amount": 22669.77,
+        "outflow_amount": 11692.14,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 4,
+        "inflow_amount": 10684.5,
+        "outflow_amount": 7278.2,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 2,
+        "inflow_amount": 7392.49,
+        "outflow_amount": 4275.1,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 6,
+        "inflow_amount": 20318.65,
+        "outflow_amount": 10957.02,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 8,
+        "inflow_amount": 23086.88,
+        "outflow_amount": 15507.76,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 8,
+        "inflow_amount": 21660.21,
+        "outflow_amount": 12858.8,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 9,
+        "inflow_amount": 23449.71,
+        "outflow_amount": 15760.25,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 9,
+        "inflow_amount": 24391.33,
+        "outflow_amount": 15442.1,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 3,
+        "inflow_amount": 9764.43,
+        "outflow_amount": 5576.76,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 2,
+        "inflow_amount": 7253.27,
+        "outflow_amount": 4353.84,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 9,
+        "inflow_amount": 22120.24,
+        "outflow_amount": 14299.0,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 8,
+        "inflow_amount": 22180.98,
+        "outflow_amount": 13158.68,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 7,
+        "inflow_amount": 18950.62,
+        "outflow_amount": 12944.69,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 7,
+        "inflow_amount": 21243.12,
+        "outflow_amount": 11910.3,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 6,
+        "inflow_amount": 21444.03,
+        "outflow_amount": 13048.51,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 5,
+        "inflow_amount": 12982.82,
+        "outflow_amount": 7849.23,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 2,
+        "inflow_amount": 8156.38,
+        "outflow_amount": 4803.0,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 9,
+        "inflow_amount": 24899.03,
+        "outflow_amount": 16814.55,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 8,
+        "inflow_amount": 23210.8,
+        "outflow_amount": 14208.02,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 6,
+        "inflow_amount": 20221.12,
+        "outflow_amount": 12405.04,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 7,
+        "inflow_amount": 23031.22,
+        "outflow_amount": 11822.56,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 10,
+        "inflow_amount": 26482.65,
+        "outflow_amount": 17374.59,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 4,
+        "inflow_amount": 12683.74,
+        "outflow_amount": 6611.91,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 2,
+        "inflow_amount": 7828.08,
+        "outflow_amount": 4183.46,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 9,
+        "inflow_amount": 23645.66,
+        "outflow_amount": 15845.14,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 8,
+        "inflow_amount": 23360.63,
+        "outflow_amount": 12151.61,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 7,
+        "inflow_amount": 21406.72,
+        "outflow_amount": 11441.18,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 6,
+        "inflow_amount": 22268.42,
+        "outflow_amount": 14950.26,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 8,
+        "inflow_amount": 25701.37,
+        "outflow_amount": 17146.92,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 4,
+        "inflow_amount": 12702.0,
+        "outflow_amount": 7433.01,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 2,
+        "inflow_amount": 7112.09,
+        "outflow_amount": 3925.16,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 7,
+        "inflow_amount": 20620.15,
+        "outflow_amount": 11789.21,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 9,
+        "inflow_amount": 25583.24,
+        "outflow_amount": 16537.29,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 6,
+        "inflow_amount": 21420.25,
+        "outflow_amount": 14465.62,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 7,
+        "inflow_amount": 21272.78,
+        "outflow_amount": 11579.58,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 6,
+        "inflow_amount": 21086.92,
+        "outflow_amount": 10867.85,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 5,
+        "inflow_amount": 12425.55,
+        "outflow_amount": 6682.34,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 2,
+        "inflow_amount": 6916.62,
+        "outflow_amount": 4411.72,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 9,
+        "inflow_amount": 21949.07,
+        "outflow_amount": 14725.52,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 8,
+        "inflow_amount": 20179.23,
+        "outflow_amount": 12960.1,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 8,
+        "inflow_amount": 26329.82,
+        "outflow_amount": 16295.36,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 7,
+        "inflow_amount": 25204.36,
+        "outflow_amount": 15392.68,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 6,
+        "inflow_amount": 20760.41,
+        "outflow_amount": 13376.62,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 4,
+        "inflow_amount": 11986.66,
+        "outflow_amount": 7672.53,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 3,
+        "inflow_amount": 8443.02,
+        "outflow_amount": 4697.95,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 5,
+        "inflow_amount": 18699.95,
+        "outflow_amount": 10926.8,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 7,
+        "inflow_amount": 21340.43,
+        "outflow_amount": 13219.85,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 8,
+        "inflow_amount": 21015.72,
+        "outflow_amount": 14455.52,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 7,
+        "inflow_amount": 20705.96,
+        "outflow_amount": 10966.02,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 5,
+        "inflow_amount": 19811.48,
+        "outflow_amount": 12361.66,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 3,
+        "inflow_amount": 10148.6,
+        "outflow_amount": 5628.07,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 2,
+        "inflow_amount": 7486.18,
+        "outflow_amount": 3897.05,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 7,
+        "inflow_amount": 20496.79,
+        "outflow_amount": 11774.71,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 6,
+        "inflow_amount": 18424.21,
+        "outflow_amount": 11727.7,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 7,
+        "inflow_amount": 19834.23,
+        "outflow_amount": 13012.12,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 7,
+        "inflow_amount": 20243.28,
+        "outflow_amount": 12830.52,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 5,
+        "inflow_amount": 20100.29,
+        "outflow_amount": 13517.31,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 3,
+        "inflow_amount": 11390.58,
+        "outflow_amount": 7136.35,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 2,
+        "inflow_amount": 6238.87,
+        "outflow_amount": 4152.71,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 6,
+        "inflow_amount": 18694.94,
+        "outflow_amount": 11697.29,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 7,
+        "inflow_amount": 17985.27,
+        "outflow_amount": 11002.3,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 6,
+        "inflow_amount": 19053.88,
+        "outflow_amount": 11575.71,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 8,
+        "inflow_amount": 23299.62,
+        "outflow_amount": 13768.05,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 8,
+        "inflow_amount": 21098.14,
+        "outflow_amount": 13583.38,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 4,
+        "inflow_amount": 12384.92,
+        "outflow_amount": 8414.97,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 2,
+        "inflow_amount": 8031.33,
+        "outflow_amount": 4670.47,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 6,
+        "inflow_amount": 20723.01,
+        "outflow_amount": 13854.96,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 6,
+        "inflow_amount": 18008.55,
+        "outflow_amount": 11064.72,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 7,
+        "inflow_amount": 17814.22,
+        "outflow_amount": 11401.14,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 7,
+        "inflow_amount": 20531.23,
+        "outflow_amount": 10981.08,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 8,
+        "inflow_amount": 22976.1,
+        "outflow_amount": 13923.27,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 3,
+        "inflow_amount": 11582.79,
+        "outflow_amount": 6662.04,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 2,
+        "inflow_amount": 6897.55,
+        "outflow_amount": 4543.99,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 9,
+        "inflow_amount": 22751.54,
+        "outflow_amount": 15346.44,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 6,
+        "inflow_amount": 20158.43,
+        "outflow_amount": 12460.2,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 7,
+        "inflow_amount": 18883.85,
+        "outflow_amount": 12576.13,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 8,
+        "inflow_amount": 24171.66,
+        "outflow_amount": 12846.38,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 6,
+        "inflow_amount": 20185.71,
+        "outflow_amount": 11813.42,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 5,
+        "inflow_amount": 14186.38,
+        "outflow_amount": 7605.78,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 2,
+        "inflow_amount": 7939.53,
+        "outflow_amount": 4752.25,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 6,
+        "inflow_amount": 22302.57,
+        "outflow_amount": 13724.0,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 10,
+        "inflow_amount": 25615.86,
+        "outflow_amount": 16315.2,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 8,
+        "inflow_amount": 25244.32,
+        "outflow_amount": 14893.82,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 8,
+        "inflow_amount": 24408.84,
+        "outflow_amount": 14966.51,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 8,
+        "inflow_amount": 25489.24,
+        "outflow_amount": 16189.18,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 4,
+        "inflow_amount": 12990.77,
+        "outflow_amount": 6869.22,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 2,
+        "inflow_amount": 7223.24,
+        "outflow_amount": 4324.34,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 8,
+        "inflow_amount": 21063.12,
+        "outflow_amount": 14206.33,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 8,
+        "inflow_amount": 25724.24,
+        "outflow_amount": 16470.01,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 9,
+        "inflow_amount": 27070.29,
+        "outflow_amount": 18016.48,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 6,
+        "inflow_amount": 21280.74,
+        "outflow_amount": 13089.84,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 6,
+        "inflow_amount": 21031.17,
+        "outflow_amount": 12465.79,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 4,
+        "inflow_amount": 12475.78,
+        "outflow_amount": 7880.02,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 3,
+        "inflow_amount": 9009.91,
+        "outflow_amount": 4672.89,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 6,
+        "inflow_amount": 22159.48,
+        "outflow_amount": 12896.43,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 8,
+        "inflow_amount": 21999.05,
+        "outflow_amount": 14610.07,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 6,
+        "inflow_amount": 22823.69,
+        "outflow_amount": 15106.75,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 10,
+        "inflow_amount": 24342.49,
+        "outflow_amount": 16593.01,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 9,
+        "inflow_amount": 23754.56,
+        "outflow_amount": 15130.09,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 3,
+        "inflow_amount": 10940.41,
+        "outflow_amount": 6867.63,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 3,
+        "inflow_amount": 7291.64,
+        "outflow_amount": 4780.62,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 7,
+        "inflow_amount": 24419.6,
+        "outflow_amount": 13284.52,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 7,
+        "inflow_amount": 25307.35,
+        "outflow_amount": 17323.44,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 7,
+        "inflow_amount": 24287.92,
+        "outflow_amount": 15253.75,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 7,
+        "inflow_amount": 22986.39,
+        "outflow_amount": 12418.43,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 6,
+        "inflow_amount": 24001.55,
+        "outflow_amount": 12506.8,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 4,
+        "inflow_amount": 11785.95,
+        "outflow_amount": 6949.55,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 2,
+        "inflow_amount": 8002.54,
+        "outflow_amount": 5116.0,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 7,
+        "inflow_amount": 28732.32,
+        "outflow_amount": 16379.01,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 9,
+        "inflow_amount": 24977.67,
+        "outflow_amount": 13697.41,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 6,
+        "inflow_amount": 22386.96,
+        "outflow_amount": 11990.1,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 7,
+        "inflow_amount": 25740.15,
+        "outflow_amount": 16893.28,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 6,
+        "inflow_amount": 22378.89,
+        "outflow_amount": 12833.65,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 5,
+        "inflow_amount": 14456.72,
+        "outflow_amount": 9107.86,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 4,
+        "inflow_amount": 9832.56,
+        "outflow_amount": 5598.21,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 7,
+        "inflow_amount": 22295.78,
+        "outflow_amount": 12851.06,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 9,
+        "inflow_amount": 24253.64,
+        "outflow_amount": 12963.3,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 9,
+        "inflow_amount": 24995.26,
+        "outflow_amount": 15165.59,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 7,
+        "inflow_amount": 22930.27,
+        "outflow_amount": 15472.13,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 10,
+        "inflow_amount": 27072.91,
+        "outflow_amount": 13879.12,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 5,
+        "inflow_amount": 14101.23,
+        "outflow_amount": 8670.16,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 3,
+        "inflow_amount": 8950.04,
+        "outflow_amount": 5611.57,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 8,
+        "inflow_amount": 25813.65,
+        "outflow_amount": 15512.12,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 8,
+        "inflow_amount": 25181.04,
+        "outflow_amount": 14541.15,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 10,
+        "inflow_amount": 28990.75,
+        "outflow_amount": 17558.6,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 6,
+        "inflow_amount": 23690.64,
+        "outflow_amount": 15161.3,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 10,
+        "inflow_amount": 26803.0,
+        "outflow_amount": 16407.4,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 5,
+        "inflow_amount": 14770.83,
+        "outflow_amount": 9995.0,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 3,
+        "inflow_amount": 9929.0,
+        "outflow_amount": 6014.69,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 9,
+        "inflow_amount": 28215.64,
+        "outflow_amount": 16257.16,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 10,
+        "inflow_amount": 29527.61,
+        "outflow_amount": 19238.06,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 10,
+        "inflow_amount": 26375.76,
+        "outflow_amount": 17964.68,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 7,
+        "inflow_amount": 22982.1,
+        "outflow_amount": 14865.75,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 8,
+        "inflow_amount": 28679.48,
+        "outflow_amount": 14811.34,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 4,
+        "inflow_amount": 11995.48,
+        "outflow_amount": 8048.31,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 2,
+        "inflow_amount": 7073.45,
+        "outflow_amount": 4147.02,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 9,
+        "inflow_amount": 23339.12,
+        "outflow_amount": 14155.19,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 7,
+        "inflow_amount": 18561.69,
+        "outflow_amount": 11960.89,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 8,
+        "inflow_amount": 22991.05,
+        "outflow_amount": 15686.42,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 7,
+        "inflow_amount": 18451.44,
+        "outflow_amount": 11686.15,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 6,
+        "inflow_amount": 19391.83,
+        "outflow_amount": 12893.72,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 4,
+        "inflow_amount": 12172.54,
+        "outflow_amount": 7999.51,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 3,
+        "inflow_amount": 7348.55,
+        "outflow_amount": 4920.0,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 8,
+        "inflow_amount": 24300.69,
+        "outflow_amount": 14908.68,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 9,
+        "inflow_amount": 23296.43,
+        "outflow_amount": 14089.49,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 7,
+        "inflow_amount": 22472.49,
+        "outflow_amount": 12127.6,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 7,
+        "inflow_amount": 23115.11,
+        "outflow_amount": 14665.76,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 9,
+        "inflow_amount": 22675.37,
+        "outflow_amount": 14104.69,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 4,
+        "inflow_amount": 12578.26,
+        "outflow_amount": 7133.37,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 2,
+        "inflow_amount": 7393.09,
+        "outflow_amount": 4057.11,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 6,
+        "inflow_amount": 22861.31,
+        "outflow_amount": 13354.4,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 6,
+        "inflow_amount": 18417.58,
+        "outflow_amount": 9956.83,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 7,
+        "inflow_amount": 18991.77,
+        "outflow_amount": 13094.2,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 8,
+        "inflow_amount": 22203.03,
+        "outflow_amount": 14389.05,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 8,
+        "inflow_amount": 23853.76,
+        "outflow_amount": 13473.64,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 2,
+        "inflow_amount": 9555.0,
+        "outflow_amount": 4886.98,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 3,
+        "inflow_amount": 8513.33,
+        "outflow_amount": 4982.46,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 5,
+        "inflow_amount": 20484.7,
+        "outflow_amount": 11805.68,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 6,
+        "inflow_amount": 18555.01,
+        "outflow_amount": 10967.52,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 8,
+        "inflow_amount": 23882.01,
+        "outflow_amount": 14895.11,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 8,
+        "inflow_amount": 23213.46,
+        "outflow_amount": 15119.61,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 6,
+        "inflow_amount": 24548.13,
+        "outflow_amount": 14500.42,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 3,
+        "inflow_amount": 12635.57,
+        "outflow_amount": 7077.2,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 3,
+        "inflow_amount": 8124.57,
+        "outflow_amount": 5522.14,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 8,
+        "inflow_amount": 23221.22,
+        "outflow_amount": 11991.07,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 6,
+        "inflow_amount": 18338.23,
+        "outflow_amount": 12308.85,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 6,
+        "inflow_amount": 19708.31,
+        "outflow_amount": 10092.58,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 6,
+        "inflow_amount": 19917.96,
+        "outflow_amount": 13086.08,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 6,
+        "inflow_amount": 21184.64,
+        "outflow_amount": 14268.68,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 3,
+        "inflow_amount": 10278.31,
+        "outflow_amount": 6234.29,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 3,
+        "inflow_amount": 6996.32,
+        "outflow_amount": 4792.92,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 6,
+        "inflow_amount": 20472.04,
+        "outflow_amount": 11716.69,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 7,
+        "inflow_amount": 20549.61,
+        "outflow_amount": 13531.53,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 8,
+        "inflow_amount": 20629.11,
+        "outflow_amount": 12832.29,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 8,
+        "inflow_amount": 24968.53,
+        "outflow_amount": 16457.01,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 8,
+        "inflow_amount": 21954.21,
+        "outflow_amount": 13761.45,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 5,
+        "inflow_amount": 12302.43,
+        "outflow_amount": 7579.8,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 3,
+        "inflow_amount": 7960.69,
+        "outflow_amount": 4243.61,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 6,
+        "inflow_amount": 22356.67,
+        "outflow_amount": 13613.02,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 8,
+        "inflow_amount": 25142.95,
+        "outflow_amount": 15489.39,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 7,
+        "inflow_amount": 22260.87,
+        "outflow_amount": 15019.96,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 8,
+        "inflow_amount": 22418.81,
+        "outflow_amount": 13707.93,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 7,
+        "inflow_amount": 22050.06,
+        "outflow_amount": 13340.03,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 3,
+        "inflow_amount": 12095.75,
+        "outflow_amount": 6532.12,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 2,
+        "inflow_amount": 7242.83,
+        "outflow_amount": 3852.41,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 6,
+        "inflow_amount": 23415.86,
+        "outflow_amount": 13275.51,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 8,
+        "inflow_amount": 22486.72,
+        "outflow_amount": 14263.79,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 5,
+        "inflow_amount": 19824.0,
+        "outflow_amount": 12003.35,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 9,
+        "inflow_amount": 24811.87,
+        "outflow_amount": 16283.14,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 7,
+        "inflow_amount": 20562.08,
+        "outflow_amount": 11874.56,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 3,
+        "inflow_amount": 10705.98,
+        "outflow_amount": 7011.43,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 2,
+        "inflow_amount": 8636.48,
+        "outflow_amount": 4562.8,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 5,
+        "inflow_amount": 19796.05,
+        "outflow_amount": 10161.98,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 6,
+        "inflow_amount": 20251.25,
+        "outflow_amount": 13289.5,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 8,
+        "inflow_amount": 23121.22,
+        "outflow_amount": 14829.21,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 10,
+        "inflow_amount": 24631.53,
+        "outflow_amount": 16695.01,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 10,
+        "inflow_amount": 26038.57,
+        "outflow_amount": 16330.64,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 4,
+        "inflow_amount": 11030.64,
+        "outflow_amount": 6723.84,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 3,
+        "inflow_amount": 8923.03,
+        "outflow_amount": 5191.75,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 9,
+        "inflow_amount": 27322.54,
+        "outflow_amount": 14116.57,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 9,
+        "inflow_amount": 23715.72,
+        "outflow_amount": 15466.92,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 7,
+        "inflow_amount": 24119.67,
+        "outflow_amount": 13419.04,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 8,
+        "inflow_amount": 25708.73,
+        "outflow_amount": 17110.22,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 7,
+        "inflow_amount": 25651.71,
+        "outflow_amount": 15492.65,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 5,
+        "inflow_amount": 13848.72,
+        "outflow_amount": 8089.34,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 3,
+        "inflow_amount": 7631.61,
+        "outflow_amount": 4976.47,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 7,
+        "inflow_amount": 24319.42,
+        "outflow_amount": 14953.99,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 6,
+        "inflow_amount": 21000.36,
+        "outflow_amount": 13438.67,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 8,
+        "inflow_amount": 24660.51,
+        "outflow_amount": 16027.76,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 9,
+        "inflow_amount": 21690.76,
+        "outflow_amount": 14165.13,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 6,
+        "inflow_amount": 23553.18,
+        "outflow_amount": 13182.15,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 5,
+        "inflow_amount": 13376.72,
+        "outflow_amount": 8559.08,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 2,
+        "inflow_amount": 7784.41,
+        "outflow_amount": 4247.6,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 6,
+        "inflow_amount": 22270.43,
+        "outflow_amount": 13348.82,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 6,
+        "inflow_amount": 21288.03,
+        "outflow_amount": 12994.17,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 8,
+        "inflow_amount": 21493.99,
+        "outflow_amount": 12989.65,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 8,
+        "inflow_amount": 22767.82,
+        "outflow_amount": 13576.06,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 6,
+        "inflow_amount": 21913.96,
+        "outflow_amount": 13295.82,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 4,
+        "inflow_amount": 12264.56,
+        "outflow_amount": 6927.66,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 3,
+        "inflow_amount": 8392.94,
+        "outflow_amount": 4416.76,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 8,
+        "inflow_amount": 23559.79,
+        "outflow_amount": 16117.19,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 8,
+        "inflow_amount": 22973.48,
+        "outflow_amount": 13904.58,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 6,
+        "inflow_amount": 21650.39,
+        "outflow_amount": 12675.29,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 7,
+        "inflow_amount": 20955.15,
+        "outflow_amount": 10837.85,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 8,
+        "inflow_amount": 25626.26,
+        "outflow_amount": 14993.4,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 4,
+        "inflow_amount": 11159.5,
+        "outflow_amount": 6562.12,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 3,
+        "inflow_amount": 8377.9,
+        "outflow_amount": 4432.88,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 6,
+        "inflow_amount": 23410.26,
+        "outflow_amount": 11939.63,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 8,
+        "inflow_amount": 24470.98,
+        "outflow_amount": 14569.58,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 7,
+        "inflow_amount": 20978.65,
+        "outflow_amount": 14096.42,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 8,
+        "inflow_amount": 24192.11,
+        "outflow_amount": 15721.83,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 9,
+        "inflow_amount": 26105.97,
+        "outflow_amount": 15414.02,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 4,
+        "inflow_amount": 12760.36,
+        "outflow_amount": 7271.65,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 2,
+        "inflow_amount": 7004.0,
+        "outflow_amount": 4006.57,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 8,
+        "inflow_amount": 21498.24,
+        "outflow_amount": 13382.02,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 7,
+        "inflow_amount": 19497.04,
+        "outflow_amount": 10637.46,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 6,
+        "inflow_amount": 23208.46,
+        "outflow_amount": 12218.23,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 6,
+        "inflow_amount": 20341.05,
+        "outflow_amount": 11974.52,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 8,
+        "inflow_amount": 25611.45,
+        "outflow_amount": 15322.08,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 4,
+        "inflow_amount": 11476.54,
+        "outflow_amount": 7835.76,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 3,
+        "inflow_amount": 8818.75,
+        "outflow_amount": 5729.26,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 8,
+        "inflow_amount": 22095.94,
+        "outflow_amount": 14236.76,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 7,
+        "inflow_amount": 20507.29,
+        "outflow_amount": 10527.67,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 7,
+        "inflow_amount": 25133.85,
+        "outflow_amount": 15694.68,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 8,
+        "inflow_amount": 25374.99,
+        "outflow_amount": 16573.77,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 7,
+        "inflow_amount": 25979.02,
+        "outflow_amount": 17139.11,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 3,
+        "inflow_amount": 10902.37,
+        "outflow_amount": 5652.94,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 3,
+        "inflow_amount": 9116.27,
+        "outflow_amount": 5589.07,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 9,
+        "inflow_amount": 25936.82,
+        "outflow_amount": 14619.08,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 5,
+        "inflow_amount": 20332.15,
+        "outflow_amount": 13088.42,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 7,
+        "inflow_amount": 22050.78,
+        "outflow_amount": 13984.4,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 6,
+        "inflow_amount": 19791.21,
+        "outflow_amount": 11699.24,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 7,
+        "inflow_amount": 22745.73,
+        "outflow_amount": 13778.26,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 4,
+        "inflow_amount": 11013.49,
+        "outflow_amount": 6450.26,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 2,
+        "inflow_amount": 7393.71,
+        "outflow_amount": 3846.14,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 8,
+        "inflow_amount": 24879.22,
+        "outflow_amount": 14175.96,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 7,
+        "inflow_amount": 21349.23,
+        "outflow_amount": 13653.49,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 6,
+        "inflow_amount": 20760.64,
+        "outflow_amount": 12830.19,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 9,
+        "inflow_amount": 27288.99,
+        "outflow_amount": 16883.07,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 9,
+        "inflow_amount": 27513.42,
+        "outflow_amount": 17536.47,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 3,
+        "inflow_amount": 13334.97,
+        "outflow_amount": 6829.1,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 3,
+        "inflow_amount": 9101.14,
+        "outflow_amount": 5678.37,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 7,
+        "inflow_amount": 25491.73,
+        "outflow_amount": 15607.29,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 8,
+        "inflow_amount": 24725.82,
+        "outflow_amount": 13318.1,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 9,
+        "inflow_amount": 25430.88,
+        "outflow_amount": 14979.78,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 6,
+        "inflow_amount": 20605.8,
+        "outflow_amount": 12158.31,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 7,
+        "inflow_amount": 27000.42,
+        "outflow_amount": 18207.12,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 3,
+        "inflow_amount": 13043.84,
+        "outflow_amount": 7167.58,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 3,
+        "inflow_amount": 7963.84,
+        "outflow_amount": 4362.09,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 7,
+        "inflow_amount": 24325.82,
+        "outflow_amount": 16656.44,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 9,
+        "inflow_amount": 27145.14,
+        "outflow_amount": 15003.86,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 8,
+        "inflow_amount": 23128.71,
+        "outflow_amount": 12523.5,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 8,
+        "inflow_amount": 22522.9,
+        "outflow_amount": 14155.16,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 10,
+        "inflow_amount": 26939.66,
+        "outflow_amount": 17918.44,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 3,
+        "inflow_amount": 11455.9,
+        "outflow_amount": 7031.42,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 3,
+        "inflow_amount": 8872.66,
+        "outflow_amount": 4883.09,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 8,
+        "inflow_amount": 22146.62,
+        "outflow_amount": 11338.6,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 6,
+        "inflow_amount": 23098.13,
+        "outflow_amount": 11901.61,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 8,
+        "inflow_amount": 23764.32,
+        "outflow_amount": 15728.69,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 6,
+        "inflow_amount": 22588.27,
+        "outflow_amount": 12081.21,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 6,
+        "inflow_amount": 20951.56,
+        "outflow_amount": 13181.43,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 4,
+        "inflow_amount": 12904.84,
+        "outflow_amount": 6929.97,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 3,
+        "inflow_amount": 9323.8,
+        "outflow_amount": 5283.79,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 10,
+        "inflow_amount": 27138.33,
+        "outflow_amount": 17927.06,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 7,
+        "inflow_amount": 23157.44,
+        "outflow_amount": 14185.17,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 8,
+        "inflow_amount": 24032.46,
+        "outflow_amount": 13663.26,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 6,
+        "inflow_amount": 25798.91,
+        "outflow_amount": 14088.52,
+        "merchant_category": "Stationery & Office Supplies"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 7,
+        "inflow_amount": 23710.8,
+        "outflow_amount": 15065.11,
+        "merchant_category": "Stationery & Office Supplies"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 177,
+        "inflow_amount": 541796.58,
+        "outflow_amount": 336605.59
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 211,
+        "inflow_amount": 651346.02,
+        "outflow_amount": 393050.25
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 184,
+        "inflow_amount": 565347.7,
+        "outflow_amount": 344285.88
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 184,
+        "inflow_amount": 559870.81,
+        "outflow_amount": 340420.01
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 176,
+        "inflow_amount": 536811.94,
+        "outflow_amount": 333132.53
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 194,
+        "inflow_amount": 613513.45,
+        "outflow_amount": 374822.55
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 194,
+        "inflow_amount": 604061.92,
+        "outflow_amount": 362604.01
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 185,
+        "inflow_amount": 562559.79,
+        "outflow_amount": 342860.76
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 179,
+        "inflow_amount": 558733.14,
+        "outflow_amount": 344402.07
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 193,
+        "inflow_amount": 595070.5,
+        "outflow_amount": 358564.07
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 184,
+        "inflow_amount": 583975.93,
+        "outflow_amount": 350828.28
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 200,
+        "inflow_amount": 645267.76,
+        "outflow_amount": 385103.8
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 396729.33
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 413454.54
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 423917.3
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 418177.34
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 416069.83
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 413743.51
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 427833.86
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 433787.66
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 407655.55
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 401951.34
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 397672.39
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 409835.74
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 393559.12
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 399169.89
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 416323.55
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 410816.73
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 381551.69
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 367984.13
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 369585.4
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 372539.72
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 380322.18
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 375501.68
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 365939.02
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 358126.49
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 356741.94
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 344205.32
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 348512.63
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 357220.18
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 351641.98
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 370860.79
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 366313.18
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 401899.9
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 426307.67
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 438531.61
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 431792.85
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 445690.69
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 438268.33
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 452561.31
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 440658.03
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 425308.79
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 413244.63
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 417284.25
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 433483.17
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 436215.18
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 436870.03
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 434778.66
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 425544.07
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 447889.92
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 468963.36
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 463665.36
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 479618.1
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 492501.05
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 492142.8
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 498719.92
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 480275.56
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 471404.33
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 452423.33
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 461842.12
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 474640.02
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 473957.42
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 452470.96
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 445878.39
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 432532.25
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 435155.1
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 429486.03
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 435004.72
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 438021.67
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 435536.3
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 434624.92
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 449310.59
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 444624.27
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 440963.38
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 455997.32
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 451923.41
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 444283.2
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 400803.83
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 411627.62
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 417142.87
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 426697.97
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 427720.89
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 392768.46
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 386740.12
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 388593.01
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 385275.67
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 381449.39
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 385802.76
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 387484.82
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 391815.01
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 392123.18
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 413398.01
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 419336.33
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 422410.62
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 409913.29
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 415932.84
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 416888.41
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 427265.75
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 445383.29
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 422708.13
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 411743.32
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 410584.73
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 403194.67
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 378112.36
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 370692.13
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 374246.27
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 370196.96
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 370530.59
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 364505.87
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 363660.51
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 360009.36
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 348451.43
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 343395.85
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 348206.92
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 366889.21
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 393226.49
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 377479.98
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 389643.74
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 420772.55
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 416106.64
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 419476.09
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 421633.85
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 400967.31
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 402499.14
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 402134.24
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 407953.54
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 382154.85
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 383914.92
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 399218.7
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 395291.72
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 395131.42
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 407029.17
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 400451.91
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 367408.39
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 370910.58
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 358606.77
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 338749.28
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 323947.67
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 331883.89
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 332174.05
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 323226.08
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 341252.32
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 329908.29
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 321640.51
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 328031.05
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 327181.95
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 337037.39
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 337707.28
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 330265.32
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 341955.91
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 352446.71
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 360304.59
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 355747.84
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 335697.49
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 347272.6
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 341805.44
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 345083.83
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 342119.77
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 357123.37
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 368255.2
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 377636.61
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 387826.35
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 394341.77
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 400962.28
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 392759.89
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 419007.91
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 421957.69
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 425153.0
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 410995.28
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 435678.75
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 455506.62
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 433676.37
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 431015.3
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 440390.32
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 423774.26
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 418192.17
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 412301.52
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 402916.93
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 413536.12
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 420877.33
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 401585.6
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 402949.87
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 422551.6
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 423009.66
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 430278.06
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 421027.7
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 393745.3
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 384934.6
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 414745.49
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 420167.12
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 413460.51
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 427295.93
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 434453.1
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 440146.59
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 448443.55
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 433555.11
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 431474.67
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 446730.84
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 441783.56
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 440298.32
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 439437.47
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 429919.74
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 445587.3
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 453387.42
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 454347.64
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 451974.03
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 453166.43
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 462139.19
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 466115.44
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 461775.62
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 471033.84
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 457357.84
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 465710.63
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 444940.63
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 438163.35
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 437126.71
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 446555.93
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 438573.9
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 408062.84
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 391085.0
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 395363.29
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 390325.92
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 388789.02
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 393749.07
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 416973.22
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 416643.93
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 404166.46
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 425932.28
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 428613.9
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 451718.58
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 442703.12
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 435492.84
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 432799.88
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 439652.18
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 466418.92
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 470180.11
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 480901.16
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 473841.8
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 452985.58
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 444093.59
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 435731.47
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 441934.1
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 426453.03
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 430451.25
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 440989.13
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 450447.0
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 449634.56
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 425598.49
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 416527.3
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 403561.18
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 398402.39
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 392660.7
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 385708.37
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 384589.99
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 364841.46
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 359506.21
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 353250.63
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 353219.45
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 359274.15
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 359144.28
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 346038.49
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 339614.27
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 348611.54
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 353026.33
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 355069.13
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 354515.53
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 342820.22
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 354652.51
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 378973.28
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 384757.53
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 429526.56
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 425689.0
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 424148.6
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 446937.79
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 436486.34
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 429582.88
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 437857.16
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 441427.27
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 451535.4
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 458049.87
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 487172.32
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 488966.77
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 475678.4
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 440081.52
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 437797.72
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 462786.62
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 484883.51
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 489140.93
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 488248.69
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 467331.93
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 472291.31
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 460535.65
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 433041.65
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 436942.19
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 446768.15
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 461858.79
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 472828.61
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 461707.57
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 469418.53
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 464732.65
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 463154.32
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 463887.55
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 444681.63
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 433390.4
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 430941.63
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 439259.47
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 431604.28
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 418441.97
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 414594.21
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 400362.48
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 386695.95
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 372216.26
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 379401.73
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 380467.6
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 403039.29
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 406914.5
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 424563.84
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 411376.63
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 410856.29
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 430958.06
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 442825.3
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 459728.46
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 453013.01
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 454647.3
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 452504.39
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 454394.66
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 443722.3
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 432694.78
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 439268.23
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 470194.07
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 455303.02
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 459015.24
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 454330.78
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 446536.66
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 434262.44
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 420526.86
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 386119.09
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 403593.24
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 395098.97
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 391458.26
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 413986.28
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 430918.39
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 433916.06
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 448090.1
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 461840.53
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 464372.82
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 470890.55
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 446044.35
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 470991.88
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 465277.2
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 457203.83
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 462119.7
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 450789.9
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 422643.41
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 435130.71
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 426423.06
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 429330.84
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 440709.44
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 436070.93
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 435689.21
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 435337.62
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 425493.63
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 428918.04
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 430788.4
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 416159.04
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 419004.13
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 436765.3
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 366313.18,
+        "average_balance": 388636.9,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 452470.96,
+        "average_balance": 450298.45,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 422410.62,
+        "average_balance": 419501.04,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 402499.14,
+        "average_balance": 392143.92,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 347272.6,
+        "average_balance": 356988.27,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 421027.7,
+        "average_balance": 405622.47,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 444940.63,
+        "average_balance": 440290.28,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 440989.13,
+        "average_balance": 431821.66,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 436486.34,
+        "average_balance": 385907.78,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 439259.47,
+        "average_balance": 457934.87,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 420526.86,
+        "average_balance": 428148.69,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 436765.3,
+        "average_balance": 434554.03,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2025-09-16",
+        "amount": 29360.01,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2025-10-20",
+        "amount": 90047.87,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2025-12-13",
+        "amount": 29191.03,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 8,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 8,
+        "expected_contribution": 26655.84,
+        "contribution_paid": 26655.84,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 8,
+        "expected_contribution": 26910.49,
+        "contribution_paid": 26910.49,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 8,
+        "expected_contribution": 27261.7,
+        "contribution_paid": 27261.7,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 8,
+        "expected_contribution": 27272.95,
+        "contribution_paid": 27272.95,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 8,
+        "expected_contribution": 27571.57,
+        "contribution_paid": 27571.57,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 8,
+        "expected_contribution": 26761.67,
+        "contribution_paid": 26761.67,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 8,
+        "expected_contribution": 26573.19,
+        "contribution_paid": 26573.19,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 8,
+        "expected_contribution": 27002.36,
+        "contribution_paid": 27002.36,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 8,
+        "expected_contribution": 27538.05,
+        "contribution_paid": 27538.05,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 8,
+        "expected_contribution": 27042.4,
+        "contribution_paid": 27042.4,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 8,
+        "expected_contribution": 26646.13,
+        "contribution_paid": 26646.13,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 8,
+        "expected_contribution": 26483.69,
+        "contribution_paid": 26483.69,
+        "status": "on_time"
+      }
+    ]
+  }
+}

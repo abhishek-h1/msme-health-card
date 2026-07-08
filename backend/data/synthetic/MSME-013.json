@@ -1,0 +1,4396 @@
+{
+  "business_id": "MSME-013",
+  "name": "Himalayan Furniture Works",
+  "sector": "Furniture Manufacturing",
+  "archetype": "growing",
+  "registration_type": "partnership",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 1629179.82,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 1752267.29,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 1657077.96,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 1806063.8,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 2019059.84,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 1784379.2,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 1871380.25,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 2290566.93,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 2038329.01,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 2369981.12,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-06-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 2455209.61,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-16",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 2342128.22,
+        "due_date": "2026-08-20",
+        "filing_date": "2026-08-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Furniture & Home Goods",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 2,
+        "inflow_amount": 26039.6,
+        "outflow_amount": 16563.78,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 1,
+        "inflow_amount": 13122.86,
+        "outflow_amount": 8628.9,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 1,
+        "inflow_amount": 10442.29,
+        "outflow_amount": 6549.34,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 3,
+        "inflow_amount": 30251.01,
+        "outflow_amount": 15438.97,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 2,
+        "inflow_amount": 30165.92,
+        "outflow_amount": 17277.23,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 2,
+        "inflow_amount": 27547.09,
+        "outflow_amount": 15022.84,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 3,
+        "inflow_amount": 32144.17,
+        "outflow_amount": 17335.24,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 2,
+        "inflow_amount": 25478.75,
+        "outflow_amount": 16136.55,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 1,
+        "inflow_amount": 15737.47,
+        "outflow_amount": 10434.27,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 1,
+        "inflow_amount": 9407.47,
+        "outflow_amount": 4889.66,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 2,
+        "inflow_amount": 25151.2,
+        "outflow_amount": 13013.04,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 3,
+        "inflow_amount": 31808.34,
+        "outflow_amount": 18650.82,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 2,
+        "inflow_amount": 30440.69,
+        "outflow_amount": 16944.45,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 2,
+        "inflow_amount": 27560.47,
+        "outflow_amount": 16049.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 2,
+        "inflow_amount": 29762.88,
+        "outflow_amount": 17507.76,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 1,
+        "inflow_amount": 16259.05,
+        "outflow_amount": 9851.41,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 1,
+        "inflow_amount": 9206.25,
+        "outflow_amount": 5677.83,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 2,
+        "inflow_amount": 29789.75,
+        "outflow_amount": 16777.59,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 2,
+        "inflow_amount": 28338.73,
+        "outflow_amount": 15300.88,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 2,
+        "inflow_amount": 28563.68,
+        "outflow_amount": 17712.6,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 2,
+        "inflow_amount": 30143.4,
+        "outflow_amount": 17784.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 3,
+        "inflow_amount": 29835.37,
+        "outflow_amount": 18969.26,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 1,
+        "inflow_amount": 16752.32,
+        "outflow_amount": 8516.32,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 1,
+        "inflow_amount": 10689.47,
+        "outflow_amount": 6320.08,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 2,
+        "inflow_amount": 26230.57,
+        "outflow_amount": 14952.09,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 3,
+        "inflow_amount": 32423.6,
+        "outflow_amount": 19793.89,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 3,
+        "inflow_amount": 29441.86,
+        "outflow_amount": 16448.85,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 3,
+        "inflow_amount": 28969.42,
+        "outflow_amount": 18398.49,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 2,
+        "inflow_amount": 31615.34,
+        "outflow_amount": 19422.08,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 1,
+        "inflow_amount": 16541.51,
+        "outflow_amount": 9846.72,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 1,
+        "inflow_amount": 10330.13,
+        "outflow_amount": 6227.01,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 2,
+        "inflow_amount": 32546.99,
+        "outflow_amount": 16736.71,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 3,
+        "inflow_amount": 32518.86,
+        "outflow_amount": 18994.96,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 2,
+        "inflow_amount": 34604.88,
+        "outflow_amount": 20240.92,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 2,
+        "inflow_amount": 31864.23,
+        "outflow_amount": 20682.62,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 2,
+        "inflow_amount": 31137.4,
+        "outflow_amount": 18233.4,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 1,
+        "inflow_amount": 15849.23,
+        "outflow_amount": 10420.71,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 1,
+        "inflow_amount": 12308.05,
+        "outflow_amount": 8080.93,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 3,
+        "inflow_amount": 29825.8,
+        "outflow_amount": 19098.21,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 3,
+        "inflow_amount": 33208.97,
+        "outflow_amount": 19098.66,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 3,
+        "inflow_amount": 31816.91,
+        "outflow_amount": 17681.04,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 2,
+        "inflow_amount": 29402.49,
+        "outflow_amount": 14920.84,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 2,
+        "inflow_amount": 31982.25,
+        "outflow_amount": 16161.22,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 2,
+        "inflow_amount": 17253.05,
+        "outflow_amount": 8599.39,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 1,
+        "inflow_amount": 11812.84,
+        "outflow_amount": 6783.07,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 3,
+        "inflow_amount": 28488.12,
+        "outflow_amount": 17695.28,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 2,
+        "inflow_amount": 30438.78,
+        "outflow_amount": 15317.44,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 2,
+        "inflow_amount": 30876.83,
+        "outflow_amount": 16702.89,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 2,
+        "inflow_amount": 27562.75,
+        "outflow_amount": 17380.53,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 2,
+        "inflow_amount": 30561.98,
+        "outflow_amount": 17531.79,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 1,
+        "inflow_amount": 13956.01,
+        "outflow_amount": 8435.56,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 1,
+        "inflow_amount": 10346.39,
+        "outflow_amount": 6650.33,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 2,
+        "inflow_amount": 29466.94,
+        "outflow_amount": 18860.35,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 3,
+        "inflow_amount": 33043.33,
+        "outflow_amount": 19396.71,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 3,
+        "inflow_amount": 27159.4,
+        "outflow_amount": 17786.48,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 2,
+        "inflow_amount": 32339.13,
+        "outflow_amount": 18034.9,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 2,
+        "inflow_amount": 27118.65,
+        "outflow_amount": 14317.66,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 1,
+        "inflow_amount": 13977.05,
+        "outflow_amount": 9105.52,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 1,
+        "inflow_amount": 10716.39,
+        "outflow_amount": 6798.13,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 2,
+        "inflow_amount": 27545.88,
+        "outflow_amount": 17968.14,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 3,
+        "inflow_amount": 35849.29,
+        "outflow_amount": 21107.67,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 2,
+        "inflow_amount": 33178.04,
+        "outflow_amount": 17506.32,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 2,
+        "inflow_amount": 25888.91,
+        "outflow_amount": 16575.68,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 2,
+        "inflow_amount": 24890.01,
+        "outflow_amount": 16344.32,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 1,
+        "inflow_amount": 16411.97,
+        "outflow_amount": 10043.49,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 1,
+        "inflow_amount": 10677.01,
+        "outflow_amount": 5372.07,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 3,
+        "inflow_amount": 32338.95,
+        "outflow_amount": 19182.83,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 2,
+        "inflow_amount": 24730.68,
+        "outflow_amount": 14451.97,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 2,
+        "inflow_amount": 25577.77,
+        "outflow_amount": 15812.7,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 2,
+        "inflow_amount": 26395.38,
+        "outflow_amount": 16651.86,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 3,
+        "inflow_amount": 30436.51,
+        "outflow_amount": 17288.59,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 1,
+        "inflow_amount": 15475.55,
+        "outflow_amount": 10174.5,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 1,
+        "inflow_amount": 10197.99,
+        "outflow_amount": 6576.15,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 2,
+        "inflow_amount": 28342.11,
+        "outflow_amount": 16829.39,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 2,
+        "inflow_amount": 32372.33,
+        "outflow_amount": 18196.72,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 3,
+        "inflow_amount": 31046.33,
+        "outflow_amount": 16066.33,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 3,
+        "inflow_amount": 32614.55,
+        "outflow_amount": 17418.73,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 3,
+        "inflow_amount": 30461.74,
+        "outflow_amount": 15851.52,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 1,
+        "inflow_amount": 17076.47,
+        "outflow_amount": 10490.15,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 1,
+        "inflow_amount": 10442.67,
+        "outflow_amount": 6807.32,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 2,
+        "inflow_amount": 27240.3,
+        "outflow_amount": 14863.81,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 3,
+        "inflow_amount": 31534.62,
+        "outflow_amount": 21002.02,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 3,
+        "inflow_amount": 29761.94,
+        "outflow_amount": 14858.9,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 2,
+        "inflow_amount": 25634.12,
+        "outflow_amount": 16473.66,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 2,
+        "inflow_amount": 26292.17,
+        "outflow_amount": 17062.83,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 1,
+        "inflow_amount": 13874.6,
+        "outflow_amount": 6875.81,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 1,
+        "inflow_amount": 8883.3,
+        "outflow_amount": 4445.63,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 3,
+        "inflow_amount": 31424.59,
+        "outflow_amount": 15819.37,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 2,
+        "inflow_amount": 29689.78,
+        "outflow_amount": 14874.83,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 2,
+        "inflow_amount": 29180.9,
+        "outflow_amount": 14684.61,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 2,
+        "inflow_amount": 27552.16,
+        "outflow_amount": 16204.27,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 3,
+        "inflow_amount": 30254.06,
+        "outflow_amount": 15418.32,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 1,
+        "inflow_amount": 16936.09,
+        "outflow_amount": 8502.09,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 1,
+        "inflow_amount": 11156.74,
+        "outflow_amount": 7131.83,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 3,
+        "inflow_amount": 35817.51,
+        "outflow_amount": 19831.62,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 3,
+        "inflow_amount": 34372.6,
+        "outflow_amount": 22590.27,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 2,
+        "inflow_amount": 30059.13,
+        "outflow_amount": 16927.29,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 3,
+        "inflow_amount": 32906.86,
+        "outflow_amount": 21607.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 3,
+        "inflow_amount": 32316.74,
+        "outflow_amount": 18405.97,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 2,
+        "inflow_amount": 17943.69,
+        "outflow_amount": 10314.71,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 1,
+        "inflow_amount": 10650.5,
+        "outflow_amount": 5728.06,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 2,
+        "inflow_amount": 29116.86,
+        "outflow_amount": 16866.3,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 2,
+        "inflow_amount": 30882.3,
+        "outflow_amount": 16837.46,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 3,
+        "inflow_amount": 31308.74,
+        "outflow_amount": 18298.57,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 3,
+        "inflow_amount": 34622.23,
+        "outflow_amount": 20521.71,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 3,
+        "inflow_amount": 33318.95,
+        "outflow_amount": 20118.96,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 1,
+        "inflow_amount": 16310.47,
+        "outflow_amount": 8320.32,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 1,
+        "inflow_amount": 11240.19,
+        "outflow_amount": 7173.52,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 2,
+        "inflow_amount": 31033.64,
+        "outflow_amount": 18530.53,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 3,
+        "inflow_amount": 35074.69,
+        "outflow_amount": 17875.77,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 2,
+        "inflow_amount": 35634.13,
+        "outflow_amount": 23540.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 2,
+        "inflow_amount": 28677.74,
+        "outflow_amount": 14669.61,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 2,
+        "inflow_amount": 30551.22,
+        "outflow_amount": 19956.86,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 1,
+        "inflow_amount": 17775.07,
+        "outflow_amount": 9328.58,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 1,
+        "inflow_amount": 11827.32,
+        "outflow_amount": 6244.38,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 2,
+        "inflow_amount": 31860.82,
+        "outflow_amount": 20420.22,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 3,
+        "inflow_amount": 33456.53,
+        "outflow_amount": 18951.22,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 3,
+        "inflow_amount": 30356.27,
+        "outflow_amount": 16337.53,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 3,
+        "inflow_amount": 37066.14,
+        "outflow_amount": 18595.95,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 3,
+        "inflow_amount": 32237.09,
+        "outflow_amount": 20884.74,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 1,
+        "inflow_amount": 14807.49,
+        "outflow_amount": 8782.1,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 1,
+        "inflow_amount": 11850.6,
+        "outflow_amount": 7298.54,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 3,
+        "inflow_amount": 36874.46,
+        "outflow_amount": 24498.17,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 3,
+        "inflow_amount": 35059.29,
+        "outflow_amount": 19311.28,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 3,
+        "inflow_amount": 30792.56,
+        "outflow_amount": 18951.71,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 2,
+        "inflow_amount": 33104.63,
+        "outflow_amount": 20294.85,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 4,
+        "inflow_amount": 38528.79,
+        "outflow_amount": 25449.65,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 1,
+        "inflow_amount": 15805.01,
+        "outflow_amount": 9571.29,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 1,
+        "inflow_amount": 13266.82,
+        "outflow_amount": 6880.04,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 2,
+        "inflow_amount": 30446.56,
+        "outflow_amount": 17628.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 3,
+        "inflow_amount": 36225.33,
+        "outflow_amount": 23921.54,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 2,
+        "inflow_amount": 39076.28,
+        "outflow_amount": 19595.67,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 2,
+        "inflow_amount": 32166.43,
+        "outflow_amount": 16586.45,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 3,
+        "inflow_amount": 29166.08,
+        "outflow_amount": 17166.87,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 1,
+        "inflow_amount": 15741.97,
+        "outflow_amount": 8485.93,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 1,
+        "inflow_amount": 11808.21,
+        "outflow_amount": 6774.29,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 2,
+        "inflow_amount": 33235.96,
+        "outflow_amount": 20355.14,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 2,
+        "inflow_amount": 29410.59,
+        "outflow_amount": 16338.08,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 3,
+        "inflow_amount": 34917.58,
+        "outflow_amount": 20749.38,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 3,
+        "inflow_amount": 29636.75,
+        "outflow_amount": 19040.65,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 3,
+        "inflow_amount": 36077.0,
+        "outflow_amount": 20806.99,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 1,
+        "inflow_amount": 15699.54,
+        "outflow_amount": 9666.0,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 1,
+        "inflow_amount": 11394.11,
+        "outflow_amount": 7314.86,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 3,
+        "inflow_amount": 36190.61,
+        "outflow_amount": 20568.6,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 3,
+        "inflow_amount": 36317.57,
+        "outflow_amount": 23586.11,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 3,
+        "inflow_amount": 37929.38,
+        "outflow_amount": 23084.95,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 3,
+        "inflow_amount": 35566.7,
+        "outflow_amount": 21425.01,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 3,
+        "inflow_amount": 37619.24,
+        "outflow_amount": 19045.02,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 1,
+        "inflow_amount": 16150.79,
+        "outflow_amount": 8333.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 1,
+        "inflow_amount": 12148.74,
+        "outflow_amount": 6923.35,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 2,
+        "inflow_amount": 29318.47,
+        "outflow_amount": 16681.68,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 2,
+        "inflow_amount": 29302.95,
+        "outflow_amount": 15124.61,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 2,
+        "inflow_amount": 32585.22,
+        "outflow_amount": 16656.94,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 2,
+        "inflow_amount": 34472.28,
+        "outflow_amount": 19348.72,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 2,
+        "inflow_amount": 29215.72,
+        "outflow_amount": 15304.99,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 2,
+        "inflow_amount": 17570.34,
+        "outflow_amount": 8721.06,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 1,
+        "inflow_amount": 10221.58,
+        "outflow_amount": 5694.71,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 2,
+        "inflow_amount": 31723.26,
+        "outflow_amount": 20382.41,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 3,
+        "inflow_amount": 32281.74,
+        "outflow_amount": 17069.04,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 3,
+        "inflow_amount": 34703.6,
+        "outflow_amount": 20525.98,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 2,
+        "inflow_amount": 26972.24,
+        "outflow_amount": 13853.2,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 2,
+        "inflow_amount": 27905.96,
+        "outflow_amount": 14680.59,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 1,
+        "inflow_amount": 14148.59,
+        "outflow_amount": 7286.61,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 1,
+        "inflow_amount": 10728.64,
+        "outflow_amount": 5739.29,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 2,
+        "inflow_amount": 34510.93,
+        "outflow_amount": 17123.53,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 3,
+        "inflow_amount": 34998.3,
+        "outflow_amount": 20667.3,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 2,
+        "inflow_amount": 29020.37,
+        "outflow_amount": 15719.33,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 2,
+        "inflow_amount": 33640.58,
+        "outflow_amount": 21664.84,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 2,
+        "inflow_amount": 30192.39,
+        "outflow_amount": 19564.2,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 1,
+        "inflow_amount": 18616.54,
+        "outflow_amount": 10825.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 1,
+        "inflow_amount": 11708.43,
+        "outflow_amount": 7751.17,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 3,
+        "inflow_amount": 34969.05,
+        "outflow_amount": 21000.43,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 2,
+        "inflow_amount": 35273.44,
+        "outflow_amount": 19899.35,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 3,
+        "inflow_amount": 35682.02,
+        "outflow_amount": 21916.0,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 2,
+        "inflow_amount": 30513.23,
+        "outflow_amount": 19655.24,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 2,
+        "inflow_amount": 33054.63,
+        "outflow_amount": 19978.3,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 1,
+        "inflow_amount": 18402.2,
+        "outflow_amount": 9872.15,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 1,
+        "inflow_amount": 11384.33,
+        "outflow_amount": 7361.21,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 2,
+        "inflow_amount": 31081.29,
+        "outflow_amount": 16175.11,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 3,
+        "inflow_amount": 35499.38,
+        "outflow_amount": 19145.63,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 3,
+        "inflow_amount": 34950.49,
+        "outflow_amount": 20537.95,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 3,
+        "inflow_amount": 32601.56,
+        "outflow_amount": 21624.94,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 3,
+        "inflow_amount": 30923.44,
+        "outflow_amount": 16460.83,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 1,
+        "inflow_amount": 16211.12,
+        "outflow_amount": 8062.19,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 1,
+        "inflow_amount": 12281.97,
+        "outflow_amount": 7060.96,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 3,
+        "inflow_amount": 33924.95,
+        "outflow_amount": 17571.71,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 3,
+        "inflow_amount": 31948.92,
+        "outflow_amount": 19405.16,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 3,
+        "inflow_amount": 38544.2,
+        "outflow_amount": 22488.75,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 3,
+        "inflow_amount": 39536.58,
+        "outflow_amount": 23080.14,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 3,
+        "inflow_amount": 37397.2,
+        "outflow_amount": 19048.46,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 2,
+        "inflow_amount": 21737.73,
+        "outflow_amount": 13117.65,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 1,
+        "inflow_amount": 11359.36,
+        "outflow_amount": 6347.06,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 3,
+        "inflow_amount": 32108.81,
+        "outflow_amount": 18417.77,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 3,
+        "inflow_amount": 38995.62,
+        "outflow_amount": 19567.91,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 3,
+        "inflow_amount": 39263.96,
+        "outflow_amount": 23534.94,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 3,
+        "inflow_amount": 32630.14,
+        "outflow_amount": 17978.07,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 3,
+        "inflow_amount": 32451.54,
+        "outflow_amount": 16837.09,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 1,
+        "inflow_amount": 16550.38,
+        "outflow_amount": 10843.15,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 1,
+        "inflow_amount": 12229.08,
+        "outflow_amount": 6137.21,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 3,
+        "inflow_amount": 40215.34,
+        "outflow_amount": 24834.38,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 4,
+        "inflow_amount": 38282.09,
+        "outflow_amount": 23336.01,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 2,
+        "inflow_amount": 36827.1,
+        "outflow_amount": 18290.75,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 3,
+        "inflow_amount": 38658.39,
+        "outflow_amount": 23533.13,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 3,
+        "inflow_amount": 39405.01,
+        "outflow_amount": 25015.66,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 1,
+        "inflow_amount": 17754.87,
+        "outflow_amount": 10375.58,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 1,
+        "inflow_amount": 11948.87,
+        "outflow_amount": 6805.39,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 3,
+        "inflow_amount": 32358.34,
+        "outflow_amount": 20869.84,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 3,
+        "inflow_amount": 34214.12,
+        "outflow_amount": 17214.83,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 3,
+        "inflow_amount": 35855.88,
+        "outflow_amount": 21955.76,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 3,
+        "inflow_amount": 34238.08,
+        "outflow_amount": 19845.75,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 3,
+        "inflow_amount": 40731.25,
+        "outflow_amount": 25440.73,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 2,
+        "inflow_amount": 20881.03,
+        "outflow_amount": 12769.85,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 1,
+        "inflow_amount": 13627.76,
+        "outflow_amount": 7608.76,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 3,
+        "inflow_amount": 43300.76,
+        "outflow_amount": 22641.88,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 2,
+        "inflow_amount": 33360.18,
+        "outflow_amount": 17455.37,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 3,
+        "inflow_amount": 34881.63,
+        "outflow_amount": 17545.49,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 3,
+        "inflow_amount": 33748.65,
+        "outflow_amount": 21305.16,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 3,
+        "inflow_amount": 36919.1,
+        "outflow_amount": 23444.34,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 2,
+        "inflow_amount": 22501.76,
+        "outflow_amount": 13164.24,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 1,
+        "inflow_amount": 14707.75,
+        "outflow_amount": 9567.88,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 4,
+        "inflow_amount": 39420.88,
+        "outflow_amount": 24433.23,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 3,
+        "inflow_amount": 40573.14,
+        "outflow_amount": 22266.44,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 3,
+        "inflow_amount": 42179.61,
+        "outflow_amount": 27571.65,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 3,
+        "inflow_amount": 33637.1,
+        "outflow_amount": 17188.37,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 4,
+        "inflow_amount": 38883.16,
+        "outflow_amount": 25493.77,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 2,
+        "inflow_amount": 18628.22,
+        "outflow_amount": 10106.79,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 1,
+        "inflow_amount": 12041.43,
+        "outflow_amount": 6561.61,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 3,
+        "inflow_amount": 36187.66,
+        "outflow_amount": 21181.18,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 3,
+        "inflow_amount": 40642.96,
+        "outflow_amount": 21192.74,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 3,
+        "inflow_amount": 35780.37,
+        "outflow_amount": 18783.48,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 2,
+        "inflow_amount": 33078.9,
+        "outflow_amount": 18178.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 3,
+        "inflow_amount": 40058.32,
+        "outflow_amount": 24803.38,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 2,
+        "inflow_amount": 22243.33,
+        "outflow_amount": 14105.41,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 1,
+        "inflow_amount": 15005.28,
+        "outflow_amount": 9844.33,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 3,
+        "inflow_amount": 37273.76,
+        "outflow_amount": 24201.3,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 3,
+        "inflow_amount": 37430.35,
+        "outflow_amount": 20713.15,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 3,
+        "inflow_amount": 37397.56,
+        "outflow_amount": 24026.34,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 4,
+        "inflow_amount": 44034.53,
+        "outflow_amount": 21827.99,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 3,
+        "inflow_amount": 36822.74,
+        "outflow_amount": 21858.58,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 2,
+        "inflow_amount": 20047.18,
+        "outflow_amount": 10868.28,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 1,
+        "inflow_amount": 13833.45,
+        "outflow_amount": 7091.08,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 3,
+        "inflow_amount": 35490.75,
+        "outflow_amount": 17801.16,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 2,
+        "inflow_amount": 36007.83,
+        "outflow_amount": 23784.52,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 3,
+        "inflow_amount": 37751.56,
+        "outflow_amount": 19436.53,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 3,
+        "inflow_amount": 37136.17,
+        "outflow_amount": 19501.43,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 4,
+        "inflow_amount": 40356.49,
+        "outflow_amount": 26888.81,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 1,
+        "inflow_amount": 16865.51,
+        "outflow_amount": 9532.81,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 1,
+        "inflow_amount": 13256.4,
+        "outflow_amount": 8646.55,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 3,
+        "inflow_amount": 30931.77,
+        "outflow_amount": 15949.04,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 3,
+        "inflow_amount": 38086.62,
+        "outflow_amount": 25240.13,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 2,
+        "inflow_amount": 30867.34,
+        "outflow_amount": 18629.13,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 2,
+        "inflow_amount": 33925.72,
+        "outflow_amount": 19910.51,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 3,
+        "inflow_amount": 32398.3,
+        "outflow_amount": 20275.07,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 1,
+        "inflow_amount": 19050.97,
+        "outflow_amount": 11110.11,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 1,
+        "inflow_amount": 13392.64,
+        "outflow_amount": 8789.68,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 3,
+        "inflow_amount": 33747.93,
+        "outflow_amount": 20765.64,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 3,
+        "inflow_amount": 34447.25,
+        "outflow_amount": 18106.36,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 3,
+        "inflow_amount": 33285.13,
+        "outflow_amount": 21551.01,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 3,
+        "inflow_amount": 41079.01,
+        "outflow_amount": 22468.27,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 4,
+        "inflow_amount": 40379.92,
+        "outflow_amount": 21745.5,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 1,
+        "inflow_amount": 21570.37,
+        "outflow_amount": 11501.92,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 1,
+        "inflow_amount": 13576.2,
+        "outflow_amount": 8832.82,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 3,
+        "inflow_amount": 36939.55,
+        "outflow_amount": 24127.12,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 3,
+        "inflow_amount": 38962.29,
+        "outflow_amount": 20969.51,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 3,
+        "inflow_amount": 32341.84,
+        "outflow_amount": 17156.94,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 3,
+        "inflow_amount": 33080.12,
+        "outflow_amount": 19335.92,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 2,
+        "inflow_amount": 32241.93,
+        "outflow_amount": 19160.94,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 2,
+        "inflow_amount": 19119.69,
+        "outflow_amount": 9918.79,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 1,
+        "inflow_amount": 14265.9,
+        "outflow_amount": 8651.4,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 2,
+        "inflow_amount": 38412.27,
+        "outflow_amount": 19667.57,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 3,
+        "inflow_amount": 37979.72,
+        "outflow_amount": 20407.01,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 3,
+        "inflow_amount": 38596.56,
+        "outflow_amount": 21060.48,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 3,
+        "inflow_amount": 40663.06,
+        "outflow_amount": 20877.27,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 4,
+        "inflow_amount": 47934.52,
+        "outflow_amount": 26104.06,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 2,
+        "inflow_amount": 19256.24,
+        "outflow_amount": 12789.46,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 1,
+        "inflow_amount": 12974.93,
+        "outflow_amount": 8021.06,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 3,
+        "inflow_amount": 44795.95,
+        "outflow_amount": 25637.58,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 4,
+        "inflow_amount": 41730.0,
+        "outflow_amount": 27207.52,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 2,
+        "inflow_amount": 36087.17,
+        "outflow_amount": 21022.55,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 3,
+        "inflow_amount": 38968.31,
+        "outflow_amount": 21221.23,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 3,
+        "inflow_amount": 44056.73,
+        "outflow_amount": 23749.2,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 2,
+        "inflow_amount": 21058.55,
+        "outflow_amount": 13350.18,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 1,
+        "inflow_amount": 16760.07,
+        "outflow_amount": 8565.04,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 3,
+        "inflow_amount": 41520.37,
+        "outflow_amount": 23381.19,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 4,
+        "inflow_amount": 47064.88,
+        "outflow_amount": 28356.19,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 3,
+        "inflow_amount": 36076.87,
+        "outflow_amount": 20499.12,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 3,
+        "inflow_amount": 36661.67,
+        "outflow_amount": 20428.58,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 3,
+        "inflow_amount": 40853.2,
+        "outflow_amount": 22503.06,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 1,
+        "inflow_amount": 19630.74,
+        "outflow_amount": 12229.26,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 1,
+        "inflow_amount": 12513.35,
+        "outflow_amount": 7427.83,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 3,
+        "inflow_amount": 44078.96,
+        "outflow_amount": 28532.69,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 3,
+        "inflow_amount": 42345.37,
+        "outflow_amount": 20923.38,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 4,
+        "inflow_amount": 43399.61,
+        "outflow_amount": 22997.96,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 3,
+        "inflow_amount": 35747.82,
+        "outflow_amount": 23387.79,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 3,
+        "inflow_amount": 46167.56,
+        "outflow_amount": 27244.11,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 2,
+        "inflow_amount": 23126.29,
+        "outflow_amount": 12082.03,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 1,
+        "inflow_amount": 13788.65,
+        "outflow_amount": 9061.68,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 3,
+        "inflow_amount": 39340.01,
+        "outflow_amount": 23004.78,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 4,
+        "inflow_amount": 45707.45,
+        "outflow_amount": 26213.47,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 2,
+        "inflow_amount": 35943.29,
+        "outflow_amount": 19726.52,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 3,
+        "inflow_amount": 41939.92,
+        "outflow_amount": 24969.63,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 3,
+        "inflow_amount": 36189.64,
+        "outflow_amount": 23675.15,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 2,
+        "inflow_amount": 24098.84,
+        "outflow_amount": 11949.03,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 1,
+        "inflow_amount": 15166.29,
+        "outflow_amount": 8592.81,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 4,
+        "inflow_amount": 48138.22,
+        "outflow_amount": 27749.37,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 3,
+        "inflow_amount": 39499.84,
+        "outflow_amount": 19641.36,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 3,
+        "inflow_amount": 41043.7,
+        "outflow_amount": 25806.76,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 4,
+        "inflow_amount": 47634.57,
+        "outflow_amount": 26522.74,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 3,
+        "inflow_amount": 43732.28,
+        "outflow_amount": 29015.2,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 1,
+        "inflow_amount": 20941.89,
+        "outflow_amount": 11555.06,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 1,
+        "inflow_amount": 12956.47,
+        "outflow_amount": 6818.91,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 4,
+        "inflow_amount": 46745.3,
+        "outflow_amount": 24059.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 3,
+        "inflow_amount": 41002.95,
+        "outflow_amount": 22072.91,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 3,
+        "inflow_amount": 36557.35,
+        "outflow_amount": 22663.58,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 3,
+        "inflow_amount": 42588.6,
+        "outflow_amount": 26679.19,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 3,
+        "inflow_amount": 44796.81,
+        "outflow_amount": 28573.06,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 2,
+        "inflow_amount": 24739.92,
+        "outflow_amount": 15204.6,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 1,
+        "inflow_amount": 15552.35,
+        "outflow_amount": 8036.29,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 3,
+        "inflow_amount": 42670.01,
+        "outflow_amount": 22400.88,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 4,
+        "inflow_amount": 48089.21,
+        "outflow_amount": 24123.69,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 3,
+        "inflow_amount": 46949.27,
+        "outflow_amount": 23933.92,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 4,
+        "inflow_amount": 47612.17,
+        "outflow_amount": 24777.95,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 3,
+        "inflow_amount": 43519.14,
+        "outflow_amount": 23028.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 2,
+        "inflow_amount": 19986.65,
+        "outflow_amount": 11894.43,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 2,
+        "inflow_amount": 16797.59,
+        "outflow_amount": 9555.94,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 4,
+        "inflow_amount": 41899.98,
+        "outflow_amount": 22806.4,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 4,
+        "inflow_amount": 46424.71,
+        "outflow_amount": 30351.07,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 3,
+        "inflow_amount": 40128.39,
+        "outflow_amount": 21638.75,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 4,
+        "inflow_amount": 36413.98,
+        "outflow_amount": 24053.92,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 3,
+        "inflow_amount": 42509.62,
+        "outflow_amount": 24852.11,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 2,
+        "inflow_amount": 24370.72,
+        "outflow_amount": 12113.13,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 1,
+        "inflow_amount": 14261.0,
+        "outflow_amount": 8613.31,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 4,
+        "inflow_amount": 44256.78,
+        "outflow_amount": 29367.48,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 4,
+        "inflow_amount": 43914.63,
+        "outflow_amount": 24954.59,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 4,
+        "inflow_amount": 46153.56,
+        "outflow_amount": 22817.69,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 3,
+        "inflow_amount": 46261.97,
+        "outflow_amount": 25986.79,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 3,
+        "inflow_amount": 42801.17,
+        "outflow_amount": 22676.84,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 2,
+        "inflow_amount": 23528.36,
+        "outflow_amount": 14300.34,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 1,
+        "inflow_amount": 15214.14,
+        "outflow_amount": 7766.05,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 3,
+        "inflow_amount": 42428.37,
+        "outflow_amount": 27338.13,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 3,
+        "inflow_amount": 36631.52,
+        "outflow_amount": 18357.09,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 4,
+        "inflow_amount": 40851.8,
+        "outflow_amount": 24962.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 4,
+        "inflow_amount": 46190.24,
+        "outflow_amount": 23563.95,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 3,
+        "inflow_amount": 38003.07,
+        "outflow_amount": 24633.41,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 2,
+        "inflow_amount": 18578.86,
+        "outflow_amount": 9467.08,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 1,
+        "inflow_amount": 14640.97,
+        "outflow_amount": 8847.47,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 4,
+        "inflow_amount": 46005.09,
+        "outflow_amount": 30452.49,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 3,
+        "inflow_amount": 46208.06,
+        "outflow_amount": 25102.21,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 3,
+        "inflow_amount": 42187.64,
+        "outflow_amount": 25811.74,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 4,
+        "inflow_amount": 38248.11,
+        "outflow_amount": 23653.1,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 3,
+        "inflow_amount": 40983.17,
+        "outflow_amount": 21805.79,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 2,
+        "inflow_amount": 19328.87,
+        "outflow_amount": 11587.24,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 1,
+        "inflow_amount": 13767.35,
+        "outflow_amount": 9105.12,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 4,
+        "inflow_amount": 44936.25,
+        "outflow_amount": 29404.02,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 3,
+        "inflow_amount": 45618.21,
+        "outflow_amount": 24957.61,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 4,
+        "inflow_amount": 46168.22,
+        "outflow_amount": 23551.62,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 3,
+        "inflow_amount": 42744.11,
+        "outflow_amount": 21154.0,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 3,
+        "inflow_amount": 40630.65,
+        "outflow_amount": 25502.75,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 2,
+        "inflow_amount": 22343.24,
+        "outflow_amount": 13758.8,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 1,
+        "inflow_amount": 13856.92,
+        "outflow_amount": 7888.55,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 2,
+        "inflow_amount": 34790.29,
+        "outflow_amount": 19541.2,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 3,
+        "inflow_amount": 35806.7,
+        "outflow_amount": 19571.72,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 3,
+        "inflow_amount": 39789.47,
+        "outflow_amount": 21609.21,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 3,
+        "inflow_amount": 40797.18,
+        "outflow_amount": 20927.03,
+        "merchant_category": "Furniture & Home Goods"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 3,
+        "inflow_amount": 46581.88,
+        "outflow_amount": 25443.43,
+        "merchant_category": "Furniture & Home Goods"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 59,
+        "inflow_amount": 740190.66,
+        "outflow_amount": 432442.55
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 61,
+        "inflow_amount": 785578.87,
+        "outflow_amount": 458822.06
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 63,
+        "inflow_amount": 769877.51,
+        "outflow_amount": 440224.7
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 63,
+        "inflow_amount": 791168.35,
+        "outflow_amount": 460593.31
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 69,
+        "inflow_amount": 891563.62,
+        "outflow_amount": 520817.71
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 63,
+        "inflow_amount": 843177.67,
+        "outflow_amount": 483612.1
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 70,
+        "inflow_amount": 852330.81,
+        "outflow_amount": 491723.69
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 79,
+        "inflow_amount": 979746.1,
+        "outflow_amount": 566616.7
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 73,
+        "inflow_amount": 924708.23,
+        "outflow_amount": 530214.27
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 80,
+        "inflow_amount": 1044983.25,
+        "outflow_amount": 604854.14
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 88,
+        "inflow_amount": 1105734.1,
+        "outflow_amount": 632865.2
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 87,
+        "inflow_amount": 1112075.44,
+        "outflow_amount": 631545.27
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 468418.3
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 466090.62
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 452852.62
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 420315.7
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 431426.06
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 430857.03
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 419286.55
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 410404.44
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 417448.2
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 421265.55
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 405040.91
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 395360.19
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 398089.74
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 396930.48
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 402898.92
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 407648.09
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 409647.3
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 437628.9
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 441129.3
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 418382.66
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 443013.76
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 438843.15
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 427721.41
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 413267.56
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 441802.42
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 424902.33
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 410185.08
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 419526.17
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 423602.76
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 428442.59
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 422338.41
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 424870.81
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 406778.96
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 418003.36
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 438818.8
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 464471.5
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 463258.44
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 465152.82
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 477340.21
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 471011.45
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 452935.38
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 477022.23
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 493157.06
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 510485.84
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 499829.69
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 492787.84
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 486413.62
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 465607.57
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 484900.92
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 460355.15
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 470195.25
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 472934.24
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 484884.4
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 529193.88
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 548516.78
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 557092.32
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 541908.27
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 507481.47
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 484826.34
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 508603.71
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 546258.92
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 555312.14
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 562733.51
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 565128.25
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 566467.53
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 586622.04
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 603623.58
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 568265.53
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 561955.14
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 561620.68
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 558915.68
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 556381.87
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 573208.73
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 572388.27
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 527080.91
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 541421.14
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 507091.7
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 498937.99
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 517373.26
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 511913.18
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 507545.54
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 457913.58
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 470006.39
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 441002.26
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 456695.49
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 451726.88
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 434684.63
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 426413.28
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 431888.58
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 433966.69
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 424415.53
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 452738.07
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 438717.34
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 468051.13
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 451206.92
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 458155.65
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 438364.23
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 428451.75
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 457360.09
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 470849.68
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 445086.94
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 481282.57
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 501610.23
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 474876.34
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 495166.0
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 513569.58
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 523590.15
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 529467.7
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 503398.81
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 498726.12
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 511879.4
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 522236.25
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 502110.64
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 485317.96
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 459575.6
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 482981.2
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 503021.41
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 485475.63
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 500195.93
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 515301.52
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 505622.61
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 501841.02
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 486967.9
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 503749.62
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 533304.86
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 537584.32
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 522769.41
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 551596.39
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 535593.4
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 579134.6
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 577766.86
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 577590.32
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 599388.23
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 578985.65
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 588544.52
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 590114.36
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 591262.17
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 597387.25
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 587325.0
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 593867.3
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 595701.96
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 578794.39
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 555446.85
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 579383.11
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 632387.84
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 624723.75
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 652449.27
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 654458.09
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 635101.11
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 649189.54
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 662156.11
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 680693.2
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 648958.12
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 648893.11
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 663652.7
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 652195.27
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 646282.77
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 644671.37
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 648516.1
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 618241.71
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 600982.66
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 617759.07
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 595626.12
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 619126.63
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 625645.74
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 602304.14
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 583194.72
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 560367.8
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 587410.4
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 621388.53
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 623110.18
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 647227.43
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 636118.82
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 624085.78
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 592222.21
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 583991.02
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 586851.81
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 593081.03
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 581782.91
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 592786.36
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 569923.44
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 536677.72
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 537541.68
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 551261.88
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 568956.08
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 565854.15
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 575361.5
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 580137.51
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 550488.16
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 561062.5
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 565860.23
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 591452.64
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 623189.81
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 643497.29
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 673144.6
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 665312.39
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 665250.23
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 607063.64
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 617595.26
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 605437.89
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 604695.78
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 586630.14
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 575075.49
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 597684.12
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 586743.99
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 589022.15
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 594419.17
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 587471.16
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 560245.84
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 568932.73
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 607750.98
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 600695.23
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 560565.29
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 566164.48
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 622480.32
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 578996.04
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 558028.9
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 596157.37
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 631081.36
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 612426.67
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 613772.2
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 659089.53
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 666110.23
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 647132.58
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 637609.28
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 635364.84
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 642193.39
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 635238.37
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 632637.87
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 610169.3
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 614998.78
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 571195.66
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 567354.48
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 574434.35
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 593201.14
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 593345.42
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 592495.51
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 590928.79
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 617702.56
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 619895.19
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 620804.54
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 598382.83
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 582335.11
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 553514.73
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 559140.67
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 577299.94
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 570172.76
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 584342.87
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 581780.38
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 594623.78
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 585165.06
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 542210.07
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 537045.63
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 561190.97
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 542842.89
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 572693.55
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 556871.07
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 543160.82
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 538388.72
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 530733.72
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 542332.24
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 551961.8
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 517242.68
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 540398.07
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 539405.28
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 559833.97
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 564021.05
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 570194.14
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 578604.42
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 562613.88
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 571980.3
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 578838.5
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 560763.75
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 551789.16
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 572900.61
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 587045.44
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 636533.92
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 656307.31
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 662309.25
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 655593.26
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 711142.34
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 715504.33
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 693835.81
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 696152.37
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 682662.16
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 714568.82
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 723718.31
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 726612.05
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 767118.27
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 775229.79
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 753665.58
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 736480.93
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 706951.62
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 740371.12
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 723408.31
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 725051.85
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 718233.01
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 684633.15
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 717993.06
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 713965.32
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 723614.09
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 723716.01
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 753185.62
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 745005.78
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 738697.59
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 748240.17
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 745742.27
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 765050.27
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 726749.06
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 672254.43
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 663966.51
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 694782.33
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 666432.95
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 667211.38
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 727564.11
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 770478.46
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 780965.25
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 760115.5
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 757607.26
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 759414.55
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 763488.75
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 753005.04
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 751128.69
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 752914.62
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 742510.56
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 741232.93
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 715331.39
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 739628.32
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 750068.1
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 710661.22
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 722270.56
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 737212.79
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 689415.14
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 681427.27
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 674717.73
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 646514.39
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 638513.41
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 655740.21
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 651235.1
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 663652.93
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 627412.59
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 600085.77
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 608800.22
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 582477.1
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 578389.46
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 574363.23
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 593105.5
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 614782.4
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 607881.34
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 591766.48
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 620570.62
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 644032.64
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 666719.76
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 649109.57
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 654213.15
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 619265.05
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 634907.97
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 670164.54
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 609303.64
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 607742.68
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 600696.23
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 590269.27
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 621008.96
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 604865.77
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 615858.65
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 422338.41,
+        "average_balance": 424024.75,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 546258.92,
+        "average_balance": 483503.24,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 452738.07,
+        "average_balance": 512433.49,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 501841.02,
+        "average_balance": 485116.35,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 648958.12,
+        "average_balance": 589754.05,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 551261.88,
+        "average_balance": 606223.26,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 600695.23,
+        "average_balance": 597108.24,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 582335.11,
+        "average_balance": 607815.88,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 560763.75,
+        "average_balance": 558978.92,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 745005.78,
+        "average_balance": 699848.34,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 681427.27,
+        "average_balance": 729852.25,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 615858.65,
+        "average_balance": 623166.66,
+        "bounced_payments_count": 0
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2026-03-12",
+        "amount": 118121.38,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 17,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 16,
+        "expected_contribution": 58967.61,
+        "contribution_paid": 58967.61,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 16,
+        "expected_contribution": 59016.7,
+        "contribution_paid": 59016.7,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 16,
+        "expected_contribution": 56106.15,
+        "contribution_paid": 56106.15,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 16,
+        "expected_contribution": 56704.98,
+        "contribution_paid": 56704.98,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 17,
+        "expected_contribution": 60504.7,
+        "contribution_paid": 60504.7,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 17,
+        "expected_contribution": 60274.09,
+        "contribution_paid": 60274.09,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 17,
+        "expected_contribution": 61141.32,
+        "contribution_paid": 61141.32,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 17,
+        "expected_contribution": 62151.62,
+        "contribution_paid": 62151.62,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 17,
+        "expected_contribution": 60083.25,
+        "contribution_paid": 60083.25,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 17,
+        "expected_contribution": 61687.1,
+        "contribution_paid": 61687.1,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 17,
+        "expected_contribution": 62638.9,
+        "contribution_paid": 62638.9,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 17,
+        "expected_contribution": 61382.45,
+        "contribution_paid": 61382.45,
+        "status": "on_time"
+      }
+    ]
+  }
+}

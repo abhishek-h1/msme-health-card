@@ -1,0 +1,4451 @@
+{
+  "business_id": "MSME-006",
+  "name": "Prime Auto Components",
+  "sector": "Auto Parts Trading",
+  "archetype": "declining_on_paper",
+  "registration_type": "partnership",
+  "period": {
+    "start": "2025-08",
+    "end": "2026-07",
+    "months": [
+      "2025-08",
+      "2025-09",
+      "2025-10",
+      "2025-11",
+      "2025-12",
+      "2026-01",
+      "2026-02",
+      "2026-03",
+      "2026-04",
+      "2026-05",
+      "2026-06",
+      "2026-07"
+    ]
+  },
+  "gst": {
+    "gstin_registered": true,
+    "registered_since": "2025-08",
+    "filings": [
+      {
+        "month": "2025-08",
+        "turnover_reported": 2564175.38,
+        "due_date": "2025-09-20",
+        "filing_date": "2025-09-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-09",
+        "turnover_reported": 2602723.13,
+        "due_date": "2025-10-20",
+        "filing_date": "2025-10-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-10",
+        "turnover_reported": 2509084.36,
+        "due_date": "2025-11-20",
+        "filing_date": "2025-11-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-11",
+        "turnover_reported": 2465513.24,
+        "due_date": "2025-12-20",
+        "filing_date": "2025-12-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2025-12",
+        "turnover_reported": 2655082.95,
+        "due_date": "2026-01-20",
+        "filing_date": "2026-01-17",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-01",
+        "turnover_reported": 2679654.7,
+        "due_date": "2026-02-20",
+        "filing_date": "2026-02-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-02",
+        "turnover_reported": 2600825.76,
+        "due_date": "2026-03-20",
+        "filing_date": "2026-03-28",
+        "status": "filed_late",
+        "days_late": 8
+      },
+      {
+        "month": "2026-03",
+        "turnover_reported": 2584737.21,
+        "due_date": "2026-04-20",
+        "filing_date": "2026-04-15",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-04",
+        "turnover_reported": 2176029.79,
+        "due_date": "2026-05-20",
+        "filing_date": "2026-05-18",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-05",
+        "turnover_reported": 1958971.47,
+        "due_date": "2026-06-20",
+        "filing_date": "2026-06-19",
+        "status": "filed_on_time",
+        "days_late": 0
+      },
+      {
+        "month": "2026-06",
+        "turnover_reported": 1555596.85,
+        "due_date": "2026-07-20",
+        "filing_date": "2026-07-30",
+        "status": "filed_late",
+        "days_late": 10
+      },
+      {
+        "month": "2026-07",
+        "turnover_reported": 1252298.78,
+        "due_date": "2026-08-20",
+        "filing_date": null,
+        "status": "missed",
+        "days_late": null
+      }
+    ]
+  },
+  "upi": {
+    "merchant_category": "Automotive Parts",
+    "daily_transactions": [
+      {
+        "date": "2025-08-01",
+        "txn_count": 19,
+        "inflow_amount": 36918.79,
+        "outflow_amount": 23282.61,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-02",
+        "txn_count": 12,
+        "inflow_amount": 23826.1,
+        "outflow_amount": 15263.35,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-03",
+        "txn_count": 7,
+        "inflow_amount": 15652.86,
+        "outflow_amount": 10644.82,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-04",
+        "txn_count": 19,
+        "inflow_amount": 46106.53,
+        "outflow_amount": 32783.27,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-05",
+        "txn_count": 20,
+        "inflow_amount": 43753.41,
+        "outflow_amount": 30151.36,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-06",
+        "txn_count": 19,
+        "inflow_amount": 44486.16,
+        "outflow_amount": 27096.44,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-07",
+        "txn_count": 22,
+        "inflow_amount": 40673.39,
+        "outflow_amount": 25522.86,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-08",
+        "txn_count": 16,
+        "inflow_amount": 36519.1,
+        "outflow_amount": 25432.66,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-09",
+        "txn_count": 11,
+        "inflow_amount": 22122.41,
+        "outflow_amount": 15673.16,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-10",
+        "txn_count": 6,
+        "inflow_amount": 13693.83,
+        "outflow_amount": 8504.74,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-11",
+        "txn_count": 16,
+        "inflow_amount": 39365.69,
+        "outflow_amount": 26738.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-12",
+        "txn_count": 16,
+        "inflow_amount": 35429.38,
+        "outflow_amount": 20376.19,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-13",
+        "txn_count": 20,
+        "inflow_amount": 42138.04,
+        "outflow_amount": 26970.8,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-14",
+        "txn_count": 17,
+        "inflow_amount": 43555.26,
+        "outflow_amount": 22968.87,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-15",
+        "txn_count": 15,
+        "inflow_amount": 36819.07,
+        "outflow_amount": 25255.41,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-16",
+        "txn_count": 10,
+        "inflow_amount": 20494.51,
+        "outflow_amount": 11481.3,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-17",
+        "txn_count": 9,
+        "inflow_amount": 16427.16,
+        "outflow_amount": 11068.1,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-18",
+        "txn_count": 16,
+        "inflow_amount": 43142.9,
+        "outflow_amount": 23473.59,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-19",
+        "txn_count": 21,
+        "inflow_amount": 44385.49,
+        "outflow_amount": 29362.17,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-20",
+        "txn_count": 21,
+        "inflow_amount": 38774.23,
+        "outflow_amount": 26164.25,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-21",
+        "txn_count": 18,
+        "inflow_amount": 38357.4,
+        "outflow_amount": 27244.69,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-22",
+        "txn_count": 19,
+        "inflow_amount": 39022.49,
+        "outflow_amount": 27466.15,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-23",
+        "txn_count": 12,
+        "inflow_amount": 23237.15,
+        "outflow_amount": 12400.49,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-24",
+        "txn_count": 5,
+        "inflow_amount": 12347.4,
+        "outflow_amount": 8162.54,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-25",
+        "txn_count": 22,
+        "inflow_amount": 46664.73,
+        "outflow_amount": 33210.27,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-26",
+        "txn_count": 15,
+        "inflow_amount": 36154.18,
+        "outflow_amount": 22377.5,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-27",
+        "txn_count": 18,
+        "inflow_amount": 46954.6,
+        "outflow_amount": 27765.64,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-28",
+        "txn_count": 21,
+        "inflow_amount": 46368.1,
+        "outflow_amount": 30906.35,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-29",
+        "txn_count": 16,
+        "inflow_amount": 41627.39,
+        "outflow_amount": 25222.05,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-30",
+        "txn_count": 8,
+        "inflow_amount": 19173.36,
+        "outflow_amount": 11493.88,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-08-31",
+        "txn_count": 7,
+        "inflow_amount": 15607.58,
+        "outflow_amount": 8480.68,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-01",
+        "txn_count": 21,
+        "inflow_amount": 44638.41,
+        "outflow_amount": 25114.63,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-02",
+        "txn_count": 16,
+        "inflow_amount": 40332.5,
+        "outflow_amount": 26152.65,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-03",
+        "txn_count": 19,
+        "inflow_amount": 37808.96,
+        "outflow_amount": 19925.62,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-04",
+        "txn_count": 14,
+        "inflow_amount": 38758.76,
+        "outflow_amount": 23776.45,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-05",
+        "txn_count": 18,
+        "inflow_amount": 36014.92,
+        "outflow_amount": 20045.56,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-06",
+        "txn_count": 8,
+        "inflow_amount": 17724.23,
+        "outflow_amount": 12302.82,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-07",
+        "txn_count": 5,
+        "inflow_amount": 13343.89,
+        "outflow_amount": 9503.07,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-08",
+        "txn_count": 20,
+        "inflow_amount": 42185.23,
+        "outflow_amount": 27596.61,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-09",
+        "txn_count": 25,
+        "inflow_amount": 45080.21,
+        "outflow_amount": 29281.21,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-10",
+        "txn_count": 14,
+        "inflow_amount": 38191.71,
+        "outflow_amount": 21012.17,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-11",
+        "txn_count": 19,
+        "inflow_amount": 44869.59,
+        "outflow_amount": 27636.58,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-12",
+        "txn_count": 17,
+        "inflow_amount": 35244.48,
+        "outflow_amount": 18802.6,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-13",
+        "txn_count": 9,
+        "inflow_amount": 22463.79,
+        "outflow_amount": 13256.4,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-14",
+        "txn_count": 5,
+        "inflow_amount": 13402.63,
+        "outflow_amount": 7197.15,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-15",
+        "txn_count": 26,
+        "inflow_amount": 45540.88,
+        "outflow_amount": 31914.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-16",
+        "txn_count": 17,
+        "inflow_amount": 37394.58,
+        "outflow_amount": 20277.69,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-17",
+        "txn_count": 17,
+        "inflow_amount": 37229.06,
+        "outflow_amount": 22249.04,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-18",
+        "txn_count": 13,
+        "inflow_amount": 34696.08,
+        "outflow_amount": 20755.73,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-19",
+        "txn_count": 19,
+        "inflow_amount": 41280.76,
+        "outflow_amount": 26503.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-20",
+        "txn_count": 11,
+        "inflow_amount": 22025.31,
+        "outflow_amount": 13937.35,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-21",
+        "txn_count": 7,
+        "inflow_amount": 15636.75,
+        "outflow_amount": 10904.49,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-22",
+        "txn_count": 21,
+        "inflow_amount": 39431.15,
+        "outflow_amount": 25970.85,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-23",
+        "txn_count": 14,
+        "inflow_amount": 34617.82,
+        "outflow_amount": 21589.69,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-24",
+        "txn_count": 19,
+        "inflow_amount": 39980.57,
+        "outflow_amount": 26367.17,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-25",
+        "txn_count": 15,
+        "inflow_amount": 35674.66,
+        "outflow_amount": 23054.08,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-26",
+        "txn_count": 24,
+        "inflow_amount": 44028.08,
+        "outflow_amount": 25027.68,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-27",
+        "txn_count": 8,
+        "inflow_amount": 18048.64,
+        "outflow_amount": 11113.98,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-28",
+        "txn_count": 7,
+        "inflow_amount": 12330.51,
+        "outflow_amount": 8560.58,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-29",
+        "txn_count": 13,
+        "inflow_amount": 34830.08,
+        "outflow_amount": 19026.11,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-09-30",
+        "txn_count": 19,
+        "inflow_amount": 42680.01,
+        "outflow_amount": 29920.0,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-01",
+        "txn_count": 15,
+        "inflow_amount": 34295.97,
+        "outflow_amount": 19634.15,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-02",
+        "txn_count": 13,
+        "inflow_amount": 36167.2,
+        "outflow_amount": 19139.43,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-03",
+        "txn_count": 22,
+        "inflow_amount": 42230.29,
+        "outflow_amount": 26842.09,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-04",
+        "txn_count": 8,
+        "inflow_amount": 18227.89,
+        "outflow_amount": 12081.97,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-05",
+        "txn_count": 6,
+        "inflow_amount": 13564.07,
+        "outflow_amount": 9219.5,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-06",
+        "txn_count": 19,
+        "inflow_amount": 38093.23,
+        "outflow_amount": 20605.84,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-07",
+        "txn_count": 18,
+        "inflow_amount": 43041.56,
+        "outflow_amount": 30018.68,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-08",
+        "txn_count": 17,
+        "inflow_amount": 36662.18,
+        "outflow_amount": 24549.79,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-09",
+        "txn_count": 20,
+        "inflow_amount": 36440.95,
+        "outflow_amount": 25425.39,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-10",
+        "txn_count": 16,
+        "inflow_amount": 41061.75,
+        "outflow_amount": 22833.26,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-11",
+        "txn_count": 10,
+        "inflow_amount": 18298.01,
+        "outflow_amount": 11109.01,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-12",
+        "txn_count": 6,
+        "inflow_amount": 13742.31,
+        "outflow_amount": 7881.43,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-13",
+        "txn_count": 15,
+        "inflow_amount": 33265.75,
+        "outflow_amount": 19195.98,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-14",
+        "txn_count": 14,
+        "inflow_amount": 35330.08,
+        "outflow_amount": 22451.3,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-15",
+        "txn_count": 22,
+        "inflow_amount": 43254.68,
+        "outflow_amount": 24135.62,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-16",
+        "txn_count": 21,
+        "inflow_amount": 42158.52,
+        "outflow_amount": 23440.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-17",
+        "txn_count": 20,
+        "inflow_amount": 42013.58,
+        "outflow_amount": 26871.37,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-18",
+        "txn_count": 8,
+        "inflow_amount": 18370.76,
+        "outflow_amount": 13048.23,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-19",
+        "txn_count": 8,
+        "inflow_amount": 14437.22,
+        "outflow_amount": 10156.32,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-20",
+        "txn_count": 17,
+        "inflow_amount": 38777.37,
+        "outflow_amount": 23282.56,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-21",
+        "txn_count": 12,
+        "inflow_amount": 34425.14,
+        "outflow_amount": 18943.59,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-22",
+        "txn_count": 18,
+        "inflow_amount": 34341.77,
+        "outflow_amount": 21129.58,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-23",
+        "txn_count": 14,
+        "inflow_amount": 38123.85,
+        "outflow_amount": 22733.69,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-24",
+        "txn_count": 23,
+        "inflow_amount": 41793.65,
+        "outflow_amount": 26839.58,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-25",
+        "txn_count": 8,
+        "inflow_amount": 20357.17,
+        "outflow_amount": 11484.28,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-26",
+        "txn_count": 8,
+        "inflow_amount": 14531.26,
+        "outflow_amount": 9036.9,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-27",
+        "txn_count": 15,
+        "inflow_amount": 39530.41,
+        "outflow_amount": 24375.07,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-28",
+        "txn_count": 21,
+        "inflow_amount": 37550.74,
+        "outflow_amount": 26226.14,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-29",
+        "txn_count": 14,
+        "inflow_amount": 33961.68,
+        "outflow_amount": 18997.06,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-30",
+        "txn_count": 14,
+        "inflow_amount": 36150.39,
+        "outflow_amount": 24935.63,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-10-31",
+        "txn_count": 17,
+        "inflow_amount": 34243.97,
+        "outflow_amount": 24120.66,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-01",
+        "txn_count": 10,
+        "inflow_amount": 20745.74,
+        "outflow_amount": 12193.67,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-02",
+        "txn_count": 5,
+        "inflow_amount": 13679.74,
+        "outflow_amount": 8651.19,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-03",
+        "txn_count": 19,
+        "inflow_amount": 36774.2,
+        "outflow_amount": 21208.31,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-04",
+        "txn_count": 20,
+        "inflow_amount": 46128.92,
+        "outflow_amount": 25905.29,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-05",
+        "txn_count": 21,
+        "inflow_amount": 41234.15,
+        "outflow_amount": 26136.46,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-06",
+        "txn_count": 19,
+        "inflow_amount": 41333.63,
+        "outflow_amount": 29417.7,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-07",
+        "txn_count": 17,
+        "inflow_amount": 37886.06,
+        "outflow_amount": 25201.87,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-08",
+        "txn_count": 10,
+        "inflow_amount": 23841.99,
+        "outflow_amount": 14523.45,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-09",
+        "txn_count": 6,
+        "inflow_amount": 13825.93,
+        "outflow_amount": 7490.36,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-10",
+        "txn_count": 22,
+        "inflow_amount": 38402.43,
+        "outflow_amount": 25624.14,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-11",
+        "txn_count": 20,
+        "inflow_amount": 39104.22,
+        "outflow_amount": 23261.01,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-12",
+        "txn_count": 17,
+        "inflow_amount": 38555.54,
+        "outflow_amount": 23047.5,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-13",
+        "txn_count": 23,
+        "inflow_amount": 43469.78,
+        "outflow_amount": 30327.71,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-14",
+        "txn_count": 16,
+        "inflow_amount": 44661.96,
+        "outflow_amount": 25778.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-15",
+        "txn_count": 10,
+        "inflow_amount": 20886.69,
+        "outflow_amount": 12729.96,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-16",
+        "txn_count": 9,
+        "inflow_amount": 15385.14,
+        "outflow_amount": 9576.0,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-17",
+        "txn_count": 19,
+        "inflow_amount": 46355.74,
+        "outflow_amount": 24613.98,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-18",
+        "txn_count": 24,
+        "inflow_amount": 46048.06,
+        "outflow_amount": 30635.54,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-19",
+        "txn_count": 18,
+        "inflow_amount": 45291.36,
+        "outflow_amount": 27032.73,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-20",
+        "txn_count": 17,
+        "inflow_amount": 37493.27,
+        "outflow_amount": 20302.51,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-21",
+        "txn_count": 19,
+        "inflow_amount": 45663.85,
+        "outflow_amount": 25561.64,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-22",
+        "txn_count": 10,
+        "inflow_amount": 20592.17,
+        "outflow_amount": 12107.0,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-23",
+        "txn_count": 9,
+        "inflow_amount": 16283.95,
+        "outflow_amount": 11609.5,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-24",
+        "txn_count": 16,
+        "inflow_amount": 38571.76,
+        "outflow_amount": 24052.6,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-25",
+        "txn_count": 15,
+        "inflow_amount": 35493.86,
+        "outflow_amount": 21105.85,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-26",
+        "txn_count": 20,
+        "inflow_amount": 38753.96,
+        "outflow_amount": 26272.42,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-27",
+        "txn_count": 18,
+        "inflow_amount": 42500.51,
+        "outflow_amount": 27239.75,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-28",
+        "txn_count": 20,
+        "inflow_amount": 44458.25,
+        "outflow_amount": 26195.54,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-29",
+        "txn_count": 10,
+        "inflow_amount": 24501.36,
+        "outflow_amount": 16219.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-11-30",
+        "txn_count": 7,
+        "inflow_amount": 12796.31,
+        "outflow_amount": 8030.85,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-01",
+        "txn_count": 19,
+        "inflow_amount": 42357.06,
+        "outflow_amount": 25255.49,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-02",
+        "txn_count": 17,
+        "inflow_amount": 36715.31,
+        "outflow_amount": 20450.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-03",
+        "txn_count": 25,
+        "inflow_amount": 45371.8,
+        "outflow_amount": 27244.69,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-04",
+        "txn_count": 14,
+        "inflow_amount": 34448.98,
+        "outflow_amount": 20826.84,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-05",
+        "txn_count": 17,
+        "inflow_amount": 41428.54,
+        "outflow_amount": 24953.54,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-06",
+        "txn_count": 9,
+        "inflow_amount": 17743.87,
+        "outflow_amount": 12214.86,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-07",
+        "txn_count": 7,
+        "inflow_amount": 12914.43,
+        "outflow_amount": 8767.11,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-08",
+        "txn_count": 16,
+        "inflow_amount": 35881.09,
+        "outflow_amount": 23562.14,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-09",
+        "txn_count": 15,
+        "inflow_amount": 41532.01,
+        "outflow_amount": 24325.92,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-10",
+        "txn_count": 14,
+        "inflow_amount": 35192.12,
+        "outflow_amount": 18816.56,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-11",
+        "txn_count": 14,
+        "inflow_amount": 35077.16,
+        "outflow_amount": 22289.06,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-12",
+        "txn_count": 21,
+        "inflow_amount": 44744.69,
+        "outflow_amount": 27156.27,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-13",
+        "txn_count": 8,
+        "inflow_amount": 19011.3,
+        "outflow_amount": 11673.21,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-14",
+        "txn_count": 7,
+        "inflow_amount": 15809.06,
+        "outflow_amount": 9029.67,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-15",
+        "txn_count": 24,
+        "inflow_amount": 42704.4,
+        "outflow_amount": 29843.6,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-16",
+        "txn_count": 21,
+        "inflow_amount": 45876.25,
+        "outflow_amount": 26380.46,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-17",
+        "txn_count": 18,
+        "inflow_amount": 38239.5,
+        "outflow_amount": 20432.74,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-18",
+        "txn_count": 18,
+        "inflow_amount": 36826.8,
+        "outflow_amount": 24762.86,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-19",
+        "txn_count": 16,
+        "inflow_amount": 41362.34,
+        "outflow_amount": 27072.57,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-20",
+        "txn_count": 11,
+        "inflow_amount": 23855.09,
+        "outflow_amount": 12820.61,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-21",
+        "txn_count": 6,
+        "inflow_amount": 15108.73,
+        "outflow_amount": 7986.35,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-22",
+        "txn_count": 23,
+        "inflow_amount": 45006.89,
+        "outflow_amount": 25959.65,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-23",
+        "txn_count": 19,
+        "inflow_amount": 39080.9,
+        "outflow_amount": 22949.29,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-24",
+        "txn_count": 17,
+        "inflow_amount": 36927.19,
+        "outflow_amount": 24252.28,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-25",
+        "txn_count": 14,
+        "inflow_amount": 37453.99,
+        "outflow_amount": 20601.22,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-26",
+        "txn_count": 18,
+        "inflow_amount": 36709.53,
+        "outflow_amount": 25484.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-27",
+        "txn_count": 10,
+        "inflow_amount": 21916.42,
+        "outflow_amount": 12970.75,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-28",
+        "txn_count": 7,
+        "inflow_amount": 13909.36,
+        "outflow_amount": 8012.22,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-29",
+        "txn_count": 18,
+        "inflow_amount": 42471.42,
+        "outflow_amount": 27774.18,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-30",
+        "txn_count": 17,
+        "inflow_amount": 36614.79,
+        "outflow_amount": 25857.52,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2025-12-31",
+        "txn_count": 18,
+        "inflow_amount": 40819.12,
+        "outflow_amount": 22617.83,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-01",
+        "txn_count": 22,
+        "inflow_amount": 41064.3,
+        "outflow_amount": 24920.73,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-02",
+        "txn_count": 20,
+        "inflow_amount": 43452.55,
+        "outflow_amount": 27343.26,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-03",
+        "txn_count": 11,
+        "inflow_amount": 23587.96,
+        "outflow_amount": 15668.53,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-04",
+        "txn_count": 5,
+        "inflow_amount": 12646.0,
+        "outflow_amount": 8221.76,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-05",
+        "txn_count": 22,
+        "inflow_amount": 44804.74,
+        "outflow_amount": 24414.57,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-06",
+        "txn_count": 14,
+        "inflow_amount": 35469.84,
+        "outflow_amount": 20094.37,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-07",
+        "txn_count": 17,
+        "inflow_amount": 36346.33,
+        "outflow_amount": 22067.58,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-08",
+        "txn_count": 15,
+        "inflow_amount": 37782.66,
+        "outflow_amount": 23974.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-09",
+        "txn_count": 24,
+        "inflow_amount": 43249.93,
+        "outflow_amount": 26314.37,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-10",
+        "txn_count": 11,
+        "inflow_amount": 23431.63,
+        "outflow_amount": 12373.6,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-11",
+        "txn_count": 6,
+        "inflow_amount": 12382.31,
+        "outflow_amount": 7022.87,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-12",
+        "txn_count": 22,
+        "inflow_amount": 45413.92,
+        "outflow_amount": 30321.88,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-13",
+        "txn_count": 18,
+        "inflow_amount": 46239.05,
+        "outflow_amount": 30168.85,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-14",
+        "txn_count": 14,
+        "inflow_amount": 36528.76,
+        "outflow_amount": 19375.75,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-15",
+        "txn_count": 16,
+        "inflow_amount": 35840.5,
+        "outflow_amount": 22219.55,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-16",
+        "txn_count": 20,
+        "inflow_amount": 41428.03,
+        "outflow_amount": 26577.2,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-17",
+        "txn_count": 13,
+        "inflow_amount": 23506.05,
+        "outflow_amount": 16284.43,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-18",
+        "txn_count": 7,
+        "inflow_amount": 14800.1,
+        "outflow_amount": 9524.61,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-19",
+        "txn_count": 15,
+        "inflow_amount": 35804.88,
+        "outflow_amount": 24605.77,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-20",
+        "txn_count": 19,
+        "inflow_amount": 45805.36,
+        "outflow_amount": 30913.21,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-21",
+        "txn_count": 23,
+        "inflow_amount": 41647.37,
+        "outflow_amount": 29652.65,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-22",
+        "txn_count": 13,
+        "inflow_amount": 35667.56,
+        "outflow_amount": 19279.31,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-23",
+        "txn_count": 20,
+        "inflow_amount": 39355.32,
+        "outflow_amount": 27912.57,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-24",
+        "txn_count": 11,
+        "inflow_amount": 22352.3,
+        "outflow_amount": 12294.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-25",
+        "txn_count": 6,
+        "inflow_amount": 13814.3,
+        "outflow_amount": 8513.22,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-26",
+        "txn_count": 23,
+        "inflow_amount": 42808.02,
+        "outflow_amount": 29100.62,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-27",
+        "txn_count": 20,
+        "inflow_amount": 46185.87,
+        "outflow_amount": 27365.21,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-28",
+        "txn_count": 18,
+        "inflow_amount": 45373.3,
+        "outflow_amount": 27472.99,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-29",
+        "txn_count": 20,
+        "inflow_amount": 45889.61,
+        "outflow_amount": 28359.54,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-30",
+        "txn_count": 22,
+        "inflow_amount": 40367.43,
+        "outflow_amount": 28753.33,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-01-31",
+        "txn_count": 9,
+        "inflow_amount": 19269.41,
+        "outflow_amount": 11802.53,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-01",
+        "txn_count": 8,
+        "inflow_amount": 14321.91,
+        "outflow_amount": 10075.99,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-02",
+        "txn_count": 17,
+        "inflow_amount": 39777.84,
+        "outflow_amount": 27705.36,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-03",
+        "txn_count": 23,
+        "inflow_amount": 43634.98,
+        "outflow_amount": 23964.79,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-04",
+        "txn_count": 16,
+        "inflow_amount": 43117.45,
+        "outflow_amount": 25090.44,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-05",
+        "txn_count": 21,
+        "inflow_amount": 41012.97,
+        "outflow_amount": 25237.91,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-06",
+        "txn_count": 19,
+        "inflow_amount": 41116.22,
+        "outflow_amount": 26336.45,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-07",
+        "txn_count": 9,
+        "inflow_amount": 20992.97,
+        "outflow_amount": 11646.21,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-08",
+        "txn_count": 7,
+        "inflow_amount": 17216.12,
+        "outflow_amount": 9472.22,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-09",
+        "txn_count": 25,
+        "inflow_amount": 49449.5,
+        "outflow_amount": 29003.23,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-10",
+        "txn_count": 21,
+        "inflow_amount": 40091.31,
+        "outflow_amount": 22715.72,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-11",
+        "txn_count": 18,
+        "inflow_amount": 38904.67,
+        "outflow_amount": 21723.37,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-12",
+        "txn_count": 23,
+        "inflow_amount": 49752.04,
+        "outflow_amount": 26439.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-13",
+        "txn_count": 21,
+        "inflow_amount": 43994.26,
+        "outflow_amount": 26139.29,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-14",
+        "txn_count": 8,
+        "inflow_amount": 19856.19,
+        "outflow_amount": 14102.03,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-15",
+        "txn_count": 7,
+        "inflow_amount": 14107.65,
+        "outflow_amount": 7539.49,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-16",
+        "txn_count": 20,
+        "inflow_amount": 50406.94,
+        "outflow_amount": 35751.09,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-17",
+        "txn_count": 16,
+        "inflow_amount": 39063.95,
+        "outflow_amount": 26551.69,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-18",
+        "txn_count": 18,
+        "inflow_amount": 43331.18,
+        "outflow_amount": 28403.62,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-19",
+        "txn_count": 21,
+        "inflow_amount": 48047.07,
+        "outflow_amount": 26134.16,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-20",
+        "txn_count": 22,
+        "inflow_amount": 46372.56,
+        "outflow_amount": 30497.19,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-21",
+        "txn_count": 11,
+        "inflow_amount": 20880.77,
+        "outflow_amount": 11055.19,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-22",
+        "txn_count": 8,
+        "inflow_amount": 17600.65,
+        "outflow_amount": 10144.08,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-23",
+        "txn_count": 19,
+        "inflow_amount": 48553.84,
+        "outflow_amount": 28463.11,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-24",
+        "txn_count": 22,
+        "inflow_amount": 41031.76,
+        "outflow_amount": 23919.31,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-25",
+        "txn_count": 17,
+        "inflow_amount": 41501.77,
+        "outflow_amount": 26065.77,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-26",
+        "txn_count": 22,
+        "inflow_amount": 49095.3,
+        "outflow_amount": 26954.7,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-27",
+        "txn_count": 27,
+        "inflow_amount": 48921.21,
+        "outflow_amount": 31461.23,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-02-28",
+        "txn_count": 14,
+        "inflow_amount": 24177.22,
+        "outflow_amount": 16616.93,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-01",
+        "txn_count": 5,
+        "inflow_amount": 12506.51,
+        "outflow_amount": 8660.65,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-02",
+        "txn_count": 19,
+        "inflow_amount": 34034.23,
+        "outflow_amount": 21978.93,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-03",
+        "txn_count": 21,
+        "inflow_amount": 43072.89,
+        "outflow_amount": 29848.49,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-04",
+        "txn_count": 15,
+        "inflow_amount": 39725.48,
+        "outflow_amount": 21082.64,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-05",
+        "txn_count": 19,
+        "inflow_amount": 40682.38,
+        "outflow_amount": 28669.07,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-06",
+        "txn_count": 17,
+        "inflow_amount": 40181.22,
+        "outflow_amount": 21582.88,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-07",
+        "txn_count": 9,
+        "inflow_amount": 24020.55,
+        "outflow_amount": 13604.36,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-08",
+        "txn_count": 5,
+        "inflow_amount": 12916.79,
+        "outflow_amount": 8208.76,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-09",
+        "txn_count": 18,
+        "inflow_amount": 37393.83,
+        "outflow_amount": 25972.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-10",
+        "txn_count": 18,
+        "inflow_amount": 36961.2,
+        "outflow_amount": 21347.48,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-11",
+        "txn_count": 17,
+        "inflow_amount": 39180.51,
+        "outflow_amount": 24301.76,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-12",
+        "txn_count": 14,
+        "inflow_amount": 38886.71,
+        "outflow_amount": 20764.2,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-13",
+        "txn_count": 20,
+        "inflow_amount": 40675.98,
+        "outflow_amount": 25177.18,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-14",
+        "txn_count": 9,
+        "inflow_amount": 20005.06,
+        "outflow_amount": 13442.29,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-15",
+        "txn_count": 5,
+        "inflow_amount": 11970.45,
+        "outflow_amount": 7460.73,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-16",
+        "txn_count": 20,
+        "inflow_amount": 38743.6,
+        "outflow_amount": 20868.94,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-17",
+        "txn_count": 15,
+        "inflow_amount": 40196.0,
+        "outflow_amount": 24176.7,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-18",
+        "txn_count": 20,
+        "inflow_amount": 38731.06,
+        "outflow_amount": 25091.95,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-19",
+        "txn_count": 16,
+        "inflow_amount": 37314.5,
+        "outflow_amount": 23204.21,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-20",
+        "txn_count": 19,
+        "inflow_amount": 36780.17,
+        "outflow_amount": 22710.99,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-21",
+        "txn_count": 12,
+        "inflow_amount": 22231.48,
+        "outflow_amount": 15109.87,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-22",
+        "txn_count": 5,
+        "inflow_amount": 13888.89,
+        "outflow_amount": 7738.45,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-23",
+        "txn_count": 23,
+        "inflow_amount": 43147.13,
+        "outflow_amount": 27693.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-24",
+        "txn_count": 18,
+        "inflow_amount": 40993.3,
+        "outflow_amount": 23361.79,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-25",
+        "txn_count": 17,
+        "inflow_amount": 38131.77,
+        "outflow_amount": 25959.94,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-26",
+        "txn_count": 16,
+        "inflow_amount": 34780.18,
+        "outflow_amount": 19541.67,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-27",
+        "txn_count": 17,
+        "inflow_amount": 35133.24,
+        "outflow_amount": 21742.42,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-28",
+        "txn_count": 12,
+        "inflow_amount": 22673.94,
+        "outflow_amount": 15492.32,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-29",
+        "txn_count": 7,
+        "inflow_amount": 13901.57,
+        "outflow_amount": 8694.17,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-30",
+        "txn_count": 17,
+        "inflow_amount": 40656.43,
+        "outflow_amount": 25841.28,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-03-31",
+        "txn_count": 18,
+        "inflow_amount": 34783.71,
+        "outflow_amount": 22277.33,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-01",
+        "txn_count": 20,
+        "inflow_amount": 37489.78,
+        "outflow_amount": 23651.31,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-02",
+        "txn_count": 18,
+        "inflow_amount": 37019.1,
+        "outflow_amount": 28390.81,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-03",
+        "txn_count": 16,
+        "inflow_amount": 35387.41,
+        "outflow_amount": 29567.64,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-04",
+        "txn_count": 9,
+        "inflow_amount": 20788.15,
+        "outflow_amount": 15947.2,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-05",
+        "txn_count": 7,
+        "inflow_amount": 11530.46,
+        "outflow_amount": 9492.41,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-06",
+        "txn_count": 14,
+        "inflow_amount": 34711.12,
+        "outflow_amount": 24179.01,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-07",
+        "txn_count": 19,
+        "inflow_amount": 37138.29,
+        "outflow_amount": 29111.14,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-08",
+        "txn_count": 15,
+        "inflow_amount": 34926.46,
+        "outflow_amount": 25528.38,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-09",
+        "txn_count": 18,
+        "inflow_amount": 38591.91,
+        "outflow_amount": 31312.08,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-10",
+        "txn_count": 16,
+        "inflow_amount": 30604.07,
+        "outflow_amount": 25026.58,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-11",
+        "txn_count": 11,
+        "inflow_amount": 18112.28,
+        "outflow_amount": 15180.14,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-12",
+        "txn_count": 7,
+        "inflow_amount": 11894.72,
+        "outflow_amount": 8684.99,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-13",
+        "txn_count": 17,
+        "inflow_amount": 36937.91,
+        "outflow_amount": 24607.92,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-14",
+        "txn_count": 17,
+        "inflow_amount": 33279.25,
+        "outflow_amount": 21280.28,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-15",
+        "txn_count": 12,
+        "inflow_amount": 30358.18,
+        "outflow_amount": 20856.93,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-16",
+        "txn_count": 15,
+        "inflow_amount": 33544.63,
+        "outflow_amount": 28204.8,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-17",
+        "txn_count": 16,
+        "inflow_amount": 32919.7,
+        "outflow_amount": 22224.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-18",
+        "txn_count": 8,
+        "inflow_amount": 16074.0,
+        "outflow_amount": 11798.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-19",
+        "txn_count": 7,
+        "inflow_amount": 13569.03,
+        "outflow_amount": 8771.04,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-20",
+        "txn_count": 19,
+        "inflow_amount": 37398.17,
+        "outflow_amount": 28531.21,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-21",
+        "txn_count": 16,
+        "inflow_amount": 37656.71,
+        "outflow_amount": 25793.81,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-22",
+        "txn_count": 16,
+        "inflow_amount": 34889.92,
+        "outflow_amount": 21904.71,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-23",
+        "txn_count": 19,
+        "inflow_amount": 39246.58,
+        "outflow_amount": 27238.08,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-24",
+        "txn_count": 13,
+        "inflow_amount": 30861.85,
+        "outflow_amount": 25082.26,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-25",
+        "txn_count": 9,
+        "inflow_amount": 15844.51,
+        "outflow_amount": 10634.15,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-26",
+        "txn_count": 6,
+        "inflow_amount": 13498.68,
+        "outflow_amount": 9245.54,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-27",
+        "txn_count": 21,
+        "inflow_amount": 33899.19,
+        "outflow_amount": 27997.51,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-28",
+        "txn_count": 16,
+        "inflow_amount": 37605.23,
+        "outflow_amount": 25780.74,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-29",
+        "txn_count": 15,
+        "inflow_amount": 31695.65,
+        "outflow_amount": 20725.61,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-04-30",
+        "txn_count": 16,
+        "inflow_amount": 37363.79,
+        "outflow_amount": 25192.31,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-01",
+        "txn_count": 17,
+        "inflow_amount": 33205.32,
+        "outflow_amount": 26212.44,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-02",
+        "txn_count": 8,
+        "inflow_amount": 17290.33,
+        "outflow_amount": 12923.69,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-03",
+        "txn_count": 4,
+        "inflow_amount": 9747.17,
+        "outflow_amount": 7220.05,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-04",
+        "txn_count": 12,
+        "inflow_amount": 27011.52,
+        "outflow_amount": 19411.33,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-05",
+        "txn_count": 16,
+        "inflow_amount": 28733.3,
+        "outflow_amount": 24467.22,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-06",
+        "txn_count": 16,
+        "inflow_amount": 29174.58,
+        "outflow_amount": 21330.6,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-07",
+        "txn_count": 13,
+        "inflow_amount": 30839.25,
+        "outflow_amount": 23861.46,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-08",
+        "txn_count": 15,
+        "inflow_amount": 31202.41,
+        "outflow_amount": 29628.1,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-09",
+        "txn_count": 7,
+        "inflow_amount": 17351.6,
+        "outflow_amount": 12837.67,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-10",
+        "txn_count": 5,
+        "inflow_amount": 9338.74,
+        "outflow_amount": 8987.73,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-11",
+        "txn_count": 13,
+        "inflow_amount": 28107.84,
+        "outflow_amount": 20783.93,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-12",
+        "txn_count": 14,
+        "inflow_amount": 32036.37,
+        "outflow_amount": 24100.72,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-13",
+        "txn_count": 13,
+        "inflow_amount": 31760.59,
+        "outflow_amount": 22812.28,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-14",
+        "txn_count": 14,
+        "inflow_amount": 32196.15,
+        "outflow_amount": 26938.53,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-15",
+        "txn_count": 14,
+        "inflow_amount": 28523.66,
+        "outflow_amount": 24542.78,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-16",
+        "txn_count": 8,
+        "inflow_amount": 16199.22,
+        "outflow_amount": 12708.5,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-17",
+        "txn_count": 6,
+        "inflow_amount": 9960.01,
+        "outflow_amount": 7814.34,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-18",
+        "txn_count": 13,
+        "inflow_amount": 28732.19,
+        "outflow_amount": 24354.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-19",
+        "txn_count": 21,
+        "inflow_amount": 32600.34,
+        "outflow_amount": 31095.8,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-20",
+        "txn_count": 19,
+        "inflow_amount": 30536.22,
+        "outflow_amount": 29350.03,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-21",
+        "txn_count": 18,
+        "inflow_amount": 34855.43,
+        "outflow_amount": 27606.21,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-22",
+        "txn_count": 15,
+        "inflow_amount": 30362.12,
+        "outflow_amount": 24599.26,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-23",
+        "txn_count": 9,
+        "inflow_amount": 17643.22,
+        "outflow_amount": 15316.59,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-24",
+        "txn_count": 5,
+        "inflow_amount": 10488.67,
+        "outflow_amount": 9099.01,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-25",
+        "txn_count": 15,
+        "inflow_amount": 35403.21,
+        "outflow_amount": 28429.56,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-26",
+        "txn_count": 17,
+        "inflow_amount": 33017.91,
+        "outflow_amount": 31209.79,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-27",
+        "txn_count": 19,
+        "inflow_amount": 34813.87,
+        "outflow_amount": 29830.49,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-28",
+        "txn_count": 21,
+        "inflow_amount": 35372.54,
+        "outflow_amount": 28968.84,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-29",
+        "txn_count": 14,
+        "inflow_amount": 27956.17,
+        "outflow_amount": 24835.52,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-30",
+        "txn_count": 9,
+        "inflow_amount": 18137.18,
+        "outflow_amount": 14114.62,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-05-31",
+        "txn_count": 7,
+        "inflow_amount": 11419.38,
+        "outflow_amount": 10596.17,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-01",
+        "txn_count": 9,
+        "inflow_amount": 20813.52,
+        "outflow_amount": 17335.83,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-02",
+        "txn_count": 14,
+        "inflow_amount": 23827.2,
+        "outflow_amount": 25748.01,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-03",
+        "txn_count": 13,
+        "inflow_amount": 23623.91,
+        "outflow_amount": 21996.84,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-04",
+        "txn_count": 16,
+        "inflow_amount": 26166.99,
+        "outflow_amount": 28048.97,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-05",
+        "txn_count": 16,
+        "inflow_amount": 24773.27,
+        "outflow_amount": 23564.99,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-06",
+        "txn_count": 9,
+        "inflow_amount": 14119.6,
+        "outflow_amount": 14098.75,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-07",
+        "txn_count": 6,
+        "inflow_amount": 9519.53,
+        "outflow_amount": 9558.57,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-08",
+        "txn_count": 14,
+        "inflow_amount": 22881.6,
+        "outflow_amount": 25005.08,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-09",
+        "txn_count": 11,
+        "inflow_amount": 21837.33,
+        "outflow_amount": 19058.41,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-10",
+        "txn_count": 10,
+        "inflow_amount": 22750.66,
+        "outflow_amount": 22942.15,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-11",
+        "txn_count": 11,
+        "inflow_amount": 21561.19,
+        "outflow_amount": 17839.52,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-12",
+        "txn_count": 16,
+        "inflow_amount": 26232.54,
+        "outflow_amount": 22338.06,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-13",
+        "txn_count": 7,
+        "inflow_amount": 11127.34,
+        "outflow_amount": 11263.41,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-14",
+        "txn_count": 5,
+        "inflow_amount": 9176.05,
+        "outflow_amount": 8581.42,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-15",
+        "txn_count": 11,
+        "inflow_amount": 23003.28,
+        "outflow_amount": 22332.1,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-16",
+        "txn_count": 12,
+        "inflow_amount": 23613.97,
+        "outflow_amount": 23902.03,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-17",
+        "txn_count": 13,
+        "inflow_amount": 24911.74,
+        "outflow_amount": 21419.1,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-18",
+        "txn_count": 12,
+        "inflow_amount": 24278.75,
+        "outflow_amount": 23383.42,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-19",
+        "txn_count": 13,
+        "inflow_amount": 22105.33,
+        "outflow_amount": 20285.63,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-20",
+        "txn_count": 7,
+        "inflow_amount": 12146.58,
+        "outflow_amount": 11122.96,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-21",
+        "txn_count": 6,
+        "inflow_amount": 9112.88,
+        "outflow_amount": 9329.51,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-22",
+        "txn_count": 12,
+        "inflow_amount": 24790.18,
+        "outflow_amount": 23136.08,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-23",
+        "txn_count": 13,
+        "inflow_amount": 24392.77,
+        "outflow_amount": 25325.56,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-24",
+        "txn_count": 14,
+        "inflow_amount": 24608.75,
+        "outflow_amount": 22463.24,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-25",
+        "txn_count": 15,
+        "inflow_amount": 27440.12,
+        "outflow_amount": 23028.48,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-26",
+        "txn_count": 12,
+        "inflow_amount": 22154.56,
+        "outflow_amount": 19430.83,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-27",
+        "txn_count": 8,
+        "inflow_amount": 14291.74,
+        "outflow_amount": 14718.84,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-28",
+        "txn_count": 5,
+        "inflow_amount": 9182.46,
+        "outflow_amount": 9810.2,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-29",
+        "txn_count": 18,
+        "inflow_amount": 27519.23,
+        "outflow_amount": 26406.29,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-06-30",
+        "txn_count": 13,
+        "inflow_amount": 21683.69,
+        "outflow_amount": 20573.89,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-01",
+        "txn_count": 11,
+        "inflow_amount": 20026.08,
+        "outflow_amount": 19910.61,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-02",
+        "txn_count": 10,
+        "inflow_amount": 17316.06,
+        "outflow_amount": 17781.82,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-03",
+        "txn_count": 10,
+        "inflow_amount": 15850.55,
+        "outflow_amount": 14856.54,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-04",
+        "txn_count": 5,
+        "inflow_amount": 10256.22,
+        "outflow_amount": 11906.07,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-05",
+        "txn_count": 4,
+        "inflow_amount": 6681.76,
+        "outflow_amount": 8186.68,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-06",
+        "txn_count": 10,
+        "inflow_amount": 17321.83,
+        "outflow_amount": 15788.33,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-07",
+        "txn_count": 11,
+        "inflow_amount": 18231.49,
+        "outflow_amount": 22235.0,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-08",
+        "txn_count": 11,
+        "inflow_amount": 19440.38,
+        "outflow_amount": 18158.74,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-09",
+        "txn_count": 12,
+        "inflow_amount": 18756.9,
+        "outflow_amount": 21668.76,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-10",
+        "txn_count": 8,
+        "inflow_amount": 16989.26,
+        "outflow_amount": 18833.91,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-11",
+        "txn_count": 7,
+        "inflow_amount": 10915.09,
+        "outflow_amount": 12354.67,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-12",
+        "txn_count": 3,
+        "inflow_amount": 5483.02,
+        "outflow_amount": 5278.9,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-13",
+        "txn_count": 11,
+        "inflow_amount": 18089.32,
+        "outflow_amount": 16795.13,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-14",
+        "txn_count": 10,
+        "inflow_amount": 16386.06,
+        "outflow_amount": 14992.12,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-15",
+        "txn_count": 8,
+        "inflow_amount": 17606.14,
+        "outflow_amount": 17957.99,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-16",
+        "txn_count": 11,
+        "inflow_amount": 18142.46,
+        "outflow_amount": 18392.1,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-17",
+        "txn_count": 11,
+        "inflow_amount": 20981.29,
+        "outflow_amount": 19836.38,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-18",
+        "txn_count": 7,
+        "inflow_amount": 9716.2,
+        "outflow_amount": 10147.1,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-19",
+        "txn_count": 4,
+        "inflow_amount": 6140.74,
+        "outflow_amount": 6363.93,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-20",
+        "txn_count": 9,
+        "inflow_amount": 18347.26,
+        "outflow_amount": 18403.16,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-21",
+        "txn_count": 11,
+        "inflow_amount": 16031.81,
+        "outflow_amount": 19495.3,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-22",
+        "txn_count": 10,
+        "inflow_amount": 15785.2,
+        "outflow_amount": 15202.79,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-23",
+        "txn_count": 10,
+        "inflow_amount": 17961.52,
+        "outflow_amount": 16837.82,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-24",
+        "txn_count": 11,
+        "inflow_amount": 17511.71,
+        "outflow_amount": 17817.14,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-25",
+        "txn_count": 5,
+        "inflow_amount": 10242.87,
+        "outflow_amount": 9967.55,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-26",
+        "txn_count": 3,
+        "inflow_amount": 5847.2,
+        "outflow_amount": 6569.31,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-27",
+        "txn_count": 9,
+        "inflow_amount": 19965.2,
+        "outflow_amount": 19086.14,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-28",
+        "txn_count": 11,
+        "inflow_amount": 16539.47,
+        "outflow_amount": 19296.33,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-29",
+        "txn_count": 8,
+        "inflow_amount": 16683.69,
+        "outflow_amount": 17434.87,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-30",
+        "txn_count": 8,
+        "inflow_amount": 16143.09,
+        "outflow_amount": 16918.51,
+        "merchant_category": "Automotive Parts"
+      },
+      {
+        "date": "2026-07-31",
+        "txn_count": 8,
+        "inflow_amount": 16420.67,
+        "outflow_amount": 19916.57,
+        "merchant_category": "Automotive Parts"
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "txn_count": 473,
+        "inflow_amount": 1049798.69,
+        "outflow_amount": 672944.43
+      },
+      {
+        "month": "2025-09",
+        "txn_count": 460,
+        "inflow_amount": 1005484.25,
+        "outflow_amount": 618775.98
+      },
+      {
+        "month": "2025-10",
+        "txn_count": 459,
+        "inflow_amount": 1004443.4,
+        "outflow_amount": 620744.88
+      },
+      {
+        "month": "2025-11",
+        "txn_count": 466,
+        "inflow_amount": 1010720.53,
+        "outflow_amount": 622052.01
+      },
+      {
+        "month": "2025-12",
+        "txn_count": 478,
+        "inflow_amount": 1053110.14,
+        "outflow_amount": 642345.05
+      },
+      {
+        "month": "2026-01",
+        "txn_count": 496,
+        "inflow_amount": 1072315.39,
+        "outflow_amount": 672913.88
+      },
+      {
+        "month": "2026-02",
+        "txn_count": 480,
+        "inflow_amount": 1036330.3,
+        "outflow_amount": 629209.81
+      },
+      {
+        "month": "2026-03",
+        "txn_count": 463,
+        "inflow_amount": 1004300.76,
+        "outflow_amount": 621608.01
+      },
+      {
+        "month": "2026-04",
+        "txn_count": 428,
+        "inflow_amount": 894836.73,
+        "outflow_amount": 651941.61
+      },
+      {
+        "month": "2026-05",
+        "txn_count": 397,
+        "inflow_amount": 794016.51,
+        "outflow_amount": 655987.5
+      },
+      {
+        "month": "2026-06",
+        "txn_count": 341,
+        "inflow_amount": 613646.76,
+        "outflow_amount": 584048.17
+      },
+      {
+        "month": "2026-07",
+        "txn_count": 267,
+        "inflow_amount": 471810.54,
+        "outflow_amount": 488390.27
+      }
+    ]
+  },
+  "bank": {
+    "daily_balances": [
+      {
+        "date": "2025-08-01",
+        "closing_balance": 998236.31
+      },
+      {
+        "date": "2025-08-02",
+        "closing_balance": 1010148.58
+      },
+      {
+        "date": "2025-08-03",
+        "closing_balance": 1017025.77
+      },
+      {
+        "date": "2025-08-04",
+        "closing_balance": 1030454.36
+      },
+      {
+        "date": "2025-08-05",
+        "closing_balance": 1008640.88
+      },
+      {
+        "date": "2025-08-06",
+        "closing_balance": 990367.15
+      },
+      {
+        "date": "2025-08-07",
+        "closing_balance": 1004894.35
+      },
+      {
+        "date": "2025-08-08",
+        "closing_balance": 1029945.71
+      },
+      {
+        "date": "2025-08-09",
+        "closing_balance": 1037341.77
+      },
+      {
+        "date": "2025-08-10",
+        "closing_balance": 1000885.5
+      },
+      {
+        "date": "2025-08-11",
+        "closing_balance": 1014228.93
+      },
+      {
+        "date": "2025-08-12",
+        "closing_balance": 1050720.89
+      },
+      {
+        "date": "2025-08-13",
+        "closing_balance": 984118.81
+      },
+      {
+        "date": "2025-08-14",
+        "closing_balance": 986431.43
+      },
+      {
+        "date": "2025-08-15",
+        "closing_balance": 1005340.53
+      },
+      {
+        "date": "2025-08-16",
+        "closing_balance": 958870.94
+      },
+      {
+        "date": "2025-08-17",
+        "closing_balance": 920598.89
+      },
+      {
+        "date": "2025-08-18",
+        "closing_balance": 884571.64
+      },
+      {
+        "date": "2025-08-19",
+        "closing_balance": 890745.78
+      },
+      {
+        "date": "2025-08-20",
+        "closing_balance": 867695.21
+      },
+      {
+        "date": "2025-08-21",
+        "closing_balance": 853926.63
+      },
+      {
+        "date": "2025-08-22",
+        "closing_balance": 867838.36
+      },
+      {
+        "date": "2025-08-23",
+        "closing_balance": 836191.12
+      },
+      {
+        "date": "2025-08-24",
+        "closing_balance": 862314.1
+      },
+      {
+        "date": "2025-08-25",
+        "closing_balance": 884315.96
+      },
+      {
+        "date": "2025-08-26",
+        "closing_balance": 860860.0
+      },
+      {
+        "date": "2025-08-27",
+        "closing_balance": 869637.42
+      },
+      {
+        "date": "2025-08-28",
+        "closing_balance": 885486.7
+      },
+      {
+        "date": "2025-08-29",
+        "closing_balance": 893508.85
+      },
+      {
+        "date": "2025-08-30",
+        "closing_balance": 893501.68
+      },
+      {
+        "date": "2025-08-31",
+        "closing_balance": 835302.23
+      },
+      {
+        "date": "2025-09-01",
+        "closing_balance": 865929.83
+      },
+      {
+        "date": "2025-09-02",
+        "closing_balance": 868117.24
+      },
+      {
+        "date": "2025-09-03",
+        "closing_balance": 856514.41
+      },
+      {
+        "date": "2025-09-04",
+        "closing_balance": 810278.89
+      },
+      {
+        "date": "2025-09-05",
+        "closing_balance": 821415.73
+      },
+      {
+        "date": "2025-09-06",
+        "closing_balance": 823391.84
+      },
+      {
+        "date": "2025-09-07",
+        "closing_balance": 854963.67
+      },
+      {
+        "date": "2025-09-08",
+        "closing_balance": 892289.25
+      },
+      {
+        "date": "2025-09-09",
+        "closing_balance": 836770.85
+      },
+      {
+        "date": "2025-09-10",
+        "closing_balance": 813474.91
+      },
+      {
+        "date": "2025-09-11",
+        "closing_balance": 807771.82
+      },
+      {
+        "date": "2025-09-12",
+        "closing_balance": 782277.23
+      },
+      {
+        "date": "2025-09-13",
+        "closing_balance": 789832.43
+      },
+      {
+        "date": "2025-09-14",
+        "closing_balance": 805826.04
+      },
+      {
+        "date": "2025-09-15",
+        "closing_balance": 843745.95
+      },
+      {
+        "date": "2025-09-16",
+        "closing_balance": 830216.66
+      },
+      {
+        "date": "2025-09-17",
+        "closing_balance": 846021.84
+      },
+      {
+        "date": "2025-09-18",
+        "closing_balance": 831973.48
+      },
+      {
+        "date": "2025-09-19",
+        "closing_balance": 845034.35
+      },
+      {
+        "date": "2025-09-20",
+        "closing_balance": 830182.94
+      },
+      {
+        "date": "2025-09-21",
+        "closing_balance": 820322.8
+      },
+      {
+        "date": "2025-09-22",
+        "closing_balance": 829693.72
+      },
+      {
+        "date": "2025-09-23",
+        "closing_balance": 841350.32
+      },
+      {
+        "date": "2025-09-24",
+        "closing_balance": 900926.53
+      },
+      {
+        "date": "2025-09-25",
+        "closing_balance": 924743.65
+      },
+      {
+        "date": "2025-09-26",
+        "closing_balance": 906985.29
+      },
+      {
+        "date": "2025-09-27",
+        "closing_balance": 915748.65
+      },
+      {
+        "date": "2025-09-28",
+        "closing_balance": 902441.55
+      },
+      {
+        "date": "2025-09-29",
+        "closing_balance": 922575.26
+      },
+      {
+        "date": "2025-09-30",
+        "closing_balance": 907972.49
+      },
+      {
+        "date": "2025-10-01",
+        "closing_balance": 938888.04
+      },
+      {
+        "date": "2025-10-02",
+        "closing_balance": 989148.63
+      },
+      {
+        "date": "2025-10-03",
+        "closing_balance": 955164.62
+      },
+      {
+        "date": "2025-10-04",
+        "closing_balance": 956294.35
+      },
+      {
+        "date": "2025-10-05",
+        "closing_balance": 932590.54
+      },
+      {
+        "date": "2025-10-06",
+        "closing_balance": 907256.27
+      },
+      {
+        "date": "2025-10-07",
+        "closing_balance": 903015.31
+      },
+      {
+        "date": "2025-10-08",
+        "closing_balance": 932640.09
+      },
+      {
+        "date": "2025-10-09",
+        "closing_balance": 928183.25
+      },
+      {
+        "date": "2025-10-10",
+        "closing_balance": 924485.7
+      },
+      {
+        "date": "2025-10-11",
+        "closing_balance": 940958.78
+      },
+      {
+        "date": "2025-10-12",
+        "closing_balance": 961606.82
+      },
+      {
+        "date": "2025-10-13",
+        "closing_balance": 942969.47
+      },
+      {
+        "date": "2025-10-14",
+        "closing_balance": 930909.19
+      },
+      {
+        "date": "2025-10-15",
+        "closing_balance": 882731.45
+      },
+      {
+        "date": "2025-10-16",
+        "closing_balance": 864091.85
+      },
+      {
+        "date": "2025-10-17",
+        "closing_balance": 860816.59
+      },
+      {
+        "date": "2025-10-18",
+        "closing_balance": 831081.3
+      },
+      {
+        "date": "2025-10-19",
+        "closing_balance": 806467.73
+      },
+      {
+        "date": "2025-10-20",
+        "closing_balance": 772116.31
+      },
+      {
+        "date": "2025-10-21",
+        "closing_balance": 796876.47
+      },
+      {
+        "date": "2025-10-22",
+        "closing_balance": 792140.36
+      },
+      {
+        "date": "2025-10-23",
+        "closing_balance": 759545.74
+      },
+      {
+        "date": "2025-10-24",
+        "closing_balance": 759946.51
+      },
+      {
+        "date": "2025-10-25",
+        "closing_balance": 753825.76
+      },
+      {
+        "date": "2025-10-26",
+        "closing_balance": 757066.71
+      },
+      {
+        "date": "2025-10-27",
+        "closing_balance": 738055.4
+      },
+      {
+        "date": "2025-10-28",
+        "closing_balance": 793160.21
+      },
+      {
+        "date": "2025-10-29",
+        "closing_balance": 814153.35
+      },
+      {
+        "date": "2025-10-30",
+        "closing_balance": 838538.42
+      },
+      {
+        "date": "2025-10-31",
+        "closing_balance": 835516.67
+      },
+      {
+        "date": "2025-11-01",
+        "closing_balance": 861433.24
+      },
+      {
+        "date": "2025-11-02",
+        "closing_balance": 844366.5
+      },
+      {
+        "date": "2025-11-03",
+        "closing_balance": 896004.39
+      },
+      {
+        "date": "2025-11-04",
+        "closing_balance": 934097.9
+      },
+      {
+        "date": "2025-11-05",
+        "closing_balance": 890328.46
+      },
+      {
+        "date": "2025-11-06",
+        "closing_balance": 924164.11
+      },
+      {
+        "date": "2025-11-07",
+        "closing_balance": 910689.97
+      },
+      {
+        "date": "2025-11-08",
+        "closing_balance": 945891.21
+      },
+      {
+        "date": "2025-11-09",
+        "closing_balance": 946767.08
+      },
+      {
+        "date": "2025-11-10",
+        "closing_balance": 917470.38
+      },
+      {
+        "date": "2025-11-11",
+        "closing_balance": 897300.07
+      },
+      {
+        "date": "2025-11-12",
+        "closing_balance": 861442.32
+      },
+      {
+        "date": "2025-11-13",
+        "closing_balance": 856374.19
+      },
+      {
+        "date": "2025-11-14",
+        "closing_balance": 886222.29
+      },
+      {
+        "date": "2025-11-15",
+        "closing_balance": 833407.0
+      },
+      {
+        "date": "2025-11-16",
+        "closing_balance": 857197.99
+      },
+      {
+        "date": "2025-11-17",
+        "closing_balance": 858114.05
+      },
+      {
+        "date": "2025-11-18",
+        "closing_balance": 851803.78
+      },
+      {
+        "date": "2025-11-19",
+        "closing_balance": 876824.37
+      },
+      {
+        "date": "2025-11-20",
+        "closing_balance": 904636.44
+      },
+      {
+        "date": "2025-11-21",
+        "closing_balance": 898306.72
+      },
+      {
+        "date": "2025-11-22",
+        "closing_balance": 910195.59
+      },
+      {
+        "date": "2025-11-23",
+        "closing_balance": 933614.99
+      },
+      {
+        "date": "2025-11-24",
+        "closing_balance": 970177.67
+      },
+      {
+        "date": "2025-11-25",
+        "closing_balance": 946151.99
+      },
+      {
+        "date": "2025-11-26",
+        "closing_balance": 918811.34
+      },
+      {
+        "date": "2025-11-27",
+        "closing_balance": 946566.12
+      },
+      {
+        "date": "2025-11-28",
+        "closing_balance": 914364.41
+      },
+      {
+        "date": "2025-11-29",
+        "closing_balance": 921201.48
+      },
+      {
+        "date": "2025-11-30",
+        "closing_balance": 921018.63
+      },
+      {
+        "date": "2025-12-01",
+        "closing_balance": 961203.18
+      },
+      {
+        "date": "2025-12-02",
+        "closing_balance": 929445.94
+      },
+      {
+        "date": "2025-12-03",
+        "closing_balance": 911544.22
+      },
+      {
+        "date": "2025-12-04",
+        "closing_balance": 909044.33
+      },
+      {
+        "date": "2025-12-05",
+        "closing_balance": 916900.03
+      },
+      {
+        "date": "2025-12-06",
+        "closing_balance": 953117.91
+      },
+      {
+        "date": "2025-12-07",
+        "closing_balance": 902159.34
+      },
+      {
+        "date": "2025-12-08",
+        "closing_balance": 924817.66
+      },
+      {
+        "date": "2025-12-09",
+        "closing_balance": 889559.88
+      },
+      {
+        "date": "2025-12-10",
+        "closing_balance": 948123.93
+      },
+      {
+        "date": "2025-12-11",
+        "closing_balance": 945463.14
+      },
+      {
+        "date": "2025-12-12",
+        "closing_balance": 956329.33
+      },
+      {
+        "date": "2025-12-13",
+        "closing_balance": 964334.99
+      },
+      {
+        "date": "2025-12-14",
+        "closing_balance": 985459.87
+      },
+      {
+        "date": "2025-12-15",
+        "closing_balance": 995730.87
+      },
+      {
+        "date": "2025-12-16",
+        "closing_balance": 944849.32
+      },
+      {
+        "date": "2025-12-17",
+        "closing_balance": 953746.31
+      },
+      {
+        "date": "2025-12-18",
+        "closing_balance": 920847.55
+      },
+      {
+        "date": "2025-12-19",
+        "closing_balance": 868025.46
+      },
+      {
+        "date": "2025-12-20",
+        "closing_balance": 877936.99
+      },
+      {
+        "date": "2025-12-21",
+        "closing_balance": 864143.99
+      },
+      {
+        "date": "2025-12-22",
+        "closing_balance": 880406.47
+      },
+      {
+        "date": "2025-12-23",
+        "closing_balance": 900948.5
+      },
+      {
+        "date": "2025-12-24",
+        "closing_balance": 906790.48
+      },
+      {
+        "date": "2025-12-25",
+        "closing_balance": 902616.15
+      },
+      {
+        "date": "2025-12-26",
+        "closing_balance": 957662.57
+      },
+      {
+        "date": "2025-12-27",
+        "closing_balance": 926439.81
+      },
+      {
+        "date": "2025-12-28",
+        "closing_balance": 934706.61
+      },
+      {
+        "date": "2025-12-29",
+        "closing_balance": 899584.7
+      },
+      {
+        "date": "2025-12-30",
+        "closing_balance": 875307.5
+      },
+      {
+        "date": "2025-12-31",
+        "closing_balance": 903476.65
+      },
+      {
+        "date": "2026-01-01",
+        "closing_balance": 865559.43
+      },
+      {
+        "date": "2026-01-02",
+        "closing_balance": 881231.35
+      },
+      {
+        "date": "2026-01-03",
+        "closing_balance": 895851.82
+      },
+      {
+        "date": "2026-01-04",
+        "closing_balance": 899038.86
+      },
+      {
+        "date": "2026-01-05",
+        "closing_balance": 931048.99
+      },
+      {
+        "date": "2026-01-06",
+        "closing_balance": 951056.09
+      },
+      {
+        "date": "2026-01-07",
+        "closing_balance": 998230.19
+      },
+      {
+        "date": "2026-01-08",
+        "closing_balance": 961782.75
+      },
+      {
+        "date": "2026-01-09",
+        "closing_balance": 960819.02
+      },
+      {
+        "date": "2026-01-10",
+        "closing_balance": 954443.64
+      },
+      {
+        "date": "2026-01-11",
+        "closing_balance": 970491.44
+      },
+      {
+        "date": "2026-01-12",
+        "closing_balance": 948196.25
+      },
+      {
+        "date": "2026-01-13",
+        "closing_balance": 987721.8
+      },
+      {
+        "date": "2026-01-14",
+        "closing_balance": 1009665.54
+      },
+      {
+        "date": "2026-01-15",
+        "closing_balance": 992547.81
+      },
+      {
+        "date": "2026-01-16",
+        "closing_balance": 1005561.44
+      },
+      {
+        "date": "2026-01-17",
+        "closing_balance": 998527.1
+      },
+      {
+        "date": "2026-01-18",
+        "closing_balance": 979512.86
+      },
+      {
+        "date": "2026-01-19",
+        "closing_balance": 949327.9
+      },
+      {
+        "date": "2026-01-20",
+        "closing_balance": 923679.41
+      },
+      {
+        "date": "2026-01-21",
+        "closing_balance": 900609.05
+      },
+      {
+        "date": "2026-01-22",
+        "closing_balance": 910663.6
+      },
+      {
+        "date": "2026-01-23",
+        "closing_balance": 939040.23
+      },
+      {
+        "date": "2026-01-24",
+        "closing_balance": 938895.6
+      },
+      {
+        "date": "2026-01-25",
+        "closing_balance": 925774.04
+      },
+      {
+        "date": "2026-01-26",
+        "closing_balance": 920392.65
+      },
+      {
+        "date": "2026-01-27",
+        "closing_balance": 865376.54
+      },
+      {
+        "date": "2026-01-28",
+        "closing_balance": 874331.73
+      },
+      {
+        "date": "2026-01-29",
+        "closing_balance": 970547.48
+      },
+      {
+        "date": "2026-01-30",
+        "closing_balance": 928068.11
+      },
+      {
+        "date": "2026-01-31",
+        "closing_balance": 950090.75
+      },
+      {
+        "date": "2026-02-01",
+        "closing_balance": 976256.73
+      },
+      {
+        "date": "2026-02-02",
+        "closing_balance": 971285.67
+      },
+      {
+        "date": "2026-02-03",
+        "closing_balance": 936103.38
+      },
+      {
+        "date": "2026-02-04",
+        "closing_balance": 949542.0
+      },
+      {
+        "date": "2026-02-05",
+        "closing_balance": 964113.05
+      },
+      {
+        "date": "2026-02-06",
+        "closing_balance": 927967.18
+      },
+      {
+        "date": "2026-02-07",
+        "closing_balance": 961025.87
+      },
+      {
+        "date": "2026-02-08",
+        "closing_balance": 979899.96
+      },
+      {
+        "date": "2026-02-09",
+        "closing_balance": 934041.79
+      },
+      {
+        "date": "2026-02-10",
+        "closing_balance": 920167.84
+      },
+      {
+        "date": "2026-02-11",
+        "closing_balance": 888744.45
+      },
+      {
+        "date": "2026-02-12",
+        "closing_balance": 887174.42
+      },
+      {
+        "date": "2026-02-13",
+        "closing_balance": 884329.01
+      },
+      {
+        "date": "2026-02-14",
+        "closing_balance": 945439.82
+      },
+      {
+        "date": "2026-02-15",
+        "closing_balance": 945672.47
+      },
+      {
+        "date": "2026-02-16",
+        "closing_balance": 942859.16
+      },
+      {
+        "date": "2026-02-17",
+        "closing_balance": 924545.05
+      },
+      {
+        "date": "2026-02-18",
+        "closing_balance": 945960.42
+      },
+      {
+        "date": "2026-02-19",
+        "closing_balance": 1007338.34
+      },
+      {
+        "date": "2026-02-20",
+        "closing_balance": 956426.69
+      },
+      {
+        "date": "2026-02-21",
+        "closing_balance": 976380.74
+      },
+      {
+        "date": "2026-02-22",
+        "closing_balance": 956955.28
+      },
+      {
+        "date": "2026-02-23",
+        "closing_balance": 950640.99
+      },
+      {
+        "date": "2026-02-24",
+        "closing_balance": 962254.72
+      },
+      {
+        "date": "2026-02-25",
+        "closing_balance": 1029424.01
+      },
+      {
+        "date": "2026-02-26",
+        "closing_balance": 1049497.92
+      },
+      {
+        "date": "2026-02-27",
+        "closing_balance": 1025540.11
+      },
+      {
+        "date": "2026-02-28",
+        "closing_balance": 987847.12
+      },
+      {
+        "date": "2026-03-01",
+        "closing_balance": 1025970.63
+      },
+      {
+        "date": "2026-03-02",
+        "closing_balance": 1044417.08
+      },
+      {
+        "date": "2026-03-03",
+        "closing_balance": 1019203.23
+      },
+      {
+        "date": "2026-03-04",
+        "closing_balance": 1054958.3
+      },
+      {
+        "date": "2026-03-05",
+        "closing_balance": 1066705.56
+      },
+      {
+        "date": "2026-03-06",
+        "closing_balance": 1060186.84
+      },
+      {
+        "date": "2026-03-07",
+        "closing_balance": 1032964.33
+      },
+      {
+        "date": "2026-03-08",
+        "closing_balance": 1019499.85
+      },
+      {
+        "date": "2026-03-09",
+        "closing_balance": 1010543.76
+      },
+      {
+        "date": "2026-03-10",
+        "closing_balance": 982471.1
+      },
+      {
+        "date": "2026-03-11",
+        "closing_balance": 951386.66
+      },
+      {
+        "date": "2026-03-12",
+        "closing_balance": 958075.84
+      },
+      {
+        "date": "2026-03-13",
+        "closing_balance": 983304.32
+      },
+      {
+        "date": "2026-03-14",
+        "closing_balance": 998490.73
+      },
+      {
+        "date": "2026-03-15",
+        "closing_balance": 987800.92
+      },
+      {
+        "date": "2026-03-16",
+        "closing_balance": 926624.9
+      },
+      {
+        "date": "2026-03-17",
+        "closing_balance": 973304.93
+      },
+      {
+        "date": "2026-03-18",
+        "closing_balance": 991656.99
+      },
+      {
+        "date": "2026-03-19",
+        "closing_balance": 1003053.22
+      },
+      {
+        "date": "2026-03-20",
+        "closing_balance": 1106493.63
+      },
+      {
+        "date": "2026-03-21",
+        "closing_balance": 1096986.22
+      },
+      {
+        "date": "2026-03-22",
+        "closing_balance": 1081810.85
+      },
+      {
+        "date": "2026-03-23",
+        "closing_balance": 1086632.93
+      },
+      {
+        "date": "2026-03-24",
+        "closing_balance": 1100373.46
+      },
+      {
+        "date": "2026-03-25",
+        "closing_balance": 1089261.53
+      },
+      {
+        "date": "2026-03-26",
+        "closing_balance": 1082387.11
+      },
+      {
+        "date": "2026-03-27",
+        "closing_balance": 1057687.88
+      },
+      {
+        "date": "2026-03-28",
+        "closing_balance": 1068669.11
+      },
+      {
+        "date": "2026-03-29",
+        "closing_balance": 1027897.49
+      },
+      {
+        "date": "2026-03-30",
+        "closing_balance": 1034793.01
+      },
+      {
+        "date": "2026-03-31",
+        "closing_balance": 1056079.64
+      },
+      {
+        "date": "2026-04-01",
+        "closing_balance": 976149.43
+      },
+      {
+        "date": "2026-04-02",
+        "closing_balance": 920469.29
+      },
+      {
+        "date": "2026-04-03",
+        "closing_balance": 884373.72
+      },
+      {
+        "date": "2026-04-04",
+        "closing_balance": 857350.49
+      },
+      {
+        "date": "2026-04-05",
+        "closing_balance": 822045.4
+      },
+      {
+        "date": "2026-04-06",
+        "closing_balance": 809556.75
+      },
+      {
+        "date": "2026-04-07",
+        "closing_balance": 771632.77
+      },
+      {
+        "date": "2026-04-08",
+        "closing_balance": 775945.13
+      },
+      {
+        "date": "2026-04-09",
+        "closing_balance": 781104.44
+      },
+      {
+        "date": "2026-04-10",
+        "closing_balance": 750719.71
+      },
+      {
+        "date": "2026-04-11",
+        "closing_balance": 713480.56
+      },
+      {
+        "date": "2026-04-12",
+        "closing_balance": 674235.42
+      },
+      {
+        "date": "2026-04-13",
+        "closing_balance": 705671.67
+      },
+      {
+        "date": "2026-04-14",
+        "closing_balance": 753408.06
+      },
+      {
+        "date": "2026-04-15",
+        "closing_balance": 746414.4
+      },
+      {
+        "date": "2026-04-16",
+        "closing_balance": 750687.85
+      },
+      {
+        "date": "2026-04-17",
+        "closing_balance": 736694.42
+      },
+      {
+        "date": "2026-04-18",
+        "closing_balance": 721327.94
+      },
+      {
+        "date": "2026-04-19",
+        "closing_balance": 703491.51
+      },
+      {
+        "date": "2026-04-20",
+        "closing_balance": 676629.13
+      },
+      {
+        "date": "2026-04-21",
+        "closing_balance": 703109.79
+      },
+      {
+        "date": "2026-04-22",
+        "closing_balance": 655929.98
+      },
+      {
+        "date": "2026-04-23",
+        "closing_balance": 626871.12
+      },
+      {
+        "date": "2026-04-24",
+        "closing_balance": 634768.51
+      },
+      {
+        "date": "2026-04-25",
+        "closing_balance": 591325.56
+      },
+      {
+        "date": "2026-04-26",
+        "closing_balance": 619648.16
+      },
+      {
+        "date": "2026-04-27",
+        "closing_balance": 637544.81
+      },
+      {
+        "date": "2026-04-28",
+        "closing_balance": 617050.36
+      },
+      {
+        "date": "2026-04-29",
+        "closing_balance": 619667.95
+      },
+      {
+        "date": "2026-04-30",
+        "closing_balance": 620245.11
+      },
+      {
+        "date": "2026-05-01",
+        "closing_balance": 603165.83
+      },
+      {
+        "date": "2026-05-02",
+        "closing_balance": 577611.13
+      },
+      {
+        "date": "2026-05-03",
+        "closing_balance": 578532.26
+      },
+      {
+        "date": "2026-05-04",
+        "closing_balance": 554167.49
+      },
+      {
+        "date": "2026-05-05",
+        "closing_balance": 550073.36
+      },
+      {
+        "date": "2026-05-06",
+        "closing_balance": 514038.27
+      },
+      {
+        "date": "2026-05-07",
+        "closing_balance": 479796.79
+      },
+      {
+        "date": "2026-05-08",
+        "closing_balance": 441114.84
+      },
+      {
+        "date": "2026-05-09",
+        "closing_balance": 484393.94
+      },
+      {
+        "date": "2026-05-10",
+        "closing_balance": 492812.63
+      },
+      {
+        "date": "2026-05-11",
+        "closing_balance": 489511.79
+      },
+      {
+        "date": "2026-05-12",
+        "closing_balance": 492414.45
+      },
+      {
+        "date": "2026-05-13",
+        "closing_balance": 497803.82
+      },
+      {
+        "date": "2026-05-14",
+        "closing_balance": 458879.23
+      },
+      {
+        "date": "2026-05-15",
+        "closing_balance": 446215.64
+      },
+      {
+        "date": "2026-05-16",
+        "closing_balance": 433428.33
+      },
+      {
+        "date": "2026-05-17",
+        "closing_balance": 448770.84
+      },
+      {
+        "date": "2026-05-18",
+        "closing_balance": 484564.51
+      },
+      {
+        "date": "2026-05-19",
+        "closing_balance": 463005.32
+      },
+      {
+        "date": "2026-05-20",
+        "closing_balance": 432607.49
+      },
+      {
+        "date": "2026-05-21",
+        "closing_balance": 430213.71
+      },
+      {
+        "date": "2026-05-22",
+        "closing_balance": 434358.85
+      },
+      {
+        "date": "2026-05-23",
+        "closing_balance": 426461.25
+      },
+      {
+        "date": "2026-05-24",
+        "closing_balance": 421438.13
+      },
+      {
+        "date": "2026-05-25",
+        "closing_balance": 452228.94
+      },
+      {
+        "date": "2026-05-26",
+        "closing_balance": 441039.88
+      },
+      {
+        "date": "2026-05-27",
+        "closing_balance": 435958.21
+      },
+      {
+        "date": "2026-05-28",
+        "closing_balance": 429559.35
+      },
+      {
+        "date": "2026-05-29",
+        "closing_balance": 414724.22
+      },
+      {
+        "date": "2026-05-30",
+        "closing_balance": 402550.46
+      },
+      {
+        "date": "2026-05-31",
+        "closing_balance": 423450.24
+      },
+      {
+        "date": "2026-06-01",
+        "closing_balance": 409726.42
+      },
+      {
+        "date": "2026-06-02",
+        "closing_balance": 394350.8
+      },
+      {
+        "date": "2026-06-03",
+        "closing_balance": 377466.86
+      },
+      {
+        "date": "2026-06-04",
+        "closing_balance": 369412.82
+      },
+      {
+        "date": "2026-06-05",
+        "closing_balance": 336377.69
+      },
+      {
+        "date": "2026-06-06",
+        "closing_balance": 318237.11
+      },
+      {
+        "date": "2026-06-07",
+        "closing_balance": 340773.29
+      },
+      {
+        "date": "2026-06-08",
+        "closing_balance": 355839.55
+      },
+      {
+        "date": "2026-06-09",
+        "closing_balance": 379879.7
+      },
+      {
+        "date": "2026-06-10",
+        "closing_balance": 319786.94
+      },
+      {
+        "date": "2026-06-11",
+        "closing_balance": 326175.56
+      },
+      {
+        "date": "2026-06-12",
+        "closing_balance": 322862.83
+      },
+      {
+        "date": "2026-06-13",
+        "closing_balance": 314529.7
+      },
+      {
+        "date": "2026-06-14",
+        "closing_balance": 297123.88
+      },
+      {
+        "date": "2026-06-15",
+        "closing_balance": 255680.96
+      },
+      {
+        "date": "2026-06-16",
+        "closing_balance": 235392.39
+      },
+      {
+        "date": "2026-06-17",
+        "closing_balance": 247454.97
+      },
+      {
+        "date": "2026-06-18",
+        "closing_balance": 253818.09
+      },
+      {
+        "date": "2026-06-19",
+        "closing_balance": 229235.21
+      },
+      {
+        "date": "2026-06-20",
+        "closing_balance": 211379.74
+      },
+      {
+        "date": "2026-06-21",
+        "closing_balance": 217830.99
+      },
+      {
+        "date": "2026-06-22",
+        "closing_balance": 223168.2
+      },
+      {
+        "date": "2026-06-23",
+        "closing_balance": 207968.6
+      },
+      {
+        "date": "2026-06-24",
+        "closing_balance": 208874.49
+      },
+      {
+        "date": "2026-06-25",
+        "closing_balance": 215813.03
+      },
+      {
+        "date": "2026-06-26",
+        "closing_balance": 223922.11
+      },
+      {
+        "date": "2026-06-27",
+        "closing_balance": 237359.95
+      },
+      {
+        "date": "2026-06-28",
+        "closing_balance": 240420.34
+      },
+      {
+        "date": "2026-06-29",
+        "closing_balance": 240623.97
+      },
+      {
+        "date": "2026-06-30",
+        "closing_balance": 263825.93
+      },
+      {
+        "date": "2026-07-01",
+        "closing_balance": 243222.53
+      },
+      {
+        "date": "2026-07-02",
+        "closing_balance": 234303.65
+      },
+      {
+        "date": "2026-07-03",
+        "closing_balance": 217656.05
+      },
+      {
+        "date": "2026-07-04",
+        "closing_balance": 203075.05
+      },
+      {
+        "date": "2026-07-05",
+        "closing_balance": 197682.0
+      },
+      {
+        "date": "2026-07-06",
+        "closing_balance": 204118.06
+      },
+      {
+        "date": "2026-07-07",
+        "closing_balance": 220195.04
+      },
+      {
+        "date": "2026-07-08",
+        "closing_balance": 200812.93
+      },
+      {
+        "date": "2026-07-09",
+        "closing_balance": 212614.62
+      },
+      {
+        "date": "2026-07-10",
+        "closing_balance": 203070.55
+      },
+      {
+        "date": "2026-07-11",
+        "closing_balance": 191018.34
+      },
+      {
+        "date": "2026-07-12",
+        "closing_balance": 163095.41
+      },
+      {
+        "date": "2026-07-13",
+        "closing_balance": 149709.49
+      },
+      {
+        "date": "2026-07-14",
+        "closing_balance": 134834.13
+      },
+      {
+        "date": "2026-07-15",
+        "closing_balance": 133853.16
+      },
+      {
+        "date": "2026-07-16",
+        "closing_balance": 121627.19
+      },
+      {
+        "date": "2026-07-17",
+        "closing_balance": 118675.55
+      },
+      {
+        "date": "2026-07-18",
+        "closing_balance": 134610.36
+      },
+      {
+        "date": "2026-07-19",
+        "closing_balance": 139286.52
+      },
+      {
+        "date": "2026-07-20",
+        "closing_balance": 129141.03
+      },
+      {
+        "date": "2026-07-21",
+        "closing_balance": 130466.54
+      },
+      {
+        "date": "2026-07-22",
+        "closing_balance": 137167.72
+      },
+      {
+        "date": "2026-07-23",
+        "closing_balance": 131797.53
+      },
+      {
+        "date": "2026-07-24",
+        "closing_balance": 113532.87
+      },
+      {
+        "date": "2026-07-25",
+        "closing_balance": 116744.79
+      },
+      {
+        "date": "2026-07-26",
+        "closing_balance": 137730.65
+      },
+      {
+        "date": "2026-07-27",
+        "closing_balance": 136379.6
+      },
+      {
+        "date": "2026-07-28",
+        "closing_balance": 147933.3
+      },
+      {
+        "date": "2026-07-29",
+        "closing_balance": 150966.39
+      },
+      {
+        "date": "2026-07-30",
+        "closing_balance": 162726.54
+      },
+      {
+        "date": "2026-07-31",
+        "closing_balance": 143055.76
+      }
+    ],
+    "monthly_summary": [
+      {
+        "month": "2025-08",
+        "closing_balance": 835302.23,
+        "average_balance": 943036.98,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-09",
+        "closing_balance": 907972.49,
+        "average_balance": 850959.65,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-10",
+        "closing_balance": 835516.67,
+        "average_balance": 864523.93,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-11",
+        "closing_balance": 921018.63,
+        "average_balance": 901164.82,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2025-12",
+        "closing_balance": 903476.65,
+        "average_balance": 922926.57,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-01",
+        "closing_balance": 950090.75,
+        "average_balance": 941551.08,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-02",
+        "closing_balance": 987847.12,
+        "average_balance": 956694.08,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-03",
+        "closing_balance": 1056079.64,
+        "average_balance": 1031602.97,
+        "bounced_payments_count": 0
+      },
+      {
+        "month": "2026-04",
+        "closing_balance": 620245.11,
+        "average_balance": 728584.98,
+        "bounced_payments_count": 1
+      },
+      {
+        "month": "2026-05",
+        "closing_balance": 423450.24,
+        "average_balance": 472093.26,
+        "bounced_payments_count": 3
+      },
+      {
+        "month": "2026-06",
+        "closing_balance": 263825.93,
+        "average_balance": 285843.74,
+        "bounced_payments_count": 6
+      },
+      {
+        "month": "2026-07",
+        "closing_balance": 143055.76,
+        "average_balance": 163261.4,
+        "bounced_payments_count": 2
+      }
+    ],
+    "bounced_events": [
+      {
+        "date": "2026-04-23",
+        "amount": 130870.78,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-05-02",
+        "amount": 156734.96,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-05-07",
+        "amount": 69015.17,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-05-20",
+        "amount": 99430.09,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-05",
+        "amount": 70665.73,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-06-10",
+        "amount": 101126.77,
+        "reason": "auto_debit_failed"
+      },
+      {
+        "date": "2026-06-15",
+        "amount": 82865.68,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-20",
+        "amount": 122161.46,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-06-23",
+        "amount": 83628.75,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-06-24",
+        "amount": 36274.0,
+        "reason": "cheque_return"
+      },
+      {
+        "date": "2026-07-11",
+        "amount": 42355.44,
+        "reason": "insufficient_funds"
+      },
+      {
+        "date": "2026-07-12",
+        "amount": 89482.3,
+        "reason": "insufficient_funds"
+      }
+    ]
+  },
+  "epfo": {
+    "epfo_registered": true,
+    "employee_count": 14,
+    "monthly_contributions": [
+      {
+        "month": "2025-08",
+        "employee_count": 14,
+        "expected_contribution": 56240.54,
+        "contribution_paid": 56240.54,
+        "status": "delayed"
+      },
+      {
+        "month": "2025-09",
+        "employee_count": 14,
+        "expected_contribution": 58091.12,
+        "contribution_paid": 58091.12,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-10",
+        "employee_count": 14,
+        "expected_contribution": 58152.22,
+        "contribution_paid": 58152.22,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-11",
+        "employee_count": 14,
+        "expected_contribution": 56492.9,
+        "contribution_paid": 56492.9,
+        "status": "on_time"
+      },
+      {
+        "month": "2025-12",
+        "employee_count": 14,
+        "expected_contribution": 56426.06,
+        "contribution_paid": 56426.06,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-01",
+        "employee_count": 14,
+        "expected_contribution": 58422.32,
+        "contribution_paid": 58422.32,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-02",
+        "employee_count": 14,
+        "expected_contribution": 57421.43,
+        "contribution_paid": 57421.43,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-03",
+        "employee_count": 14,
+        "expected_contribution": 57258.03,
+        "contribution_paid": 57258.03,
+        "status": "on_time"
+      },
+      {
+        "month": "2026-04",
+        "employee_count": 14,
+        "expected_contribution": 58623.47,
+        "contribution_paid": 0.0,
+        "status": "missed"
+      },
+      {
+        "month": "2026-05",
+        "employee_count": 14,
+        "expected_contribution": 56258.45,
+        "contribution_paid": 56258.45,
+        "status": "delayed"
+      },
+      {
+        "month": "2026-06",
+        "employee_count": 14,
+        "expected_contribution": 58483.41,
+        "contribution_paid": 0.0,
+        "status": "missed"
+      },
+      {
+        "month": "2026-07",
+        "employee_count": 14,
+        "expected_contribution": 57172.19,
+        "contribution_paid": 0.0,
+        "status": "missed"
+      }
+    ]
+  }
+}
