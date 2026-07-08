@@ -55,6 +55,27 @@ regenerates the same data. Once generated, it's served via:
 - `GET /api/businesses` — list of business IDs, names, sectors, and archetypes
 - `GET /api/businesses/{business_id}/raw` — the raw synthetic data for one business
 
+## Scoring engine
+
+`backend/engine/scoring.py` computes 7 sub-scores (revenue stability, cash flow health,
+liquidity, compliance, customer/vendor concentration, invoice collection efficiency, and
+digital footprint depth) from a business's raw synthetic data, then combines them into an
+overall 0-100 Health Score using a configurable weights dict. Sub-scores with no
+underlying data (e.g. no EPFO records for a sole proprietor with no employees) are
+dropped from the weighted average rather than scored as 0 — see the module docstring and
+`compute_overall` for the reweighting logic.
+
+- `GET /api/businesses/{business_id}/score` — overall score, all 7 sub-scores, a 6-month
+  trend line, and `data_completeness` showing which sources were available
+
+Run the unit tests with:
+
+```bash
+cd backend
+source venv/bin/activate
+pytest tests/
+```
+
 ## Running the frontend
 
 ```bash
