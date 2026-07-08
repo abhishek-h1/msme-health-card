@@ -76,6 +76,34 @@ source venv/bin/activate
 pytest tests/
 ```
 
+## AI agent pipeline
+
+`backend/agents/` turns a business's scoring output into plain-English analysis using
+Claude (Anthropic API), as three independently-callable stages:
+
+- `risk_agent.py` — identifies 2-3 strengths, 2-3 risks, and any anomalies (e.g. a sudden
+  balance drop, a GST filing gap), grounded in the actual sub-scores and a 12-month
+  financial summary (not the full raw dataset — see `agents/context.py`).
+- `recommendation_agent.py` — turns the risk agent's output into 3-4 concrete,
+  actionable recommendations with rationale.
+- `narrative_agent.py` — writes a 4-6 sentence natural-language summary of the
+  business's financial health, the way a credit analyst would explain it to a loan
+  officer.
+
+Each stage is its own LLM call and is caught independently in `agents/pipeline.py` — if
+one stage fails (bad API key, rate limit, refusal), the others still return their
+results, and the failure shows up in an `errors` field rather than a crash. Successful
+runs are cached in `backend/agents/analysis_cache.db` (SQLite, keyed by business ID) so
+repeated dashboard loads don't re-trigger LLM calls; pass `?force_refresh=true` to bypass
+the cache for one request.
+
+- `GET /api/businesses/{business_id}/analysis` — `{narrative, strengths, risks,
+  anomalies, recommendations, errors, cached}`
+
+Requires an Anthropic API key in `backend/.env` (`ANTHROPIC_API_KEY` or `LLM_API_KEY` —
+see `.env.example`). Without one, the endpoint still responds successfully with every
+stage's `errors` entry explaining the missing key, rather than a 500.
+
 ## Running the frontend
 
 ```bash

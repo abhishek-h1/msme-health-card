@@ -3,6 +3,7 @@ from pathlib import Path
 
 from fastapi import APIRouter, HTTPException
 
+from agents.pipeline import run_analysis_pipeline
 from engine.scoring import score_business
 
 router = APIRouter(prefix="/api/businesses", tags=["synthetic-data"])
@@ -39,3 +40,10 @@ def get_business_raw(business_id: str):
 def get_business_score(business_id: str):
     raw = _load_raw(business_id)
     return score_business(raw)
+
+
+@router.get("/{business_id}/analysis")
+def get_business_analysis(business_id: str, force_refresh: bool = False):
+    raw = _load_raw(business_id)
+    score_result = score_business(raw)
+    return run_analysis_pipeline(raw, score_result, use_cache=not force_refresh)
