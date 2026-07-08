@@ -1,69 +1,111 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { Button } from "@/components/ui/button";
+import Link from "next/link";
+import { ArrowRight } from "lucide-react";
 
-type HealthState =
-  | { status: "loading" }
-  | { status: "ok"; data: unknown }
-  | { status: "error"; message: string };
+import { Badge } from "@/components/ui/badge";
+import { Skeleton } from "@/components/ui/skeleton";
+import { businessesUrl, type BusinessSummary } from "@/lib/api";
+import { ARCHETYPE_GROUP, type ArchetypeGroup } from "@/lib/score-format";
+import { useApiFetch } from "@/lib/use-fetch";
 
-async function fetchHealth(): Promise<HealthState> {
-  const apiUrl = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000";
-  try {
-    const res = await fetch(`${apiUrl}/health`);
-    if (!res.ok) {
-      return { status: "error", message: `Backend responded with ${res.status}` };
-    }
-    const data = await res.json();
-    return { status: "ok", data };
-  } catch {
-    return {
-      status: "error",
-      message: "Could not reach the backend. Is uvicorn running on port 8000?",
-    };
-  }
-}
+const GROUP_ORDER: ArchetypeGroup[] = ["thin_file", "declining", "other"];
+
+const GROUP_META: Record<ArchetypeGroup, { title: string; description: string }> = {
+  thin_file: {
+    title: "Thin-file, cash-flow strong",
+    description: "Little to no formal GST or EPFO history, but consistent digital cash flow.",
+  },
+  declining: {
+    title: "Formally healthy, quietly declining",
+    description: "Solid GST and EPFO history on paper — recent months tell a different story.",
+  },
+  other: {
+    title: "Stable, growing & seasonal",
+    description: "A mix of steady, expanding, and cyclical businesses.",
+  },
+};
 
 export default function Home() {
-  const [health, setHealth] = useState<HealthState>({ status: "loading" });
+  const { data: businesses, error, loading } = useApiFetch<BusinessSummary[]>(businessesUrl());
 
-  const check = () => {
-    setHealth({ status: "loading" });
-    fetchHealth().then(setHealth);
-  };
-
-  useEffect(() => {
-    check();
-  }, []);
+  const groups: Record<ArchetypeGroup, BusinessSummary[]> = { thin_file: [], declining: [], other: [] };
+  for (const business of businesses ?? []) {
+    const group = ARCHETYPE_GROUP[business.archetype] ?? "other";
+    groups[group].push(business);
+  }
 
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center gap-6 p-8">
-      <h1 className="text-2xl font-semibold">MSME Health Card</h1>
+    <div className="mx-auto min-h-screen max-w-5xl px-6 py-16 sm:px-10">
+      <header className="mb-12">
+        <p className="font-mono text-xs tracking-widest text-muted-foreground uppercase">
+          MSME Health Card
+        </p>
+        <h1 className="mt-3 font-heading text-3xl font-semibold text-foreground sm:text-4xl">
+          Choose a business to review
+        </h1>
+        <p className="mt-3 max-w-2xl text-muted-foreground">
+          Credit health scored from GST, UPI, Account Aggregator, and EPFO data — plus an
+          AI-generated risk read for the loan desk. Businesses are grouped by the story their
+          data tells.
+        </p>
+      </header>
 
-      <div className="flex flex-col items-center gap-3 rounded-lg border border-border bg-card p-6 text-card-foreground">
-        <span className="text-sm text-muted-foreground">Backend status</span>
+      {loading && (
+        <div className="space-y-10">
+          {[0, 1, 2].map((i) => (
+            <div key={i} className="space-y-3">
+              <Skeleton className="h-5 w-64" />
+              <Skeleton className="h-4 w-96 max-w-full" />
+              <div className="grid gap-3 pt-2 sm:grid-cols-2">
+                <Skeleton className="h-[72px] w-full" />
+                <Skeleton className="h-[72px] w-full" />
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
 
-        {health.status === "loading" && <span>Checking...</span>}
+      {error && (
+        <div className="rounded-lg border border-destructive/30 bg-destructive/5 p-4 text-sm text-destructive">
+          Couldn&apos;t load businesses from the backend ({error}). Is uvicorn running on port
+          8000?
+        </div>
+      )}
 
-        {health.status === "ok" && (
-          <span className="flex items-center gap-2 font-mono text-lg">
-            <span className="h-2.5 w-2.5 rounded-full bg-green-500" />
-            {JSON.stringify(health.data)}
-          </span>
-        )}
-
-        {health.status === "error" && (
-          <span className="flex items-center gap-2 text-destructive">
-            <span className="h-2.5 w-2.5 rounded-full bg-destructive" />
-            {health.message}
-          </span>
-        )}
-
-        <Button onClick={check} variant="outline" size="sm">
-          Retry
-        </Button>
-      </div>
+      {!loading && !error && (
+        <div className="space-y-12">
+          {GROUP_ORDER.map((group) =>
+            groups[group].length ? (
+              <section key={group}>
+                <h2 className="text-lg font-semibold text-foreground">{GROUP_META[group].title}</h2>
+                <p className="mt-1 text-sm text-muted-foreground">{GROUP_META[group].description}</p>
+                <div className="mt-4 grid gap-3 sm:grid-cols-2">
+                  {groups[group].map((business) => (
+                    <Link
+                      key={business.business_id}
+                      href={`/dashboard/${business.business_id}`}
+                      className="group flex items-center justify-between rounded-lg border border-border bg-card p-4 transition-colors hover:border-chart-1/40 hover:bg-accent"
+                    >
+                      <div className="min-w-0">
+                        <div className="truncate font-medium text-foreground">{business.name}</div>
+                        <div className="mt-1.5 flex flex-wrap items-center gap-1.5 text-xs text-muted-foreground">
+                          <span>{business.sector}</span>
+                          <span aria-hidden>·</span>
+                          <Badge variant="outline" className="font-mono text-[10px]">
+                            {business.registration_type.replace(/_/g, " ")}
+                          </Badge>
+                        </div>
+                      </div>
+                      <ArrowRight className="size-4 shrink-0 text-muted-foreground transition-transform group-hover:translate-x-0.5 group-hover:text-chart-1" />
+                    </Link>
+                  ))}
+                </div>
+              </section>
+            ) : null
+          )}
+        </div>
+      )}
     </div>
   );
 }
