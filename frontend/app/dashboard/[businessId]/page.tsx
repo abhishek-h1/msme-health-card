@@ -20,6 +20,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
 import { DataCompletenessPanel } from "@/components/data-completeness-panel";
 import { HealthGauge } from "@/components/health-gauge";
+import { ScenarioSimulator } from "@/components/scenario-simulator";
 import { ScoreTrendChart } from "@/components/score-trend-chart";
 import { SubScoreRadar } from "@/components/sub-score-radar";
 
@@ -125,6 +126,8 @@ export default function DashboardPage({ params }: { params: { businessId: string
           </CardContent>
         </Card>
       </div>
+
+      <ScenarioSimulator businessId={businessId} score={data} />
 
       <Tabs defaultValue="scoring" className="mt-6">
         <TabsList>

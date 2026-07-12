@@ -63,7 +63,37 @@ export interface AnalysisResult {
   cached: boolean;
 }
 
+export interface RawGstFiling {
+  month: string;
+  turnover_reported: number;
+  status: string;
+}
+
+export interface RawUpiMonthly {
+  month: string;
+  txn_count: number;
+  inflow_amount: number;
+  outflow_amount: number;
+}
+
+export interface RawBankMonthly {
+  month: string;
+  closing_balance: number;
+  average_balance: number;
+  bounced_payments_count: number;
+}
+
+/** Subset of GET /api/businesses/{id}/raw -- only the monthly time series the
+ * scenario simulator needs (see lib/simulateScore.ts). */
+export interface BusinessRawData {
+  business_id: string;
+  gst: { gstin_registered: boolean; filings: RawGstFiling[] };
+  upi: { monthly_summary: RawUpiMonthly[] };
+  bank: { monthly_summary: RawBankMonthly[] };
+}
+
 export const businessesUrl = () => `${API_URL}/api/businesses`;
 export const businessScoreUrl = (id: string) => `${API_URL}/api/businesses/${id}/score`;
 export const businessAnalysisUrl = (id: string, forceRefresh = false) =>
   `${API_URL}/api/businesses/${id}/analysis${forceRefresh ? "?force_refresh=true" : ""}`;
+export const businessRawUrl = (id: string) => `${API_URL}/api/businesses/${id}/raw`;

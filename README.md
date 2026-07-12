@@ -127,3 +127,25 @@ allow requests from `http://localhost:3000`.
 
 See `.env.example` for the environment variables the backend needs (e.g. the LLM API key
 for the `/agents` modules), and `frontend/.env.local.example` for the frontend.
+
+## Deploying
+
+Backend on [Railway](https://railway.app), frontend on [Vercel](https://vercel.com) — both
+deploy from this same repo with the service's root directory set to `backend` / `frontend`
+respectively.
+
+**Backend (Railway):** New Project → Deploy from GitHub repo → set **Root Directory** to
+`backend`. `backend/railway.json` already configures the start command and a health check
+against `/health`. Set env vars: `LLM_API_KEY` (or `ANTHROPIC_API_KEY`) for the AI agent
+pipeline, and `ALLOWED_ORIGINS` to your Vercel URL once you have it (comma-separated, no
+trailing slash). Generate a public domain under Settings → Networking. Synthetic demo data
+is committed to the repo, so nothing needs to be generated on deploy. SQLite storage
+(`msme_health.db`, `agents/analysis_cache.db`) lives on Railway's ephemeral filesystem and
+resets on every redeploy — fine for this demo (the DB table is an unused placeholder and
+the cache just re-warms on first request), but not durable storage.
+
+**Frontend (Vercel):** New Project → Import the repo → set **Root Directory** to `frontend`
+(Next.js is auto-detected). Set `NEXT_PUBLIC_API_URL` to your Railway backend's public URL.
+
+Deploy the backend first so you have its URL for the frontend's env var, then deploy the
+frontend and go back to set `ALLOWED_ORIGINS` on Railway to the resulting Vercel URL.
