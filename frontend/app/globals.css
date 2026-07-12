@@ -139,8 +139,19 @@
   }
   body {
     @apply bg-background text-foreground;
+    /* Faint teal wash bleeding down from the top edge -- gives the page a
+       lit-from-above depth without introducing a new color. */
+    background-image: radial-gradient(
+      80rem 26rem at 50% -8rem,
+      color-mix(in oklab, var(--ring) 9%, transparent),
+      transparent
+    );
+    background-repeat: no-repeat;
   }
   html {
     @apply font-sans;
+  }
+  ::selection {
+    background-color: color-mix(in oklab, var(--ring) 26%, transparent);
   }
 }

@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { ArrowRight, RotateCcw, TrendingDown, TrendingUp } from "lucide-react";
+import { ArrowRight, RotateCcw, SlidersHorizontal, TrendingDown, TrendingUp } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -9,6 +9,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { Slider } from "@/components/ui/slider";
 import { Switch } from "@/components/ui/switch";
 
+import { CardTitleIcon } from "@/components/card-title-icon";
 import { SubScoreRadar } from "@/components/sub-score-radar";
 import { businessRawUrl, type BusinessRawData, type ScoreResult } from "@/lib/api";
 import { buildFinancialSummary, describeScenario, simulateScenario } from "@/lib/simulateScore";
@@ -21,6 +22,19 @@ const EXPENSE_MAX = 30;
 
 function formatPct(pct: number) {
   return `${pct > 0 ? "+" : ""}${pct}%`;
+}
+
+/**
+ * Base UI's Slider is controlled with an array value here (so exactly one
+ * thumb renders -- see components/ui/slider.tsx), but its internal collision
+ * logic treats a single-element array as "not really a range" and hands
+ * onValueChange a bare number during pointer drags while still passing an
+ * array during keyboard/native-input interactions. Handle both shapes and
+ * ignore anything non-finite instead of ever writing NaN/undefined into state.
+ */
+function extractSliderValue(value: number | readonly number[]): number | null {
+  const next = Array.isArray(value) ? value[0] : value;
+  return typeof next === "number" && Number.isFinite(next) ? next : null;
 }
 
 export function ScenarioSimulator({ businessId, score }: { businessId: string; score: ScoreResult }) {
@@ -49,9 +63,12 @@ export function ScenarioSimulator({ businessId, score }: { businessId: string; s
   const delta = Math.round((simulatedScore - score.overall_score) * 10) / 10;
 
   return (
-    <Card className="mt-6">
+    <Card>
       <CardHeader>
-        <CardTitle>Scenario Simulator</CardTitle>
+        <CardTitle className="flex items-center gap-2.5">
+          <CardTitleIcon icon={SlidersHorizontal} />
+          Scenario Simulator
+        </CardTitle>
         <p className="text-sm text-muted-foreground">
           A simplified, client-side estimate — the last quarter of activity is adjusted and
           re-scored instantly as you move the controls. Compliance, concentration, and digital
@@ -93,7 +110,10 @@ export function ScenarioSimulator({ businessId, score }: { businessId: string; s
                   max={REVENUE_MAX}
                   step={5}
                   value={[revenueChangePct]}
-                  onValueChange={(value) => setRevenueChangePct((value as number[])[0])}
+                  onValueChange={(value) => {
+                    const next = extractSliderValue(value);
+                    if (next !== null) setRevenueChangePct(next);
+                  }}
                 />
                 <div className="mt-1 flex justify-between text-[11px] text-muted-foreground">
                   <span>{REVENUE_MIN}%</span>
@@ -115,7 +135,10 @@ export function ScenarioSimulator({ businessId, score }: { businessId: string; s
                   max={EXPENSE_MAX}
                   step={5}
                   value={[expenseChangePct]}
-                  onValueChange={(value) => setExpenseChangePct((value as number[])[0])}
+                  onValueChange={(value) => {
+                    const next = extractSliderValue(value);
+                    if (next !== null) setExpenseChangePct(next);
+                  }}
                 />
                 <div className="mt-1 flex justify-between text-[11px] text-muted-foreground">
                   <span>{EXPENSE_MIN}%</span>

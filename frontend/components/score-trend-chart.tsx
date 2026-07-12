@@ -1,6 +1,6 @@
 "use client";
 
-import { CartesianGrid, Line, LineChart, ReferenceLine, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
+import { Area, AreaChart, CartesianGrid, ReferenceLine, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 
 import type { TrendPoint } from "@/lib/api";
 import { formatMonth } from "@/lib/score-format";
@@ -10,7 +10,13 @@ export function ScoreTrendChart({ trend }: { trend: TrendPoint[] }) {
 
   return (
     <ResponsiveContainer width="100%" height={260}>
-      <LineChart data={data} margin={{ top: 8, right: 16, bottom: 0, left: -16 }}>
+      <AreaChart data={data} margin={{ top: 8, right: 16, bottom: 0, left: -16 }}>
+        <defs>
+          <linearGradient id="scoreTrendFill" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stopColor="var(--chart-1)" stopOpacity={0.22} />
+            <stop offset="100%" stopColor="var(--chart-1)" stopOpacity={0} />
+          </linearGradient>
+        </defs>
         <CartesianGrid stroke="var(--border)" strokeDasharray="3 3" vertical={false} />
         <XAxis
           dataKey="monthLabel"
@@ -32,15 +38,16 @@ export function ScoreTrendChart({ trend }: { trend: TrendPoint[] }) {
           labelStyle={{ color: "var(--popover-foreground)" }}
           formatter={(value) => [`${value}`, "Overall score"]}
         />
-        <Line
+        <Area
           type="monotone"
           dataKey="overall_score"
           stroke="var(--chart-1)"
           strokeWidth={2.5}
+          fill="url(#scoreTrendFill)"
           dot={{ r: 3, fill: "var(--chart-1)", strokeWidth: 0 }}
           activeDot={{ r: 5 }}
         />
-      </LineChart>
+      </AreaChart>
     </ResponsiveContainer>
   );
 }

@@ -3,11 +3,17 @@
 import { useState } from "react";
 import Link from "next/link";
 import {
+  Activity,
   AlertTriangle,
   ArrowLeft,
+  Database,
+  Gauge,
   Info,
+  Lightbulb,
+  ListChecks,
   RefreshCw,
   ShieldAlert,
+  SlidersHorizontal,
   Sparkles,
   TrendingUp,
 } from "lucide-react";
@@ -18,6 +24,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
+import { CardTitleIcon } from "@/components/card-title-icon";
 import { DataCompletenessPanel } from "@/components/data-completeness-panel";
 import { HealthGauge } from "@/components/health-gauge";
 import { ScenarioSimulator } from "@/components/scenario-simulator";
@@ -25,7 +32,17 @@ import { ScoreTrendChart } from "@/components/score-trend-chart";
 import { SubScoreRadar } from "@/components/sub-score-radar";
 
 import { businessAnalysisUrl, businessScoreUrl, type AnalysisResult, type ScoreResult } from "@/lib/api";
+import { getScoreBand, scoreBandLabel, type ScoreBand } from "@/lib/score-format";
 import { useApiFetch } from "@/lib/use-fetch";
+
+// The header card is fixed navy in both themes, so its status dots use fixed
+// bright steps (the theme's status tokens are tuned for light surfaces and
+// would go muddy on navy).
+const BAND_DOT_ON_NAVY: Record<ScoreBand, string> = {
+  good: "bg-[#34C77B]",
+  warning: "bg-[#E8B23A]",
+  critical: "bg-[#F87171]",
+};
 
 function AiUnavailable({ reason }: { reason?: string }) {
   return (
@@ -100,17 +117,52 @@ export default function DashboardPage({ params }: { params: { businessId: string
         <ArrowLeft className="size-3.5" /> All businesses
       </Link>
 
-      <header className="mt-4 border-b border-border pb-6">
-        <p className="font-mono text-xs text-muted-foreground">{data.business_id}</p>
-        <h1 className="mt-1 font-heading text-2xl font-semibold text-foreground sm:text-3xl">
-          {data.name}
-        </h1>
+      {/* The "health card" itself: a navy card band naming the business, with a
+          faint concentric-arc watermark echoing the gauge. Fixed navy in both
+          modes -- like a physical card, it doesn't re-skin with the theme. */}
+      <header className="relative mt-4 animate-in overflow-hidden rounded-2xl bg-gradient-to-br from-[#0B1B33] to-[#132C52] px-6 py-6 text-white ring-1 ring-white/10 duration-500 fade-in slide-in-from-bottom-2 fill-mode-both motion-reduce:animate-none sm:px-8">
+        {/* Champagne-gold foil details + a soft teal aurora -- decorative only,
+            kept at low opacity so the card still reads navy-first. */}
+        <div
+          className="pointer-events-none absolute inset-x-0 top-0 h-px"
+          style={{ background: "linear-gradient(90deg, transparent, rgba(212,179,106,0.55) 30%, rgba(212,179,106,0.55) 70%, transparent)" }}
+          aria-hidden
+        />
+        <div
+          className="pointer-events-none absolute -bottom-24 -left-16 h-64 w-64 rounded-full opacity-25 blur-3xl"
+          style={{ background: "radial-gradient(circle, #26A0BC 0%, transparent 70%)" }}
+          aria-hidden
+        />
+        <svg
+          className="pointer-events-none absolute -top-24 -right-14 h-64 w-64 text-[#D4B36A] opacity-[0.14]"
+          viewBox="0 0 200 200"
+          fill="none"
+          stroke="currentColor"
+          aria-hidden
+        >
+          <circle cx="100" cy="100" r="96" strokeWidth="1.5" />
+          <circle cx="100" cy="100" r="70" strokeWidth="1.5" />
+          <circle cx="100" cy="100" r="44" strokeWidth="1.5" />
+        </svg>
+        <div className="relative flex flex-wrap items-end justify-between gap-4">
+          <div className="min-w-0">
+            <p className="font-mono text-xs tracking-widest text-white/50 uppercase">{data.business_id}</p>
+            <h1 className="mt-1.5 font-heading text-2xl font-semibold sm:text-3xl">{data.name}</h1>
+          </div>
+          <span className="inline-flex shrink-0 items-center gap-2 rounded-full bg-white/10 px-3 py-1.5 text-xs font-medium text-white">
+            <span className={`size-2 rounded-full ${BAND_DOT_ON_NAVY[getScoreBand(data.overall_score)]}`} aria-hidden />
+            {scoreBandLabel[getScoreBand(data.overall_score)]} · {Math.round(data.overall_score)}
+          </span>
+        </div>
       </header>
 
-      <div className="mt-6 grid gap-4 lg:grid-cols-5">
+      <div className="mt-6 grid animate-in gap-4 duration-500 fade-in slide-in-from-bottom-2 fill-mode-both delay-100 motion-reduce:animate-none lg:grid-cols-5">
         <Card className="lg:col-span-2">
           <CardHeader>
-            <CardTitle>Overall Health Score</CardTitle>
+            <CardTitle className="flex items-center gap-2.5">
+              <CardTitleIcon icon={Gauge} />
+              Overall Health Score
+            </CardTitle>
           </CardHeader>
           <CardContent className="flex flex-col items-center pt-2">
             <HealthGauge score={data.overall_score} />
@@ -119,7 +171,10 @@ export default function DashboardPage({ params }: { params: { businessId: string
 
         <Card className="lg:col-span-3">
           <CardHeader>
-            <CardTitle>Data Completeness</CardTitle>
+            <CardTitle className="flex items-center gap-2.5">
+              <CardTitleIcon icon={Database} />
+              Data Completeness
+            </CardTitle>
           </CardHeader>
           <CardContent className="flex flex-1 items-center">
             <DataCompletenessPanel completeness={data.data_completeness} />
@@ -127,14 +182,16 @@ export default function DashboardPage({ params }: { params: { businessId: string
         </Card>
       </div>
 
-      <ScenarioSimulator businessId={businessId} score={data} />
-
-      <Tabs defaultValue="scoring" className="mt-6">
+      <Tabs defaultValue="scoring" className="mt-6 animate-in duration-500 fade-in slide-in-from-bottom-2 fill-mode-both delay-200 motion-reduce:animate-none">
         <TabsList>
           <TabsTrigger value="scoring">Score Breakdown</TabsTrigger>
           <TabsTrigger value="insights">
-            <Sparkles className="size-3.5" />
+            <Sparkles className="size-4" />
             AI Insights
+          </TabsTrigger>
+          <TabsTrigger value="simulator">
+            <SlidersHorizontal className="size-4" />
+            Simulator
           </TabsTrigger>
         </TabsList>
 
@@ -142,7 +199,10 @@ export default function DashboardPage({ params }: { params: { businessId: string
           <div className="grid gap-4 lg:grid-cols-2">
             <Card>
               <CardHeader>
-                <CardTitle>Sub-Score Breakdown</CardTitle>
+                <CardTitle className="flex items-center gap-2.5">
+                  <CardTitleIcon icon={Activity} />
+                  Sub-Score Breakdown
+                </CardTitle>
               </CardHeader>
               <CardContent>
                 <SubScoreRadar subScores={data.sub_scores} />
@@ -150,7 +210,10 @@ export default function DashboardPage({ params }: { params: { businessId: string
             </Card>
             <Card>
               <CardHeader>
-                <CardTitle>6-Month Score Trend</CardTitle>
+                <CardTitle className="flex items-center gap-2.5">
+                  <CardTitleIcon icon={TrendingUp} />
+                  6-Month Score Trend
+                </CardTitle>
               </CardHeader>
               <CardContent>
                 <ScoreTrendChart trend={data.monthly_trend} />
@@ -162,8 +225,8 @@ export default function DashboardPage({ params }: { params: { businessId: string
         <TabsContent value="insights" className="mt-4 space-y-4">
           <Card>
             <CardHeader className="flex flex-row items-center justify-between">
-              <CardTitle className="flex items-center gap-2">
-                <Sparkles className="size-4 text-chart-1" />
+              <CardTitle className="flex items-center gap-2.5">
+                <CardTitleIcon icon={Sparkles} />
                 Narrative
                 {insights?.cached && (
                   <Badge variant="outline" className="font-mono text-[10px]">
@@ -198,7 +261,10 @@ export default function DashboardPage({ params }: { params: { businessId: string
 
           <Card>
             <CardHeader>
-              <CardTitle>Strengths, Risks &amp; Anomalies</CardTitle>
+              <CardTitle className="flex items-center gap-2.5">
+                <CardTitleIcon icon={ListChecks} />
+                Strengths, Risks &amp; Anomalies
+              </CardTitle>
             </CardHeader>
             <CardContent>
               {analysis.loading ? (
@@ -272,7 +338,10 @@ export default function DashboardPage({ params }: { params: { businessId: string
 
           <Card>
             <CardHeader>
-              <CardTitle>Recommendations</CardTitle>
+              <CardTitle className="flex items-center gap-2.5">
+                <CardTitleIcon icon={Lightbulb} />
+                Recommendations
+              </CardTitle>
             </CardHeader>
             <CardContent>
               {analysis.loading ? (
@@ -300,6 +369,10 @@ export default function DashboardPage({ params }: { params: { businessId: string
               )}
             </CardContent>
           </Card>
+        </TabsContent>
+
+        <TabsContent value="simulator" className="mt-4">
+          <ScenarioSimulator businessId={businessId} score={data} />
         </TabsContent>
       </Tabs>
     </div>
